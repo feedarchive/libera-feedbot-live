@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Enable WebRTC simulcast to improve video performance for applications built with the Amazon Chime SDK,https://aws.amazon.com/about-aws/whats-new/2020/06/enable-webrtc-simulcast-to-improve-video-performance-for-applications-built-with-amazon-chime-sdk/,https://j.mp/3eeGWsF
+AWS:WhatsNew,Amazon SES can now send notifications when the delivery of an email is delayed,https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-ses-can-now-send-notifications-when-the-delivery-of-an-email-is-delayed/,https://j.mp/3eh0UD5
+AWS:WhatsNew,AWS App Mesh controller for Kubernetes is now generally available,https://aws.amazon.com/about-aws/whats-new/2020/06/aws-app-mesh-controller-for-kubernetes-is-now-generally-available/,https://j.mp/2YPv2za
