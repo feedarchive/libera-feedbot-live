@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:VA,"As of 2020-06-18, `Virginia in US` has 54_652 active COVID-19 cases (↑1% by +460) (doubling in 82.0d) and 1_586 deaths (↑0% by 3) (doubling in 366.1d), with a death rate of 2.8% (↓0.0%)",https://covid-api.com/api/reports?date=2020-06-18&iso=USA&region_province=Virginia,https://j.mp/3fC0hUV
