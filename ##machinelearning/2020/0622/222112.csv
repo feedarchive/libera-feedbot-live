@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+Nvidia:DevBlog,Optimizing the Deep Learning Recommendation Model on NVIDIA GPUs,https://live-parallel-forall.pantheonsite.io/optimizing-dlrm-on-nvidia-gpus/,https://j.mp/2zUYICx
+Nvidia:DevBlog,Announcing CUDA on Windows Subsystem for Linux 2,https://live-parallel-forall.pantheonsite.io/announcing-cuda-on-windows-subsystem-for-linux-2/,https://j.mp/2zVzXWT
+Nvidia:DevBlog,Training and Fine-tuning BERT Using NVIDIA NGC,https://live-parallel-forall.pantheonsite.io/training-and-fine-tuning-bert-using-nvidia-ngc/,https://j.mp/2YpB8aw
+Nvidia:DevBlog,Improving Computer Vision with NVIDIA A100 GPUs,https://live-parallel-forall.pantheonsite.io/improving-computer-vision-with-nvidia-a100-gpus/,https://j.mp/31aFR1p
+Nvidia:DevBlog,Loading Data Fast with DALI and the New Hardware JPEG Decoder in NVIDIA A100 GPUs,https://live-parallel-forall.pantheonsite.io/loading-data-fast-with-dali-and-new-jpeg-decoder-in-a100/,https://j.mp/3etxqlQ
+Nvidia:DevBlog,Leveraging the Hardware JPEG Decoder and NVIDIA nvJPEG Library on NVIDIA A100 GPUs,https://live-parallel-forall.pantheonsite.io/leveraging-hardware-jpeg-decoder-and-nvjpeg-on-a100/,https://j.mp/37WlDd5
