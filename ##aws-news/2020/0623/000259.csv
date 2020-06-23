@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon SQS now provides results for the “List Queues"" and ""List Dead Letter Source Queues"" requests in multiple pages",https://aws.amazon.com/about-aws/whats-new/2020/06/amazon-sqs-provides-results-for-list-queues-list-dead-letter-queues-requests-multiple-pages/,https://j.mp/315h0Mn
+AWS:WhatsNew,ELB lifecycle events now available with Amazon ECS services registered with multiple target groups,https://aws.amazon.com/about-aws/whats-new/2020/06/elb-lifecycle-events-now-available-with-amazon-ecs-services-registered-with-multiple-target-groups/,https://j.mp/2YXUCSG
+AWS:WhatsNew,PostgreSQL 13 Beta 1 Now Available in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2020/06/postgresql-13-beta-1-now-available-in-amazon-rds-database-preview-environment/,https://j.mp/2YToxva
