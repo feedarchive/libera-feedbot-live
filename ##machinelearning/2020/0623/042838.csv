@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+Nvidia:DevBlog,Simplifying HPC Workflows with NVIDIA NGC Container Environment Modules,https://developer.nvidia.com/blog/simplifying-hpc-workflows-with-ngc-container-environment-modules/,https://j.mp/2Nkm738
+Nvidia:DevBlog,Optimizing the Deep Learning Recommendation Model on NVIDIA GPUs,https://developer.nvidia.com/blog/optimizing-dlrm-on-nvidia-gpus/,https://j.mp/37QeJpV
+Nvidia:DevBlog,Announcing CUDA on Windows Subsystem for Linux 2,https://developer.nvidia.com/blog/announcing-cuda-on-windows-subsystem-for-linux-2/,https://j.mp/2YsbIsS
+Nvidia:DevBlog,Training and Fine-tuning BERT Using NVIDIA NGC,https://developer.nvidia.com/blog/training-and-fine-tuning-bert-using-nvidia-ngc/,https://j.mp/37WXP8X
+Nvidia:DevBlog,Improving Computer Vision with NVIDIA A100 GPUs,https://developer.nvidia.com/blog/improving-computer-vision-with-nvidia-a100-gpus/,https://j.mp/2Ynd7Rf
+Nvidia:DevBlog,Loading Data Fast with DALI and the New Hardware JPEG Decoder in NVIDIA A100 GPUs,https://developer.nvidia.com/blog/loading-data-fast-with-dali-and-new-jpeg-decoder-in-a100/,https://j.mp/3fP7wsM
+Nvidia:DevBlog,Leveraging the Hardware JPEG Decoder and NVIDIA nvJPEG Library on NVIDIA A100 GPUs,https://developer.nvidia.com/blog/leveraging-hardware-jpeg-decoder-and-nvjpeg-on-a100/,https://j.mp/3hMCqE9
