@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CT,"As of 2020-06-22, `Connecticut in US` has 41_519 active COVID-19 cases (↑0% by +24) (doubling in 1198.8d) and 4_263 deaths (↑0% by 3) (doubling in 984.6d), with a death rate of 9.3% (↑0.0%)",https://covid-api.com/api/reports?date=2020-06-22&iso=USA&region_province=Connecticut,https://j.mp/3fRosyK
