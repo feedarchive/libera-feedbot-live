@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.6.0-rc1: Enabling concat fast path for channels last inputs (#39448),https://github.com/pytorch/pytorch/releases/tag/v1.6.0-rc1,
