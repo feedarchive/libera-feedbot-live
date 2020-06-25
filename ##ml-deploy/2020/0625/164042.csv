@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GitLab:Blog,GitLab will extend package signing key expiration by one year,https://about.gitlab.com/blog/2020/06/25/package-key-extension/,https://j.mp/2NtUK71
+GitLab:Blog,7 things I’ve learnt while shadowing an SRE,https://about.gitlab.com/blog/2020/06/25/7-things-ive-learnt-while-shadowing-sre/,https://j.mp/37ZnDBi
+GitLab:Blog,How secure is GitLab?,https://about.gitlab.com/blog/2020/06/24/soc2-compliance/,https://j.mp/2Nw69Da
+GitLab:Blog,How we scaled async workload processing at GitLab.com using Sidekiq,https://about.gitlab.com/blog/2020/06/24/scaling-our-use-of-sidekiq/,https://j.mp/2CBp8Kl
+GitLab:Blog,GitLab Patch Release: 13.1.1,https://about.gitlab.com/releases/2020/06/24/gitlab-13-1-1-released/,https://j.mp/3eA8UiK
