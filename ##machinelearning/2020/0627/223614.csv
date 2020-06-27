@@ -1,0 +1,46 @@
+feed,title,long_url,short_url
+Google:Research,BLEURT: Learning Robust Metrics for Text Generation,https://research.google/pubs/pub49286,https://j.mp/2VnO271
+Google:Research,Transfer of Machine Learning Fairness across Domains,https://research.google/pubs/pub49285,https://j.mp/3dzFccs
+Google:Research,Practical Compositional Fairness: Understanding Fairness in Multi-Task ML Systems,https://research.google/pubs/pub49284,https://j.mp/3868fmV
+Google:Research,Toward a better trade-off between performance and fairness with kernel-based distribution matching,https://research.google/pubs/pub49283,https://j.mp/385U8hv
+Google:Research,A Brief Guide to Running ML Systems in Production,https://research.google/pubs/pub49282,https://j.mp/2YFd4QW
+Google:Research,Generalization and Regularization in DQN,https://research.google/pubs/pub49276,https://j.mp/2YFljg4
+Google:Research,Infinite attention: NNGP and NTK for deep attention networks,https://research.google/pubs/pub49270,https://j.mp/3g457dT
+Google:Research,Encoding Musical Style with Transformer Autoencoders,https://research.google/pubs/pub49267,https://j.mp/3eH3PFl
+Google:Research,DDSP: Differentiable Digital Signal Processing,https://research.google/pubs/pub49266,https://j.mp/38eOFFa
+Google:Research,Improving Universal Sound Separation Using Sound Classification,https://research.google/pubs/pub49260,https://j.mp/2YE1FRv
+Google:Research,Understanding Unintended Memorization in Federated Learning,https://research.google/pubs/pub49258,https://j.mp/3fYHLGy
+Google:Research,Characterizing Private Clipped Gradient Descent on Convex Generalized Linear Problems,https://research.google/pubs/pub49257,https://j.mp/2ND8Cf8
+Google:Research,Leveraging Pre-trained Checkpoints for Sequence Generation Tasks,https://research.google/pubs/pub49256,https://j.mp/2YDtmtr
+Google:Research,Lighthouse: Predicting Lighting Volumes for Spatially-Coherent Illumination,https://research.google/pubs/pub49254,https://j.mp/2BhV3z9
+Google:Research,Federated learning with only positive labels,https://research.google/pubs/pub49253,https://j.mp/3dJe2zL
+Google:Research,Pre-training Tasks for Embedding-based Large-scale Retrieval,https://research.google/pubs/pub49252,https://j.mp/2CEHBpp
+Google:Research,Optimizing Black-box Metrics with Adaptive Surrogates,https://research.google/pubs/pub49250,https://j.mp/385UfJX
+Google:Research,Single-View View Synthesis with Multiplane Images,https://research.google/pubs/pub49249,https://j.mp/2BFXX0B
+Google:Research,Sky Optimization: Semantically aware image processing in low-light photography,https://research.google/pubs/pub49248,https://j.mp/3eIDqr0
+Google:Research,What Matters in Unsupervised Optical Flow,https://research.google/pubs/pub49244,https://j.mp/2ND8BI6
+Google:Research,Debiased Sinkhorn barycenters,https://research.google/pubs/pub49241,https://j.mp/2ZjInjz
+Google:Research,Empirical Evaluation of Pretraining Strategies for Supervised Entity Linking,https://research.google/pubs/pub49240,https://j.mp/387wTTY
+Google:Research,Deontological Ethics By Monotonicity Shape Constraints,https://research.google/pubs/pub49239,https://j.mp/3eI9M51
+Google:Research,Stochastic Flows and Geometric Optimization on the Orthogonal Group,https://research.google/pubs/pub49238,https://j.mp/3dJe1vH
+Google:Research,Learning to Score Behaviors for Guided Policy Optimization,https://research.google/pubs/pub49237,https://j.mp/3iaGuxV
+Google:Research,Ready Policy One: World Building Through Active Learning,https://research.google/pubs/pub49234,https://j.mp/2BMRyAE
+Google:Research,Variance Reduction for Evolution Strategies via Structured Control Variates,https://research.google/pubs/pub49229,https://j.mp/2ZfyDGL
+Google:Research,Practical Nonisotropic Monte Carlo Sampling in High Dimensions via Determinantal Point Processes,https://research.google/pubs/pub49228,https://j.mp/31oRhPq
+Google:Research,The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction,https://research.google/pubs/pub49224,https://j.mp/2YFd5nY
+Google:Research,Federated learning of out-of-vocabulary words,https://research.google/pubs/pub49223,https://j.mp/3eDJyAA
+Google:Research,Federated Evaluation of On-device Personalization,https://research.google/pubs/pub49222,https://j.mp/2B7n50v
+Google:Research,Human-centric Metric for Accelerating Pathology Reports Annotation,https://research.google/pubs/pub49220,https://j.mp/3dJe22J
+Google:Research,Multimodal Multitask Representation Learning for Pathology Biobank Metadata Prediction,https://research.google/pubs/pub49218,https://j.mp/2AamIS9
+Google:Research,Synthetic silviculture: Multi-Scale Modeling of Plant Ecosystems,https://research.google/pubs/pub49196,https://j.mp/384UwNa
+Google:Research,Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone,https://research.google/pubs/pub49194,https://j.mp/385puoe
+Google:Research,Zero-shot Entity Linking by Reading Entity Descriptions,https://research.google/pubs/pub49192,https://j.mp/38bmyGW
+Google:Research,Average-case Acceleration Through Spectral Density Estimation,https://research.google/pubs/pub49190,https://j.mp/2ZdgHNe
+Google:Research,Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach,https://research.google/pubs/pub49182,https://j.mp/2CO0syx
+Google:Research,"Artificial intelligence, machine learning and deep learning for eye care specialists",https://research.google/pubs/pub49181,https://j.mp/3dCoTeP
+Google:Research,A Gold Standard Dependency Treebank for Turkish,https://research.google/pubs/pub49178,https://j.mp/3g8p4jZ
+Google:Research,Active learning for skewed data set,https://research.google/pubs/pub49176,https://j.mp/2BHdRrA
+Google:Research,Autopilot: Workload Autoscaling at Google Scale,https://research.google/pubs/pub49174,https://j.mp/3eLKT8M
+Google:Research,Named Entity Recognition as Dependency Parsing,https://research.google/pubs/pub49152,https://j.mp/2YFd5V0
+Google:Research,Processing South Asian languages written in the Latin script: the Dakshina dataset,https://research.google/pubs/pub49147,https://j.mp/3eEDDLP
+Google:Research,Training Neural Networks to Produce Compatible Features,https://research.google/pubs/pub49120,https://j.mp/3iaqQTi
