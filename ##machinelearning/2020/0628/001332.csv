@@ -1,0 +1,193 @@
+feed,title,long_url,short_url
+FFL,How to Explain HuggingFace BERT for Question Answering NLP Models with TF 2.0,https://blog.fastforwardlabs.com/2020/06/22/how-to-explain-huggingface-bert-for-question-answering-nlp-models-with-tf-2.0.html,https://j.mp/38e9Mr1
+FFL,"Evaluating QA: Metrics, Predictions, and the Null Response",https://qa.fastforwardlabs.com/no%20answer/null%20threshold/bert/distilbert/exact%20match/f1/robust%20predictions/2020/06/09/Evaluating_BERT_on_SQuAD.html,https://j.mp/31pgysr
+FFL,Building a QA System with BERT on Wikipedia,https://qa.fastforwardlabs.com/pytorch/hugging%20face/wikipedia/bert/transformers/2020/05/19/Getting_Started_with_QA.html,https://j.mp/2BMZcek
+FFL,Intro to Automated Question Answering,https://qa.fastforwardlabs.com/methods/background/2020/04/28/Intro-to-QA.html,https://j.mp/2NDgL3c
+FFL,Bias in Knowledge Graphs - Part 1,https://blog.fastforwardlabs.com/2020/04/01/bias-in-knowledge-graphs-part-1.html,https://j.mp/2CFZcNI
+FFL,Enterprise Grade ML,https://blog.fastforwardlabs.com/2020/04/01/enterprise-grade-ml.html,https://j.mp/3i8iknM
+FFL,"Privacy, data governance, and machine learning: the regulatory perspective",https://blog.fastforwardlabs.com/2020/02/27/privacy-data-governance-and-machine-learning-the-regulatory-perspective.html,https://j.mp/31lTBGC
+FFL,Building Blip: behind the scenes of our anomaly detection prototype,https://blog.fastforwardlabs.com/2020/02/20/building-blip-behind-the-scenes-of-our-anomaly-detection-prototype.html,https://j.mp/2A8FzNp
+FFL,Deep Learning for Anomaly Detection,https://blog.fastforwardlabs.com/2020/02/05/deep-learning-for-anomaly-detection.html,https://j.mp/2BMPvfU
+FFL,A Symbiotic Relationship: Knowledge Graphs & Machine Learning,https://blog.fastforwardlabs.com/2020/01/29/a-symbiotic-relationship-knowledge-graphs-machine-learning.html,https://j.mp/2AaWizR
+FFL,Squote - semantic quote search,https://blog.fastforwardlabs.com/2019/12/24/squote-semantic-quote-search.html,https://j.mp/3g3YyrN
+FFL,Privacy-Preserving Machine Learning: A Primer,https://blog.fastforwardlabs.com/2019/11/21/privacy-preserving-machine-learning-a-primer.html,https://j.mp/3ibxIzK
+FFL,Exciting Applications of Graph Neural Networks,https://blog.fastforwardlabs.com/2019/10/30/exciting-applications-of-graph-neural-networks.html,https://j.mp/2B7v51x
+FFL,Fuzzy People,https://blog.fastforwardlabs.com/2019/10/30/fuzzy-people.html,https://j.mp/388tJj9
+FFL,Automating Weak Supervision,https://blog.fastforwardlabs.com/2019/09/27/automating-weak-supervision.html,https://j.mp/2ZdePUw
+FFL,Other Orders: Re-contextualizing the Familiar,https://blog.fastforwardlabs.com/2019/09/27/other-orders-re-contextualizing-the-familiar.html,https://j.mp/2Vt3ij0
+FFL,Theories of (machine) learning should shape horizon scanning - not just application,https://blog.fastforwardlabs.com/2019/09/27/theories-of-machine-learning-should-shape-horizon-scanning-not-just-application.html,https://j.mp/3ibxI2I
+FFL,Transfer Learning - from the ground up,https://blog.fastforwardlabs.com/2019/09/05/transfer-learning-from-the-ground-up.html,https://j.mp/2BPTatp
+FFL,Is machine learning research moving in the right direction,https://blog.fastforwardlabs.com/2019/08/28/is-machine-learning-research-moving-in-the-right-direction.html,https://j.mp/38e9RLl
+FFL,NLP and Transfer Learning,https://blog.fastforwardlabs.com/2019/08/28/nlp-and-transfer-learning.html,https://j.mp/2YE9IxH
+FFL,Two approaches for data validation in ML production,https://blog.fastforwardlabs.com/2019/08/28/two-approaches-for-data-validation-in-ml-production.html,https://j.mp/2YC9V4r
+FFL,New research: Deep Learning for Image Analysis,https://blog.fastforwardlabs.com/2019/07/22/new-research-deep-learning-for-image-analysis.html,https://j.mp/387ncVB
+FFL,New research: transfer learning for natural language processing,https://blog.fastforwardlabs.com/2019/07/17/new-research-transfer-learning-for-natural-language-processing.html,https://j.mp/38a2VyE
+FFL,Taking Snorkel for a spin,https://blog.fastforwardlabs.com/2019/07/08/taking-snorkel-for-a-spin.html,https://j.mp/2ZeQ9uR
+FFL,Seeing is not necessarily believing,https://blog.fastforwardlabs.com/2019/06/26/seeing-is-not-necessarily-believing.html,https://j.mp/2BHlQVA
+FFL,The trouble with unexplainable algorithms,https://blog.fastforwardlabs.com/2019/06/26/the-trouble-with-unexplainable-algorithms.html,https://j.mp/3iaze5e
+FFL,Open-ended Text Generation,https://blog.fastforwardlabs.com/2019/05/29/open-ended-text-generation.html,https://j.mp/2NxPTSg
+FFL,Rise of the Low-Code ML toolboxes,https://blog.fastforwardlabs.com/2019/05/29/rise-of-the-low-code-ml-toolboxes.html,https://j.mp/3g8x5W7
+FFL,Meta-Learners - learning how to learn,https://blog.fastforwardlabs.com/2019/05/22/meta-learners-learning-how-to-learn.html,https://j.mp/385SMmK
+FFL,Teaching machines to recognize faces: a tale of two outcomes,https://blog.fastforwardlabs.com/2019/04/29/teaching-machines-to-recognize-faces-a-tale-of-two-outcomes.html,https://j.mp/2VqI05w
+FFL,Visualizing Active Learning,https://blog.fastforwardlabs.com/2019/04/29/visualizing-active-learning.html,https://j.mp/2ZgLCYP
+FFL,An Invitation to Active Learning,https://blog.fastforwardlabs.com/2019/04/03/an-invitation-to-active-learning.html,https://j.mp/2YBT5m9
+FFL,A Guide to Learning with Limited Labeled Data,https://blog.fastforwardlabs.com/2019/04/02/a-guide-to-learning-with-limited-labeled-data.html,https://j.mp/2YE0h15
+FFL,Three exciting developments at TensorFlow Dev Summit 2019,https://blog.fastforwardlabs.com/2019/03/29/three-exciting-developments-at-tensorflow-dev-summit-2019.html,https://j.mp/31mbEfR
+FFL,Learning with Limited Labeled Data,https://blog.fastforwardlabs.com/2019/03/20/learning-with-limited-labeled-data.html,https://j.mp/385x8iq
+FFL,Causality in machine learning,https://blog.fastforwardlabs.com/2019/02/28/causality-in-machine-learning.html,https://j.mp/3g5Rta6
+FFL,Making an interactive UMAP visualization of the MNIST data set,https://blog.fastforwardlabs.com/2019/01/29/making-an-interactive-umap-visualization-of-the-mnist-data-set.html,https://j.mp/38a31q0
+FFL,The business case for federated learning,https://blog.fastforwardlabs.com/2018/12/28/the-business-case-for-federated-learning.html,https://j.mp/3eIhqwf
+FFL,Deep Learning for Media Content,https://blog.fastforwardlabs.com/2018/12/18/deep-learning-for-media-content.html,https://j.mp/3g6dd60
+FFL,Fine-tuning for Natural Language Processing,https://blog.fastforwardlabs.com/2018/12/18/fine-tuning-for-natural-language-processing.html,https://j.mp/2Zit2j0
+FFL,Highlights of 2018,https://blog.fastforwardlabs.com/2018/12/18/highlights-of-2018.html,https://j.mp/3eFnhCz
+FFL,Designing Turbofan Tycoon,https://blog.fastforwardlabs.com/2018/12/06/designing-turbofan-tycoon.html,https://j.mp/2YIMFSx
+FFL,Federated learning: distributed machine learning with data locality and privacy,https://blog.fastforwardlabs.com/2018/11/14/federated-learning-distributed-machine-learning-with-data-locality-and-privacy.html,https://j.mp/2Ae9lk2
+FFL,Coming Soon: Federated Learning,https://blog.fastforwardlabs.com/2018/10/29/coming-soon-federated-learning.html,https://j.mp/3dBpqOp
+FFL,Learning to learn in a model-agnostic way,https://blog.fastforwardlabs.com/2018/10/29/learning-to-learn-in-a-model-agnostic-way.html,https://j.mp/2A8FAkr
+FFL,The Decentralized Web,https://blog.fastforwardlabs.com/2018/10/29/the-decentralized-web.html,https://j.mp/3g5BRnb
+FFL,The quest continues: a look at a new initiative to explore human and machine intelligence,https://blog.fastforwardlabs.com/2018/10/29/the-quest-continues-a-look-at-a-new-initiative-to-explore-human-and-machine-intelligence.html,https://j.mp/389ndss
+FFL,Apache Spark gets a machine learning makeover,https://blog.fastforwardlabs.com/2018/09/28/apache-spark-gets-a-machine-learning-makeover.html,https://j.mp/3dyHvws
+FFL,Realistic Video Generation,https://blog.fastforwardlabs.com/2018/09/28/realistic-video-generation.html,https://j.mp/3g1TzIf
+FFL,Snorkel: Rapid Training Data Creation with Weak Supervision,https://blog.fastforwardlabs.com/2018/09/28/snorkel-rapid-training-data-creation-with-weak-supervision.html,https://j.mp/2BLeeBz
+FFL,The True Competitive Advantage in ML,https://blog.fastforwardlabs.com/2018/09/28/the-true-competitive-advantage-in-ml.html,https://j.mp/2Vk9mdx
+FFL,Deep learning made easier with transfer learning,https://blog.fastforwardlabs.com/2018/09/17/deep-learning-made-easier-with-transfer-learning.html,https://j.mp/3ibxJ6M
+FFL,"Automated Machine Learning: Hype now, reality later?",https://blog.fastforwardlabs.com/2018/08/29/automated-machine-learning-hype-now-reality-later.html,https://j.mp/2NxVyrB
+FFL,Hyperparameter Tuning and Meta-Interpretability: Track All Your Experiments!,https://blog.fastforwardlabs.com/2018/08/29/hyperparameter-tuning-and-meta-interpretability-track-all-your-experiments.html,https://j.mp/2Vk9ny7
+FFL,Breakthroughs in transfer learning for natural language processing,https://blog.fastforwardlabs.com/2018/08/29/breakthroughs-in-transfer-learning-for-natural-language-processing.html,https://j.mp/3dErQeY
+FFL,Understanding a generative space,https://blog.fastforwardlabs.com/2018/08/29/understanding-a-generative-space.html,https://j.mp/2A7NbQe
+FFL,Multi-Task Sci-Fi: Havurtat,https://scifi.fastforwardlabs.com/ff08/havurtat,https://j.mp/2NxPTle
+FFL,Neural reinterpretations of movie trailers,https://blog.fastforwardlabs.com/2018/07/31/neural-reinterpretations-of-movie-trailers.html,https://j.mp/2BHFgtA
+FFL,New Dynamics for Topic Models,https://blog.fastforwardlabs.com/2018/07/31/new-dynamics-for-topic-models.html,https://j.mp/31phNbs
+FFL,Progress in machine learning interpretability,https://blog.fastforwardlabs.com/2018/07/31/progress-in-machine-learning-interpretability.html,https://j.mp/3g5wa8E
+FFL,New Research on Multi-Task Learning,https://blog.fastforwardlabs.com/2018/07/24/new-research-on-multi-task-learning.html,https://j.mp/3eAxhgl
+FFL,Deep Learning Vendor Update: Hyperparameter Tuning Systems,https://blog.fastforwardlabs.com/2018/06/29/deep-learning-vendor-update-hyperparameter-tuning-systems.html,https://j.mp/3g4cwtH
+FFL,Sequence labeling with semi-supervised multi-task learning,https://blog.fastforwardlabs.com/2018/06/29/sequence-labeling-with-semi-supervised-multi-task-learning.html,https://j.mp/3eGG94b
+FFL,Supercharging Classification - The Value of Multi-task Learning,https://blog.fastforwardlabs.com/2018/06/26/supercharging-classification-the-value-of-multi-task-learning.html,https://j.mp/2Vpmcr3
+FFL,Convolve all the things,https://blog.fastforwardlabs.com/2018/05/31/convolve-all-the-things.html,https://j.mp/388RYxw
+FFL,Rules to Learn By,https://blog.fastforwardlabs.com/2018/05/31/rules-to-learn-by.html,https://j.mp/2BjVbyj
+FFL,Progress in text summarization,https://blog.fastforwardlabs.com/2018/05/02/progress-in-text-summarization.html,https://j.mp/3i6BSch
+FFL,JavaScript eats the world: deep learning and notebooks edition,https://blog.fastforwardlabs.com/2018/04/25/javascript-eats-the-world-deep-learning-and-notebooks-edition.html,https://j.mp/2BjwtOp
+FFL,Simple Architectures Outperform Complex Ones in Language Modeling,https://blog.fastforwardlabs.com/2018/04/25/simple-architectures-outperform-complex-ones-in-language-modeling.html,https://j.mp/2YEgzqP
+FFL,Introducing SciFi,https://blog.fastforwardlabs.com/2018/04/18/introducing-scifi.html,https://j.mp/31oxdwg
+FFL,PyTorch for Recommenders 101,https://blog.fastforwardlabs.com/2018/04/10/pytorch-for-recommenders-101.html,https://j.mp/2YFszbO
+FFL,New creative possibilities with machine learning,https://blog.fastforwardlabs.com/2018/03/28/new-creative-possibilities-with-machine-learning.html,https://j.mp/2YETZOY
+FFL,Unemployment vs. Augmentation,https://blog.fastforwardlabs.com/2018/03/28/unemployment-vs.-augmentation.html,https://j.mp/3eIhr3h
+FFL,Using three.js for 2D data visualization,https://beta.observablehq.com/@grantcuster/using-three-js-for-2d-data-visualization,https://j.mp/2A8FARt
+FFL,Comparing human and agent performance: DeepMind releases PsychLab,https://blog.fastforwardlabs.com/2018/02/28/comparing-human-and-agent-performance-deepmind-releases-psychlab.html,https://j.mp/31mFy3G
+FFL,Machine Learning In The Browser,https://blog.fastforwardlabs.com/2018/02/28/machine-learning-in-the-browser.html,https://j.mp/3ibxJDO
+FFL,Multi-Task Learning,https://blog.fastforwardlabs.com/2018/02/28/multi-task-learning.html,https://j.mp/2VpmbmZ
+FFL,Probabilistic Cookies!,https://blog.fastforwardlabs.com/2018/02/14/probabilistic-cookies.html,https://j.mp/2Zf4PKy
+FFL,Google Maps' Competitive Moat - Why Better Data Matters,https://blog.fastforwardlabs.com/2018/01/26/google-maps-competitive-moat-why-better-data-matters.html,https://j.mp/2CNwLxA
+FFL,Serverless data science,https://blog.fastforwardlabs.com/2018/01/26/serverless-data-science.html,https://j.mp/3ibxKaQ
+FFL,Exploring Recommendation Systems,https://blog.fastforwardlabs.com/2018/01/22/exploring-recommendation-systems.html,https://j.mp/31ppFJQ
+FFL,Highlights of 2017,https://blog.fastforwardlabs.com/2017/12/20/highlights-of-2017.html,https://j.mp/3fYPBQu
+FFL,The promise of Automated Machine Learning (AutoML),https://blog.fastforwardlabs.com/2017/11/30/the-promise-of-automated-machine-learning-automl.html,https://j.mp/2YFkELo
+FFL,Algorithmic Cookery & Happy Thanksgiving,https://blog.fastforwardlabs.com/2017/11/22/algorithmic-cookery-happy-thanksgiving.html,https://j.mp/3i4Iic5
+FFL,Interpretability Sci-Fi: The Definition of Success,https://blog.fastforwardlabs.com/2017/11/02/interpretability-sci-fi-the-definition-of-success.html,https://j.mp/2YF3UDX
+FFL,"AlphaGo Zero's win, what it means",https://blog.fastforwardlabs.com/2017/10/26/alphago-zeros-win-what-it-means.html,https://j.mp/3g4czFT
+FFL,Bias Mitigation Using the Copyright Doctrine of Fair Use,https://blog.fastforwardlabs.com/2017/10/26/bias-mitigation-using-the-copyright-doctrine-of-fair-use.html,https://j.mp/3g4nPlB
+FFL,Neuroscience-inspired AI,https://blog.fastforwardlabs.com/2017/10/26/neuroscience-inspired-ai.html,https://j.mp/387ZLeU
+FFL,First Look: Using Three.js for 2D Data Visualization,https://blog.fastforwardlabs.com/2017/10/04/first-look-using-three.js-for-2d-data-visualization.html,https://j.mp/3dGTQPh
+FFL,Probabilistic programming: an annotated bibliography,https://blog.fastforwardlabs.com/2017/10/02/probabilistic-programming-an-annotated-bibliography.html,https://j.mp/2NxPPSw
+FFL,Futurism and Artificial Intelligence,https://blog.fastforwardlabs.com/2017/09/29/futurism-and-artificial-intelligence.html,https://j.mp/3eIhrAj
+FFL,The Danger and Promise of Adversarial Samples,https://blog.fastforwardlabs.com/2017/09/29/the-danger-and-promise-of-adversarial-samples.html,https://j.mp/2BPTgkL
+FFL,The Product Possibilities of Interpretability,https://blog.fastforwardlabs.com/2017/09/26/the-product-possibilities-of-interpretability.html,https://j.mp/3dIfO4e
+FFL,Interpretability in conversation with Patrick Hall and Sameer Singh,https://blog.fastforwardlabs.com/2017/09/11/interpretability-in-conversation-with-patrick-hall-and-sameer-singh.html,https://j.mp/3dJlStb
+FFL,To the Future,https://blog.fastforwardlabs.com/2017/09/07/to-the-future....html,https://j.mp/31mFyAI
+FFL,Why your relationship is likely to last (or not): using Local Interpretable Model-Agnostic Explanations (LIME),https://blog.fastforwardlabs.com/2017/09/01/why-your-relationship-is-likely-to-last-or-not-using-local-interpretable-model-agnostic-explanations-lime.html,https://j.mp/3g2BxFI
+FFL,Crowdwork for Machine Learning: An Autoethnography,https://blog.fastforwardlabs.com/2017/09/01/crowdwork-for-machine-learning-an-autoethnography.html,https://j.mp/2AdsX7S
+FFL,Encartopedia,https://blog.fastforwardlabs.com/2017/08/08/encartopedia.html,https://j.mp/3i8gdAy
+FFL,The Business Case for Machine Learning Interpretability,https://blog.fastforwardlabs.com/2017/08/07/the-business-case-for-machine-learning-interpretability.html,https://j.mp/3dCFMX2
+FFL,New Research on Interpretability,https://blog.fastforwardlabs.com/2017/08/02/new-research-on-interpretability.html,https://j.mp/2NxPUWk
+FFL,Probabilistic programming from scratch,https://blog.fastforwardlabs.com/2017/07/05/probabilistic-programming-from-scratch.html,https://j.mp/2BHFb9g
+FFL,F⁠ingerprinting documents​ with steganography​,https://blog.fastforwardlabs.com/2017/06/25/fingerprinting-documents-with-steganography.html,https://j.mp/3861OjP
+FFL,Probabilistic Programmming Sci-Fi: BayesHead 5000,https://blog.fastforwardlabs.com/2017/06/06/probabilistic-programmming-sci-fi-bayeshead-5000.html,https://j.mp/3g89mW6
+FFL,Slack Maestro: Helping Users Stay on Topic,https://blog.fastforwardlabs.com/2017/05/30/slack-maestro-helping-users-stay-on-topic.html,https://j.mp/3g2xJ7p
+FFL,Learning from Real-World Models: The Mississippi Basin Model and Machine Learning,https://blog.fastforwardlabs.com/2017/05/26/learning-from-real-world-models-the-mississippi-basin-model-and-machine-learning.html,https://j.mp/3g9d7u3
+FFL,A Quick Look at the Reply-to-Retweet Ratio,https://blog.fastforwardlabs.com/2017/05/15/a-quick-look-at-the-reply-to-retweet-ratio.html,https://j.mp/3iiZNFE
+FFL,Eli Bressert on Data-Driven Processes at Netflix,https://blog.fastforwardlabs.com/2017/04/28/eli-bressert-on-data-driven-processes-at-netflix.html,https://j.mp/2ZjQfl7
+FFL,Visualizing the Taste of a Community of Cinephiles Using t-SNE,http://fastforwardlabs.github.io/cinephile_tsne/,https://j.mp/2YC9Q0D
+FFL,Free eBook: Development Workflows for Data Scientists,https://blog.fastforwardlabs.com/2017/03/31/free-ebook-development-workflows-for-data-scientists.html,https://j.mp/2VoYzyJ
+FFL,Five Distractions in Thinking about AI,https://blog.fastforwardlabs.com/2017/03/25/five-distractions-in-thinking-about-ai.html,https://j.mp/387MVgF
+FFL,Taking Prophet for a Spin,https://blog.fastforwardlabs.com/2017/03/22/taking-prophet-for-a-spin.html,https://j.mp/3i7kiow
+FFL,Predicting NYC Real Estate Prices with Probabilistic Programming,https://blog.fastforwardlabs.com/2017/03/15/predicting-nyc-real-estate-prices-with-probabilistic-programming.html,https://j.mp/3g8x8Bh
+FFL,Practical Deep Learning,https://blog.fastforwardlabs.com/2017/03/13/practical-deep-learning.html,https://j.mp/2Zj0gi6
+FFL,"Trees, Layers, and Speed: Talking Optimization with Patrick Hayes",https://blog.fastforwardlabs.com/2017/03/10/trees-layers-and-speed-talking-optimization-with-patrick-hayes.html,https://j.mp/3dEbgfs
+FFL,FairML: Auditing Black-Box Predictive Models,https://blog.fastforwardlabs.com/2017/03/09/fairml-auditing-black-box-predictive-models.html,https://j.mp/2CO22As
+FFL,Mobile Behavioural Authentication,https://blog.fastforwardlabs.com/2017/02/27/mobile-behavioural-authentication.html,https://j.mp/3dGyi5k
+FFL,Online Talk: Introduction to Probabilistic Programming,https://blog.fastforwardlabs.com/2017/02/09/online-talk-introduction-to-probabilistic-programming.html,https://j.mp/3eIhxb9
+FFL,The Algorithms Behind Probabilistic Programming,https://blog.fastforwardlabs.com/2017/01/30/the-algorithms-behind-probabilistic-programming.html,https://j.mp/31mFz7K
+FFL,Privacy and Encryption Above the Data: Interview with Dave Archer,https://blog.fastforwardlabs.com/2017/01/25/privacy-and-encryption-above-the-data-interview-with-dave-archer.html,https://j.mp/3g9uLhz
+FFL,New Research on Probabilistic Programming,https://blog.fastforwardlabs.com/2017/01/18/new-research-on-probabilistic-programming.html,https://j.mp/2VqBjAh
+FFL,Thomas Wiecki on Probabilistic Programming with PyMC3,https://blog.fastforwardlabs.com/2017/01/11/thomas-wiecki-on-probabilistic-programming-with-pymc3.html,https://j.mp/2BHR1jJ
+FFL,Five 2016 Trends We Expect to Come to Fruition in 2017,https://blog.fastforwardlabs.com/2017/01/10/five-2016-trends-we-expect-to-come-to-fruition-in-2017.html,https://j.mp/384WNbd
+FFL,Learning to Use React,https://blog.fastforwardlabs.com/2017/01/03/learning-to-use-react.html,https://j.mp/2BKe3Xa
+FFL,Hilary Mason at Data Driven NYC,https://blog.fastforwardlabs.com/2016/12/13/hilary-mason-at-data-driven-nyc.html,https://j.mp/3860BJ2
+FFL,Machines in Conversation,https://blog.fastforwardlabs.com/2016/12/12/machines-in-conversation.html,https://j.mp/3eIhsnR
+FFL,Dimensionality Reduction and Intuition,https://blog.fastforwardlabs.com/2016/12/08/dimensionality-reduction-and-intuition.html,https://j.mp/2Vp6XhE
+FFL,Probabilistic Data Structure Showdown: Cuckoo Filters vs. Bloom Filters,https://blog.fastforwardlabs.com/2016/11/23/probabilistic-data-structure-showdown-cuckoo-filters-vs.-bloom-filters.html,https://j.mp/3eIhsUT
+FFL,Exploring Deep Learning on Satellite Data,https://blog.fastforwardlabs.com/2016/08/26/exploring-deep-learning-on-satellite-data.html,https://j.mp/2BgsTok
+FFL,New TensorFlow Code for Text Summarization,https://blog.fastforwardlabs.com/2016/08/25/new-tensorflow-code-for-text-summarization.html,https://j.mp/31ppGgS
+FFL,Next Economics: Interview with Jimi Crawford,https://blog.fastforwardlabs.com/2016/08/24/next-economics-interview-with-jimi-crawford.html,https://j.mp/2YBoYLI
+FFL,Under the Hood of the Variational Autoencoder (in Prose and Code),https://blog.fastforwardlabs.com/2016/08/22/under-the-hood-of-the-variational-autoencoder-in-prose-and-code.html,https://j.mp/3g3ki73
+FFL,Giving Speech a Voice in the Home,https://blog.fastforwardlabs.com/2016/08/18/giving-speech-a-voice-in-the-home.html,https://j.mp/3dAbmV7
+FFL,Introducing Variational Autoencoders (in Prose and Code),https://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and-code.html,https://j.mp/3eHvJ49
+FFL,Late Summer Reading List,https://blog.fastforwardlabs.com/2016/07/27/late-summer-reading-list.html,https://j.mp/2Zbue7Q
+FFL,Two Talks in NYC this Saturday,https://blog.fastforwardlabs.com/2016/07/11/two-talks-in-nyc-this-saturday.html,https://j.mp/2CO8uYd
+FFL,What We Liked at AINow,https://blog.fastforwardlabs.com/2016/07/08/what-we-liked-at-ainow.html,https://j.mp/2ZfG6FN
+FFL,Machine Listening: Interview with Juan Pablo Bello,https://blog.fastforwardlabs.com/2016/06/10/machine-listening-interview-with-juan-pablo-bello.html,https://j.mp/38bMwtF
+FFL,"Welcome, Friederike!",https://blog.fastforwardlabs.com/2016/06/02/welcome-friederike.html,https://j.mp/3dGTVT5
+FFL,Online Talk: Summarization Algorithms,https://blog.fastforwardlabs.com/2016/05/27/online-talk-summarization-algorithms.html,https://j.mp/2NxPVtm
+FFL,Human-Machine Algorithms: Interview with Eric Colson,https://blog.fastforwardlabs.com/2016/05/25/human-machine-algorithms-interview-with-eric-colson.html,https://j.mp/2VmiGNN
+FFL,Evaluating Summarization Systems,https://blog.fastforwardlabs.com/2016/05/23/evaluating-summarization-systems.html,https://j.mp/2ZeIUmO
+FFL,May 24 Online Event: Text Summarization,https://blog.fastforwardlabs.com/2016/05/12/may-24-online-event-text-summarization.html,https://j.mp/2BMZcuQ
+FFL,Probabilistic Programming for Anomaly Detection,https://blog.fastforwardlabs.com/2016/05/03/probabilistic-programming-for-anomaly-detection.html,https://j.mp/2VqHZ1s
+FFL,Making a Case for Machine Learning to Legal Departments,https://blog.fastforwardlabs.com/2016/04/26/making-a-case-for-machine-learning-to-legal-departments.html,https://j.mp/31ppHkW
+FFL,Active Learning in the Law,https://blog.fastforwardlabs.com/2016/04/25/active-learning-in-the-law.html,https://j.mp/2NxPW0o
+FFL,Summarization as a Gateway to Computable Language,https://blog.fastforwardlabs.com/2016/04/21/summarization-as-a-gateway-to-computable-language.html,https://j.mp/2YCIGGQ
+FFL,Assessing Data Science Maturity,https://blog.fastforwardlabs.com/2016/04/15/assessing-data-science-maturity.html,https://j.mp/2YBxfiC
+FFL,New Tools to Summarize Text,https://blog.fastforwardlabs.com/2016/04/11/new-tools-to-summarize-text.html,https://j.mp/31mFzVi
+FFL,Where Do You Put Your Data Scientists?,https://blog.fastforwardlabs.com/2016/04/06/where-do-you-put-your-data-scientists.html,https://j.mp/38butEa
+FFL,Shivon Zilis on the Machine Intelligence Landscape,https://blog.fastforwardlabs.com/2016/03/30/shivon-zilis-on-the-machine-intelligence-landscape.html,https://j.mp/2Vp6cFb
+FFL,Fast Forward Labs Data Leadership Conference,https://blog.fastforwardlabs.com/2016/03/28/fast-forward-labs-data-leadership-conference.html,https://j.mp/387EBgS
+FFL,H.P. Luhn and the Heuristic Value of Simplicity,https://blog.fastforwardlabs.com/2016/03/25/h.p.-luhn-and-the-heuristic-value-of-simplicity.html,https://j.mp/2YDAzd0
+FFL,"""Hello world"" in Keras (or, Scikit-learn versus Keras)",https://blog.fastforwardlabs.com/2016/02/24/hello-world-in-keras-or-scikit-learn-versus-keras.html,https://j.mp/2ZdeLnK
+FFL,NeuralTalk with Kyle McDonald,https://blog.fastforwardlabs.com/2016/02/18/neuraltalk-with-kyle-mcdonald.html,https://j.mp/3iaxuco
+FFL,Machines and Metaphors,https://blog.fastforwardlabs.com/2016/02/16/machines-and-metaphors.html,https://j.mp/3i9t59y
+FFL,What History Teaches Us About Data Science,https://blog.fastforwardlabs.com/2016/02/03/what-history-teaches-us-about-data-science.html,https://j.mp/2COLKr5
+FFL,Eli Pariser on the Ethics of Algorithmic Filtering,https://blog.fastforwardlabs.com/2016/01/22/eli-pariser-on-the-ethics-of-algorithmic-filtering.html,https://j.mp/3i89Yg3
+FFL,New NLG Resources: Sale and January 26 Webinar,https://blog.fastforwardlabs.com/2016/01/12/new-nlg-resources-sale-and-january-26-webinar.html,https://j.mp/3eIhtYX
+FFL,Five Good Books* of 2015,https://blog.fastforwardlabs.com/2015/12/21/five-good-books-of-2015.html,https://j.mp/2NxPWxq
+FFL,NextView Ventures Podcast,https://blog.fastforwardlabs.com/2015/12/15/nextview-ventures-podcast.html,https://j.mp/2BKdYTm
+FFL,Fashion Goes Deep: Data Science at Lyst,https://blog.fastforwardlabs.com/2015/12/09/fashion-goes-deep-data-science-at-lyst.html,https://j.mp/2NAtaVJ
+FFL,When Dog Is Enough: Using Hypernyms To Improve Neural Network Predictions,https://blog.fastforwardlabs.com/2015/11/17/when-dog-is-enough-using-hypernyms-to-improve-neural-network-predictions.html,https://j.mp/31mFzog
+FFL,"FFL in the Bay Area, Chicago, and DC",https://blog.fastforwardlabs.com/2015/11/03/ffl-in-the-bay-area-chicago-and-dc.html,https://j.mp/2NxPWNW
+FFL,Interview with Pedro Domingos,https://blog.fastforwardlabs.com/2015/10/29/interview-with-pedro-domingos.html,https://j.mp/2NCGJUI
+FFL,Hello Deep Learning,https://blog.fastforwardlabs.com/2015/10/26/hello-deep-learning.html,https://j.mp/3g5IVAi
+FFL,Flip the Paradigm,https://blog.fastforwardlabs.com/2015/10/20/flip-the-paradigm.html,https://j.mp/31ppGNU
+FFL,Grace Hopper Opening Keynote,https://blog.fastforwardlabs.com/2015/10/13/grace-hopper-opening-keynote.html,https://j.mp/389C4Tn
+FFL,Breaking Down Memes,https://blog.fastforwardlabs.com/2015/10/06/breaking-down-memes.html,https://j.mp/2YBQKrw
+FFL,Machine Learning in Retail: Consumer Privacy Implications,https://blog.fastforwardlabs.com/2015/09/29/machine-learning-in-retail-consumer-privacy-implications.html,https://j.mp/2NBKSIk
+FFL,How do neural networks learn?,https://blog.fastforwardlabs.com/2015/09/24/how-do-neural-networks-learn.html,https://j.mp/3dGKiDG
+FFL,Fast Forward Labs Interviews Clarifai about Deep Learning,https://blog.fastforwardlabs.com/2015/09/22/fast-forward-labs-interviews-clarifai-about-deep-learning.html,https://j.mp/2BOexv7
+FFL,Pictograph: Unlock Your Images,https://blog.fastforwardlabs.com/2015/09/15/pictograph-unlock-your-images.html,https://j.mp/2YCSQXV
+FFL,D’Alembert’s Deep Dream: Bees and Nonlinear Transformations,https://blog.fastforwardlabs.com/2015/09/02/dalemberts-deep-dream-bees-and-nonlinear-transformations.html,https://j.mp/3gh8m1Z
+FFL,Machine Learning Applications in Fashion Retail,https://blog.fastforwardlabs.com/2015/08/19/machine-learning-applications-in-fashion-retail.html,https://j.mp/2ZuDDaX
+FFL,Why Now? Some Preconditions for Technology Innovations,https://blog.fastforwardlabs.com/2015/08/14/why-now-some-preconditions-for-technology-innovations.html,https://j.mp/3eIhuvZ
+FFL,On Stirling Engines and Orchids: A Prelude to Deep Learning,https://blog.fastforwardlabs.com/2015/08/07/on-stirling-engines-and-orchids-a-prelude-to-deep-learning.html,https://j.mp/3i78FxZ
+FFL,A Flying Machine from New York to Paris,https://blog.fastforwardlabs.com/2015/08/05/a-flying-machine-from-new-york-to-paris.html,https://j.mp/3gaXySZ
+FFL,Fast Forward Labs at the Science Fair,https://blog.fastforwardlabs.com/2015/07/16/fast-forward-labs-at-the-science-fair.html,https://j.mp/3eDxAHm
+FFL,Celebrating Our One Year Anniversary,https://blog.fastforwardlabs.com/2015/06/23/celebrating-our-one-year-anniversary.html,https://j.mp/3i9asCz
+FFL,MongoDB World Keynote,https://blog.fastforwardlabs.com/2015/06/19/mongodb-world-keynote.html,https://j.mp/2Vn6w7m
+FFL,Hilary on Science Friday,https://blog.fastforwardlabs.com/2015/06/16/hilary-on-science-friday.html,https://j.mp/31ppHRY
+FFL,Coffee Thermoregulation,https://blog.fastforwardlabs.com/2015/06/04/coffee-thermoregulation.html,https://j.mp/2YDAu9c
+FFL,Designing the Tech Graph,https://blog.fastforwardlabs.com/2015/05/19/designing-the-tech-graph.html,https://j.mp/2YFNLhH
+FFL,Hilary on Bloomberg TV,https://blog.fastforwardlabs.com/2015/04/30/hilary-on-bloomberg-tv.html,https://j.mp/3dDyBOb
+FFL,Bytecode Hacking for Great Justice,https://blog.fastforwardlabs.com/2015/04/23/bytecode-hacking-for-great-justice.html,https://j.mp/387niMX
+FFL,Blog Design Refresh,https://blog.fastforwardlabs.com/2015/04/06/blog-design-refresh.html,https://j.mp/31iVxzQ
+FFL,Probabilistic Methods for Realtime Streams,https://blog.fastforwardlabs.com/2015/04/01/probabilistic-methods-for-realtime-streams.html,https://j.mp/2ZiKGmD
+FFL,The Hoff,https://blog.fastforwardlabs.com/2015/03/31/the-hoff.html,https://j.mp/2ZdycwR
+FFL,Our Next Topic: Realtime Stream Analysis,https://blog.fastforwardlabs.com/2014/12/19/our-next-topic-realtime-stream-analysis.html,https://j.mp/3eIhv31
+FFL,The Natural Language Generation Report is Out,https://blog.fastforwardlabs.com/2014/10/17/the-natural-language-generation-report-is-out.html,https://j.mp/3eFLZm5
+FFL,We Built a Table,https://blog.fastforwardlabs.com/2014/08/21/we-built-a-table.html,https://j.mp/3dGyd1w
+FFL,"Hello, Fast Forward Labs!",https://blog.fastforwardlabs.com/2014/07/21/hello-fast-forward-labs.html,https://j.mp/2ZeQeyF
