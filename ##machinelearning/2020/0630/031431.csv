@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,PyTorch Distributed: Experiences on Accelerating Data Parallel Training,https://arxiv.org/abs/2006.15704v1,
+ArXiv,FastReID: A Pytorch Toolbox for General Instance Re-identification,https://arxiv.org/abs/2006.02631v3,
