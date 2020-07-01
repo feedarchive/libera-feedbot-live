@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS DataSync can now automatically configure your Amazon CloudWatch Logs configuration,https://aws.amazon.com/about-aws/whats-new/2020/07/aws-datasync-can-now-automatically-configure-amazon-cloudwatch-logs-configuration/,https://j.mp/3eUmaik
+AWS:WhatsNew,"Amazon Simple Email Service is now available in the US East (Ohio), Asia Pacific (Singapore), Asia Pacific (Tokyo), and Asia Pacific (Seoul) Regions",https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-ses-available-ohio-singapore-tokyo-seoul-regions/,https://j.mp/31zyMYs
+AWS:WhatsNew,AWS DataSync agents are now supported on Linux KVM and Microsoft Hyper-V hypervisors,https://aws.amazon.com/about-aws/whats-new/2020/07/aws-datasync-agents-are-now-supported-on-linux-kvm-and-microsoft-hyper-v-hypervisors/,https://j.mp/38kjo3J
