@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.6.0-rc2: Release GIL during DDP construction. (#40877),https://github.com/pytorch/pytorch/releases/tag/v1.6.0-rc2,
