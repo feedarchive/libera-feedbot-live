@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS announces the Increase Service Quota limits,https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-ecs-announces-increase-service-quota-limits/,https://j.mp/38x6WgY
+AWS:WhatsNew,EC2 Image Builder can now produce and distribute encrypted AMIs,https://aws.amazon.com/about-aws/whats-new/2020/07/ec2-image-builder-produce-distribute-encrypted-amis/,https://j.mp/3faVVo4
+AWS:WhatsNew,AWS Transit Gateway now supports more granular CloudWatch Metrics for improved network monitoring,https://aws.amazon.com/about-aws/whats-new/2020/07/aws-transit-gateway-supports-granular-cloudwatch-metrics-improved-network-monitoring/,https://j.mp/38zAMBw
