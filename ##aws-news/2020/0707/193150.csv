@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Quickly identify public access to resources using the IAM Access Analyzer console,https://aws.amazon.com/about-aws/whats-new/2020/07/quickly-identify-public-access-to-resources-using-iam-access-analyzer-console/,https://j.mp/2CiY6ar
+AWS:WhatsNew,Amazon Forecast now supports generating predictions for 10X more items,https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-forecast-now-supports-generating-predictions-for-10x-more-items/,https://j.mp/2BQsGbA
+AWS:WhatsNew,Amazon EMR now supports encrypting log files with AWS Key Management Service (KMS) customer managed CMKs for more flexible security,https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-emr-supports-encrypting-log-file-with-aws-kms-customer-management-cmks-with-more-flexible-security/,https://j.mp/2VXEQq3
+AWS:WhatsNew,Amplify CLI adds support for Lambda layers to easily share code & assets across Lambda functions,https://aws.amazon.com/about-aws/whats-new/2020/07/amplify-cli-adds-support-for-lambda-layers-to-easily-share-code-assets-across-lambda-functions/,https://j.mp/3gFLMAd
