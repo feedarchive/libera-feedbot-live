@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"[D] There's a flaw/bug in Tensorflow that's preventing gradient updates to weights in custom layers of models created using the Keras functional API, leaving those weights basically frozen. Might be worth checking `model.trainable_variables`.",https://redd.it/hrawam,
