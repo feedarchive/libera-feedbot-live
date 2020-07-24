@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Nvidia:DevBlog,Accelerating TensorFlow on NVIDIA A100 GPUs,https://developer.nvidia.com/blog/accelerating-tensorflow-on-a100-gpus/,https://j.mp/32RiKtC
+Nvidia:DevBlog,Deploying Real-time Object Detection Models with the NVIDIA Isaac SDK and NVIDIA Transfer Learning Toolkit,https://developer.nvidia.com/blog/deploying-real-time-object-detection-models-with-isaac-sdk-and-transfer-learning-toolkit/,https://j.mp/3hzLjji
+Nvidia:DevBlog,Using the NVIDIA Isaac SDK Object Detection Pipeline with Docker and the NVIDIA Transfer Learning Toolkit,https://developer.nvidia.com/blog/using-the-isaac-sdk-object-detection-pipeline-with-docker-and-transfer-learning-toolkit/,https://j.mp/30ImqLv
