@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.6.0-rc6: [release/1.6] [JIT] Dont include view ops in autodiff graphs (#42029),https://github.com/pytorch/pytorch/releases/tag/v1.6.0-rc6,
