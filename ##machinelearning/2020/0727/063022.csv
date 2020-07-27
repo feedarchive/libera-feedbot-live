@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+j:JMLR,Orlicz Random Fourier Features,http://jmlr.org/papers/v21/19-1031.html,https://j.mp/30RYaGS
+j:JMLR,Empirical Priors for Prediction in Sparse High-dimensional Linear Regression,http://jmlr.org/papers/v21/19-152.html,https://j.mp/2EowqCj
+j:JMLR,A Data Efficient and Feasible Level Set Method for Stochastic Convex Optimization with Expectation Constraints,http://jmlr.org/papers/v21/19-1022.html,https://j.mp/30THmPK
+j:JMLR,Nesterov's Acceleration for Approximate Newton,http://jmlr.org/papers/v21/19-265.html,https://j.mp/2OYbCDx
+j:JMLR,Importance Sampling Techniques for Policy Optimization,http://jmlr.org/papers/v21/20-124.html,https://j.mp/3hC77uL
+j:JMLR,Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer,http://jmlr.org/papers/v21/20-074.html,https://j.mp/2WYMelr
+j:JMLR,Chaining Meets Chain Rule: Multilevel Entropic Regularization and Training of Neural Networks,http://jmlr.org/papers/v21/19-794.html,https://j.mp/3f4AxQm
+j:JMLR,metric-learn: Metric Learning Algorithms in Python,http://jmlr.org/papers/v21/19-678.html,https://j.mp/2EhSvCh
+j:JMLR,"Contextual Bandits with Continuous Actions: Smoothing, Zooming, and Adapting",http://jmlr.org/papers/v21/19-650.html,https://j.mp/300oYpa
+j:JMLR,Convergence Rates for the Stochastic Gradient Descent Method for Non-Convex Objective Functions,http://jmlr.org/papers/v21/19-636.html,https://j.mp/3f7szG9
+j:JMLR,A Unified Framework of Online Learning Algorithms for Training Recurrent Neural Networks,http://jmlr.org/papers/v21/19-562.html,https://j.mp/3jPDS9V
+j:JMLR,Probabilistic Learning on Graphs via Contextual Architectures,http://jmlr.org/papers/v21/19-470.html,https://j.mp/3g4eWcb
+j:JMLR,Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers,http://jmlr.org/papers/v21/19-359.html,https://j.mp/2By81cp
+j:JMLR,Monte Carlo Gradient Estimation in Machine Learning,http://jmlr.org/papers/v21/19-346.html,https://j.mp/2P4Lw1D
+j:JMLR,Convergence of Sparse Variational Inference in Gaussian Processes Regression,http://jmlr.org/papers/v21/19-1015.html,https://j.mp/2WTIGB9
+j:JMLR,AI Explainability 360: An Extensible Toolkit for Understanding Data and Machine Learning Models,http://jmlr.org/papers/v21/19-1035.html,https://j.mp/30OBYxn
+j:JMLR,A General System of Differential Equations to Model First-Order Adaptive Algorithms,http://jmlr.org/papers/v21/18-808.html,https://j.mp/2WTIQbJ
+j:JMLR,A Regularization-Based Adaptive Test for High-Dimensional GLMs,http://jmlr.org/papers/v21/18-807.html,https://j.mp/3f2v4d3
+j:JMLR,Apache Mahout: Machine Learning on Distributed Dataflow Systems,http://jmlr.org/papers/v21/18-800.html,https://j.mp/3f0HNwU
+j:JMLR,Distributed Minimum Error Entropy Algorithms,http://jmlr.org/papers/v21/18-696.html,https://j.mp/2OVcR6u
+j:JMLR,Optimal Algorithms for Continuous Non-monotone Submodular and DR-Submodular Maximization,http://jmlr.org/papers/v21/18-527.html,https://j.mp/3hwE3ou
+j:JMLR,Fast Bayesian Inference of Sparse Networks with Automatic Sparsity Determination,http://jmlr.org/papers/v21/18-514.html,https://j.mp/3hzlEXW
+j:JMLR,Tensor Regression Networks,http://jmlr.org/papers/v21/18-503.html,https://j.mp/2WWAro0
+j:JMLR,Kernel-estimated Nonparametric Overlap-Based Syncytial Clustering,http://jmlr.org/papers/v21/18-435.html,https://j.mp/30NSduF
+j:JMLR,Agnostic Estimation for Phase Retrieval,http://jmlr.org/papers/v21/18-259.html,https://j.mp/2X2rbia
+j:JMLR,A Class of Parallel Doubly Stochastic Algorithms for Large-Scale Learning,http://jmlr.org/papers/v21/16-311.html,https://j.mp/2X2rhX4
+j:JMLR,Bayesian Closed Surface Fitting Through Tensor Products,http://jmlr.org/papers/v21/13-233.html,https://j.mp/3f3KU7c
