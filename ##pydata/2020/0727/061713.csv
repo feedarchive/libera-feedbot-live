@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+PythonSpeed,Too many objects: Reducing memory overhead from Python instances,https://pythonspeed.com/articles/python-object-memory/,https://j.mp/2EnCbA8
+PythonSpeed,Massive memory overhead: Numbers in Python and how NumPy helps,https://pythonspeed.com/articles/python-integers-memory/,https://j.mp/39waQXT
+PythonSpeed,Where's your code? Debugging ImportError and ModuleNotFoundErrors in your Docker image,https://pythonspeed.com/articles/importerror-docker/,https://j.mp/2WZYm5R
+PythonSpeed,Clinging to memory: how Python function calls can increase your memory usage,https://pythonspeed.com/articles/function-calls-prevent-garbage-collection/,https://j.mp/2WZYnGX
+PythonSpeed,Debugging out-of-memory crashes in Python,https://pythonspeed.com/articles/crash-out-of-memory/,https://j.mp/2OVOBBn
+PythonSpeed,Fil: a new Python memory profiler for data scientists and scientists,https://pythonspeed.com/articles/memory-profiler-data-scientists/,https://j.mp/2WZ7x6A
+PythonSpeed,Security scanners for Python and Docker: from code to dependencies,https://pythonspeed.com/articles/docker-python-security-scan/,https://j.mp/2CTrPaP
+PythonSpeed,Push and pull: when and why to update your dependencies,https://pythonspeed.com/articles/when-update-dependencies/,https://j.mp/3g4dRRF
+PythonSpeed,Building on solid ground: ensuring reproducible Docker builds for Python,https://pythonspeed.com/articles/reproducible-docker-builds-python/,https://j.mp/30OABPf
+PythonSpeed,From chunking to parallelism: faster Pandas with Dask,https://pythonspeed.com/articles/faster-pandas-dask/,https://j.mp/3f4NqtZ
