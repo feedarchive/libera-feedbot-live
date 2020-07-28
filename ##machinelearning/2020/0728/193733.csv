@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"Stable release of automatic mixed precision (AMP). New Beta features include a TensorPipe backend for RPC, memory profiler, and several improvements to distributed training for both RPC and DDP.",https://github.com/pytorch/pytorch/releases/tag/v1.6.0,
