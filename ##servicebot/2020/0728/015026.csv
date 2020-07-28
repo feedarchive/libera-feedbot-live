@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,multivar_horner: a python package for computing Horner factorisations of multivariate polynomials,https://arxiv.org/abs/2007.13152v1,
+ArXiv,metric-learn: Metric Learning Algorithms in Python,https://arxiv.org/abs/1908.04710v3,
+ArXiv,Scalene: Scripting-Language Aware Profiling for Python,https://arxiv.org/abs/2006.03879v2,
