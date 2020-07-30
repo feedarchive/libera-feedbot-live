@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Kinesis Data Firehose now supports data delivery to MongoDB Cloud,https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-kinesis-data-firehose-supports-data-delivery-mongodb-cloud/,https://j.mp/307ZS7Y
+AWS:WhatsNew,Amazon Kinesis Data Firehose now supports data delivery to HTTP endpoints,https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-kinesis-data-firehose-now-supports-data-delivery-to-http-endpoints/,https://j.mp/2CRaShm
+AWS:WhatsNew,Amazon Kinesis Data Firehose now supports data delivery to Datadog,https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-kinesis-data-firehose-now-supports-data-delivery-to-datadog/,https://j.mp/2X9feay
+AWS:WhatsNew,Amazon Kinesis Data Firehose now supports data delivery to New Relic,https://aws.amazon.com/about-aws/whats-new/2020/07/amazon-kinesis-data-firehose-now-supports-data-delivery-to-new-relic/,https://j.mp/33krLvJ
