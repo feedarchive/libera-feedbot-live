@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ArXiv,Understanding the Stability of Deep Control Policies for Biped Locomotion,https://arxiv.org/abs/2007.15242v1,
+ArXiv,Momentum Q-learning with Finite-Sample Convergence Guarantee,https://arxiv.org/abs/2007.15418v1,
+ArXiv,PixL2R: Guiding Reinforcement Learning Using Natural Language by Mapping Pixels to Rewards,https://arxiv.org/abs/2007.15543v1,
+ArXiv,Finite-Sample Analysis of Nonlinear Stochastic Approximation with Applications in Reinforcement Learning,https://arxiv.org/abs/1905.11425v5,
+ArXiv,Provably Convergent Two-Timescale Off-Policy Actor-Critic with Function Approximation,https://arxiv.org/abs/1911.04384v6,
+ArXiv,Using Counterfactual Reasoning and Reinforcement Learning for Decision-Making in Autonomous Driving,https://arxiv.org/abs/2003.11919v2,
+ArXiv,Learning Object-conditioned Exploration using Distributed Soft Actor Critic,https://arxiv.org/abs/2007.14545v2,
+ArXiv,Quantity vs. Quality: On Hyperparameter Optimization for Deep Reinforcement Learning,https://arxiv.org/abs/2007.14604v2,
