@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+DE:ranks:TimeSeries,RankDBMSScoreChanges1.InfluxDB22.88+ 1.012.Kdb+ 6.79+ 0.283.Prometheus 5.36+ 0.504.Graphite 4.11+ 0.285.RRDtool 3.02-0.036.TimescaleDB 2.54+ 0.227.Druid 2.17+ 0.128.OpenTSDB 2.13+ 0.049.FaunaDB 1.70+ 0.2210.KairosDB 0.68-0.05,https://db-engines.com/en/ranking/time+series+dbms#2020-08-01T00:00:00Z,https://j.mp/3floD4I
