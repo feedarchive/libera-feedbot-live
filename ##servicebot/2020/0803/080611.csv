@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:NY,"As of 2020-08-02, `New York in US` has 383_588 active COVID-19 cases (↑0% by +515) (doubling in 515.9d) and 32_710 deaths (↑0% by 16) (doubling in 1416.7d), with a death rate of 7.9% (↓0.0%)",https://covid-api.com/api/reports?date=2020-08-02&iso=USA&region_province=New%20York,https://j.mp/2XlfUJT
