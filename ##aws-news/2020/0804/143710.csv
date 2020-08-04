@@ -1,0 +1,46 @@
+feed,title,long_url,short_url
+APIchanges,Amazon Chime - 10 updated methods,https://awsapichanges.info/archive/changes/ff08d9-chime.html,https://j.mp/31wFGwb
+APIchanges,Amazon Personalize Runtime - 1 updated methods,https://awsapichanges.info/archive/changes/ff08d9-personalize-runtime.html,https://j.mp/3ia078S
+APIchanges,AWS Storage Gateway - 1 updated methods,https://awsapichanges.info/archive/changes/ff08d9-storagegateway.html,https://j.mp/3k7xnzc
+APIchanges,AWS WAFV2 - 3 updated methods,https://awsapichanges.info/archive/changes/ff08d9-wafv2.html,https://j.mp/3i5yOMB
+APIchanges,AWS CodeBuild - 9 new 12 updated methods,https://awsapichanges.info/archive/changes/8864bf-codebuild.html,https://j.mp/2Xm9vy7
+APIchanges,Amazon Elastic Compute Cloud - 2 updated methods,https://awsapichanges.info/archive/changes/8864bf-ec2.html,https://j.mp/2XtmYUL
+APIchanges,Amazon GuardDuty - 1 new methods,https://awsapichanges.info/archive/changes/8864bf-guardduty.html,https://j.mp/2PqqVFr
+APIchanges,Managed Streaming for Kafka - 1 new methods,https://awsapichanges.info/archive/changes/8864bf-kafka.html,https://j.mp/3gvP7Sw
+APIchanges,AWS Service Catalog - 3 updated methods,https://awsapichanges.info/archive/changes/8864bf-servicecatalog.html,https://j.mp/2Xq1VTd
+APIchanges,Amazon Simple Email Service - 18 new 4 updated methods,https://awsapichanges.info/archive/changes/8864bf-email.html,https://j.mp/3grR8iR
+APIchanges,Amazon Elastic Compute Cloud - 1 new 7 updated methods,https://awsapichanges.info/archive/changes/6f0afa-ec2.html,https://j.mp/31csDzG
+APIchanges,Amazon EC2 Container Registry - 5 updated methods,https://awsapichanges.info/archive/changes/6f0afa-api.ecr.html,https://j.mp/2XtR7TQ
+APIchanges,Amazon Kinesis Firehose - 3 updated methods,https://awsapichanges.info/archive/changes/6f0afa-firehose.html,https://j.mp/31i1V8H
+APIchanges,Amazon GuardDuty - 2 new 5 updated methods,https://awsapichanges.info/archive/changes/6f0afa-guardduty.html,https://j.mp/3k9tpGg
+APIchanges,AWS Resource Groups - 3 new 8 updated methods,https://awsapichanges.info/archive/changes/6f0afa-resource-groups.html,https://j.mp/2EPzsQe
+APIchanges,Auto Scaling - 2 updated methods,https://awsapichanges.info/archive/changes/45336b-autoscaling.html,https://j.mp/2XtCNLb
+APIchanges,AWS Elemental MediaLive - 7 updated methods,https://awsapichanges.info/archive/changes/45336b-medialive.html,https://j.mp/2DAmuFa
+APIchanges,AWS SecurityHub - 1 new 1 updated methods,https://awsapichanges.info/archive/changes/45336b-securityhub.html,https://j.mp/39Td04d
+APIchanges,AWS DataSync - 2 new 5 updated methods,https://awsapichanges.info/archive/changes/e229c4-datasync.html,https://j.mp/39WDdyU
+APIchanges,AWS Database Migration Service - 6 new 4 updated methods,https://awsapichanges.info/archive/changes/e229c4-dms.html,https://j.mp/31fuO5D
+APIchanges,Amazon Elastic Compute Cloud - 20 updated methods,https://awsapichanges.info/archive/changes/e229c4-ec2.html,https://j.mp/2PoTy60
+APIchanges,Amazon Fraud Detector - 2 updated methods,https://awsapichanges.info/archive/changes/e229c4-frauddetector.html,https://j.mp/3ka3WMN
+APIchanges,AWS Glue - 1 new 4 updated methods,https://awsapichanges.info/archive/changes/e229c4-glue.html,https://j.mp/33nGd60
+APIchanges,Amazon Fraud Detector - 2 updated methods,https://awsapichanges.info/archive/changes/788a00-frauddetector.html,https://j.mp/2ET8mb3
+APIchanges,AWSKendraFrontendService - 6 updated methods,https://awsapichanges.info/archive/changes/788a00-kendra.html,https://j.mp/3a6BkQh
+APIchanges,Amazon Macie 2 - 1 updated methods,https://awsapichanges.info/archive/changes/788a00-macie2.html,https://j.mp/2C1dhpc
+APIchanges,AWS MediaConnect - 5 updated methods,https://awsapichanges.info/archive/changes/788a00-mediaconnect.html,https://j.mp/3k9uTAr
+APIchanges,AWS Elemental MediaPackage - 4 updated methods,https://awsapichanges.info/archive/changes/788a00-mediapackage.html,https://j.mp/39VqFHO
+APIchanges,Amazon CloudWatch - 1 updated methods,https://awsapichanges.info/archive/changes/788a00-monitoring.html,https://j.mp/33l5Qo2
+APIchanges,AmazonMQ - 6 updated methods,https://awsapichanges.info/archive/changes/788a00-mq.html,https://j.mp/2XrIp8W
+APIchanges,Amazon SageMaker Service - 3 new 12 updated methods,https://awsapichanges.info/archive/changes/788a00-api.sagemaker.html,https://j.mp/2XsUjiK
+APIchanges,AWS Config - 14 updated methods,https://awsapichanges.info/archive/changes/6e552e-config.html,https://j.mp/30rE07G
+APIchanges,Amazon FSx - 6 updated methods,https://awsapichanges.info/archive/changes/6e552e-fsx.html,https://j.mp/3gEuiEs
+APIchanges,Amazon Lightsail - 14 new 94 updated methods,https://awsapichanges.info/archive/changes/6e552e-lightsail.html,https://j.mp/3kieFoP
+APIchanges,Amazon WorkSpaces - 2 new 1 updated methods,https://awsapichanges.info/archive/changes/6e552e-workspaces.html,https://j.mp/2EJf2rW
+APIchanges,AWS Elemental MediaLive - 1 new methods,https://awsapichanges.info/archive/changes/673dba-medialive.html,https://j.mp/3i9H2mS
+APIchanges,Amazon QuickSight - 11 new 8 updated methods,https://awsapichanges.info/archive/changes/673dba-quicksight.html,https://j.mp/2Xq20X1
+APIchanges,Amazon CodeGuru Profiler - 3 new 4 updated methods,https://awsapichanges.info/archive/changes/bc41e6-codeguru-profiler.html,https://j.mp/3hZ5jw6
+APIchanges,Amazon CloudFront - 59 new methods,https://awsapichanges.info/archive/changes/164834-cloudfront.html,https://j.mp/2Xnz8hW
+APIchanges,AWS CodeBuild - 6 updated methods,https://awsapichanges.info/archive/changes/164834-codebuild.html,https://j.mp/2Xp9Ujq
+APIchanges,Amazon Elastic Compute Cloud - 1 updated methods,https://awsapichanges.info/archive/changes/164834-ec2.html,https://j.mp/3i5JHhx
+APIchanges,Firewall Management Service - 9 new methods,https://awsapichanges.info/archive/changes/164834-fms.html,https://j.mp/31i1U4D
+APIchanges,Amazon Fraud Detector - 16 new 24 updated methods,https://awsapichanges.info/archive/changes/164834-frauddetector.html,https://j.mp/2Pq0EqB
+APIchanges,AWS Ground Station - 6 updated methods,https://awsapichanges.info/archive/changes/164834-groundstation.html,https://j.mp/33rp9w4
+APIchanges,Amazon Relational Database Service - 2 updated methods,https://awsapichanges.info/archive/changes/164834-rds.html,https://j.mp/2Pq0xeF
