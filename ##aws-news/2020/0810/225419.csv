@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue version 2.0 featuring 10x faster job start times and 1-minute minimum billing duration,https://aws.amazon.com/about-aws/whats-new/2020/08/aws-glue-version-2-featuring-10x-faster-job-start-times-1-minute-minimum-billing-duration/,https://j.mp/3fS96tO
+AWS:WhatsNew,Amazon API Gateway HTTP APIs now supports wildcard custom domain names,https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-api-gateway-http-apis-supports-wildcard-custom-domain-names/,https://j.mp/31xjbXC
+AWS:WhatsNew,AWS Lambda now provides IAM condition keys for VPC settings,https://aws.amazon.com/about-aws/whats-new/2020/08/aws-lambda-provides-iam-condition-keys-vpc-settings/,https://j.mp/3ahW2MT
