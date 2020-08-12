@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports custom runtimes on Amazon Linux 2,https://aws.amazon.com/about-aws/whats-new/2020/08/aws-lambda-supports-custom-runtimes-amazon-linux-2/,https://j.mp/2PMDwTt
+AWS:WhatsNew,AWS Lambda now supports Java 8 (Corretto),https://aws.amazon.com/about-aws/whats-new/2020/08/aws-lambda-supports-java-8/,https://j.mp/2DMtsYh
+AWS:WhatsNew,AWS Lambda now supports Go on Amazon Linux 2,https://aws.amazon.com/about-aws/whats-new/2020/08/aws-lambda-supports-go-amazon-linux-2/,https://j.mp/3iN6X4v
+AWS:WhatsNew,Amazon S3 Access Points now support the Copy API,https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-s3-access-points-now-support-copy-api/,https://j.mp/2XUFfdU
+AWS:WhatsNew,Amazon Forecast now uses Convolutional Neural Networks (CNNs) to train forecasting models up to 2X faster with up to 30% higher accuracy,https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-forecast-now-uses-convolutional-neural-networks-cnns-to-train-forecasting-models-up-to-2x-faster-with-up-to-30-percent-higher-accuracy/,https://j.mp/2PPlGzm
