@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EKS support for Arm-based instances powered by AWS Graviton is now generally available,https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-eks-support-for-arm-based-instances-powered-by-aws-graviton-now-generally-available/,https://j.mp/3gdHVK9
+AWS:WhatsNew,Amazon EKS on AWS Fargate now supports Amazon EFS file systems,https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-ek-on-aws-fargate-now-supports-amazon-efs-file-systems/,https://j.mp/31ZObzT
+AWS:WhatsNew,Amazon EKS managed node groups now support EC2 launch templates and custom AMIs,https://aws.amazon.com/about-aws/whats-new/2020/08/amazon-eks-managed-node-groups-now-support-ec2-launch-templates-custom-amis/,https://j.mp/3h5zWjx
