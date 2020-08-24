@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CA,"As of 2020-08-23, `California in US` has 657_127 active COVID-19 cases (↑1% by +4_823) (doubling in 94.1d) and 12_153 deaths (↑0% by 22) (doubling in 382.6d), with a death rate of 1.8% (↓0.0%)",https://covid-api.com/api/reports?date=2020-08-23&iso=USA&region_province=California,https://j.mp/2YroaIX
