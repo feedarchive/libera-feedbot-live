@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Database Migration Service now supports MongoDB 4.0 as a source,https://aws.amazon.com/about-aws/whats-new/2020/08/aws-database-migration-service-supports-mongodb-4-0-source/,https://j.mp/3j9Ljaz
+AWS:WhatsNew,AWS SDK for .NET v3.5 is now generally available,https://aws.amazon.com/about-aws/whats-new/2020/08/aws-sdk-for-net-3-5-generally-available/,https://j.mp/32lBj7p
+AWS:WhatsNew,Provisioned Concurrency for AWS Lambda is now available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2020/08/aws-lambda-available-aws-govcloud-us-regions/,https://j.mp/3j9LnXR
