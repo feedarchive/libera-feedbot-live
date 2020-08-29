@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+TDS,Twitter Data Pipeline using Apache Airflow,https://medium.com/p/24e0881c214d,
+TDS,Image Recommendations with PyTorch + Flask + PostgreSQL + Heroku deployment,https://medium.com/p/206682d06c6b,
