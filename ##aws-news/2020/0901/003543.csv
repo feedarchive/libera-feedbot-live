@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,"[sagemaker-us-east-1] Informational message: Increased error rates and latencies for CreateTrainingJob, CreateHyperParameterTuningJob, and CreateEndpoint API operations",http://status.aws.amazon.com/#sagemaker-us-east-1_1598920406,
+status,[batch-us-east-1] Informational message: Increased Job Processing Delays,http://status.aws.amazon.com/#batch-us-east-1_1598920079,
