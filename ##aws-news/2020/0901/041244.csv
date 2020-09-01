@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[deepracer-us-east-1] [RESOLVED] Increased Error Rates for Training Jobs,http://status.aws.amazon.com/#deepracer-us-east-1_1598933412,
+status,[sagemaker-us-east-1] [RESOLVED] Increased Error Rates and Latencies for Multiple API operations,http://status.aws.amazon.com/#sagemaker-us-east-1_1598933079,
+status,[batch-us-east-1] [RESOLVED] Increased Job Processing Delays,http://status.aws.amazon.com/#batch-us-east-1_1598933323,
