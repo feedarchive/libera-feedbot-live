@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS App Mesh controller for Kubernetes Version 1.1.1 now available with support for new mesh configuration controls,https://aws.amazon.com/about-aws/whats-new/2020/09/aws-app-mesh-controller-kubernetes-version-1-1-1-available-support-new-mesh-configuration-controls/,https://j.mp/3k2sIhh
+AWS:WhatsNew,"Amazon VPC Endpoints for Amazon EC2 are now available in three availability zones in South America (Sao Paulo), and four availability zones in US West (Oregon) and Canada (Central)",https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-vpc-endpoints-amazon-ec2-available-3-availability-zones-sao-paulo-4-availability-zones-oregon-canada/,https://j.mp/32bJK6m
+AWS:WhatsNew,Application Load Balancers now support AWS Outposts,https://aws.amazon.com/about-aws/whats-new/2020/09/application-load-balancers-support-aws-outposts/,https://j.mp/35hAxLD
