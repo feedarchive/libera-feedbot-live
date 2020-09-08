@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CA,"As of 2020-09-07, `California in US` has 727_207 active COVID-19 cases (↑0% by +2_082) (doubling in 241.8d) and 13_758 deaths (↑0% by 27) (doubling in 352.9d), with a death rate of 1.9% (↓0.0%)",https://covid-api.com/api/reports?date=2020-09-07&iso=USA&region_province=California,https://j.mp/2Fh8e52
