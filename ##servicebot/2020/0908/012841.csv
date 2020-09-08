@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,PySAD: A Streaming Anomaly Detection Framework in Python,https://arxiv.org/abs/2009.02572v1,
+ArXiv,TorchKGE: Knowledge Graph Embedding in Python and PyTorch,https://arxiv.org/abs/2009.02963v1,
+ArXiv,On Computing the Kronecker Structure of Polynomial and Rational Matrices using Julia,https://arxiv.org/abs/2006.06825v2,
