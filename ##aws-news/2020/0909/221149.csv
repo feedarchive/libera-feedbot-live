@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Applications using Amazon SNS to send SMS text messages can now be hosted in US West (N. California),https://aws.amazon.com/about-aws/whats-new/2020/09/applications-amazon-sns-send-sms-text-messages-hosted-us-west-california/,https://j.mp/3igp1Uv
+AWS:WhatsNew,Systems Manager now supports on-demand patching with just two clicks,https://aws.amazon.com/about-aws/whats-new/2020/09/systems-manager-now-supports-on-demand-patching-with-just-two-clicks/,https://j.mp/2ZoTgRL
+AWS:WhatsNew,"Service Catalog simplifies product discovery, provisioning, and search",https://aws.amazon.com/about-aws/whats-new/2020/09/service-catalog-simplifies-product-discovery-provisioning-and-search/,https://j.mp/35nZohc
+AWS:WhatsNew,API Gateway HTTP APIs now supports Lambda and IAM authorization options,https://aws.amazon.com/about-aws/whats-new/2020/09/api-gateway-http-apis-now-supports-lambda-and-iam-authorization-options/,https://j.mp/35itX7T
+AWS:WhatsNew,"Amazon MSK now offers version 2.4.1.1, fixing a perpetual rebalance bug in Apache Kafka 2.4.1",https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-msk-now-offers-version-2-4-1-1-fixing-a-perpetual-rebalance-bug-in-apache-kafka-2-4-1/,https://j.mp/32cgCvS
