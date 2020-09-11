@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,tsBNgen: A Python Library to Generate Time Series Data from an Arbitrary Dynamic Bayesian Network Structure,https://arxiv.org/abs/2009.04595v1,
+ArXiv,XCM: An Explainable Convolutional Neural Network for Multivariate Time Series Classification,https://arxiv.org/abs/2009.04796v1,
