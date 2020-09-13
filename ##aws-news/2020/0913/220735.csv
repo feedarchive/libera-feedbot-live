@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+status,[storagegateway-ap-northeast-1] Informational message: Storage Gateway VM オフライン| Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-ap-northeast-1_1600034395,
+status,[storagegateway-ap-southeast-2] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-ap-southeast-2_1600034376,
+status,[storagegateway-ap-southeast-2] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-ap-southeast-2_1600026440,
+status,[storagegateway-us-west-2] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-us-west-2_1600034369,
+status,[storagegateway-us-east-1] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-us-east-1_1600034361,
+status,[storagegateway-us-east-1] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-us-east-1_1600026408,
+status,[storagegateway-eu-west-1] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-eu-west-1_1600034355,
+status,[storagegateway-ap-southeast-1] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-ap-southeast-1_1600034346,
+status,[storagegateway-ap-southeast-1] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-ap-southeast-1_1600026399,
+status,[storagegateway-sa-east-1] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-sa-east-1_1600034339,
+status,[storagegateway-eu-central-1] Informational message: Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-eu-central-1_1600034330,
