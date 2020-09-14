@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Glue Data Catalog now supports PartitionIndex, improving query performance on highly partitioned tables",https://aws.amazon.com/about-aws/whats-new/2020/09/aws-glue-data-catalog-supports-partitionindex-improving-query-performance-highly-partitioned-tables/,https://j.mp/3mmk9Qg
+AWS:WhatsNew,AWS ParallelCluster 2.9.0,https://aws.amazon.com/about-aws/whats-new/2020/09/aws-parallelcluster-2-9-0/,https://j.mp/2RsJQR2
