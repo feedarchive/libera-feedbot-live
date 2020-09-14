@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+status,[storagegateway-ap-northeast-1] [RESOLVED] Storage Gateway VM オフライン| Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-ap-northeast-1_1600047397,
+status,[storagegateway-ap-southeast-2] [RESOLVED] Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-ap-southeast-2_1600047093,
+status,[storagegateway-us-west-2] [RESOLVED] Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-us-west-2_1600047016,
+status,[storagegateway-us-east-1] [RESOLVED] Storage Gateway VMs Offline,http://status.aws.amazon.com/#storagegateway-us-east-1_1600047144,
