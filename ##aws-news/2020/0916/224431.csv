@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Firewall Manager is now available in the Africa (Cape Town) and EU (Milan) Regions,https://aws.amazon.com/about-aws/whats-new/2020/09/aws-firewall-manager-now-available-cape-town-milan/,https://j.mp/3kpvGN0
+AWS:WhatsNew,Enforce encryption for Amazon Elastic File System resources using AWS IAM,https://aws.amazon.com/about-aws/whats-new/2020/09/enforce-encryption-for-amazon-elastic-file-system-resources-using-aws-iam/,https://j.mp/33Aj6DJ
+AWS:WhatsNew,AWS Backup Will Automatically Copy Tags from Nested EBS Volumes to EC2 Recovery Points,https://aws.amazon.com/about-aws/whats-new/2020/09/aws-backup-automatically-copy-tags-nested-ebs-volumes-ec2-recovery-points/,https://j.mp/32Cupfx
