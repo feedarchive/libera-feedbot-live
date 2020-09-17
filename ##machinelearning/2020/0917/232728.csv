@@ -1,0 +1,44 @@
+feed,title,long_url,short_url
+j:JMLR,Efficient Adjustment Sets for Population Average Causal Treatment Effect Estimation in Graphical Models,http://jmlr.org/papers/v21/19-1026.html,https://j.mp/3ca7Lhv
+j:JMLR,Kriging Prediction with Isotropic Matern Correlations: Robustness and Experimental Designs,http://jmlr.org/papers/v21/19-1045.html,https://j.mp/2ZMbYDb
+j:JMLR,Consistency of Semi-Supervised Learning Algorithms on Graphs: Probit and One-Hot Methods,http://jmlr.org/papers/v21/15-900.html,https://j.mp/3iIVVNJ
+j:JMLR,Scikit-network: Graph Analysis in Python,http://jmlr.org/papers/v21/20-412.html,https://j.mp/32Fy38b
+j:JMLR,Topology of Deep Neural Networks,http://jmlr.org/papers/v21/20-345.html,https://j.mp/2HferQh
+j:JMLR,Near-optimal Individualized Treatment Recommendations,http://jmlr.org/papers/v21/20-334.html,https://j.mp/2Fy6JQK
+j:JMLR,Distributed High-dimensional Regression Under a Quantile Loss Function,http://jmlr.org/papers/v21/20-297.html,https://j.mp/33BdglD
+j:JMLR,Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey,http://jmlr.org/papers/v21/20-212.html,https://j.mp/2Fy6K7g
+j:JMLR,Communication-Efficient Distributed Optimization in Networks with Gradient Tracking and Variance Reduction,http://jmlr.org/papers/v21/20-210.html,https://j.mp/3mABxky
+j:JMLR,Variational Inference for Computational Imaging Inverse Problems,http://jmlr.org/papers/v21/20-151.html,https://j.mp/2FDtIty
+j:JMLR,Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning,http://jmlr.org/papers/v21/20-081.html,https://j.mp/2FCS0nm
+j:JMLR,Optimal Estimation of Sparse Topic Models,http://jmlr.org/papers/v21/20-079.html,https://j.mp/32DezB7
+j:JMLR,Breaking the Curse of Nonregularity with Subagging --- Inference of the Mean Outcome under Optimal Treatment Regimes,http://jmlr.org/papers/v21/20-066.html,https://j.mp/2HcJNa7
+j:JMLR,Wide Neural Networks with Bottlenecks are Deep Gaussian Processes,http://jmlr.org/papers/v21/20-017.html,https://j.mp/32FQutF
+j:JMLR,Adaptive Approximation and Generalization of Deep Neural Network with Intrinsic Dimensionality,http://jmlr.org/papers/v21/20-002.html,https://j.mp/3cbOmww
+j:JMLR,Doubly Distributed Supervised Learning and Inference with High-Dimensional Correlated Outcomes,http://jmlr.org/papers/v21/19-996.html,https://j.mp/2ZNiZUp
+j:JMLR,Krylov Subspace Method for Nonlinear Dynamical Systems with Random Noise,http://jmlr.org/papers/v21/19-993.html,https://j.mp/32DibmC
+j:JMLR,Randomization as Regularization: A Degrees of Freedom Explanation for Random Forest Success,http://jmlr.org/papers/v21/19-905.html,https://j.mp/3iI1vAb
+j:JMLR,Rationally Inattentive Inverse Reinforcement Learning Explains YouTube Commenting Behavior,http://jmlr.org/papers/v21/19-872.html,https://j.mp/2FPSVk1
+j:JMLR,The Optimal Ridge Penalty for Real-world High-dimensional Data Can Be Zero or Negative due to the Implicit Ridge Regularization,http://jmlr.org/papers/v21/19-844.html,https://j.mp/2FJoyMr
+j:JMLR,Convex and Non-Convex Approaches for Statistical Inference with Class-Conditional Noisy Labels,http://jmlr.org/papers/v21/19-833.html,https://j.mp/3c9nTzJ
+j:JMLR,Double Reinforcement Learning for Efficient Off-Policy Evaluation in Markov Decision Processes,http://jmlr.org/papers/v21/19-827.html,https://j.mp/2EbMGa1
+j:JMLR,High Dimensional Forecasting via Interpretable Vector Autoregression,http://jmlr.org/papers/v21/19-777.html,https://j.mp/3myu9pt
+j:JMLR,Complete Dictionary Learning via L4-Norm Maximization over the Orthogonal Group,http://jmlr.org/papers/v21/19-755.html,https://j.mp/3cbv4aB
+j:JMLR,Cramer-Wold Auto-Encoder,http://jmlr.org/papers/v21/19-560.html,https://j.mp/2FJoE6L
+j:JMLR,Trust-Region Variational Inference with Gaussian Mixture Models,http://jmlr.org/papers/v21/19-524.html,https://j.mp/3iKbXaf
+j:JMLR,Regression with Comparisons: Escaping the Curse of Dimensionality with Ordinal Information,http://jmlr.org/papers/v21/19-505.html,https://j.mp/3cbuY2J
+j:JMLR,apricot: Submodular selection for data summarization in Python,http://jmlr.org/papers/v21/19-467.html,https://j.mp/3iBLlIq
+j:JMLR,Generative Adversarial Nets for Robust Scatter Estimation: A Proper Scoring Rule Perspective,http://jmlr.org/papers/v21/19-462.html,https://j.mp/3mtcGyS
+j:JMLR,Generating Weighted MAX-2-SAT Instances with Frustrated Loops: an RBM Case Study,http://jmlr.org/papers/v21/19-368.html,https://j.mp/3hI5iMi
+j:JMLR,"Learning Big Gaussian Bayesian Networks: Partition, Estimation and Fusion",http://jmlr.org/papers/v21/19-318.html,https://j.mp/3hFNQIo
+j:JMLR,Streamlined Variational Inference with Higher Level Random Effects,http://jmlr.org/papers/v21/19-222.html,https://j.mp/3hD5xsh
+j:JMLR,Asymptotic Consistency of α-Rényi-Approximate Posteriors,http://jmlr.org/papers/v21/19-161.html,https://j.mp/3hI5dIu
+j:JMLR,"Estimate Sequences for Stochastic Composite Optimization: Variance Reduction, Acceleration, and Robustness to Noise",http://jmlr.org/papers/v21/19-073.html,https://j.mp/2ZNyxHu
+j:JMLR,Learning from Binary Multiway Data: Probabilistic Tensor Decomposition and its Statistical Optimality,http://jmlr.org/papers/v21/18-766.html,https://j.mp/3hI0yGK
+j:JMLR,Spectral Algorithms for Community Detection in Directed Networks,http://jmlr.org/papers/v21/18-581.html,https://j.mp/32FOzFd
+j:JMLR,Dual Iterative Hard Thresholding,http://jmlr.org/papers/v21/18-487.html,https://j.mp/32D7TTI
+j:JMLR,Robust Reinforcement Learning with Bayesian Optimisation and Quadrature,http://jmlr.org/papers/v21/18-216.html,https://j.mp/3hINEIt
+j:JMLR,The Kalai-Smorodinsky solution for many-objective Bayesian optimization,http://jmlr.org/papers/v21/18-212.html,https://j.mp/3ca5rav
+j:JMLR,Distributionally Ambiguous Optimization for Batch Bayesian Optimization,http://jmlr.org/papers/v21/18-211.html,https://j.mp/32DezRD
+j:JMLR,Local Causal Network Learning for Finding Pairs of Total and Direct Effects,http://jmlr.org/papers/v21/18-083.html,https://j.mp/3c7RauE
+j:JMLR,Optimal Convergence for Distributed Learning with Stochastic Gradient Methods and Spectral Algorithms,http://jmlr.org/papers/v21/18-041.html,https://j.mp/2ZML4Lf
+j:JMLR,New Insights and Perspectives on the Natural Gradient Method,http://jmlr.org/papers/v21/17-678.html,https://j.mp/3hI5cUW
