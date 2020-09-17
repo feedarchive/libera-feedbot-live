@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Data Lifecycle Manager now supports multiple schedules within in a single lifecycle policy,https://aws.amazon.com/about-aws/whats-new/2020/09/data-lifecycle-manager-supports-multiple-schedules-within-single-lifecycle-policy/,https://j.mp/2RBoa59
+AWS:WhatsNew,Amazon Detective is now available in the Africa (Cape Town) & Europe (Milan) Regions,https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-detective-is-now-available-in-the-africa-cape-town-and-europe-milan-regions/,https://j.mp/33CF2hF
+AWS:WhatsNew,"AWS IoT SDK for embedded C version 202009.00 now available with refactored MQTT, JSON, and AWS IoT device shadow libraries",https://aws.amazon.com/about-aws/whats-new/2020/09/aws-iot-sdk-for-embedded-c-version-202009-00-now-available-with-refactored-mqtt-json-and-aws-iot-device-shadow-libraries/,https://j.mp/3mvxcyT
+AWS:WhatsNew,Amazon Connect launches API to configure routing profiles programmatically,https://aws.amazon.com/about-aws/whats-new/2020/09/amazon-connect-launches-api-to-configure-routing-profiles-programmatically/,https://j.mp/32Fk969
+AWS:WhatsNew,AWS Lambda adds console support for visualizing AWS Step Functions workflows,https://aws.amazon.com/about-aws/whats-new/2020/09/aws-lambda-adds-console-support-for-visualizing-aws-step-functions-workflows/,https://j.mp/35K5loy
