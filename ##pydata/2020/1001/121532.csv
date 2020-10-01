@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:cpython,fedora-2.7.18-6: 00354-cve-2020-26116-http-request-method-crlf-injection-in-httplib.patch,https://github.com/python/cpython/releases/tag/fedora-2.7.18-6,
+GitHub:cpython,fedora-2.7.18-5: 00351-cve-2019-20907-fix-infinite-loop-in-tarfile.patch,https://github.com/python/cpython/releases/tag/fedora-2.7.18-5,
