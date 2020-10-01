@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudFormation Drift Detection now supports CloudFormation Registry resource types,https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cloudformation-drift-detection-supports-cloudformation-registry-resource-types/,https://j.mp/3l3iBcr
+AWS:WhatsNew,Amazon Rekognition Custom Labels now enables creating a single inference API to find diverse objects and scenes in images with high accuracy,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-custom-labels-now-enables-creating-a-single-inference-api-to-find-diverse-objects-and-scenes-in-images-with-high-accuracy/,https://j.mp/2GssotH
