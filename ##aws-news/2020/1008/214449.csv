@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Inspector has expanded operating system support for Red Hat Enterprise Linux (RHEL) 8, Ubuntu 20.04 LTS, Debian 10, and Windows Server 2019",https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-inspector-has-expanded-operating-system-support/,https://j.mp/33EbVvw
+AWS:WhatsNew,Amazon Kinesis Data Analytics now supports Force Stop and a new Autoscaling status,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kinesis-data-analytics-supports-force-stop-and-new-autoscaling-status/,https://j.mp/2GuUNjd
+AWS:WhatsNew,AWS Cost Categories now supports hierarchies and status tracking,https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cost-categories-now-supports-hierarchies-and-status-tracking/,https://j.mp/2SAXwtE
+AWS:WhatsNew,Amazon EMR now supports placing your EMR master nodes in distinct racks to reduce risk of simultaneous failure,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-now-supports-placing-your-emr-master-nodes-in-distinct-acks-to-reduce-risk-of-simultaneous-failure/,https://j.mp/36K0YdE
+AWS:WhatsNew,AWS Glue Streaming ETL jobs support schema detection and evolution,https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-support-schema-detection-and-evolution/,https://j.mp/30KFE3Y
+AWS:WhatsNew,Announcing Amazon CloudWatch Lambda Insights (preview),https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudwatch-lambda-insights-preview/,https://j.mp/3nwfPhR
+AWS:WhatsNew,Amazon ElastiCache now supports M6g and R6g Graviton2-based instances,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticache-now-supports-m6g-and-r6g-graviton2-based-instances/,https://j.mp/3nGL7mq
