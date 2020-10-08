@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Apache Flink Kinesis Consumer supports EFO and HTTP/2 data retrieval,https://aws.amazon.com/about-aws/whats-new/2020/10/apache-flink-kinesis-consumer-supports-efo-http-2-data-retrieval/,https://j.mp/3nueaJx
+AWS:WhatsNew,Amazon ElastiCache for Redis adds support for Redis 6 with managed Role-Based Access Control (RBAC),https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticache-redis-support-managed-role-based-access-control/,https://j.mp/33EQ8UD
