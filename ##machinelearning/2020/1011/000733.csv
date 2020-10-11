@@ -1,0 +1,96 @@
+feed,title,long_url,short_url
+j:JMLR,Structural Learning of Chain Graphs via Decomposition,http://jmlr.org/papers/v9/ma08a.html,https://j.mp/34HA1F3
+j:JMLR,Magic Moments for Structured Output Prediction,http://jmlr.org/papers/v9/ricci08a.html,https://j.mp/34HA0Rv
+j:JMLR,Robust Submodular Observation Selection,http://jmlr.org/papers/v9/krause08b.html,https://j.mp/3nCm9UZ
+j:JMLR,Automatic PCA Dimension Selection for High Dimensional Data and Small Sample Sizes,http://jmlr.org/papers/v9/hoyle08a.html,https://j.mp/3df5xy5
+j:JMLR,Learning Bounded Treewidth Bayesian Networks,http://jmlr.org/papers/v9/elidan08a.html,https://j.mp/3nBGr15
+j:JMLR,JNCC2: The Java Implementation Of Naive Credal Classifier 2,http://jmlr.org/papers/v9/corani08b.html,https://j.mp/30OTaUn
+j:JMLR,An Extension on ``Statistical Comparisons of Classifiers over Multiple Data Sets'' for all Pairwise Comparisons,http://jmlr.org/papers/v9/garcia08a.html,https://j.mp/33PEqqh
+j:JMLR,Multi-Agent Reinforcement Learning in Common Interest and Fixed Sum Stochastic Games: An Experimental Study,http://jmlr.org/papers/v9/bab08a.html,https://j.mp/3lwPMFx
+j:JMLR,Model Selection for Regression with Continuous Kernel Functions Using the Modulus of Continuity,http://jmlr.org/papers/v9/koo08b.html,https://j.mp/34HA181
+j:JMLR,Visualizing Data using t-SNE,http://jmlr.org/papers/v9/vandermaaten08a.html,https://j.mp/3ly6nsv
+j:JMLR,Stationary Features and Cat Detection,http://jmlr.org/papers/v9/fleuret08a.html,https://j.mp/30T1YbM
+j:JMLR,Active Learning of Causal Networks with Intervention Experiments and Optimal Designs,http://jmlr.org/papers/v9/he08a.html,https://j.mp/3nAg3o9
+j:JMLR,SimpleMKL,http://jmlr.org/papers/v9/rakotomamonjy08a.html,https://j.mp/30T1Ysi
+j:JMLR,On the Equivalence of Linear Dimensionality-Reducing Transformations,http://jmlr.org/papers/v9/loog08a.html,https://j.mp/33NenzR
+j:JMLR,Minimal Nonlinear Distortion Principle for Nonlinear Independent Component Analysis,http://jmlr.org/papers/v9/zhang08b.html,https://j.mp/30T9x21
+j:JMLR,On the Size and Recovery of Submatrices of Ones in a Random Binary Matrix,http://jmlr.org/papers/v9/sun08a.html,https://j.mp/3nCm9Et
+j:JMLR,Non-Parametric Modeling of Partially Ranked Data,http://jmlr.org/papers/v9/lebanon08a.html,https://j.mp/3lCLFrF
+j:JMLR,Model Selection in Kernel Based Regression using the Influence Function,http://jmlr.org/papers/v9/debruyne08a.html,https://j.mp/2IlBARD
+j:JMLR,Learning to Select Features using their Properties,http://jmlr.org/papers/v9/krupka08b.html,https://j.mp/2Ib4rI0
+j:JMLR,Probabilistic Characterization of Random Decision Trees,http://jmlr.org/papers/v9/dhurandhar08a.html,https://j.mp/34HA1ox
+j:JMLR,Randomized Online PCA Algorithms with Regret Bounds that are Logarithmic in the Dimension,http://jmlr.org/papers/v9/warmuth08a.html,https://j.mp/2GOhCOJ
+j:JMLR,Finding Optimal Bayesian Network Given a Super-Structure,http://jmlr.org/papers/v9/perrier08a.html,https://j.mp/2GPTqLE
+j:JMLR,Forecasting Web Page Views: Methods and Observations,http://jmlr.org/papers/v9/li08a.html,https://j.mp/3jPwsD4
+j:JMLR,Ranking Individuals by Group Comparisons,http://jmlr.org/papers/v9/huang08a.html,https://j.mp/3nCrVWG
+j:JMLR,A Moment Bound for Multi-hinge Classifiers,http://jmlr.org/papers/v9/tarigan08a.html,https://j.mp/3lwwzDW
+j:JMLR,HPB: A Model for Handling BN Nodes with High Cardinality Parents,http://jmlr.org/papers/v9/jambeiro08a.html,https://j.mp/3ly6nbZ
+j:JMLR,Gradient Tree Boosting for Training Conditional Random Fields,http://jmlr.org/papers/v9/dietterich08a.html,https://j.mp/3lyug35
+j:JMLR,Value Function Approximation using Multiple Aggregation for Multiattribute Resource Management,http://jmlr.org/papers/v9/george08a.html,https://j.mp/34OkxPq
+j:JMLR,Approximations for Binary Gaussian Process Classification,http://jmlr.org/papers/v9/nickisch08a.html,https://j.mp/3iM4abi
+j:JMLR,Consistency of Random Forests and Other Averaging Classifiers,http://jmlr.org/papers/v9/biau08a.html,https://j.mp/30UxyWv
+j:JMLR,Mixed Membership Stochastic Blockmodels,http://jmlr.org/papers/v9/airoldi08a.html,https://j.mp/3nELhdJ
+j:JMLR,Complete Identification Methods for the Causal Hierarchy,http://jmlr.org/papers/v9/shpitser08a.html,https://j.mp/3nNIsYa
+j:JMLR,Manifold Learning: The Price of Normalization,http://jmlr.org/papers/v9/goldberg08a.html,https://j.mp/2IjgkvJ
+j:JMLR,On Relevant Dimensions in Kernel Feature Spaces,http://jmlr.org/papers/v9/braun08a.html,https://j.mp/3nCmabv
+j:JMLR,LIBLINEAR: A Library for Large Linear Classification,http://jmlr.org/papers/v9/fan08a.html,https://j.mp/3lw2mVu
+j:JMLR,Learning Balls of Strings from Edit Corrections,http://jmlr.org/papers/v9/becerra-bonache08a.html,https://j.mp/36OVfn3
+j:JMLR,Classification with a Reject Option using a Hinge Loss,http://jmlr.org/papers/v9/bartlett08a.html,https://j.mp/2GRjx51
+j:JMLR,Exponentiated Gradient Algorithms for Conditional Random Fields and Max-Margin Markov Networks,http://jmlr.org/papers/v9/collins08a.html,https://j.mp/36SkswT
+j:JMLR,Learning from Multiple Sources,http://jmlr.org/papers/v9/crammer08a.html,https://j.mp/30T1YIO
+j:JMLR,Nearly Uniform Validation Improves Compression-Based Error Bounds,http://jmlr.org/papers/v9/bax08b.html,https://j.mp/3lqUhS2
+j:JMLR,Regularization on Graphs with Function-adapted Diffusion Processes,http://jmlr.org/papers/v9/szlam08a.html,https://j.mp/2Fix9pk
+j:JMLR,Value Function Based Reinforcement Learning in Changing Markovian Environments,http://jmlr.org/papers/v9/csaji08a.html,https://j.mp/3iLKmVd
+j:JMLR,A New Algorithm for Estimating the Effective Dimension-Reduction Subspace,http://jmlr.org/papers/v9/dalalyan08a.html,https://j.mp/3nAgajz
+j:JMLR,Universal Multi-Task Kernels,http://jmlr.org/papers/v9/caponnetto08a.html,https://j.mp/34HA2c5
+j:JMLR,Dynamic Hierarchical Markov Random Fields for Integrated Web Data Extraction,http://jmlr.org/papers/v9/zhu08a.html,https://j.mp/3lw2ioI
+j:JMLR,Aggregation of SVM Classifiers Using Sobolev Spaces,http://jmlr.org/papers/v9/loustau08a.html,https://j.mp/3nDcVYH
+j:JMLR,Learning to Combine Motor Primitives Via Greedy Additive Regression,http://jmlr.org/papers/v9/chhabra08a.html,https://j.mp/2GDky0R
+j:JMLR,Incremental Identification of Qualitative Models of Biological Systems using Inductive Logic Programming,http://jmlr.org/papers/v9/srinivasan08a.html,https://j.mp/30T1ZfQ
+j:JMLR,Causal Reasoning with Ancestral Graphs,http://jmlr.org/papers/v9/zhang08a.html,https://j.mp/34HA1Vz
+j:JMLR,Online Learning of Complex Prediction Problems Using Simultaneous Projections,http://jmlr.org/papers/v9/amit08a.html,https://j.mp/3dgo7pq
+j:JMLR,Coordinate Descent Method for Large-scale L2-loss Linear Support Vector Machines,http://jmlr.org/papers/v9/chang08a.html,https://j.mp/34IXWE6
+j:JMLR,A Bahadur Representation of the Linear Support Vector Machine,http://jmlr.org/papers/v9/koo08a.html,https://j.mp/2GOidzU
+j:JMLR,Using Markov Blankets for Causal Structure Learning,http://jmlr.org/papers/v9/pellet08a.html,https://j.mp/34JTKUn
+j:JMLR,Optimal Solutions for Sparse Principal Component Analysis,http://jmlr.org/papers/v9/aspremont08a.html,https://j.mp/33S3ddn
+j:JMLR,Maximal Causes for Non-linear Component Extraction,http://jmlr.org/papers/v9/luecke08a.html,https://j.mp/2GKDxGG
+j:JMLR,Consistency of the Group Lasso and Multiple Kernel Learning,http://jmlr.org/papers/v9/bach08b.html,https://j.mp/36YDKAV
+j:JMLR,Cross-Validation Optimization for Large Scale Structured Classification Kernel Methods,http://jmlr.org/papers/v9/seeger08b.html,https://j.mp/2Fix8Si
+j:JMLR,A Multiple Instance Learning Strategy for Combating Good Word Attacks on Spam Filters,http://jmlr.org/papers/v9/jorgensen08a.html,https://j.mp/36RnvWb
+j:JMLR,Ranking Categorical Features Using Generalization Properties,http://jmlr.org/papers/v9/sabato08a.html,https://j.mp/2Ia4ALM
+j:JMLR,Learning Similarity with Operator-valued Large-margin Classifiers,http://jmlr.org/papers/v9/maurer08a.html,https://j.mp/36QEUOz
+j:JMLR,Consistency of Trace Norm Minimization,http://jmlr.org/papers/v9/bach08a.html,https://j.mp/2IlBGZv
+j:JMLR,Hit Miss Networks with Applications to Instance Selection,http://jmlr.org/papers/v9/marchiori08a.html,https://j.mp/34LlYy1
+j:JMLR,Shark,http://jmlr.org/papers/v9/igel08a.html,https://j.mp/30QS6PW
+j:JMLR,Search for Additive Nonlinear Time Series Causal Models,http://jmlr.org/papers/v9/chu08a.html,https://j.mp/3lLtpMT
+j:JMLR,Accelerated Neural Evolution through Cooperatively Coevolved Synapses,http://jmlr.org/papers/v9/gomez08a.html,https://j.mp/3jPIcFs
+j:JMLR,Bouligand Derivatives and Robustness of Support Vector Machines for Regression,http://jmlr.org/papers/v9/christmann08a.html,https://j.mp/36SFQCg
+j:JMLR,Graphical Methods for Efficient Likelihood Inference in Gaussian Covariance Models,http://jmlr.org/papers/v9/drton08a.html,https://j.mp/2IeUkC1
+j:JMLR,An Error Bound Based on a Worst Likely Assignment,http://jmlr.org/papers/v9/bax08a.html,https://j.mp/30T1ZMS
+j:JMLR,Finite-Time Bounds for Fitted Value Iteration,http://jmlr.org/papers/v9/munos08a.html,https://j.mp/36RELuh
+j:JMLR,Bayesian Inference and Optimal Design for the Sparse Linear Model,http://jmlr.org/papers/v9/seeger08a.html,https://j.mp/34MQLKP
+j:JMLR,Multi-class Discriminant Kernel Learning via Convex Programming,http://jmlr.org/papers/v9/ye08b.html,https://j.mp/36P0KlL
+j:JMLR,Learning Control Knowledge for Forward Search Planning,http://jmlr.org/papers/v9/yoon08a.html,https://j.mp/3lyAxfb
+j:JMLR,"Graphical Models for Structured Classification, with an Application to Interpreting Images of Protein Subcellular Location Patterns",http://jmlr.org/papers/v9/chen08a.html,https://j.mp/3lyUenk
+j:JMLR,Trust Region Newton Method for Logistic Regression,http://jmlr.org/papers/v9/lin08b.html,https://j.mp/3lD963N
+j:JMLR,A Library for Locally Weighted Projection Regression,http://jmlr.org/papers/v9/klanke08a.html,https://j.mp/36Q32B2
+j:JMLR,Learning Reliable Classifiers From Small or Incomplete Data Sets: The Naive Credal Classifier 2,http://jmlr.org/papers/v9/corani08a.html,https://j.mp/30TF4kA
+j:JMLR,Closed Sets for Labeled Data,http://jmlr.org/papers/v9/garriga08a.html,https://j.mp/2FhMrdV
+j:JMLR,An Information Criterion for Variable Selection in Support Vector Machines,http://jmlr.org/papers/v9/claeskens08a.html,https://j.mp/36TWAZW
+j:JMLR,Estimating the Confidence Interval for Prediction Errors of Support Vector Machine Classifiers,http://jmlr.org/papers/v9/jiang08a.html,https://j.mp/3lwwvnG
+j:JMLR,Comments on the Complete Characterization of a Family of Solutions to a Generalized Fisher Criterion,http://jmlr.org/papers/v9/ye08a.html,https://j.mp/3nDDInW
+j:JMLR,Model Selection Through Sparse Maximum Likelihood Estimation for Multivariate Gaussian or Binary Data,http://jmlr.org/papers/v9/banerjee08a.html,https://j.mp/3lzQqC9
+j:JMLR,A Recursive Method for Structural Learning of Directed Acyclic Graphs,http://jmlr.org/papers/v9/xie08a.html,https://j.mp/36R19nw
+j:JMLR,Theoretical Advantages of Lenient Learners: An Evolutionary Game Theoretic Perspective,http://jmlr.org/papers/v9/panait08a.html,https://j.mp/34J9EOV
+j:JMLR,A Tutorial on Conformal Prediction,http://jmlr.org/papers/v9/shafer08a.html,https://j.mp/33PEt5r
+j:JMLR,Generalization from Observed to Unobserved Features by Clustering,http://jmlr.org/papers/v9/krupka08a.html,https://j.mp/3nClZwR
+j:JMLR,Algorithms for Sparse Linear Classifiers in the Massive Data Setting,http://jmlr.org/papers/v9/balakrishnan08a.html,https://j.mp/3iNxXAl
+j:JMLR,Support Vector Machinery for Infinite Ensemble Learning,http://jmlr.org/papers/v9/lin08a.html,https://j.mp/2GTNvFk
+j:JMLR,"Near-Optimal Sensor Placements in Gaussian Processes: Theory, Efficient Algorithms and Empirical Studies",http://jmlr.org/papers/v9/krause08a.html,https://j.mp/2GRaZLs
+j:JMLR,Optimization Techniques for Semi-Supervised Support Vector Machines,http://jmlr.org/papers/v9/chapelle08a.html,https://j.mp/36VOdge
+j:JMLR,Evidence Contrary to the Statistical View of Boosting,http://jmlr.org/papers/v9/mease08a.html,https://j.mp/34IFb3z
+j:JMLR,Active Learning by Spherical Subdivision,http://jmlr.org/papers/v9/henrich08a.html,https://j.mp/30T20jU
+j:JMLR,Discriminative Learning of Max-Sum Classifiers,http://jmlr.org/papers/v9/franc08a.html,https://j.mp/30TVlpy
+j:JMLR,On the Suitable Domain for SVM Training in Image Coding,http://jmlr.org/papers/v9/camps-valls08a.html,https://j.mp/34HsR3G
+j:JMLR,Linear-Time Computation of Similarity Measures for Sequential Data,http://jmlr.org/papers/v9/rieck08a.html,https://j.mp/36NAQie
+j:JMLR,Max-margin Classification of Data with Absent Features,http://jmlr.org/papers/v9/chechik08a.html,https://j.mp/2GJnIQo
