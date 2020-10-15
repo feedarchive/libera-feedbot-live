@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora enables dynamic resizing for database storage space,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-enables-dynamic-resizing-database-storage-space/,https://j.mp/34ZAZN3
+AWS:WhatsNew,AWS Glue Streaming ETL jobs support reading records in the Apache Avro format,https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-support-reading-records-in-apache-avro-format/,https://j.mp/3lRHh82
+AWS:WhatsNew,AWS IAM Access Analyzer now supports archive rules for existing findings,https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iam-access-analyzer-now-supports-archive-rules-for-existing-findings/,https://j.mp/343jRGO
