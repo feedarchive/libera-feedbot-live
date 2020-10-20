@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"I need some help on the proof of the e-greedy policy improvement based on Monte Carlo method. This is from the RL book of Barto and Sutton, and at (5.2) author proved the e-greedy policy improvement. but the first equality really confuses me. why 𝑞𝜋(𝑠,𝜋′(𝑠))=∑𝑎𝜋′(𝑎|𝑠)𝑞(𝑠,𝑎) holds?",https://redd.it/jeg8gf,
