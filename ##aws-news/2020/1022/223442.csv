@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS App Mesh supports cross account sharing of ACM Private Certificate Authority,https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-supports-cross-account-sharing-of-acm-private-certificate-authority/,https://amzn.to/3dQbbXz
+AWS:WhatsNew,Amazon SNS introduces First-in-First-out (FIFO) topics with strict ordering and deduplication of messages,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-introduces-fifo-topics-with-strict-ordering-and-deduplication-of-messages/,https://amzn.to/3kmLJeX
+AWS:WhatsNew,AWS App Mesh increases default limits on several resources,https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-increases-default-limits-on-several-resources/,https://amzn.to/3dMRHTQ
+AWS:WhatsNew,Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/,https://amzn.to/34o7KV7
