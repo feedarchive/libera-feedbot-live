@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle supports managed disaster recovery (DR) with Oracle Data Guard physical standby database,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-oracle-supports-managed-disaster-recovery-with-oracle-guard-physical-standby-database/,https://amzn.to/2FRClkh
+AWS:WhatsNew,Amazon AppStream 2.0 adds a smaller instance size to the General Purpose instance family,https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appstream-2-0-adds-smaller-instance-size-general-purpose-instance-family/,https://amzn.to/2IYcHLZ
+AWS:WhatsNew,AWS CloudFormation now supports increased limits on five service quotas,https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cloudformation-now-supports-increased-limits-on-five-service-quotas/,https://amzn.to/35oiylp
