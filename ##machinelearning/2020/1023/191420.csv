@@ -1,0 +1,45 @@
+feed,title,long_url,short_url
+PwC:Latest,An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1,https://j.mp/2J02Wgn
+PwC:Latest,mT5: A massively multilingual pre-trained text-to-text transformer,https://paperswithcode.com/paper/mt5-a-massively-multilingual-pre-trained-text,https://j.mp/2TkMg54
+PwC:Latest,Differentially-Private Federated Linear Bandits,https://paperswithcode.com/paper/differentially-private-federated-linear,https://j.mp/3micQrX
+PwC:Latest,Conditional independence by typing,https://paperswithcode.com/paper/conditional-independence-by-typing,https://j.mp/35royK6
+PwC:Latest,Unsupervised Representation Learning for Speaker Recognition via Contrastive Equilibrium Learning,https://paperswithcode.com/paper/unsupervised-representation-learning-for-1,https://j.mp/34osNXF
+PwC:Latest,Label-Aware Neural Tangent Kernel: Toward Better Generalization and Local Elasticity,https://paperswithcode.com/paper/label-aware-neural-tangent-kernel-toward,https://j.mp/37zJHnX
+PwC:Latest,Accelerating Reinforcement Learning with Learned Skill Priors,https://paperswithcode.com/paper/accelerating-reinforcement-learning-with-1,https://j.mp/37x0Yyd
+PwC:Latest,Multi-agent active perception with prediction rewards,https://paperswithcode.com/paper/multi-agent-active-perception-with-prediction,https://j.mp/31yUvPC
+PwC:Latest,A shell model of eye growth and elasticity,https://paperswithcode.com/paper/a-shell-model-of-eye-growth-and-elasticity,https://j.mp/35tkQiV
+PwC:Latest,Predicting Human Decision Making in Psychological Tasks with Recurrent Neural Networks,https://paperswithcode.com/paper/predicting-human-decision-making-in,https://j.mp/3kqrCwn
+PwC:Latest,Spikyball sampling: Exploring large networks via an inhomogeneous filtered diffusion,https://paperswithcode.com/paper/spikyball-sampling-exploring-large-networks,https://j.mp/37vzfxU
+PwC:Latest,Factorized Neural Processes for Neural Processes: $K$-Shot Prediction of Neural Responses,https://paperswithcode.com/paper/factorized-neural-processes-for-neural,https://j.mp/31AuU8R
+PwC:Latest,In Search of Robust Measures of Generalization,https://paperswithcode.com/paper/in-search-of-robust-measures-of,https://j.mp/31B7AHT
+PwC:Latest,"MinMax Methods for Optimal Transport and Beyond: Regularization, Approximation and Numerics",https://paperswithcode.com/paper/minmax-methods-for-optimal-transport-and,https://j.mp/37I7cv0
+PwC:Latest,Python (deep learning and machine learning) for EEG signal processing on the example of recognizing the disease of alcoholism,https://paperswithcode.com/paper/python-deep-learning-and-machine-learning-for,https://j.mp/34o3ipe
+PwC:Latest,Identifying Learning Rules From Neural Network Observables,https://paperswithcode.com/paper/identifying-learning-rules-from-neural,https://j.mp/2HromCs
+PwC:Latest,Learning Dual Semantic Relations with Graph Attention for Image-Text Matching,https://paperswithcode.com/paper/learning-dual-semantic-relations-with-graph,https://j.mp/3omISVp
+PwC:Latest,Quaternion-Valued Variational Autoencoder,https://paperswithcode.com/paper/quaternion-valued-variational-autoencoder,https://j.mp/3mfvAYZ
+PwC:Latest,Continual Learning in Low-rank Orthogonal Subspaces,https://paperswithcode.com/paper/continual-learning-in-low-rank-orthogonal,https://j.mp/3jjeA2g
+PwC:Latest,Contrastive Self-Supervised Learning for Wireless Power Control,https://paperswithcode.com/paper/contrastive-self-supervised-learning-for-2,https://j.mp/37y1gF2
+PwC:Latest,Learning Black-Box Attackers with Transferable Priors and Query Feedback,https://paperswithcode.com/paper/learning-black-box-attackers-with,https://j.mp/2Hs98NG
+PwC:Latest,WaveTransformer: A Novel Architecture for Audio Captioning Based on Learning Temporal and Time-Frequency Information,https://paperswithcode.com/paper/wavetransformer-a-novel-architecture-for,https://j.mp/3oocyBw
+PwC:Latest,Taming Discrete Integration via the Boon of Dimensionality,https://paperswithcode.com/paper/taming-discrete-integration-via-the-boon-of,https://j.mp/2FTyzqC
+PwC:Latest,PBoS: Probabilistic Bag-of-Subwords for Generalizing Word Embedding,https://paperswithcode.com/paper/pbos-probabilistic-bag-of-subwords-for,https://j.mp/3micQYZ
+PwC:Latest,Token Drop mechanism for Neural Machine Translation,https://paperswithcode.com/paper/token-drop-mechanism-for-neural-machine,https://j.mp/3ohib4N
+PwC:Latest,Towards End-to-End Training of Automatic Speech Recognition for Nigerian Pidgin,https://paperswithcode.com/paper/towards-end-to-end-training-of-automatic,https://j.mp/2Hy9ge1
+PwC:Latest,TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog,https://paperswithcode.com/paper/turngpt-a-transformer-based-language-model,https://j.mp/3onL5jJ
+PwC:Latest,DuoRAT: Towards Simpler Text-to-SQL Models,https://paperswithcode.com/paper/duorat-towards-simpler-text-to-sql-models,https://j.mp/3oo2KHN
+PwC:Latest,Influence-Augmented Online Planning for Complex Environments,https://paperswithcode.com/paper/influence-augmented-online-planning-for,https://j.mp/3jndoef
+PwC:Latest,The Effect of the Rooney Rule on Implicit Bias in the Long Term,https://paperswithcode.com/paper/the-effect-of-the-rooney-rule-on-implicit,https://j.mp/2Hkj2B3
+PwC:Latest,uARMSolver: A framework for Association Rule Mining,https://paperswithcode.com/paper/uarmsolver-a-framework-for-association-rule,https://j.mp/3micPUV
+PwC:Latest,Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling,https://paperswithcode.com/paper/document-level-relation-extraction-with,https://j.mp/3dZLeVK
+PwC:Latest,Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies,https://paperswithcode.com/paper/removing-bias-in-multi-modal-classifiers,https://j.mp/3mdmufx
+PwC:Latest,Contrastive Learning of General-Purpose Audio Representations,https://paperswithcode.com/paper/contrastive-learning-of-general-purpose-audio,https://j.mp/31BADeK
+PwC:Latest,Multi-Unit Transformer for Neural Machine Translation,https://paperswithcode.com/paper/multi-unit-transformer-for-neural-machine,https://j.mp/37EMw7h
+PwC:Latest,Progressive Batching for Efficient Non-linear Least Squares,https://paperswithcode.com/paper/progressive-batching-for-efficient-non-linear,https://j.mp/35vLvfd
+PwC:Latest,Visual Navigation in Real-World Indoor Environments Using End-to-End Deep Reinforcement Learning,https://paperswithcode.com/paper/visual-navigation-in-real-world-indoor,https://j.mp/35r9ufr
+PwC:Latest,One Model to Reconstruct Them All: A Novel Way to Use the Stochastic Noise in StyleGAN,https://paperswithcode.com/paper/one-model-to-reconstruct-them-all-a-novel-way,https://j.mp/2FS5P1o
+PwC:Latest,ComboLoss for Facial Attractiveness Analysis with Squeeze-and-Excitation Networks,https://paperswithcode.com/paper/comboloss-for-facial-attractiveness-analysis,https://j.mp/35pwBXW
+PwC:Latest,Correlation-aware Cooperative Multigroup Broadcast 360° Video Delivery Network: A Hierarchical Deep Reinforcement Learning Approach,https://paperswithcode.com/paper/correlation-aware-cooperative-multigroup,https://j.mp/34tbTqV
+PwC:Latest,VENOMAVE: Clean-Label Poisoning Against Speech Recognition,https://paperswithcode.com/paper/venomave-clean-label-poisoning-against-speech,https://j.mp/2FUgokB
+PwC:Latest,Convex Polytope Trees,https://paperswithcode.com/paper/convex-polytope-trees,https://j.mp/37C0aIw
+PwC:Latest,Black-Box Ripper: Copying black-box models using generative evolutionary algorithms,https://paperswithcode.com/paper/black-box-ripper-copying-black-box-models,https://j.mp/2Tn8pzL
+PwC:Latest,Tight Second-Order Certificates for Randomized Smoothing,https://paperswithcode.com/paper/tight-second-order-certificates-for-1,https://j.mp/3oocDFk
