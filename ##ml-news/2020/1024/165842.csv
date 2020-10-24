@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/ML:50+,"[P] “GANksy” - I trained StyleGAN2 on famous street art, but it developed a whole new style & people are buying the artwork",https://redd.it/jh9oma,
+r/ML:50+,"[Discussion] What exactly on CUDA makes backends like TF and Torch so attached to it? And if PlaidML found a way to use OpenCL and even Metal, why haven't those non-CUDA bits for tensor operations in GPU also been incorporated in the other backends?",https://redd.it/jh5cyh,
