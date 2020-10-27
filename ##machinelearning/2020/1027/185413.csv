@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"PyTorch 1.7 released w/ CUDA 11, New APIs for FFTs, Windows support for Distributed training and more",https://github.com/pytorch/pytorch/releases/tag/v1.7.0,
