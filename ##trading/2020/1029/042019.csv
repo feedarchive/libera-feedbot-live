@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Temporal Knowledge Graph Embedding Model based on Additive Time Series Decomposition,https://arxiv.org/abs/1911.07893v6,
+ArXiv,$(2+\epsilon)$-ANN for time series under the Fr\'echet distance,https://arxiv.org/abs/2008.09406v2,
+ArXiv,Decision-Aware Conditional GANs for Time Series Data,https://arxiv.org/abs/2009.12682v3,
