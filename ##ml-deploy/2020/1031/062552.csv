@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitLab:Blog,Caching Docker images to reduce the number of calls to DockerHub from your CI/CD infrastructure,https://about.gitlab.com/blog/2020/10/30/mitigating-the-impact-of-docker-hub-pull-requests-limits/,https://j.mp/3jIJTUk
+GitLab:Blog,The Dependency Proxy is moving to open source,https://about.gitlab.com/blog/2020/10/30/minor-breaking-change-dependency-proxy/,https://j.mp/2HHWEln
+GitLab:Blog,Future-proof your developer career,https://about.gitlab.com/blog/2020/10/30/future-proof-your-developer-career/,https://j.mp/37YoxjO
