@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:NY,"As of 2020-11-01, `New York in US` has 476_200 active COVID-19 cases (↑0% by +2_168) (doubling in 151.9d) and 33_535 deaths (↑0% by 24) (doubling in 968.2d), with a death rate of 6.6% (↓0.0%)",https://covid-api.com/api/reports?date=2020-11-01&iso=USA&region_province=New%20York,https://j.mp/3mMBX6D
