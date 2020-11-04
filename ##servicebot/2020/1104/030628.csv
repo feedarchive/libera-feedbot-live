@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,Brain Predictability toolbox: a Python library for neuroimaging based machine learning,https://arxiv.org/abs/2011.01715v1,
+ArXiv,"Solving large number of non-stiff, low-dimensional ordinary differential equation systems on GPUs and CPUs: performance comparisons of MPGOS, ODEINT and DifferentialEquations.jl",https://arxiv.org/abs/2011.01740v1,
