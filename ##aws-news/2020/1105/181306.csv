@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS IoT SDK for Embedded C version 202011.00 now includes refactored coreHTTP, AWS IoT Device Defender, and AWS IoT Jobs libraries",https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sdk-embedded-c-version-includes-refactored-corehttp-aws-iot-device-defender-aws-iot-jobs-libraries/,https://amzn.to/2GAxUuG
+AWS:WhatsNew,AWS Systems Manager OpsCenter now integrates with Amazon CloudWatch for easier diagnosis and remediation of alarms,https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-opscenter-integrates-amazon-cloudwatch/,https://amzn.to/3jZ7Zdx
