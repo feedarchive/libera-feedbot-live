@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CA,"As of 2020-11-05, `California in US` has 938_994 active COVID-19 cases (↑1% by +5_882) (doubling in 110.3d) and 17_860 deaths (↑0% by 52) (doubling in 237.7d), with a death rate of 1.9% (↓0.0%)",https://covid-api.com/api/reports?date=2020-11-05&iso=USA&region_province=California,https://j.mp/2Iayj7g
