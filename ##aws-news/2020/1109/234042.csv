@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On",https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-deepcomposers-next-chartbusters-challenge/,https://amzn.to/3laLWCa
+AWS:WhatsNew,Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns,https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/,https://amzn.to/3n9sJBC
+AWS:WhatsNew,Now you can export your Amazon DynamoDB table data to your data lake in Amazon S3 to perform analytics at any scale,https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-export-your-amazon-dynamodb-table-data-to-your-data-lake-in-amazon-s3-to-perform-analytics-at-any-scale/,https://amzn.to/32tDabk
