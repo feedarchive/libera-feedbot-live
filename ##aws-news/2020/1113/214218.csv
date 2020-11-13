@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Network Load Balancer now supports IPv6,https://aws.amazon.com/about-aws/whats-new/2020/11/network-load-balancer-supports-ipv6/,https://amzn.to/3ptyKuE
+AWS:WhatsNew,"Amazon Athena adds support for running SQL queries across relational, non-relational, object, and custom data sources",https://aws.amazon.com/about-aws/whats-new/2020/11/aws-what-s-new-for-athena-federated-query/,https://amzn.to/36AIgUk
