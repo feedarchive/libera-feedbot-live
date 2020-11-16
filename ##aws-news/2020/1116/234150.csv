@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing Machine to Cloud Connectivity Framework v1.2,https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-machine-cloud-connectivity-framework-v1-2/,https://amzn.to/2IJ3xmw
+AWS:WhatsNew,AWS X-Ray now supports trace context propagation for Amazon Simple Storage Service (S3),https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/,https://amzn.to/2ULB6ap
+AWS:WhatsNew,"AWS IoT Device Management enhances Secure Tunneling with new multiplexing capability, supporting multiple connections to a single device over a secure tunnel",https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-device-management-enhances-secure-tunneling-with-new-multiplexing-capability-supporting-multiple-connections-to-a-single-device-over-a-secure-tunnel/,https://amzn.to/3pBVdG8
