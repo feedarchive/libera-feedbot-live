@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Database Migration Service now supports C5, R5 and T3 instance types",https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-next-generation-aws-database-migration-service-instances/,https://amzn.to/2IJKk41
+AWS:WhatsNew,Amazon Chime SDK now supports public switched telephone network (PSTN) audio,https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-chime-sdk-supports-public-switched-telephone-network-audio/,https://amzn.to/2ULGPg1
+AWS:WhatsNew,Now customize the idle session timeout value and stream session logs to Amazon CloudWatch Logs for Session Manager,https://aws.amazon.com/about-aws/whats-new/2020/11/aws-customize-the-idle-session-timeout-and-stream-session-logs-t/,https://amzn.to/36LZvC1
