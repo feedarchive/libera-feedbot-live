@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[appstream2-us-east-1] [RESOLVED] Elevated API Error Rates,http://status.aws.amazon.com/#appstream2-us-east-1_1605849982,
+status,[cloudwatch-us-east-1] [RESOLVED] Elevated API Errors and Delayed metrics,http://status.aws.amazon.com/#cloudwatch-us-east-1_1605850324,
+status,[kinesis-us-east-1] [RESOLVED] Increased API Errors,http://status.aws.amazon.com/#kinesis-us-east-1_1605849800,
