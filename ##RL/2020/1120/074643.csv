@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,Can someone explain to me why does Monte Carlo policy evaluation relies on action-value 'q' rather than state-value 'v'?,https://redd.it/jx3dp8,
