@@ -1,0 +1,29 @@
+feed,title,long_url,short_url
+j:JMLR,Dynamic Assortment Optimization with Changing Contextual Information,http://jmlr.org/papers/v21/19-1054.html,https://j.mp/3nGDag7
+j:JMLR,Mining Topological Structure in Graphs through Forest Representations,http://jmlr.org/papers/v21/19-1032.html,https://j.mp/3kLeW2h
+j:JMLR,Provable Convex Co-clustering of Tensors,http://jmlr.org/papers/v21/18-155.html,https://j.mp/3pQ4GcP
+j:JMLR,Multiclass Anomaly Detector: the CS++ Support Vector Machine,http://jmlr.org/papers/v21/16-122.html,https://j.mp/2UM19yc
+j:JMLR,scikit-survival: A Library for Time-to-Event Analysis Built on Top of scikit-learn,http://jmlr.org/papers/v21/20-729.html,https://j.mp/3oqBOr3
+j:JMLR,Random Smoothing Might be Unable to Certify L∞ Robustness for High-Dimensional Images,http://jmlr.org/papers/v21/20-209.html,https://j.mp/334Uunc
+j:JMLR,ProtoAttend: Attention-Based Prototypical Learning,http://jmlr.org/papers/v21/20-042.html,https://j.mp/2UJtDZ4
+j:JMLR,A Sober Look at the Unsupervised Learning of Disentangled Representations and their Evaluation,http://jmlr.org/papers/v21/19-976.html,https://j.mp/2HiPi7o
+j:JMLR,Learning Data-adaptive Non-parametric Kernels,http://jmlr.org/papers/v21/19-900.html,https://j.mp/35My9N0
+j:JMLR,Functional Martingale Residual Process for High-Dimensional Cox Regression with Model Averaging,http://jmlr.org/papers/v21/19-829.html,https://j.mp/3lPO6HV
+j:JMLR,"On Convergence of Distributed Approximate Newton Methods: Globalization, Sharper Bounds and Beyond",http://jmlr.org/papers/v21/19-764.html,https://j.mp/3pNjclF
+j:JMLR,Sobolev Norm Learning Rates for Regularized Least-Squares Algorithms,http://jmlr.org/papers/v21/19-734.html,https://j.mp/3pMLcpr
+j:JMLR,Two-Stage Approach to Multivariate Linear Regression with Sparsely Mismatched Data,http://jmlr.org/papers/v21/19-645.html,https://j.mp/392jIpW
+j:JMLR,Dynamic Control of Stochastic Evolution: A Deep Reinforcement Learning Approach to Adaptively Targeting Emergent Drug Resistance,http://jmlr.org/papers/v21/19-546.html,https://j.mp/35PA7wc
+j:JMLR,A Numerical Measure of the Instability of Mapper-Type Algorithms,http://jmlr.org/papers/v21/19-540.html,https://j.mp/2IO8UkO
+j:JMLR,Continuous-Time Birth-Death MCMC for Bayesian Regression Tree Models,http://jmlr.org/papers/v21/19-307.html,https://j.mp/39f9G5d
+j:JMLR,Empirical Risk Minimization in the Non-interactive Local Model of Differential Privacy,http://jmlr.org/papers/v21/19-253.html,https://j.mp/3pGRqaq
+j:JMLR,Asymptotic Analysis via Stochastic Differential Equations of Gradient Descent Algorithms in Statistical and Computational Paradigms,http://jmlr.org/papers/v21/19-245.html,https://j.mp/2IVwImi
+j:JMLR,Reinforcement Learning in Continuous Time and Space: A Stochastic Control Approach,http://jmlr.org/papers/v21/19-144.html,https://j.mp/36SgliN
+j:JMLR,A determinantal point process for column subset selection,http://jmlr.org/papers/v21/19-080.html,https://j.mp/38ZVIUn
+j:JMLR,Successor Features Combine Elements of Model-Free and Model-based Reinforcement Learning,http://jmlr.org/papers/v21/19-060.html,https://j.mp/3lUPCZa
+j:JMLR,Conic Optimization for Quadratic Regression Under Sparse Noise,http://jmlr.org/papers/v21/18-881.html,https://j.mp/393BSYC
+j:JMLR,Contextual Explanation Networks,http://jmlr.org/papers/v21/18-856.html,https://j.mp/2UNauWc
+j:JMLR,Learning and Interpreting Multi-Multi-Instance Learning Networks,http://jmlr.org/papers/v21/18-811.html,https://j.mp/35MGv78
+j:JMLR,Semi-parametric Learning of Structured Temporal Point Processes,http://jmlr.org/papers/v21/18-735.html,https://j.mp/2UM1e4Y
+j:JMLR,Adaptive Smoothing for Path Integral Control,http://jmlr.org/papers/v21/18-624.html,https://j.mp/2UIKiMD
+j:JMLR,A Unified q-Memorization Framework for Asynchronous Stochastic Optimization,http://jmlr.org/papers/v21/18-434.html,https://j.mp/3m2ATLC
+j:JMLR,Beyond Trees: Classification with Sparse Pairwise Dependencies,http://jmlr.org/papers/v21/18-348.html,https://j.mp/330Z5a4
