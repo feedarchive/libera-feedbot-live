@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[cloudwatch-us-east-1] Informational message: Elevated API Error Rates,http://status.aws.amazon.com/#cloudwatch-us-east-1_1605843713,
+status,[kinesis-us-east-1] Informational message: Increased API Errors,http://status.aws.amazon.com/#kinesis-us-east-1_1605843388,
