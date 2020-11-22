@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.7.1-rc1: [Release/1.7.1] Embed `libiomp5.dylib` into wheel package (#48337),https://github.com/pytorch/pytorch/releases/tag/v1.7.1-rc1,
