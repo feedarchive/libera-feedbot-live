@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Braket now supports manual qubit allocation,https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-braket-supports-manual-qubit-allocation/,https://amzn.to/2V24xEU
+AWS:WhatsNew,Amazon CloudWatch Synthetics now supports canary scripts in Python with Selenium framework,https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-canary-scripts-python-with-selenium-framework/,https://amzn.to/2IWeGRt
+AWS:WhatsNew,AWS Secrets Manager now supports 5000 requests per second for the GetSecretValue API operation,https://aws.amazon.com/about-aws/whats-new/2020/11/aws-secrets-manager-supports-5000-requests-per-second-for-getsecretvalue-api-operation/,https://amzn.to/3nOyepm
+AWS:WhatsNew,Amazon Elasticsearch Service announces support for Remote Reindex,https://aws.amazon.com/about-aws/whats-new/2020/11/elasticsearch-service-announces-support-for-remote-reindex/,https://amzn.to/3779MsQ
+AWS:WhatsNew,AWS announces the launch of Amazon Comprehend Events,https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announces-launch-of-amazon-comprehend-events/,https://amzn.to/2J6EIB2
+AWS:WhatsNew,Amazon Elasticsearch Service now supports anomaly detection for high cardinality datasets,https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-supports-anomaly-detection-high-cardinality-datasets/,https://amzn.to/3fvL9cS
+AWS:WhatsNew,Amazon Elasticsearch Service introduces Piped Processing Language (PPL),https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-introduces-piped-processing-language-ppl/,https://amzn.to/3pXWJlT
+AWS:WhatsNew,Amazon ECS Cluster Auto Scaling now offers more responsive scaling,https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-offers-more-responsive-scaling/,https://amzn.to/39bNM2D
