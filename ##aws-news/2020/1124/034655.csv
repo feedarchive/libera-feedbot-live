@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Single Sign-On enables administrators to require users to set up MFA devices during sign-in,https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-enforced-mfa-device-enrollment-during-sign-in/,https://amzn.to/3nLNZxi
+AWS:WhatsNew,Amazon EC2 Auto Scaling now supports attaching multiple network interfaces at launch,https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/,https://amzn.to/2KwQplb
+AWS:WhatsNew,"Amazon DocumentDB (with MongoDB compatibility) is now available in AWS China (Ningxia) Region, Operated by NWCD",https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-is-now-available-in-the-aws-china-region/,https://amzn.to/374kPmA
+AWS:WhatsNew,Amazon Translate announces the General Availability of Active Custom Translation - ACT,https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-announces-the-general-availability-of-active-custom-translation-act/,https://amzn.to/2UYKqra
