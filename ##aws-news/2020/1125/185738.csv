@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[awsiot-us-east-1] Service degradation: Elevated Error Rates,http://status.aws.amazon.com/#awsiot-us-east-1_1606330158,
+status,[events-us-east-1] Service disruption: Increased API Error Rates,http://status.aws.amazon.com/#events-us-east-1_1606329894,
