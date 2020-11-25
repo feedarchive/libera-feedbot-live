@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+status,[batch-us-east-1] Service degradation: Increased Error Rates,http://status.aws.amazon.com/#batch-us-east-1_1606331703,
+status,[iotsitewise-us-east-1] Service degradation: Increased error rates and latency,http://status.aws.amazon.com/#iotsitewise-us-east-1_1606331247,
+status,[ecs-us-east-1] Service degradation: Increased API Error Rates and Launches,http://status.aws.amazon.com/#ecs-us-east-1_1606331221,
+status,[cloudfront] Informational message: Change Propagation and Invalidations Reporting Delay,http://status.aws.amazon.com/#cloudfront_1606331868,
+status,[cognito-us-east-1] Service degradation: Increased API error rates,http://status.aws.amazon.com/#cognito-us-east-1_1606331687,
