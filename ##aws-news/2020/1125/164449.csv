@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[events-us-east-1] Service degradation: Increased API Error Rates,http://status.aws.amazon.com/#events-us-east-1_1606322278,
+status,[cognito-us-east-1] Service degradation: Increased API error rates,http://status.aws.amazon.com/#cognito-us-east-1_1606321887,
+status,[cloudwatch-us-east-1] Informational message: Elevated PutMetricData API error rates,http://status.aws.amazon.com/#cloudwatch-us-east-1_1606322416,
