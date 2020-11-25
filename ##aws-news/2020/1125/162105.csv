@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[kinesis-us-east-1] Service degradation: Increased API error rates,http://status.aws.amazon.com/#kinesis-us-east-1_1606317153,
+status,[cognito-us-east-1] Informational message: Increased API error rates,http://status.aws.amazon.com/#cognito-us-east-1_1606320706,
