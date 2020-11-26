@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[workspaces-us-east-1] Informational message: Increased provisioning error rates,http://status.aws.amazon.com/#workspaces-us-east-1_1606350252,
+status,[ecs-us-east-1] Informational message: Increased API Error Rates and Launches,http://status.aws.amazon.com/#ecs-us-east-1_1606350262,
