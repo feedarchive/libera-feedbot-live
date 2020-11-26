@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[workspaces-us-east-1] Informational message: Increased provisioning error rates,http://status.aws.amazon.com/#workspaces-us-east-1_1606368148,
+status,[batch-us-east-1] Informational message: Job State Transition Delays,http://status.aws.amazon.com/#batch-us-east-1_1606368232,
