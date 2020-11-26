@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[batch-us-east-1] Informational message: Job State Transition Delays,http://status.aws.amazon.com/#batch-us-east-1_1606360981,
+status,[iotsitewise-us-east-1] Informational message: Increased Error rates and Latency,http://status.aws.amazon.com/#iotsitewise-us-east-1_1606361026,
