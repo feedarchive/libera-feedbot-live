@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:NJ,"As of 2020-11-26, `New Jersey in US` has 305_453 active COVID-19 cases (↑1% by +4_434) (doubling in 47.4d) and 16_925 deaths (↑0% by 39) (doubling in 300.5d), with a death rate of 5.3% (↓0.1%)",https://covid-api.com/api/reports?date=2020-11-26&iso=USA&region_province=New%20Jersey,https://j.mp/2KBBlTk
