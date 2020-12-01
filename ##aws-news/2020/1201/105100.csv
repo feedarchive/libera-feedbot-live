@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+APIchanges,Amazon Elastic Compute Cloud - 22 updated methods,https://awsapichanges.info/archive/changes/d40057-ec2.html,https://j.mp/3fT0u7H
+APIchanges,Amazon Appflow - 9 updated methods,https://awsapichanges.info/archive/changes/21c7dc-appflow.html,https://j.mp/33zzMMp
+APIchanges,AWS Batch - 2 updated methods,https://awsapichanges.info/archive/changes/21c7dc-batch.html,https://j.mp/39uPGeM
+APIchanges,AWS CloudFormation - 13 updated methods,https://awsapichanges.info/archive/changes/21c7dc-cloudformation.html,https://j.mp/2JoZexh
+APIchanges,AWS CloudTrail - 2 updated methods,https://awsapichanges.info/archive/changes/21c7dc-cloudtrail.html,https://j.mp/3g1CUWw
+APIchanges,AWS CodeBuild - 1 new methods,https://awsapichanges.info/archive/changes/21c7dc-codebuild.html,https://j.mp/2JhQf10
+APIchanges,Amazon Cognito Identity Provider - 4 updated methods,https://awsapichanges.info/archive/changes/21c7dc-cognito-idp.html,https://j.mp/33zzMfn
+APIchanges,Amazon Comprehend - 4 new methods,https://awsapichanges.info/archive/changes/21c7dc-comprehend.html,https://j.mp/3obhwkj
+APIchanges,Amazon FSx - 3 updated methods,https://awsapichanges.info/archive/changes/21c7dc-fsx.html,https://j.mp/3mqcJex
+APIchanges,Amazon GameLift - 8 updated methods,https://awsapichanges.info/archive/changes/21c7dc-gamelift.html,https://j.mp/3qhdrgo
+APIchanges,AWS IoT SiteWise - 2 new methods,https://awsapichanges.info/archive/changes/21c7dc-iotsitewise.html,https://j.mp/33vQf4n
+APIchanges,Amazon Lex Model Building Service - 6 updated methods,https://awsapichanges.info/archive/changes/21c7dc-models.lex.html,https://j.mp/3mqcIY1
+APIchanges,AWS Elemental MediaConvert - 11 updated methods,https://awsapichanges.info/archive/changes/21c7dc-mediaconvert.html,https://j.mp/3lxuCH6
+APIchanges,AmazonMWAA - 11 new methods,https://awsapichanges.info/archive/changes/21c7dc-airflow.html,https://j.mp/36rksDr
+APIchanges,Amazon QuickSight - 1 updated methods,https://awsapichanges.info/archive/changes/21c7dc-quicksight.html,https://j.mp/3mqM2X1
+APIchanges,AWS Step Functions - 1 new methods,https://awsapichanges.info/archive/changes/21c7dc-states.html,https://j.mp/3lkgNeU
+APIchanges,Amazon Timestream Write - 1 updated methods,https://awsapichanges.info/archive/changes/21c7dc-ingest.timestream.html,https://j.mp/36mTflf
