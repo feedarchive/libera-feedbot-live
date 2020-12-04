@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing table charts for AWS IoT SiteWise,https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-table-charts-for-aws-iot-sitewise/,https://amzn.to/2VG4IX6
+AWS:WhatsNew,Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs,https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-with-step-functions-startsyncexecution-http-apis/,https://amzn.to/39QCq4a
+AWS:WhatsNew,Amazon EMR now provides up to 30% lower cost and up to 15% improved performance for Spark workloads on Graviton2-based instances,https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-now-provides-up-to-30-lower-cost-and-up-to-15-improved-performance/,https://amzn.to/3qtCmNI
