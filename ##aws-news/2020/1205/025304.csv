@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Machine Images (AMIs) now support tag-on-create and tag-based access control,https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-images-support-tag-on-create-tag-based-access-control/,https://amzn.to/2L9JS0d
+AWS:WhatsNew,Amazon RDS for Oracle supports managed disaster recovery (DR) with Amazon RDS Cross-Region Automated Backups,https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-supports-managed-dr-with-cross-region-automated-backups/,https://amzn.to/37RrhxN
