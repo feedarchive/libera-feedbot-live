@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"""Using JAX to accelerate our research"", DeepMind (JAX extends Numpy-like approach; layered on top: Haiku objects / Optex optimisers / JRaph graphs / RLax agents / & Chex for testing)",https://redd.it/k6pk51,
