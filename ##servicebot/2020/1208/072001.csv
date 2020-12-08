@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CA,"As of 2020-12-07, `California in US` has 1_370_813 active COVID-19 cases (↑2% by +24_068) (doubling in 39.1d) and 20_015 deaths (↑0% by 87) (doubling in 159.1d), with a death rate of 1.4% (↓0.0%)",https://covid-api.com/api/reports?date=2020-12-07&iso=USA&region_province=California,https://j.mp/2JAwfXB
