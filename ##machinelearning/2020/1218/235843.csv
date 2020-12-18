@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+Nvidia:DevBlog,Training a Text2Sparql Model with MK-SQuIT and NeMo,https://developer.nvidia.com/blog/training-a-text2sparql-model-with-mk-squit-and-nemo/,https://j.mp/34rgYiU
+Nvidia:DevBlog,"Deploying a Scalable Object Detection Inference Pipeline: Optimization and Deployment, Part 3",https://developer.nvidia.com/blog/deploying-a-scalable-object-detection-inference-pipeline-optimization-and-deployment-part-3/,https://j.mp/3renljw
+Nvidia:DevBlog,"Deploying a Scalable Object Detection Pipeline: The Inferencing Process, Part 2",https://developer.nvidia.com/blog/deploying-a-scalable-object-detection-pipeline-the-inferencing-process-part-2/,https://j.mp/3nC5jVZ
+Nvidia:DevBlog,Minimizing Deep Learning Inference Latency with NVIDIA Multi-Instance GPU,https://developer.nvidia.com/blog/minimizing-dl-inference-latency-with-mig/,https://j.mp/3rcEjys
