@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[ec2-us-east-1] Informational message: Traffic Impacted for NAT Gateways,http://status.aws.amazon.com/#ec2-us-east-1_1608338005,
+status,[elb-us-east-1] Informational message: Traffic impacted for Network Load Balancer,http://status.aws.amazon.com/#elb-us-east-1_1608338126,
+status,[privatelink-us-east-1] Informational message: Traffic Impacted for VPC Endpoints,http://status.aws.amazon.com/#privatelink-us-east-1_1608337987,
