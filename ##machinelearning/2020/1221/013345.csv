@@ -1,0 +1,37 @@
+feed,title,long_url,short_url
+j:JMLR,Traces of Class/Cross-Class Structure Pervade Deep Learning Spectra,http://jmlr.org/papers/v21/20-933.html,https://j.mp/3hcyYmf
+j:JMLR,Online matrix factorization for Markovian data and applications to Network Dictionary Learning,http://jmlr.org/papers/v21/20-444.html,https://j.mp/2Kr6etX
+j:JMLR,High-dimensional quantile tensor regression,http://jmlr.org/papers/v21/20-383.html,https://j.mp/38nJnHJ
+j:JMLR,Learning Mixed Latent Tree Models,http://jmlr.org/papers/v21/20-365.html,https://j.mp/3nxMSlg
+j:JMLR,Towards the Systematic Reporting of the Energy and Carbon Footprints of Machine Learning,http://jmlr.org/papers/v21/20-312.html,https://j.mp/37Duv9c
+j:JMLR,Adaptive Rates for Total Variation Image Denoising,http://jmlr.org/papers/v21/20-301.html,https://j.mp/3rf3kch
+j:JMLR,On Efficient Adjustment in Causal Graphs,http://jmlr.org/papers/v21/20-175.html,https://j.mp/34zbjYe
+j:JMLR,A Group-Theoretic Framework for Data Augmentation,http://jmlr.org/papers/v21/20-163.html,https://j.mp/2WAcrXc
+j:JMLR,Rank-based Lasso - efficient methods for high-dimensional robust model selection,http://jmlr.org/papers/v21/20-120.html,https://j.mp/38jQQru
+j:JMLR,Best Practices for Scientific Research on Neural Architecture Search,http://jmlr.org/papers/v21/20-056.html,https://j.mp/2J8c3fp
+j:JMLR,Fair Data Adaptation with Quantile Preservation,http://jmlr.org/papers/v21/19-966.html,https://j.mp/38t7F3k
+j:JMLR,Efficient Inference for Nonparametric Hawkes Processes Using Auxiliary Latent Variables,http://jmlr.org/papers/v21/19-930.html,https://j.mp/3rf3PTU
+j:JMLR,Risk Bounds for Reservoir Computing,http://jmlr.org/papers/v21/19-902.html,https://j.mp/3nGeuog
+j:JMLR,Minimal Learning Machine: Theoretical Results and Clustering-Based Reference Point Selection,http://jmlr.org/papers/v21/19-786.html,https://j.mp/3h424nI
+j:JMLR,algcomparison: Comparing the Performance of Graphical Structure Learning Algorithms with TETRAD,http://jmlr.org/papers/v21/19-773.html,https://j.mp/38ijnNY
+j:JMLR,The Error-Feedback framework: SGD with Delayed Gradients,http://jmlr.org/papers/v21/19-748.html,https://j.mp/3nxMSBM
+j:JMLR,Lower Bounds for Learning Distributions under Communication Constraints via Fisher Information,http://jmlr.org/papers/v21/19-737.html,https://j.mp/2KN860c
+j:JMLR,Convex Programming for Estimation in Nonlinear Recurrent Models,http://jmlr.org/papers/v21/19-723.html,https://j.mp/2WuLIv7
+j:JMLR,Dual Extrapolation for Sparse GLMs,http://jmlr.org/papers/v21/19-587.html,https://j.mp/37yQUV1
+j:JMLR,Robust high dimensional learning for Lipschitz and convex losses,http://jmlr.org/papers/v21/19-585.html,https://j.mp/38lzlXM
+j:JMLR,Spectral Deconfounding via Perturbed Linear Models,http://jmlr.org/papers/v21/19-545.html,https://j.mp/2KJnVEO
+j:JMLR,Fast Exact Matrix Completion: A Unified Optimization Framework for Matrix Completion,http://jmlr.org/papers/v21/19-471.html,https://j.mp/3mDolKr
+j:JMLR,Stable Regression: On the Power of Optimization over Randomization,http://jmlr.org/papers/v21/19-408.html,https://j.mp/3h5gjJ2
+j:JMLR,Nonparametric graphical model for counts,http://jmlr.org/papers/v21/19-362.html,https://j.mp/3rdjhQl
+j:JMLR,Posterior sampling strategies based on discretized stochastic differential equations for machine learning applications,http://jmlr.org/papers/v21/19-339.html,https://j.mp/2WA6rNS
+j:JMLR,Significance Tests for Neural Networks,http://jmlr.org/papers/v21/19-264.html,https://j.mp/2KgMARA
+j:JMLR,A Sparse Semismooth Newton Based Proximal Majorization-Minimization Algorithm for Nonconvex Square-Root-Loss Regression Problems,http://jmlr.org/papers/v21/19-247.html,https://j.mp/3rjdxEW
+j:JMLR,Recovery of a Mixture of Gaussians by Sum-of-Norms Clustering,http://jmlr.org/papers/v21/19-218.html,https://j.mp/3rfUE5C
+j:JMLR,Ultra-High Dimensional Single-Index Quantile Regression,http://jmlr.org/papers/v21/19-173.html,https://j.mp/38lSgl7
+j:JMLR,Geomstats: A Python Package for Riemannian Geometry inMachine Learning,http://jmlr.org/papers/v21/19-027.html,https://j.mp/3h6HD9K
+j:JMLR,"Theory of Curriculum Learning, with Convex Loss Functions",http://jmlr.org/papers/v21/18-751.html,https://j.mp/3nGeuEM
+j:JMLR,Learning Sums of Independent Random Variables with Sparse Collective Support,http://jmlr.org/papers/v21/18-531.html,https://j.mp/3mBVVjV
+j:JMLR,Diffeomorphic Learning,http://jmlr.org/papers/v21/18-415.html,https://j.mp/3peO8ub
+j:JMLR,AdaGrad stepsizes: Sharp convergence over nonconvex landscapes,http://jmlr.org/papers/v21/18-352.html,https://j.mp/2KLd7pH
+j:JMLR,Spectral bandits,http://jmlr.org/papers/v21/16-529.html,https://j.mp/37zbiW6
+j:JMLR,On the Theoretical Guarantees for Parameter Estimation of Gaussian Random Field Models: A Sparse Precision Matrix Approach,http://jmlr.org/papers/v21/14-241.html,https://j.mp/3auEzTK
