@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Use AWS Secrets Manager to rotate your AWS Data Migration Service source and target database credentials,https://aws.amazon.com/about-aws/whats-new/2020/12/use-aws-secrets-manager-rotate-aws-data-migration-service-source-target-database-credentials/,https://amzn.to/34ycHdl
+AWS:WhatsNew,AWS Glue launches AWS Glue Custom Connectors,https://aws.amazon.com/about-aws/whats-new/2020/12/aws-glue-launches-aws-glue-custom-connectors/,https://amzn.to/3pj3yxA
+AWS:WhatsNew,AWS Config launches ability to save advanced queries,https://aws.amazon.com/about-aws/whats-new/2020/12/aws-config-advanced-query-feature-adds-support-saving-queries/,https://amzn.to/2KSvbi4
