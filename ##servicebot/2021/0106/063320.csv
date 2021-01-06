@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:NY,"As of 2021-01-05, `New York in US` has 1_009_538 active COVID-19 cases (↑1% by +12_998) (doubling in 53.5d) and 38_743 deaths (↑0% by 144) (doubling in 186.1d), with a death rate of 3.7% (↓0.0%)",https://covid-api.com/api/reports?date=2021-01-05&iso=USA&region_province=New%20York,https://j.mp/394pLZJ
