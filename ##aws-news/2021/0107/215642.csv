@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[cloudwatch-us-west-2] [RESOLVED] Increased Error Rates and Latencies,http://status.aws.amazon.com/#cloudwatch-us-west-2_1610055767,
+status,[events-us-west-2] [RESOLVED] Increased API Errors and Event Delivery Latencies,http://status.aws.amazon.com/#events-us-west-2_1610055980,
+status,[kinesis-us-west-2] [RESOLVED] Increase Error Rate,http://status.aws.amazon.com/#kinesis-us-west-2_1610055722,
