@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"aws-gate 0.10.0 released with support for connecting to SSM managed nodes, better error reporting and minor performance improvements. If you are using SSM to access your instances, you want to check it out!",https://redd.it/ksfvnc,
