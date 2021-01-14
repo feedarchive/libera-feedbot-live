@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CT,"As of 2021-01-13, `Connecticut in US` has 214_040 active COVID-19 cases (↑2% by +3_442) (doubling in 42.8d) and 6_536 deaths (↑1% by 87) (doubling in 51.7d), with a death rate of 3.0% (↓0.0%)",https://covid-api.com/api/reports?date=2021-01-13&iso=USA&region_province=Connecticut,https://j.mp/3oJBfs9
