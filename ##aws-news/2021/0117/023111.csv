@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,My website constantly needs to query my Dynamodb table for a list of items when a page is visited. Is there a better approach of going about this?,https://redd.it/kyp6qi,
