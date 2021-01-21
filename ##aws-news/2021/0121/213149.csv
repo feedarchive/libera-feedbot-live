@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Resource Groups Tagging API launches ResourceARNList parameter for the GetResources operation,https://aws.amazon.com/about-aws/whats-new/2021/01/resource-groups-tagging-api-launches-resourcearnlist-parameter-getresources-operation/,https://amzn.to/361P4eh
+AWS:WhatsNew,Announcing CDK Support for AWS Chalice,https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-cdk-support-aws-chalice/,https://amzn.to/3o1FP3D
+AWS:WhatsNew,Amazon ECS announces increased service quotas for tasks per service and services per cluster,https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ecs-increased-service-quotas-tasks-per-service-services-per-cluster/,https://amzn.to/3iAFaoN
+AWS:WhatsNew,"New AWS IoT Device Client simplifies onboarding to AWS IoT Core, AWS IoT Device Management, and AWS IoT Device Defender",https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/,https://amzn.to/361udYa
