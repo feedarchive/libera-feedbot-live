@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing AWS App Mesh Controller for Kubernetes version 1.3.0 with mTLS support,https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-app-mesh-controller-for-kubernetes-version-1-3-0-with-mtls-support/,https://amzn.to/36HIUjN
+AWS:WhatsNew,AWS App Mesh now supports mutual TLS authentication,https://aws.amazon.com/about-aws/whats-new/2021/02/aws-app-mesh-supports-mutual-tls-authentication/,https://amzn.to/2MZK2rG
