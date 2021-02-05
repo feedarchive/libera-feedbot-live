@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:NJ,"As of 2021-02-04, `New Jersey in US` has 687_303 active COVID-19 cases (↑0% by +3_189) (doubling in 149.0d) and 21_793 deaths (↑0% by 100) (doubling in 150.7d), with a death rate of 3.1% (↓0.0%)",https://covid-api.com/api/reports?date=2021-02-04&iso=USA&region_province=New%20Jersey,https://j.mp/2MuupsK
