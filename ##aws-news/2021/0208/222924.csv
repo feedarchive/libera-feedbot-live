@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Application Load Balancer now supports Application Cookie Stickiness,https://aws.amazon.com/about-aws/whats-new/2021/02/application-load-balancer-supports-application-cookie-stickiness/,https://amzn.to/3tN4JIH
+AWS:WhatsNew,Amazon ECS Service Discovery Now Available in Africa (Cape Town) and Europe (Milan),https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ecs-service-discovery-available-africa-cape-town-europe-milan/,https://amzn.to/2YXc89R
+AWS:WhatsNew,"You now can use PartiQL with DynamoDB local to query, insert, update, and delete table data in Amazon DynamoDB",https://aws.amazon.com/about-aws/whats-new/2021/02/you-now-can-use-partiql-with-dynamodb-local-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/,https://amzn.to/3b1m5Jh
