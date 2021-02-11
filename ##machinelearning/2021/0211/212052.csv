@@ -1,0 +1,50 @@
+feed,title,long_url,short_url
+j:JMLR,From Low Probability to High Confidence in Stochastic Convex Optimization,http://jmlr.org/papers/v22/20-821.html,https://j.mp/2ZlVrp3
+j:JMLR,Optimal Feedback Law Recovery by Gradient-Augmented Sparse Polynomial Regression,http://jmlr.org/papers/v22/20-755.html,https://j.mp/3qpG4Yc
+j:JMLR,Understanding Recurrent Neural Networks Using Nonequilibrium Response Theory,http://jmlr.org/papers/v22/20-620.html,https://j.mp/3qcwJD3
+j:JMLR,Optimal Structured Principal Subspace Estimation: Metric Entropy and Minimax Rates,http://jmlr.org/papers/v22/20-610.html,https://j.mp/3aR7gc0
+j:JMLR,RaSE: Random Subspace Ensemble Classification,http://jmlr.org/papers/v22/20-600.html,https://j.mp/3b2D6CS
+j:JMLR,Wasserstein barycenters can be computed in polynomial time in fixed dimension,http://jmlr.org/papers/v22/20-588.html,https://j.mp/2ZawRY6
+j:JMLR,Banach Space Representer Theorems for Neural Networks and Ridge Splines,http://jmlr.org/papers/v22/20-583.html,https://j.mp/3jEWWrq
+j:JMLR,High-Order Langevin Diffusion Yields an Accelerated MCMC Algorithm,http://jmlr.org/papers/v22/20-576.html,https://j.mp/3jGUykf
+j:JMLR,From Fourier to Koopman: Spectral Methods for Long-term Time Series Prediction,http://jmlr.org/papers/v22/20-406.html,https://j.mp/2LIOoU7
+j:JMLR,Residual Energy-Based Models for Text,http://jmlr.org/papers/v22/20-326.html,https://j.mp/3tIRQPA
+j:JMLR,giotto-tda: : A Topological Data Analysis Toolkit for Machine Learning and Data Exploration,http://jmlr.org/papers/v22/20-325.html,https://j.mp/3d7WTmP
+j:JMLR,Risk-Averse Learning by Temporal Difference Methods with Markov Risk Measures,http://jmlr.org/papers/v22/20-168.html,https://j.mp/2OvDiCX
+j:JMLR,A Bayesian Contiguous Partitioning Method for Learning Clustered Latent Variables,http://jmlr.org/papers/v22/20-136.html,https://j.mp/2Z6i4gL
+j:JMLR,Multi-class Gaussian Process Classification with Noisy Inputs,http://jmlr.org/papers/v22/20-107.html,https://j.mp/2LGqloE
+j:JMLR,Learning and Planning for Time-Varying MDPs Using Maximum Likelihood Estimation,http://jmlr.org/papers/v22/20-006.html,https://j.mp/3pe427F
+j:JMLR,Neighborhood Structure Assisted Non-negative Matrix Factorization and Its Application in Unsupervised Point-wise Anomaly Detection,http://jmlr.org/papers/v22/19-924.html,https://j.mp/2ZeRRwx
+j:JMLR,Asynchronous Online Testing of Multiple Hypotheses,http://jmlr.org/papers/v22/19-910.html,https://j.mp/372Vs5u
+j:JMLR,Learning interaction kernels in heterogeneous systems of agents from multiple trajectories,http://jmlr.org/papers/v22/19-861.html,https://j.mp/3tPrHPe
+j:JMLR,FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference,http://jmlr.org/papers/v22/19-853.html,https://j.mp/2OjyEYr
+j:JMLR,"A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms",http://jmlr.org/papers/v22/19-804.html,https://j.mp/3jEj719
+j:JMLR,Single and Multiple Change-Point Detection with Differential Privacy,http://jmlr.org/papers/v22/19-770.html,https://j.mp/3jGjx6Z
+j:JMLR,Tsallis-INF: An Optimal Algorithm for Stochastic and Adversarial Bandits,http://jmlr.org/papers/v22/19-753.html,https://j.mp/2Oy0X5P
+j:JMLR,Inference In High-dimensional Single-Index Models Under Symmetric Designs,http://jmlr.org/papers/v22/19-744.html,https://j.mp/373LuR8
+j:JMLR,Finite Time LTI System Identification,http://jmlr.org/papers/v22/19-725.html,https://j.mp/3d1idKM
+j:JMLR,Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions,http://jmlr.org/papers/v22/19-716.html,https://j.mp/3rOGpnV
+j:JMLR,Entangled Kernels - Beyond Separability,http://jmlr.org/papers/v22/19-665.html,https://j.mp/377DYF3
+j:JMLR,A Two-Level Decomposition Framework Exploiting First and Second Order Information for SVM Training Problems,http://jmlr.org/papers/v22/19-632.html,https://j.mp/3aYoZ1i
+j:JMLR,When random initializations help: a study of variational inference for community detection,http://jmlr.org/papers/v22/19-630.html,https://j.mp/3rOeUKT
+j:JMLR,A Fast Globally Linearly Convergent Algorithm for the Computation of Wasserstein Barycenters,http://jmlr.org/papers/v22/19-629.html,https://j.mp/3tOKJFp
+j:JMLR,Aggregated Hold-Out,http://jmlr.org/papers/v22/19-624.html,https://j.mp/2NjGMYF
+j:JMLR,Ranking and synchronization from pairwise measurements via SVD,http://jmlr.org/papers/v22/19-542.html,https://j.mp/3qq3LQx
+j:JMLR,A Unified Sample Selection Framework for Output Noise Filtering: An Error-Bound Perspective,http://jmlr.org/papers/v22/19-498.html,https://j.mp/2OwxZmH
+j:JMLR,Continuous Time Analysis of Momentum Methods,http://jmlr.org/papers/v22/19-466.html,https://j.mp/373ixVm
+j:JMLR,Pykg2vec: A Python Library for Knowledge Graph Embedding,http://jmlr.org/papers/v22/19-433.html,https://j.mp/3d08vZ7
+j:JMLR,Simple and Fast Algorithms for Interactive Machine Learning with Random Counter-examples,http://jmlr.org/papers/v22/19-372.html,https://j.mp/2ZawYD0
+j:JMLR,On Multi-Armed Bandit Designs for Dose-Finding Trials,http://jmlr.org/papers/v22/19-228.html,https://j.mp/378mPeq
+j:JMLR,Homogeneity Structure Learning in Large-scale Panel Data with Heavy-tailed Errors,http://jmlr.org/papers/v22/19-1018.html,https://j.mp/376QfcF
+j:JMLR,Global and Quadratic Convergence of Newton Hard-Thresholding Pursuit,http://jmlr.org/papers/v22/19-026.html,https://j.mp/374v9f7
+j:JMLR,"Unfolding-Model-Based Visualization: Theory, Method and Applications",http://jmlr.org/papers/v22/18-846.html,https://j.mp/2Z6IFKC
+j:JMLR,Mixing Time of Metropolis-Hastings for Bayesian Community Detection,http://jmlr.org/papers/v22/18-770.html,https://j.mp/3aarBd6
+j:JMLR,"Convex Clustering: Model, Theoretical Guarantee and Efficient Algorithm",http://jmlr.org/papers/v22/18-694.html,https://j.mp/2NjVVca
+j:JMLR,A Unified Framework for Random Forest Prediction Error Estimation,http://jmlr.org/papers/v22/18-558.html,https://j.mp/3d1N6yz
+j:JMLR,Preference-based Online Learning with Dueling Bandits: A Survey,http://jmlr.org/papers/v22/18-546.html,https://j.mp/3d0ugbj
+j:JMLR,Consistent estimation of small masses in feature sampling,http://jmlr.org/papers/v22/18-534.html,https://j.mp/2Nivzr8
+j:JMLR,The Decoupled Extended Kalman Filter for Dynamic Exponential-Family Factorization Models,http://jmlr.org/papers/v22/18-417.html,https://j.mp/3jGUsJp
+j:JMLR,An Empirical Study of Bayesian Optimization: Acquisition Versus Partition,http://jmlr.org/papers/v22/18-220.html,https://j.mp/3rDZ19U
+j:JMLR,Regulating Greed Over Time in Multi-Armed Bandits,http://jmlr.org/papers/v22/17-720.html,https://j.mp/3rMTdLA
+j:JMLR,Domain Generalization by Marginal Transfer Learning,http://jmlr.org/papers/v22/17-679.html,https://j.mp/3qcLDJF
+j:JMLR,On the Optimality of Kernel-Embedding Based Goodness-of-Fit Tests,http://jmlr.org/papers/v22/17-570.html,https://j.mp/3d0vpzz
