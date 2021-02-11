@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue DataBrew supports transformations for seven additional datatypes,https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-supports-transformations-seven-additional-datatypes/,https://amzn.to/3aYMask
+AWS:WhatsNew,AWS Glue DataBrew now allows you to configure the size of the dataset when auto-generating data quality statistics,https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-allows-configure-size-dataset-auto-generating-data-quality-statistics/,https://amzn.to/3qdaaOT
