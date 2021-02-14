@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/AWS:10+,Today I learned that S3 keeps your objects split up into the multipart sizes they were originally uploaded in,https://redd.it/lj8r95,
+r/AWS:10+,AWS Lessons Learned from being DDOS'd,https://redd.it/lj45oj,
