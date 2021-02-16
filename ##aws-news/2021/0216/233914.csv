@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Config now supports the ability to save advanced queries in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-ability-to-save-advanced-queries-in-aws-govcloud/,https://amzn.to/2OBQbLC
+AWS:WhatsNew,AWS Fargate increases default resource count service quotas to 1000,https://aws.amazon.com/about-aws/whats-new/2021/02/aws-fargate-increases-default-resource-count-service-quotas-to-1000/,https://amzn.to/3argrAN
+AWS:WhatsNew,AWS Elemental MediaLive now supports region transfer for AWS Elemental Link,https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-supports-region-transfer-aws-elemental-link/,https://amzn.to/3ataNhP
+AWS:WhatsNew,AWS Elemental Link now available in Europe (Paris) region,https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-link-available-europe-paris-region/,https://amzn.to/3rZzfNx
+AWS:WhatsNew,"AWS Graviton2 based M6g, C6g, and R6g instances are now available in EU (Stockholm) region, and M6gd, C6gd, and R6gd instances are now available in US West (Northern California), and Asia Pacific (Tokyo) regions",https://aws.amazon.com/about-aws/whats-new/2021/02/aws-graviton2-based-m6g-c6g-r6g-instances-available-additional-regions/,https://amzn.to/3jXbpiU
