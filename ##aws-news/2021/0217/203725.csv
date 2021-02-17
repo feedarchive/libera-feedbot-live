@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Pinpoint now supports 10DLC and toll-free numbers,https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-pinpoint-now-supports-10dlc-and-toll-free-numbers/,https://amzn.to/3arHI6k
+AWS:WhatsNew,Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers,https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-sns-now-supports-sending-sms-messages-to-us-destinations-using-ten-digit-long-codes-and-toll-free-numbers/,https://amzn.to/3dmulGd
+AWS:WhatsNew,AWS Glue Studio now supports reading uncatalogued data from Amazon S3 and inferring its schema,https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/,https://amzn.to/3awh9Nr
