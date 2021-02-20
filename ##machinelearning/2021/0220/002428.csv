@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.8.0-rc3: [1.8] Fix onnx mixed precision export for layernorm & fuseLogSoftmaxN…,https://github.com/pytorch/pytorch/releases/tag/v1.8.0-rc3,
