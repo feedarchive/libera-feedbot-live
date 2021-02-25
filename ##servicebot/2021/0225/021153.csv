@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Characterization and recognition of handwritten digits using Julia,https://arxiv.org/abs/2102.11994v1,
+ArXiv,"GPU-aware Communication with UCX in Parallel Programming Models: Charm++, MPI, and Python",https://arxiv.org/abs/2102.12416v1,
+ArXiv,Merly.jl: Web Framework in Julia,https://arxiv.org/abs/2102.10222v2,
