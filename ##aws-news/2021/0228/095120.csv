@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Hi guys, this is an egress only hub. when both fortigate firewall are healthy, spoke traffic works fine. However when i turn off a firewall, i get route loops sometime traffic work and sometime it doesnt..does any have have an idea plz?",https://redd.it/ltvef6,
