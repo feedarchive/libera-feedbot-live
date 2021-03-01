@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CodePipeline now supports 1000 pipelines per account,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-codepipeline-supports-1000-pipelines-per-account/,https://amzn.to/3047DLa
+AWS:WhatsNew,Amazon Connect Customer Profiles now supports data sources from Amazon S3,https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-customer-profiles-now-supports-data-sources-from-amazon-s3/,https://amzn.to/3bNNjDr
+AWS:WhatsNew,"AWS Gateway Load Balancer is now available in the US East (Ohio), Asia Pacific (Tokyo), and EU (Frankfurt and Stockholm) Regions",https://aws.amazon.com/about-aws/whats-new/2021/03/aws-gateway-load-balancer-is-now-available-in-the-us-east-ohio-asia-pacific-tokyo-and-eu-frankfurt-and-stockholm-regions/,https://amzn.to/3sHuVTk
+AWS:WhatsNew,Amazon CloudWatch Synthetics now supports cross region bucket access and upgraded dependencies,https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-cloudwatch-synthetics-now-supports-cross-region-bucket-access-and-upgraded-dependencies/,https://amzn.to/2OghNFO
