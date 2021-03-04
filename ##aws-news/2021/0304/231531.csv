@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Secrets Manager now provides support to replicate secrets in AWS Secrets Manager to multiple AWS Regions,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-secrets-manager-provides-support-to-replicate-secrets-in-aws-secrets-manager-to-multiple-aws-regions/,https://amzn.to/30f9kFK
+AWS:WhatsNew,"AWS Network Firewall is now available in the US East (Ohio), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (Stockholm) AWS Regions",https://aws.amazon.com/about-aws/whats-new/2021/03/aws-network-firewall-available-additional-regions/,https://amzn.to/2NW1M8y
+AWS:WhatsNew,AWS Systems Manager Change Manager now supports multi-level approvals,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-systems-manager-change-manager-supports-multi-level-approvals/,https://amzn.to/3eaWUqH
+AWS:WhatsNew,AWS Step Functions adds tooling support for YAML,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-step-functions-adds-tooling-support-for-yaml/,https://amzn.to/3kNIFct
