@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Proton now supports services without pipelines,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-supports-services-without-pipelines/,https://amzn.to/3ecyTzu
+AWS:WhatsNew,AWS Proton now supports tagging capabilities,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-now-supports-tagging-capabilities/,https://amzn.to/3ehBQPh
+AWS:WhatsNew,AWS Proton makes new fields available for Jinja parametrization,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-makes-new-fields-available-for-jinja-parametrization/,https://amzn.to/3biwIZe
