@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS IoT Device SDK for Embedded C now supports over-the-air update, AWS IoT Device Defender custom metrics, and multiple shadows for a single IoT device",https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-device-sdk-embedded-c-supports-over-the-air-update-custom-metrics-multiple-shadows/,https://amzn.to/3kMY3G4
+AWS:WhatsNew,"AWS Glue DataBrew adds binning, skewness, binarization, and transpose transformations for pre-processing data for machine learning and analytics",https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-adds-binning-skewness-binarization-transformations-pre-processing-data/,https://amzn.to/3v149r5
