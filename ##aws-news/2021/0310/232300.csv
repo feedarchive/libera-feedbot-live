@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,IAM Access Analyzer now enables you to validate public and cross-account access before deploying permissions changes,https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-validate-access-before-deploying-permissions-changes/,https://amzn.to/3rBDRd2
+AWS:WhatsNew,AWS Backup adds support for continuous backup and point-in-time recovery of Amazon RDS instances,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-continuous-backup-and-point-in-time-recovery-of-amazon-rds-instances/,https://amzn.to/3qAdoLI
