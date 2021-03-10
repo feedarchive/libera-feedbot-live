@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:NY,"As of 2021-03-09, `New York in US` has 1_658_443 active COVID-19 cases (↑0% by +6_753) (doubling in 169.9d) and 48_481 deaths (↑0% by 80) (doubling in 419.7d), with a death rate of 2.8% (↓0.0%)",https://covid-api.com/api/reports?date=2021-03-09&iso=USA&region_province=New%20York,https://j.mp/2N3DtoF
