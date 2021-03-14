@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CA,"As of 2021-03-13, `California in US` has 3_563_915 active COVID-19 cases (↑0% by +2_298) (doubling in 1074.6d) and 56_402 deaths (↑2% by 920) (doubling in 42.1d), with a death rate of 1.6% (↑0.0%)",https://covid-api.com/api/reports?date=2021-03-13&iso=USA&region_province=California,https://j.mp/3eJzwRc
