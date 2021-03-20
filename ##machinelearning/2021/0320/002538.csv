@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.8.1-rc2: third_party: Update kineto to fix libtorch builds (#54205),https://github.com/pytorch/pytorch/releases/tag/v1.8.1-rc2,
