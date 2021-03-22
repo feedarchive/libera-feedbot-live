@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Database Migration Service now supports Db2 LUW version 11.5 as a source,https://aws.amazon.com/about-aws/whats-new/2021/03/aws-database-migration-service-supports-db2-luw-version-11-5-as-source/,https://amzn.to/2Pj69La
+AWS:WhatsNew,AWS IoT Core’s Apache Kafka action now supports username and password authentication for Amazon Managed Streaming for Apache Kafka (Amazon MSK),https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-core-apache-kafka-action-supports-username-password-authentication-for-amazon-msk/,https://amzn.to/3tOaEvU
