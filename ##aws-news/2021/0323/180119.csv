@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,How nested data structures in DynamoDB make GetItem calls up to 34 times slower with Python and Lambda and what you can do about it,https://redd.it/mbawtc,
