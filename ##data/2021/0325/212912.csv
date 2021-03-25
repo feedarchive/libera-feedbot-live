@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,USGS Landsat,https://registry.opendata.aws/usgs-landsat,https://j.mp/3cj8tux
+AWS:OpenData,AgricultureVision,https://registry.opendata.aws/intelinair_agriculture_vision,https://j.mp/3fevpgp
+AWS:OpenData,Longitudinal Nutrient Deficiency,https://registry.opendata.aws/intelinair_longitudinal_nutrient_deficiency,https://j.mp/3feD0eN
