@@ -1,0 +1,21 @@
+feed,title,long_url,short_url
+APIchanges,Amazon Elastic Compute Cloud - 1 new methods,https://awsapichanges.info/archive/changes/3691e8-ec2.html,https://j.mp/3rMFjIK
+APIchanges,Firewall Management Service - 6 updated methods,https://awsapichanges.info/archive/changes/3691e8-fms.html,https://j.mp/3dsKDf7
+APIchanges,AWSKendraFrontendService - 3 updated methods,https://awsapichanges.info/archive/changes/3691e8-kendra.html,https://j.mp/31GO7Fm
+APIchanges,Amazon Lex Model Building Service - 6 updated methods,https://awsapichanges.info/archive/changes/3691e8-models.lex.html,https://j.mp/39xY1gQ
+APIchanges,Amazon Lightsail - 4 updated methods,https://awsapichanges.info/archive/changes/3691e8-lightsail.html,https://j.mp/3mb5t6V
+APIchanges,AWS Elemental MediaConvert - 11 updated methods,https://awsapichanges.info/archive/changes/3691e8-mediaconvert.html,https://j.mp/39BS0Qp
+APIchanges,Amazon Route 53 Resolver - 25 new methods,https://awsapichanges.info/archive/changes/3691e8-route53resolver.html,https://j.mp/3u8BCP8
+APIchanges,Amazon Lex Runtime Service - 2 updated methods,https://awsapichanges.info/archive/changes/3691e8-runtime.lex.html,https://j.mp/31ItjNG
+APIchanges,AWS WAFV2 - 13 updated methods,https://awsapichanges.info/archive/changes/3691e8-wafv2.html,https://j.mp/3uiBPiH
+APIchanges,AWS Batch - 3 updated methods,https://awsapichanges.info/archive/changes/c773b1-batch.html,https://j.mp/3mcUGZL
+APIchanges,AWS Cloud9 - 2 updated methods,https://awsapichanges.info/archive/changes/c773b1-cloud9.html,https://j.mp/3dnYy6s
+APIchanges,AWS CloudFormation - 6 updated methods,https://awsapichanges.info/archive/changes/c773b1-cloudformation.html,https://j.mp/3dv9L59
+APIchanges,Amazon Comprehend - 9 updated methods,https://awsapichanges.info/archive/changes/c773b1-comprehend.html,https://j.mp/39Cbg07
+APIchanges,Amazon Detective - 3 new methods,https://awsapichanges.info/archive/changes/c773b1-api.detective.html,https://j.mp/3cJ94pO
+APIchanges,AWS Direct Connect - 3 new 16 updated methods,https://awsapichanges.info/archive/changes/c773b1-directconnect.html,https://j.mp/3cIANqA
+APIchanges,AWS IoT - 1 updated methods,https://awsapichanges.info/archive/changes/c773b1-iot.html,https://j.mp/39zI5uM
+APIchanges,AWS IoT Wireless - 4 updated methods,https://awsapichanges.info/archive/changes/c773b1-api.iotwireless.html,https://j.mp/31GOsI8
+APIchanges,Amazon Redshift - 7 new methods,https://awsapichanges.info/archive/changes/c773b1-redshift.html,https://j.mp/3fzSn1C
+APIchanges,Amazon Transcribe Service - 3 updated methods,https://awsapichanges.info/archive/changes/c773b1-transcribe.html,https://j.mp/3rIffOU
+APIchanges,Amazon WorkMail - 5 new methods,https://awsapichanges.info/archive/changes/c773b1-workmail.html,https://j.mp/2QZcsnX
