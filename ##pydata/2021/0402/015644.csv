@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,hyppo: A Multivariate Hypothesis Testing Python Package,https://arxiv.org/abs/1907.02088v6,
+ArXiv,"GPU-aware Communication with UCX in Parallel Programming Models: Charm++, MPI, and Python",https://arxiv.org/abs/2102.12416v2,
