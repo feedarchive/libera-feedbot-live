@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:Blog,Behind GitHub’s new authentication token formats,https://github.blog/2021-04-05-behind-githubs-new-authentication-token-formats/,https://j.mp/3cRgbMX
+GitHub:Blog,"How we scaled the GitHub API with a sharded, replicated rate limiter in Redis",https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/,https://j.mp/3cPWQeJ
