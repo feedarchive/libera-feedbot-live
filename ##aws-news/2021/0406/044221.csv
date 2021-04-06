@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+status,[workmail-us-east-1] [RESOLVED] Degraded WorkMail WebMail performance,http://status.aws.amazon.com/#workmail-us-east-1_1617683587,
+status,[workmail-us-east-1] [RESOLVED] Degraded WorkMail WebMail performance,http://status.aws.amazon.com/#workmail-us-east-1_1617682320,
+status,[connect-us-east-1] Service is operating normally: Degraded Amazon Connect login performance,http://status.aws.amazon.com/#connect-us-east-1_1617683590,
+status,[connect-us-east-1] Informational message: Degraded Amazon Connect login performance,http://status.aws.amazon.com/#connect-us-east-1_1617682860,
