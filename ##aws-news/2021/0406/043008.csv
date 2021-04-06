@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[elb-us-east-1] Informational message: Degraded instance registration,http://status.aws.amazon.com/#elb-us-east-1_1617683231,
+status,[connect-us-east-1] Informational message: Degraded Amazon Connect login performance,http://status.aws.amazon.com/#connect-us-east-1_1617682879,
+status,[connect-us-east-1] Informational message: Degraded Amazon Connect login performance,http://status.aws.amazon.com/#connect-us-east-1_1617678632,
