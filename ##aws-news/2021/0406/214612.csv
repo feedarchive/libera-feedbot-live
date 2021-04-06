@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Systems Manager Parameter Store now supports removal of parameter labels,https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-parameter-store-now-supports-removal-of-parameter-labels/,https://amzn.to/3usqzjV
+AWS:WhatsNew,"Amazon EC2 now allows you to copy Amazon Machine Images across AWS GovCloud, AWS China and other AWS Regions",https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-allows-copy-amazon-machine-images-across-aws-govcloud-aws-china-other-regions/,https://amzn.to/3fHZcym
+AWS:WhatsNew,AWS Batch simplifies permissions by introducing Service-Linked Roles,https://aws.amazon.com/about-aws/whats-new/2021/04/aws-batch-simplifies-permissions-introducing-service-linked-roles/,https://amzn.to/3s4vjuN
