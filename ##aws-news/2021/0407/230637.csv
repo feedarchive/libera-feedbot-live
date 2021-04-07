@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue now supports missing value imputation based on machine learning,https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-missing-value-imputation-based-on-machine-learning/,https://amzn.to/3dHvkPT
+AWS:WhatsNew,AWS Audit Manager now offers a new standard framework for NIST 800-53 (Rev. 5) Low-Moderate-High,https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-now-offers-a-new-standard-framework-for-nist-800-53-rev-5-low-moderate-high/,https://amzn.to/3t3B11g
+AWS:WhatsNew,"Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, are now available in 5 additional regions",https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-g4ad-instances-available-in-additional-regions/,https://amzn.to/2Q6Tco8
