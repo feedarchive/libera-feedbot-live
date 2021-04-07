@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,IAM Access Analyzer makes it easier to implement least privilege permissions by generating IAM policies based on access activity,https://aws.amazon.com/about-aws/whats-new/2021/04/iam-access-analyzer-easier-implement-least-privilege-permissions-generating-iam-policies-access-activity/,https://amzn.to/3uwZ493
+AWS:WhatsNew,Amazon ElastiCache now supports Tag-Based Access Control,https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticache-supports-tag-based-access-control/,https://amzn.to/2Q2EEWC
+AWS:WhatsNew,Amazon Interactive Video Service adds support for recording live streams to Amazon S3,https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-support-recording-live-streams-amazon-s3/,https://amzn.to/3wEKEFB
