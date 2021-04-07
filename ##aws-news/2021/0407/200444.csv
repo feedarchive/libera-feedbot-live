@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,You can now deploy CloudFormation Stacks concurrently across multiple AWS regions using AWS CloudFormation StackSets,https://aws.amazon.com/about-aws/whats-new/2021/04/deploy-cloudformation-stacks-concurrently-across-multiple-aws-regions-using-aws-cloudformation-stacksets/,https://amzn.to/2OuxYjz
+AWS:WhatsNew,Amazon MQ now supports RabbitMQ version 3.8.11,https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-now-supports-rabbitmq-version-3-8-11/,https://amzn.to/3dHU9eG
+AWS:WhatsNew,Amplify iOS now available via Swift Package Manager (SPM),https://aws.amazon.com/about-aws/whats-new/2021/04/amplify-ios-now-available-via-swift-package-manager-spm/,https://amzn.to/3wB75vk
