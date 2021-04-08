@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Customer Profiles now includes support for AWS CloudFormation,https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-cloudformation/,https://amzn.to/3t4BBvp
+AWS:WhatsNew,Amazon Customer Profiles now includes support for AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-privatelink/,https://amzn.to/2Rb6Dnk
+AWS:WhatsNew,AWS IoT Analytics adds schema inference support for Apache Parquet based data stores,https://aws.amazon.com/about-aws/whats-new/2021/04/aws-iot-analytics-adds-schema-inference-support-for-apache-parquet-based-data-stores/,https://amzn.to/31XNBmD
+AWS:WhatsNew,AWS Step Functions adds new data flow simulator for modelling input and output processing,https://aws.amazon.com/about-aws/whats-new/2021/04/aws-step-functions-adds-new-data-flow-simulator-for-modelling-input-and-output-processing/,https://amzn.to/3s3dhss
