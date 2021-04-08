@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Athena now presents query execution plans to aid tuning,https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-athena-now-presents-query-execution-plans-to-aid-tuning/,https://amzn.to/3dIIkVG
+AWS:WhatsNew,Detect abnormal equipment behavior with Amazon Lookout for Equipment — now generally available,https://aws.amazon.com/about-aws/whats-new/2021/04/detect-abnormal-equipment-behavior-amazon-lookout-equipment-generally-available/,https://amzn.to/3fUrRQY
+AWS:WhatsNew,eksctl now supports creating node groups using resource specifications and dry run mode,https://aws.amazon.com/about-aws/whats-new/2021/04/eksctl-supports-creating-node-groups-resource-specifications-dry-run-mode/,https://amzn.to/3dS1FDY
+AWS:WhatsNew,Amazon EC2 instances featuring AMD EPYC processors are now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-instances-featuring-amd-epyc-processors-are-now-available-in-additional-regions/,https://amzn.to/3mwEOl8
+AWS:WhatsNew,Customers can now use ServiceNow to track operational items related to AWS resources,https://aws.amazon.com/about-aws/whats-new/2021/04/customers-can-now-use-servicenow-to-track-operational-items-related-to-aws-resources/,https://amzn.to/3mu6WFs
+AWS:WhatsNew,New AWS Solutions Consulting Offer - RegCloud: ControllerView® on AWS,https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-regcloud-controllerview-on-aws/,https://amzn.to/3mwEO4C
+AWS:WhatsNew,Amazon Fraud Detector automates sampling for imbalanced model training datasets,https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fraud-detector-automates-sampling-for-imbalanced-model-training-datasets/,https://amzn.to/3uEAV0p
