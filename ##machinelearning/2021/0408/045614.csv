@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+JMLR:MLOSS,POT: Python Optimal Transport,http://jmlr.org/papers/v22/20-451.html,https://j.mp/2OteGeg
+JMLR:MLOSS,ChainerRL: A Deep Reinforcement Learning Library,http://jmlr.org/papers/v22/20-376.html,https://j.mp/3t2CWTz
+JMLR:MLOSS,"Kernel Operations on the GPU, with Autodiff, without Memory Overflows",http://jmlr.org/papers/v22/20-275.html,https://j.mp/3ms5Ny6
