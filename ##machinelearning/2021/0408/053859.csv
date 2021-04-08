@@ -1,0 +1,37 @@
+feed,title,long_url,short_url
+j:JMLR,Gradient Methods Never Overfit On Separable Data,http://jmlr.org/papers/v22/20-997.html,https://j.mp/3mBxViA
+j:JMLR,Variance Reduced Median-of-Means Estimator for Byzantine-Robust Distributed Inference,http://jmlr.org/papers/v22/20-950.html,https://j.mp/3t0Mlet
+j:JMLR,Statistical Query Lower Bounds for Tensor PCA,http://jmlr.org/papers/v22/20-837.html,https://j.mp/3t06i4R
+j:JMLR,PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings,http://jmlr.org/papers/v22/20-825.html,https://j.mp/39SbgJG
+j:JMLR,Knowing what You Know: valid and validated confidence sets in multiclass and multilabel prediction,http://jmlr.org/papers/v22/20-753.html,https://j.mp/3cYYon5
+j:JMLR,"Communication-Efficient Distributed Covariance Sketch, with Application to Distributed PCA",http://jmlr.org/papers/v22/20-705.html,https://j.mp/3sUTMnn
+j:JMLR,"Is SGD a Bayesian sampler? Well, almost",http://jmlr.org/papers/v22/20-676.html,https://j.mp/3t06bpX
+j:JMLR,POT: Python Optimal Transport,http://jmlr.org/papers/v22/20-451.html,https://j.mp/2OteGeg
+j:JMLR,ChainerRL: A Deep Reinforcement Learning Library,http://jmlr.org/papers/v22/20-376.html,https://j.mp/3t2CWTz
+j:JMLR,Analyzing the discrepancy principle for kernelized spectral filter learning algorithms,http://jmlr.org/papers/v22/20-358.html,https://j.mp/3d0BT0S
+j:JMLR,Attention is Turing-Complete,http://jmlr.org/papers/v22/20-302.html,https://j.mp/31S3yea
+j:JMLR,"Kernel Operations on the GPU, with Autodiff, without Memory Overflows",http://jmlr.org/papers/v22/20-275.html,https://j.mp/3ms5Ny6
+j:JMLR,"Optimization with Momentum: Dynamical, Control-Theoretic, and Symplectic Perspectives",http://jmlr.org/papers/v22/20-207.html,https://j.mp/2PMUS6n
+j:JMLR,Prediction against a limited adversary,http://jmlr.org/papers/v22/20-1234.html,https://j.mp/3rTXJHC
+j:JMLR,Phase Diagram for Two-layer ReLU Neural Networks at Infinite-width Limit,http://jmlr.org/papers/v22/20-1123.html,https://j.mp/3wCx3Pf
+j:JMLR,Testing Conditional Independence via Quantile Regression Based Partial Copulas,http://jmlr.org/papers/v22/20-1074.html,https://j.mp/3cWUE5d
+j:JMLR,Determining the Number of Communities in Degree-corrected Stochastic Block Models,http://jmlr.org/papers/v22/20-037.html,https://j.mp/3t0DnxM
+j:JMLR,Path Length Bounds for Gradient Descent and Flow,http://jmlr.org/papers/v22/19-979.html,https://j.mp/3mtMvbD
+j:JMLR,A General Framework for Empirical Bayes Estimation in Discrete Linear Exponential Family,http://jmlr.org/papers/v22/19-873.html,https://j.mp/3fOgji5
+j:JMLR,Approximate Newton Methods,http://jmlr.org/papers/v22/19-870.html,https://j.mp/39S5eZj
+j:JMLR,Dynamic Tensor Recommender Systems,http://jmlr.org/papers/v22/19-792.html,https://j.mp/3dH1TgZ
+j:JMLR,Sparse Tensor Additive Regression,http://jmlr.org/papers/v22/19-769.html,https://j.mp/3mt2eYw
+j:JMLR,Geometric structure of graph Laplacian embeddings,http://jmlr.org/papers/v22/19-683.html,https://j.mp/2RloyrP
+j:JMLR,How to Gain on Power: Novel Conditional Independence Tests Based on Short Expansion of Conditional Mutual Information,http://jmlr.org/papers/v22/19-600.html,https://j.mp/3dIapwi
+j:JMLR,Stochastic Proximal AUC Maximization,http://jmlr.org/papers/v22/19-418.html,https://j.mp/3uB1N11
+j:JMLR,A Distributed Method for Fitting Laplacian Regularized Stratified Models,http://jmlr.org/papers/v22/19-345.html,https://j.mp/2OzmivY
+j:JMLR,Predictive Learning on Hidden Tree-Structured Ising Models,http://jmlr.org/papers/v22/19-149.html,https://j.mp/31XzQVc
+j:JMLR,Estimation and Inference for High Dimensional Generalized Linear Models: A Splitting and Smoothing Approach,http://jmlr.org/papers/v22/19-132.html,https://j.mp/2Ow20DB
+j:JMLR,Normalizing Flows for Probabilistic Modeling and Inference,http://jmlr.org/papers/v22/19-1028.html,https://j.mp/3cXpWZO
+j:JMLR,Incorporating Unlabeled Data into Distributionally Robust Learning,http://jmlr.org/papers/v22/19-1023.html,https://j.mp/39V8Da2
+j:JMLR,Integrative Generalized Convex Clustering Optimization and Feature Selection for Mixed Multi-View Data,http://jmlr.org/papers/v22/19-1012.html,https://j.mp/3s117jQ
+j:JMLR,GemBag: Group Estimation of Multiple Bayesian Graphical Models,http://jmlr.org/papers/v22/19-1006.html,https://j.mp/3fXXWaB
+j:JMLR,Subspace Clustering through Sub-Clusters,http://jmlr.org/papers/v22/18-780.html,https://j.mp/3mtfJaI
+j:JMLR,Sparse and Smooth Signal Estimation: Convexification of L0-Formulations,http://jmlr.org/papers/v22/18-745.html,https://j.mp/31S3tXU
+j:JMLR,Projection-free Decentralized Online Learning for Submodular Maximization over Time-Varying Networks,http://jmlr.org/papers/v22/18-407.html,https://j.mp/3sYJLpa
+j:JMLR,Structure Learning of Undirected Graphical Models for Count Data,http://jmlr.org/papers/v22/18-401.html,https://j.mp/2PMUTHt
