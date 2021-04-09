@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CT,"As of 2021-04-08, `Connecticut in US` has had 319_779 confirmed COVID-19 cases (doubling in 7 mo) (1_012 new) and 7_940 (2.5%) deaths (doubling in 36 mo) (5 new), with a current death rate of 0.5%",https://covid-api.com/api/reports?date=2021-04-08&iso=USA&region_province=Connecticut,https://j.mp/3200r3S
