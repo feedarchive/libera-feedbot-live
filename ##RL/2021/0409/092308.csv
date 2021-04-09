@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:20+,"""Scaling Scaling Laws with Board Games"", Jones 2021 (AlphaZero/Hex: smooth scaling across 6OOM - 2x FLOPS = 66% victory; amortization of training->runtime tree-search, 10x training = 15x runtime)",https://redd.it/mmsws8,
