@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[elb-us-east-1] Informational message: Increased Provisioning and Scaling Latencies,http://status.aws.amazon.com/#elb-us-east-1_1618343445,
+status,[ec2-us-east-1] Informational message: Increased API Errors,http://status.aws.amazon.com/#ec2-us-east-1_1618343768,
