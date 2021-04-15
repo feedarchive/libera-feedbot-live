@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transit Gateway Connect is now available in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-connect-is-now-available-in-additional-aws-regions/,https://amzn.to/32hkTxd
+AWS:WhatsNew,"AWS CodeArtifact is now available in Paris, London, and Milan",https://aws.amazon.com/about-aws/whats-new/2021/04/aws-codeartifact-is-now-available-in-paris-london-and-milan/,https://amzn.to/3dj9H9K
+AWS:WhatsNew,Now reference latest AWS Systems Manager parameter values in AWS CloudFormation templates without specifying parameter versions,https://aws.amazon.com/about-aws/whats-new/2021/04/now-reference-latest-aws-systems-manager-parameter-values-in-aws-cloudformation-templates-without-specifying-parameter-versions/,https://amzn.to/3wUW1cK
