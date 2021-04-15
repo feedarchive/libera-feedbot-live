@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,Chest X-ray Image Phase Features for Improved Diagnosis of COVID-19 Using Convolutional Neural Network,https://arxiv.org/abs/2011.03585v2,
+ArXiv,"COVID-19 identification from volumetric chest CT scans using a progressively resized 3D-CNN incorporating segmentation, augmentation, and class-rebalancing",https://arxiv.org/abs/2102.06169v2,
+ArXiv,Modeling the Heterogeneity in COVID-19's Reproductive Number and its Impact on Predictive Scenarios,https://arxiv.org/abs/2004.05272v4,
+ArXiv,Data-driven deep learning algorithms for time-varying infection rates of COVID-19 and mitigation measures,https://arxiv.org/abs/2104.02603v2,
