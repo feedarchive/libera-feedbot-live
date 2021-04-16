@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,I was not happy with the existing SES email forwarding Lambdas so I made another one - HumbleForwarder (Python). It's enough for my vanity domain.,https://redd.it/ms6994,
