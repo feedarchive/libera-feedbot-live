@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CA,"As of 2021-04-16, `California in US` has had 3_714_129 confirmed COVID-19 cases (doubling in 29 mo) (2_891 new) and 60_913 (1.6%) deaths (doubling in 12 mo) (111 new), with a current death rate of 3.8%",https://covid-api.com/api/reports?date=2021-04-16&iso=USA&region_province=California,https://j.mp/3ggsLaz
