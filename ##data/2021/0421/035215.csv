@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+AWS:OpenData,AI2 Diagram Dataset (AI2D),https://registry.opendata.aws/allenai-diagrams,https://j.mp/32EwO8l
+AWS:OpenData,AI2 Meaningful Citations Data Set,https://registry.opendata.aws/allenai-meaningful-citations,https://j.mp/3gqPcK5
+AWS:OpenData,AI2 Reasoning Challenge (ARC) 2018,https://registry.opendata.aws/allenai-arc,https://j.mp/3v6Nzpc
+AWS:OpenData,Discrete Reasoning Over the content of Paragraphs (DROP),https://registry.opendata.aws/allenai-drop,https://j.mp/3dB5UEG
+AWS:OpenData,Quoref,https://registry.opendata.aws/allenai-quoref,https://j.mp/2QFWsHd
+AWS:OpenData,Reasoning Over Paragraph Effects in Situations (ROPES),https://registry.opendata.aws/allenai-ropes,https://j.mp/3sCN6Jq
+AWS:OpenData,AI2 TabMCQ: Multiple Choice Questions aligned with the Aristo Tablestore,https://registry.opendata.aws/allenai-tablestore-questions,https://j.mp/3dzI8sF
+AWS:OpenData,AI2 Tablestore (November 2015 Snapshot),https://registry.opendata.aws/allenai-tablestore,https://j.mp/3gsoMri
+AWS:OpenData,Aristo Mini Corpus,https://registry.opendata.aws/allenai-aristo-mini,https://j.mp/3gnUI0d
+AWS:OpenData,Aristo Tuple KB,https://registry.opendata.aws/allenai-tuple-kb,https://j.mp/3dBL1t3
+AWS:OpenData,ZEST: ZEroShot learning from Task descriptions,https://registry.opendata.aws/allenai-zest,https://j.mp/3dDle3X
+AWS:OpenData,Textbook Question Answering (TQA),https://registry.opendata.aws/allenai-tqa,https://j.mp/3vafNz4
