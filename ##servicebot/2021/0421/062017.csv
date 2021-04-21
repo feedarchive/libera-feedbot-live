@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:NJ,"As of 2021-04-20, `New Jersey in US` has had 983_875 confirmed COVID-19 cases (doubling in 8 mo) (2_839 new) and 25_206 (2.6%) deaths (doubling in 13 mo) (45 new), with a current death rate of 1.6%",https://covid-api.com/api/reports?date=2021-04-20&iso=USA&region_province=New%20Jersey,https://j.mp/2QG5unM
