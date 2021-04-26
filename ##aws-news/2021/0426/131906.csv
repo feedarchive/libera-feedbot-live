@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,Python boto3 script to get all ec2 instances that are not of latest instance generation along with the cloudformation template used to provision those instances,https://redd.it/myr30q,
