@@ -1,0 +1,47 @@
+feed,title,long_url,short_url
+PwC:Latest,Instance-wise Causal Feature Selection for Model Interpretation,https://paperswithcode.com/paper/instance-wise-causal-feature-selection-for,https://j.mp/3u9Uxtz
+PwC:Latest,ODDObjects: A Framework for Multiclass Unsupervised Anomaly Detection on Masked Objects,https://paperswithcode.com/paper/oddobjects-a-framework-for-multiclass,https://j.mp/3nspVk5
+PwC:Latest,Syft 0.5: A Platform for Universally Deployable Structured Transparency,https://paperswithcode.com/paper/syft-0-5-a-platform-for-universally,https://j.mp/3gGRIfx
+PwC:Latest,2.5D Visual Relationship Detection,https://paperswithcode.com/paper/2-5d-visual-relationship-detection,https://j.mp/3nnQtDi
+PwC:Latest,Wise-SrNet: A Novel Architecture for Enhancing Image Classification by Learning Spatial Resolution of Feature Maps,https://paperswithcode.com/paper/wise-srnet-a-novel-architecture-for-enhancing,https://j.mp/3dTnQuq
+PwC:Latest,MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding,https://paperswithcode.com/paper/mdetr-modulated-detection-for-end-to-end,https://j.mp/3gHOCYx
+PwC:Latest,Improve Vision Transformers Training by Suppressing Over-smoothing,https://paperswithcode.com/paper/improve-vision-transformers-training-by,https://j.mp/3xsOmm6
+PwC:Latest,Rich Semantics Improve Few-shot Learning,https://paperswithcode.com/paper/rich-semantics-improve-few-shot-learning,https://j.mp/3vkcupl
+PwC:Latest,A Low-Complexity MIMO Channel Estimator with Implicit Structure of a Convolutional Neural Network,https://paperswithcode.com/paper/a-low-complexity-mimo-channel-estimator-with,https://j.mp/3e0UDy1
+PwC:Latest,Non-Parametric Few-Shot Learning for Word Sense Disambiguation,https://paperswithcode.com/paper/non-parametric-few-shot-learning-for-word,https://j.mp/3dTbYZA
+PwC:Latest,Teaching NLP with Bracelets and Restaurant Menus: An Interactive Workshop for Italian Students,https://paperswithcode.com/paper/teaching-nlp-with-bracelets-and-restaurant,https://j.mp/3nrwDqK
+PwC:Latest,A dissemination workshop for introducing young Italian students to NLP,https://paperswithcode.com/paper/a-dissemination-workshop-for-introducing,https://j.mp/3xrpRpB
+PwC:Latest,Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization,https://paperswithcode.com/paper/dense-point-prediction-a-simple-baseline-for,https://j.mp/3sYeuSm
+PwC:Latest,Focused Attention Improves Document-Grounded Generation,https://paperswithcode.com/paper/focused-attention-improves-document-grounded,https://j.mp/3vuiyf7
+PwC:Latest,Dynamic VAEs with Generative Replay for Continual Zero-shot Learning,https://paperswithcode.com/paper/dynamic-vaes-with-generative-replay-for,https://j.mp/3tRZVBf
+PwC:Latest,CompOFA: Compound Once-For-All Networks for Faster Multi-Platform Deployment,https://paperswithcode.com/paper/compofa-compound-once-for-all-networks-for-1,https://j.mp/3aKErPb
+PwC:Latest,Synthetic 3D Data Generation Pipeline for Geometric Deep Learning in Architecture,https://paperswithcode.com/paper/synthetic-3d-data-generation-pipeline-for,https://j.mp/3sXzTLq
+PwC:Latest,Evaluating the Values of Sources in Transfer Learning,https://paperswithcode.com/paper/evaluating-the-values-of-sources-in-transfer,https://j.mp/3aEmy4D
+PwC:Latest,EigenGAN: Layer-Wise Eigen-Learning for GANs,https://paperswithcode.com/paper/eigengan-layer-wise-eigen-learning-for-gans,https://j.mp/3ezFZN8
+PwC:Latest,Unified Spatio-Temporal Modeling for Traffic Forecasting using Graph Neural Network,https://paperswithcode.com/paper/unified-spatio-temporal-modeling-for-traffic,https://j.mp/3gK7arc
+PwC:Latest,Towards Rigorous Interpretations: a Formalisation of Feature Attribution,https://paperswithcode.com/paper/towards-rigorous-interpretations-a,https://j.mp/3vuixI5
+PwC:Latest,Visformer: The Vision-friendly Transformer,https://paperswithcode.com/paper/visformer-the-vision-friendly-transformer,https://j.mp/32ZosZ7
+PwC:Latest,dualFace:Two-Stage Drawing Guidance for Freehand Portrait Sketching,https://paperswithcode.com/paper/dualface-two-stage-drawing-guidance-for,https://j.mp/2RXpNxp
+PwC:Latest,Recalibration of Aleatoric and Epistemic Regression Uncertainty in Medical Imaging,https://paperswithcode.com/paper/recalibration-of-aleatoric-and-epistemic,https://j.mp/3nrCQTJ
+PwC:Latest,Image Inpainting with Edge-guided Learnable Bidirectional Attention Maps,https://paperswithcode.com/paper/image-inpainting-with-edge-guided-learnable,https://j.mp/32WA1jK
+PwC:Latest,XLM-T: A Multilingual Language Model Toolkit for Twitter,https://paperswithcode.com/paper/xlm-t-a-multilingual-language-model-toolkit,https://j.mp/3dTM1c7
+PwC:Latest,DC3: A learning method for optimization with hard constraints,https://paperswithcode.com/paper/dc3-a-learning-method-for-optimization-with-1,https://j.mp/32Se59F
+PwC:Latest,Vector Neurons: A General Framework for SO(3)-Equivariant Networks,https://paperswithcode.com/paper/vector-neurons-a-general-framework-for-so-3,https://j.mp/3eDZx2K
+PwC:Latest,User Preference-aware Fake News Detection,https://paperswithcode.com/paper/user-preference-aware-fake-news-detection,https://j.mp/3nsqZVl
+PwC:Latest,Transformers to Fight the COVID-19 Infodemic,https://paperswithcode.com/paper/transformers-to-fight-the-covid-19-infodemic,https://j.mp/3sWIgXQ
+PwC:Latest,Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy,https://paperswithcode.com/paper/distractor-aware-fast-tracking-via-dynamic,https://j.mp/2Preqgm
+PwC:Latest,Seeking Quality Diversity in Evolutionary Co-design of Morphology and Control of Soft Tensegrity Modular Robots,https://paperswithcode.com/paper/seeking-quality-diversity-in-evolutionary-co,https://j.mp/2R19T4T
+PwC:Latest,Single Stage Class Agnostic Common Object Detection: A Simple Baseline,https://paperswithcode.com/paper/single-stage-class-agnostic-common-object,https://j.mp/32Q9UuY
+PwC:Latest,Attention on Global-Local Embedding Spaces in Recommender Systems,https://paperswithcode.com/paper/attention-on-global-local-embedding-spaces-in,https://j.mp/3nru1sL
+PwC:Latest,AdsGNN: Behavior-Graph Augmented Relevance Modeling in Sponsored Search,https://paperswithcode.com/paper/adsgnn-behavior-graph-augmented-relevance,https://j.mp/2R0Ta1p
+PwC:Latest,3D Adversarial Attacks Beyond Point Cloud,https://paperswithcode.com/paper/3d-adversarial-attacks-beyond-point-cloud,https://j.mp/3dXM5HY
+PwC:Latest,A Bi-Encoder LSTM Model For Learning Unstructured Dialogs,https://paperswithcode.com/paper/a-bi-encoder-lstm-model-for-learning,https://j.mp/3u9UyxD
+PwC:Latest,Constraint-Guided Reinforcement Learning: Augmenting the Agent-Environment-Interaction,https://paperswithcode.com/paper/constraint-guided-reinforcement-learning,https://j.mp/3t0Np10
+PwC:Latest,Precarity: Modeling the Long Term Effects of Compounded Decisions on Individual Instability,https://paperswithcode.com/paper/precarity-modeling-the-long-term-effects-of,https://j.mp/3sYeAJI
+PwC:Latest,EXplainable Neural-Symbolic Learning (X-NeSyL) methodology to fuse deep learning representations with expert knowledge graphs: the MonuMAI cultural heritage use case,https://paperswithcode.com/paper/explainable-neural-symbolic-learning-x-nesyl,https://j.mp/3vhAXeO
+PwC:Latest,baller2vec++: A Look-Ahead Multi-Entity Transformer For Modeling Coordinated Agents,https://paperswithcode.com/paper/baller2vec-a-look-ahead-multi-entity,https://j.mp/3u2nYNW
+PwC:Latest,MusCaps: Generating Captions for Music Audio,https://paperswithcode.com/paper/muscaps-generating-captions-for-music-audio,https://j.mp/32PWvDj
+PwC:Latest,Carrying out CNN Channel Pruning in a White Box,https://paperswithcode.com/paper/carrying-out-cnn-channel-pruning-in-a-white,https://j.mp/3nsKVaM
+PwC:Latest,Aligned Contrastive Predictive Coding,https://paperswithcode.com/paper/aligned-contrastive-predictive-coding,https://j.mp/3nq9cxW
+PwC:Latest,Music Embedding: A Tool for Incorporating Music Theory into Computational Music Applications,https://paperswithcode.com/paper/music-embedding-a-tool-for-incorporating,https://j.mp/2QCcBh5
+PwC:Latest,Learning Passage Impacts for Inverted Indexes,https://paperswithcode.com/paper/learning-passage-impacts-for-inverted-indexes,https://j.mp/2QCcJ03
