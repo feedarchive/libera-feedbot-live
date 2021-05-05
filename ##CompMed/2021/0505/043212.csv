@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+ArXiv:eess,Fusing multimodal neuroimaging data with a variational autoencoder,https://arxiv.org/abs/2105.01128v1,
+ArXiv:eess,Automated Estimation of Total Lung Volume using Chest Radiographs and Deep Learning,https://arxiv.org/abs/2105.01181v1,
+ArXiv:eess,Weakly-Supervised Universal Lesion Segmentation with Regional Level Set Loss,https://arxiv.org/abs/2105.01218v1,
+ArXiv:eess,COVID-Net CT-S: 3D Convolutional Neural Network Architectures for COVID-19 Severity Assessment using Chest CT Images,https://arxiv.org/abs/2105.01284v1,
+ArXiv:eess,ReBeatICG: Real-time Low-Complexity Beat-to-beat Impedance Cardiogram Delineation Algorithm,https://arxiv.org/abs/2105.01525v1,
+ArXiv:eess,MRzero -- Fully automated discovery of MRI sequences using supervised learning,https://arxiv.org/abs/2002.04265v2,
+ArXiv:eess,"Robotic modeling of snake traversing large, smooth obstacles reveals stability benefits of body compliance",https://arxiv.org/abs/2002.09711v3,
+ArXiv:eess,A modified deep convolutional neural network for detecting COVID-19 and pneumonia from chest X-ray images based on the concatenation of Xception and ResNet50V2,https://arxiv.org/abs/2004.08052v2,
+ArXiv:eess,DR-Unet104 for Multimodal MRI brain tumor segmentation,https://arxiv.org/abs/2011.02840v2,
+ArXiv:eess,A Computer Vision System to Help Prevent the Transmission of COVID-19,https://arxiv.org/abs/2103.08773v2,
+ArXiv:eess,Robust joint registration of multiple stains and MRI for multimodal 3D histology reconstruction: Application to the Allen human brain atlas,https://arxiv.org/abs/2104.14873v2,
