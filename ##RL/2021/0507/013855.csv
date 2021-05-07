@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"""Podracer architectures for scalable Reinforcement Learning"", Hessel et al 2021 (highly-efficient TPU pod use: eg solving Pong in <1min at 43 million FPS on a TPU-2048)",https://redd.it/n6bm3p,
