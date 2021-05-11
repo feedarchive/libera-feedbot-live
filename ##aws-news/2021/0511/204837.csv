@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EKS managed node groups adds support for Kubernetes node taints,https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-managed-node-groups-adds-support-kubernetes-node-taints/,https://amzn.to/3y2ZBCe
+AWS:WhatsNew,Announcing Amazon RDS for SQL Server on AWS Outposts,https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-rds-for-sql-server-on-aws-outposts/,https://amzn.to/3uL5cv2
+AWS:WhatsNew,"Amazon Kinesis Data Analytics now supports RollbackApplication, ListApplicationVersions, and DescribeApplicationVersion APIs in preview",https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kinesis-data-analytics-supports-rollbackapplication-listapplicationversions-describeapplicationversion-apis/,https://amzn.to/3y6EP4q
+AWS:WhatsNew,AWS Lake Formation now supports Tag-based access control (TBAC),https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lake-formation-now-supports-tag-based-access-control/,https://amzn.to/3o7YxIA
