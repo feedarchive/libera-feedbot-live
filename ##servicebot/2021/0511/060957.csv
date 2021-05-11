@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:NY,"As of 2021-05-10, `New York in US` has had 2_074_079 confirmed COVID-19 cases (doubling in 29 mo) (1_653 new) and 52_729 (2.5%) deaths (doubling in 29 mo) (41 new), with a current death rate of 2.5%",https://covid-api.com/api/reports?date=2021-05-10&iso=USA&region_province=New%20York,https://j.mp/3ohpRo5
