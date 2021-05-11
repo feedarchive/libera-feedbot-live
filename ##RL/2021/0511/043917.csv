@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/RL:10+,"""Richard Sutton named to British Royal Society""",https://redd.it/n9kmdc,
+r/RL:10+,"""GridToPix: Training Embodied Agents with Minimal Supervision"", Jain et al 2021 (hierarchical RL/curriculum learning: pretrain on abstracted gridworld toy tasks before transfer to real task)",https://redd.it/n8hwwq,
