@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Athena adds built-in support for cross-account AWS Glue Data Catalogs,https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-adds-built-in-support-for-cross-account-aws-glue-data-catalogs/,https://amzn.to/3ob8m8I
+AWS:WhatsNew,Learn how to develop applications with Amazon DynamoDB,https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb/,https://amzn.to/3vT9HDQ
+AWS:WhatsNew,Now use AWS Systems Manager Change Calendar to prevent desired-state updates during critical events,https://aws.amazon.com/about-aws/whats-new/2021/05/now-use-aws-systems-manager-change-calendar-to-prevent-desired-state-updates-during-critical-events/,https://amzn.to/3htupGa
+AWS:WhatsNew,Amazon CloudWatch Now Supports Composite Alarms in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-now-supports-composite-alarms-in-aws-govcloud-us-regions/,https://amzn.to/2RM5zqz
