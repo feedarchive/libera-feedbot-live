@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:USA:CT,"As of 2021-05-13, `Connecticut in US` has had 344_612 confirmed COVID-19 cases (doubling in 17 mo) (471 new) and 8_168 (2.4%) deaths (doubling in 27 mo) (7 new), with a current death rate of 1.5%",https://covid-api.com/api/reports?date=2021-05-13&iso=USA&region_province=Connecticut,https://j.mp/3uLiUxK
