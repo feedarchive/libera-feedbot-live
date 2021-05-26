@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EMR 6.3 release version now supports Apache Spark 3.1.1,https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-6-3-release-version-now-supports-apache-spark-3-1-1/,https://amzn.to/3um4B1D
+AWS:WhatsNew,AWS Certificate Manager Private Certificate Authority now supports storing CRLs in private S3 buckets,https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-supports-storing-crls-in-private-s3-buckets/,https://amzn.to/3foOYSN
+AWS:WhatsNew,Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.0,https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-managed-workflows-for-apache-airflow-mwaa-now-supports-apache-airflow/,https://amzn.to/2QV6p41
