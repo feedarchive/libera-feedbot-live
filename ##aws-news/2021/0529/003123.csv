@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,Elastic has broken filebeat as of 7.13; it no longer works with AWS managed ElasticSearch,https://redd.it/nn95aq,
