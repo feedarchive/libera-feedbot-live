@@ -1,0 +1,47 @@
+feed,title,long_url,short_url
+PwC:Latest,Singing Language Identification using a Deep Phonotactic Approach,https://paperswithcode.com/paper/singing-language-identification-using-a-deep,https://j.mp/3uCYI0m
+PwC:Latest,Not All Images are Worth 16x16 Words: Dynamic Vision Transformers with Adaptive Sequence Length,https://paperswithcode.com/paper/not-all-images-are-worth-16x16-words-dynamic,https://j.mp/3c6N1sh
+PwC:Latest,Generating Interesting Song-to-Song Segues With Dave,https://paperswithcode.com/paper/generating-interesting-song-to-song-segues,https://j.mp/3g1uZbR
+PwC:Latest,Beyond Noise: Mitigating the Impact of Fine-grained Semantic Divergences on Neural Machine Translation,https://paperswithcode.com/paper/beyond-noise-mitigating-the-impact-of-fine,https://j.mp/2TyfXTC
+PwC:Latest,On Compositional Generalization of Neural Machine Translation,https://paperswithcode.com/paper/on-compositional-generalization-of-neural,https://j.mp/3wE16VY
+PwC:Latest,Robustifying $\ell_\infty$ Adversarial Training to the Union of Perturbation Models,https://paperswithcode.com/paper/robustifying-ell-infty-adversarial-training,https://j.mp/2SLIQve
+PwC:Latest,Adversarial Training with Rectified Rejection,https://paperswithcode.com/paper/adversarial-training-with-rectified-rejection,https://j.mp/34xllZd
+PwC:Latest,MSG-Transformer: Exchanging Local Spatial Information by Manipulating Messenger Tokens,https://paperswithcode.com/paper/msg-transformer-exchanging-local-spatial,https://j.mp/34yWKmT
+PwC:Latest,Factorising Meaning and Form for Intent-Preserving Paraphrasing,https://paperswithcode.com/paper/factorising-meaning-and-form-for-intent,https://j.mp/34CP7Me
+PwC:Latest,Adapting High-resource NMT Models to Translate Low-resource Related Languages without Parallel Data,https://paperswithcode.com/paper/adapting-high-resource-nmt-models-to,https://j.mp/3vKzTkw
+PwC:Latest,Transferable Sparse Adversarial Attack,https://paperswithcode.com/paper/transferable-sparse-adversarial-attack,https://j.mp/3c767P2
+PwC:Latest,Training Domain-invariant Object Detector Faster with Feature Replay and Slow Learner,https://paperswithcode.com/paper/training-domain-invariant-object-detector,https://j.mp/3vE2g3N
+PwC:Latest,Transfer Learning for Sequence Generation: from Single-source to Multi-source,https://paperswithcode.com/paper/transfer-learning-for-sequence-generation,https://j.mp/3p6hlIR
+PwC:Latest,Supporting Cognitive and Emotional Empathic Writing of Students,https://paperswithcode.com/paper/supporting-cognitive-and-emotional-empathic,https://j.mp/3fVy65q
+PwC:Latest,Document-level Event Extraction via Heterogeneous Graph-based Interaction Model with a Tracker,https://paperswithcode.com/paper/document-level-event-extraction-via,https://j.mp/3p6g58q
+PwC:Latest,Human-level COVID-19 Diagnosis from Low-dose CT Scans Using a Two-stage Time-distributed Capsule Network,https://paperswithcode.com/paper/human-level-covid-19-diagnosis-from-low-dose,https://j.mp/3yMHCjX
+PwC:Latest,BaMBNet: A Blur-aware Multi-branch Network for Defocus Deblurring,https://paperswithcode.com/paper/bambnet-a-blur-aware-multi-branch-network-for,https://j.mp/34zKr9X
+PwC:Latest,Connecting Language and Vision for Natural Language-Based Vehicle Retrieval,https://paperswithcode.com/paper/connecting-language-and-vision-for-natural,https://j.mp/3ibEA2D
+PwC:Latest,Towards Lower Bounds on the Depth of ReLU Neural Networks,https://paperswithcode.com/paper/towards-lower-bounds-on-the-depth-of-relu,https://j.mp/3i6o6J3
+PwC:Latest,Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models,https://paperswithcode.com/paper/exploration-and-exploitation-two-ways-to,https://j.mp/3c8Jqd5
+PwC:Latest,Cascaded Head-colliding Attention,https://paperswithcode.com/paper/cascaded-head-colliding-attention,https://j.mp/3fDOokl
+PwC:Latest,Crowdsourcing Learning as Domain Adaptation: A Case Study on Named Entity Recognition,https://paperswithcode.com/paper/crowdsourcing-learning-as-domain-adaptation-a,https://j.mp/3yTzyOk
+PwC:Latest,Verdi: Quality Estimation and Error Detection for Bilingual,https://paperswithcode.com/paper/verdi-quality-estimation-and-error-detection,https://j.mp/34ztxbz
+PwC:Latest,Effective Batching for Recurrent Neural Network Grammars,https://paperswithcode.com/paper/effective-batching-for-recurrent-neural,https://j.mp/34x4pCe
+PwC:Latest,"Fast, Accurate and Interpretable Time Series Classification Through Randomization",https://paperswithcode.com/paper/fast-accurate-and-interpretable-time-series,https://j.mp/2S0vbAb
+PwC:Latest,Good for Misconceived Reasons: An Empirical Revisiting on the Need for Visual Context in Multimodal Machine Translation,https://paperswithcode.com/paper/good-for-misconceived-reasons-an-empirical,https://j.mp/2TlSzsf
+PwC:Latest,Towards Diverse Paragraph Captioning for Untrimmed Videos,https://paperswithcode.com/paper/towards-diverse-paragraph-captioning-for,https://j.mp/3i7h7zF
+PwC:Latest,Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking,https://paperswithcode.com/paper/learning-domain-specialised-representations,https://j.mp/2RYN3eW
+PwC:Latest,How Attentive are Graph Attention Networks?,https://paperswithcode.com/paper/how-attentive-are-graph-attention-networks,https://j.mp/34Ad5rK
+PwC:Latest,CLEVE: Contrastive Pre-training for Event Extraction,https://paperswithcode.com/paper/cleve-contrastive-pre-training-for-event,https://j.mp/3ikg67F
+PwC:Latest,GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning,https://paperswithcode.com/paper/geoqa-a-geometric-question-answering,https://j.mp/3uAE293
+PwC:Latest,Gaze Estimation using Transformer,https://paperswithcode.com/paper/gaze-estimation-using-transformer,https://j.mp/3cpXq2z
+PwC:Latest,Robust Dynamic Network Embedding via Ensembles,https://paperswithcode.com/paper/robust-dynamic-network-embedding-via,https://j.mp/3yVrpci
+PwC:Latest,Re-evaluating Word Mover's Distance,https://paperswithcode.com/paper/re-evaluating-word-mover-s-distance,https://j.mp/3yMHykd
+PwC:Latest,Diversifying Dialog Generation via Adaptive Label Smoothing,https://paperswithcode.com/paper/diversifying-dialog-generation-via-adaptive,https://j.mp/3vIfMDl
+PwC:Latest,HIT: A Hierarchically Fused Deep Attention Network for Robust Code-mixed Language Representation,https://paperswithcode.com/paper/hit-a-hierarchically-fused-deep-attention,https://j.mp/2RbBcK8
+PwC:Latest,Transforming the Latent Space of StyleGAN for Real Face Editing,https://paperswithcode.com/paper/transforming-the-latent-space-of-stylegan-for,https://j.mp/2RSUft8
+PwC:Latest,E2ETag: An End-to-End Trainable Method for Generating and Detecting Fiducial Markers,https://paperswithcode.com/paper/e2etag-an-end-to-end-trainable-method-for,https://j.mp/3iaJVHs
+PwC:Latest,A Spectral-Spatial-Dependent Global Learning Framework for Insufficient and Imbalanced Hyperspectral Image Classification,https://paperswithcode.com/paper/a-spectral-spatial-dependent-global-learning,https://j.mp/3ySlVif
+PwC:Latest,Novel Slot Detection: A Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue System,https://paperswithcode.com/paper/novel-slot-detection-a-benchmark-for,https://j.mp/3uEEX8o
+PwC:Latest,Beyond the Spectrum: Detecting Deepfakes via Re-Synthesis,https://paperswithcode.com/paper/beyond-the-spectrum-detecting-deepfakes-via,https://j.mp/3c7y5tI
+PwC:Latest,Greedy Bayesian Posterior Approximation with Deep Ensembles,https://paperswithcode.com/paper/greedy-bayesian-posterior-approximation-with,https://j.mp/3c7wrZa
+PwC:Latest,Ten Quick Tips for Deep Learning in Biology,https://paperswithcode.com/paper/ten-quick-tips-for-deep-learning-in-biology,https://j.mp/3wMHmQ1
+PwC:Latest,LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering,https://paperswithcode.com/paper/lpf-a-language-prior-feedback-objective,https://j.mp/3yRlS6e
+PwC:Latest,Exploiting Position Bias for Robust Aspect Sentiment Classification,https://paperswithcode.com/paper/exploiting-position-bias-for-robust-aspect,https://j.mp/3c9INQz
+PwC:Latest,Data-driven 6D Pose Tracking by Calibrating Image Residuals in Synthetic Domains,https://paperswithcode.com/paper/data-driven-6d-pose-tracking-by-calibrating,https://j.mp/3c6kmDN
