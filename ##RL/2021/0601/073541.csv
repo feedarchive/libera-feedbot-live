@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+r/RL:10+,"""Griddly, A platform for AI research in game"", Bamford 2020: Gridworld DSL, C++ rendering engine, OA Gym API, & package of Gridworld environments",https://redd.it/npjf4o,
+r/RL:10+,"On loading the saved model, the training scores vary (Pytorch)",https://redd.it/nouzbz,
+r/RL:10+,Techniques for Fixed Episode Length Scenarios in Reinforcement Learning,https://redd.it/no8v1i,
