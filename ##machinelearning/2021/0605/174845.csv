@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.9.0-rc3: Fix test_randperm_device_compatibility for 1 GPU (#59484) (#59502),https://github.com/pytorch/pytorch/releases/tag/v1.9.0-rc3,
