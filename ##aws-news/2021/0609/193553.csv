@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[management-console] Informational message: Increased Error Rates and Latencies for SAML Based Federation,http://status.aws.amazon.com/#management-console_1623266658,
+status,[signin-us-east-1] Informational message: Increased Latencies for SAML Sign-In,http://status.aws.amazon.com/#signin-us-east-1_1623267075,
+status,[signin-us-east-1] Informational message: Increased Latencies for SAML Sign-In,http://status.aws.amazon.com/#signin-us-east-1_1623264112,
