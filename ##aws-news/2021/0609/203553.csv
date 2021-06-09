@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[management-console] [RESOLVED] Increased Error Rates and Latencies for SAML Based Federation,http://status.aws.amazon.com/#management-console_1623270060,
+status,[signin-us-east-1] [RESOLVED] Increased Latencies for SAML Sign-In,http://status.aws.amazon.com/#signin-us-east-1_1623270120,
