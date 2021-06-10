@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[firehose-eu-central-1] Informational message: Increased API Errors,http://status.aws.amazon.com/#firehose-eu-central-1_1623360846,
+status,[ec2-eu-central-1] Service degradation: Connectivity Issues & API Errors,http://status.aws.amazon.com/#ec2-eu-central-1_1623361015,
