@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[firehose-eu-central-1] Informational message: Increased API Errors,http://status.aws.amazon.com/#firehose-eu-central-1_1623368865,
+status,[kinesis-eu-central-1] Informational message: Increased API Error Rates and Latencies,http://status.aws.amazon.com/#kinesis-eu-central-1_1623368816,
