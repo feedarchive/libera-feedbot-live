@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[cloudformation-eu-central-1] Informational message: Increased API Errors,http://status.aws.amazon.com/#cloudformation-eu-central-1_1623371923,
+status,[firehose-eu-central-1] [RESOLVED] Increased API Errors,http://status.aws.amazon.com/#firehose-eu-central-1_1623371969,
+status,[kinesis-eu-central-1] [RESOLVED] Increased API Error Rates and Latencies,http://status.aws.amazon.com/#kinesis-eu-central-1_1623371700,
