@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance,https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/,https://amzn.to/3wqoA16
+AWS:WhatsNew,Announcing support for custom partitioning in AWS IoT Analytics Data Stores,https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-support-for-custom-partioning-in-aws-iot-analytics-data-stores/,https://amzn.to/3cF0tUq
