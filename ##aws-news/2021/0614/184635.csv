@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions,https://aws.amazon.com/about-aws/whats-new/2021/06/internet-group-management-protocol-multicast-support-transit-gateway-multicast-available-aws-govcloud-regions/,https://amzn.to/3vnCsrI
+AWS:WhatsNew,Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances,https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-you-to-create-crash-consistent-multi-volume-amis-by-default/,https://amzn.to/35jkSdF
