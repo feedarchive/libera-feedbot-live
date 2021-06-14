@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances,https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-create-crash-consistent-amis-from-instances-multiple-amazon-ebs-volumes-without-rebooting-instances/,https://amzn.to/35nk5s6
+AWS:WhatsNew,Announcing per second billing for EC2 Windows Server and SQL Server Instances,https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-per-second-billing-for-ec2-windows-server-and-sql-server-instances/,https://amzn.to/2RRWZXs
