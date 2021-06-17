@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+BAIR,The Importance of Hyperparameter Optimization for Model-based Reinforcement Learning,http://bair.berkeley.edu/blog/2021/04/19/mbrl/,https://j.mp/3x8dbDH
+BAIR,Maximum Entropy RL (Provably) Solves Some Robust RL Problems,http://bair.berkeley.edu/blog/2021/03/09/maxent-robust-rl/,https://j.mp/3ryRolt
+BAIR,Offline Reinforcement Learning: How Conservative Algorithms Can Enable New Applications,http://bair.berkeley.edu/blog/2020/12/07/offline/,https://j.mp/3mXDWoU
