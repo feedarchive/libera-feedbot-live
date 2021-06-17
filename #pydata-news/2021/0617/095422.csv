@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PythonSpeed,Shrinking your Python application's Docker image: an overview,https://pythonspeed.com/articles/smaller-docker-images/,https://j.mp/3yD5czq
+PythonSpeed,Docker can slow down your code and distort your benchmarks,https://pythonspeed.com/articles/docker-performance-overhead/,https://j.mp/3uMVw38
+PythonSpeed,How to (not) use Docker to share your password with hackers,https://pythonspeed.com/articles/leaking-secrets-docker/,https://j.mp/2SlMNX4
