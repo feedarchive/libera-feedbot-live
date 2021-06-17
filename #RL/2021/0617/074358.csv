@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+r/RL:20+,"""Vector Quantized Models for Planning"", Ozair et al 2021 {DM} (MCTS on VQVAE to generalize MuZero to stochastic/hidden-info envs)",https://redd.it/o0ultm,
+r/RL:20+,Gym-μRTS: Toward Affordable Full Game Real-time Strategy Games Research with Deep Reinforcement Learning,https://redd.it/o046uc,
+r/RL:20+,[R] Yoshua Bengio Team Designs Consciousness-Inspired Planning Agent for Model-Based RL,https://redd.it/nykkkt,
