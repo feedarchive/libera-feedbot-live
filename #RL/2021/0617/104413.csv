@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+r/RL:10+,"""Vector Quantized Models for Planning"", Ozair et al 2021 {DM} (MCTS on VQVAE to generalize MuZero to stochastic/hidden-info envs)",https://redd.it/o0ultm,
+r/RL:10+,An AI chip designed by reinforcement learning says a lot about the nature of intelligence,https://redd.it/nzqjnr,
+r/RL:10+,"""A Generalizable Approach To Learning Optimizers"", Almeida et al 2021 {OA} (RNN hyperparameter tuning)",https://redd.it/nrhv8s,
