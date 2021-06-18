@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[rds-ap-east-1] Informational message: Instance Unavailability,http://status.aws.amazon.com/#rds-ap-east-1_1623996600,
+status,[ec2-ap-east-1] Service degradation: Increased API Error Rates,http://status.aws.amazon.com/#ec2-ap-east-1_1624002461,
