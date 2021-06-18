@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[ec2-eu-north-1] Informational message: Elevated IAM Error Rate,http://status.aws.amazon.com/#ec2-eu-north-1_1623977653,
+status,[s3-eu-north-1] [RESOLVED] Elevated IAM Error Rate,http://status.aws.amazon.com/#s3-eu-north-1_1623977882,
