@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+PwC:Trending,/google-research/ DeepLab2: A TensorFlow Library for Deep Labeling: https://github.com/google-research/deeplab2,https://paperswithcode.com/paper/deeplab2-a-tensorflow-library-for-deep,https://j.mp/2SUsXD4
+PwC:Trending,/alibaba/ Lattice-BERT: Leveraging Multi-Granularity Representations in Chinese Pre-trained Language Models: https://github.com/alibaba/AliceMind,https://paperswithcode.com/paper/lattice-bert-leveraging-multi-granularity,https://j.mp/3ccBnfg
+PwC:Trending,/alibaba/ PALM: Pre-training an Autoencoding&Autoregressive Language Model for Context-conditioned Generation: https://github.com/alibaba/AliceMind/tree/main/PALM,https://paperswithcode.com/paper/palm-pre-training-an-autoencoding,https://j.mp/3c1vCRz
+PwC:Trending,/alibaba/ Multi-granularity hierarchical attention fusion networks for reading comprehension and question answering: https://github.com/alibaba/AliceMind/tree/main/StructBERT,https://paperswithcode.com/paper/multi-granularity-hierarchical-attention,https://j.mp/3oZWIhc
