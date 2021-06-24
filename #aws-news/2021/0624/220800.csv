@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS DevOps Monitoring Dashboard solution v1.1 adds support for AWS CodeBuild and AWS CodePipeline related metrics,https://aws.amazon.com/about-aws/whats-new/2021/06/aws-devops-monitoring-dashboard-solution-adds-support-for-aws-codebuild-and-asw-codepipeline-related-metrics/,https://amzn.to/3d9HHVs
+AWS:WhatsNew,Amazon QLDB is now available in the Europe (London) region,https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-is-now-available-in-the-europe-london-region/,https://amzn.to/3xKyYkq
+AWS:WhatsNew,"Amazon DynamoDB Accelerator (DAX) now supports encryption in transit of data between your applications and DAX clusters, and between the nodes within a DAX cluster",https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-dynamodb-accelerator--dax--now-supports-encryption-in-tra/,https://amzn.to/3qvFkll
+AWS:WhatsNew,AWS Network Firewall is now available in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2021/06/aws-network-firewall-is-now-available-in-aws-govcloud-us/,https://amzn.to/3dbSI8I
