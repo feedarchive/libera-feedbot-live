@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports SASL/PLAIN authentication for functions triggered from self-managed Apache Kafka,https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-now-supports-sasl-plain-authentication-for-functions-triggered-from-self-managed-apache-kafka/,https://amzn.to/3qA4r6t
+AWS:WhatsNew,AWS CloudFormation Modules are now available in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-modules-are-now-available-in-aws-govcloud-us/,https://amzn.to/3drJvJP
