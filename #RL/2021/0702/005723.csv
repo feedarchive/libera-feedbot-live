@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"""Brax: A Differentiable Jax Physics Engine for Large Scale Rigid Body Simulation"", Freeman et al 2021 {G} (w/PPO, SAC, ES, PO for batching env+agent directly on TPU)",https://redd.it/oalp41,
