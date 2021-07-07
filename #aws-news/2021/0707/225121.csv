@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports Amazon MQ for RabbitMQ as an event source,https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-now-supports-amazon-mq-for-rabbitmq-as-an-event-source/,https://amzn.to/3hMA352
+AWS:WhatsNew,"The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams",https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-chime-sdk-adds-media-capture-pipelines-to-enable-capture-of-meeting-video-audio-and-content-streams/,https://amzn.to/2Vky00r
