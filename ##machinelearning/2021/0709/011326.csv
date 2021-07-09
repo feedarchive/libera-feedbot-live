@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+Medium,Split your data into clusters with imperio ClusterizeTransformer,https://medium.com/p/1e5d4166296f,
+Medium,A detailed guide to Pytorch’s nn.Transformer() module,https://medium.com/p/c80afbc9ffb1,
