@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Help!!!! My auditor had a comment in our AWS audit ""Separate EC2 clusters (currently they are in the same availability zones)"" is this referring to spreading the production cluster in different availability zones or having separate zones for production vs staging?",https://redd.it/oidxne,
