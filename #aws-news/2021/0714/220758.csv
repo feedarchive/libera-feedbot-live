@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Certificate Manager provides expanded usage of imported ECDSA and RSA Certificates,https://aws.amazon.com/about-aws/whats-new/2021/07/aws-certificate-manager-provides-expanded-usage-imported-ecdsa-rsa-certificates/,https://amzn.to/3B0U0hc
+AWS:WhatsNew,Amazon Kendra releases Principal Store for secure search,https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-kendra-releases-principal-store-secure-search/,https://amzn.to/3z07ubi
+AWS:WhatsNew,Amazon Lightsail now offers object storage for storing static content,https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lightsail-now-offers-object-storage-for-storing-static-content/,https://amzn.to/3xIsd2W
+AWS:WhatsNew,Amazon CloudFront now supports ECDSA certificates for HTTPS connections to viewers,https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudfront-now-supports-ecdsa-certificates-for-https-connections-to-viewers/,https://amzn.to/3khYWIu
