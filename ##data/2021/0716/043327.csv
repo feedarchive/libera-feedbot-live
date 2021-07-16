@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:OpenData,NOAA Atmospheric Climate Data Records,https://registry.opendata.aws/noaa-cdr-atmospheric,https://j.mp/36CdjiU
+AWS:OpenData,NOAA Global Mosaic of Geostationary Satellite Imagery (GMGSI),https://registry.opendata.aws/noaa-gmgsi,https://j.mp/3B3hrXj
+AWS:OpenData,NOAA Oceanic Climate Data Records,https://registry.opendata.aws/noaa-cdr-oceanic,https://j.mp/3hKgmfu
+AWS:OpenData,NOAA Terrestrial Climate Data Records (FCDR),https://registry.opendata.aws/noaa-cdr-terrestrial,https://j.mp/3iwCt8n
