@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+Nvidia:DevBlog,NVIDIA Announces TensorRT 8 Slashing BERT-Large Inference Down to 1 Millisecond,https://developer.nvidia.com/blog/nvidia-announces-tensorrt-8-slashing-bert-large-inference-down-to-1-millisecond/,https://j.mp/2TovVA1
+Nvidia:DevBlog,Speeding Up Deep Learning Inference Using NVIDIA TensorRT (Updated),https://developer.nvidia.com/blog/speeding-up-deep-learning-inference-using-tensorrt-updated/,https://j.mp/2Tows4Z
+Nvidia:DevBlog,Achieving FP32 Accuracy for INT8 Inference Using Quantization Aware Training with NVIDIA TensorRT,https://developer.nvidia.com/blog/achieving-fp32-accuracy-for-int8-inference-using-quantization-aware-training-with-tensorrt/,https://j.mp/3eFdbDF
+Nvidia:DevBlog,Accelerating Inference with Sparsity Using the NVIDIA Ampere Architecture and NVIDIA TensorRT,https://developer.nvidia.com/blog/accelerating-inference-with-sparsity-using-ampere-and-tensorrt/,https://j.mp/2UuQsDt
+Nvidia:DevBlog,Real-Time Natural Language Processing with BERT Using NVIDIA TensorRT (Updated),https://developer.nvidia.com/blog/real-time-nlp-with-bert-using-tensorrt-updated/,https://j.mp/3BoSwxm
+Nvidia:DevBlog,Using Neural Networks for Your Recommender System,https://developer.nvidia.com/blog/using-neural-networks-for-your-recommender-system/,https://j.mp/3hXIRXb
