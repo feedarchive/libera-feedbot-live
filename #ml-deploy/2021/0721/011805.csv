@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ArXiv,A Bayesian Federated Learning Framework with Online Laplace Approximation,https://arxiv.org/abs/2102.01936v2,
+ArXiv,Fed-EINI: An Efficient and Interpretable Inference Framework for Decision Tree Ensembles in Federated Learning,https://arxiv.org/abs/2105.09540v5,
+ArXiv,Transfer Learning for Credit Card Fraud Detection: A Journey from Research to Production,https://arxiv.org/abs/2107.09323v1,
+ArXiv,Fair Preprocessing: Towards Understanding Compositional Fairness of Data Transformers in Machine Learning Pipeline,https://arxiv.org/abs/2106.06054v5,
+ArXiv,Proxy Convexity: A Unified Framework for the Analysis of Neural Networks Trained by Gradient Descent,https://arxiv.org/abs/2106.13792v2,
