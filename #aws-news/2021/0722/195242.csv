@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21 in AWS GovCloud (US) Regions",https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-supports-postgresql-12-6-11-11-10-16-and-9-6-21-in-aws-govcloud-us-regions/,https://amzn.to/3ztkpm2
+AWS:WhatsNew,Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-the-pg-bigm-extension-for-faster-full-text-search-in-aws-govcloud-us-regions/,https://amzn.to/3ybuDas
+AWS:WhatsNew,Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-cron-extension-scheduling-database-jobs-aws-govcloud-us-regions/,https://amzn.to/3eLtS0k
