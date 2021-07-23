@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Kendra releases WorkDocs Connector,https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-kendra-releases-workdocs-connector/,https://amzn.to/2WdY3H8
+AWS:WhatsNew,AWS Glue DataBrew adds the ability to specify which data quality statistics are generated for your datasets,https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-adds-ability-specify-which-data-quality-statistics-generated-datasets/,https://amzn.to/3i0bT8n
+AWS:WhatsNew,Discovering Hot Topics Using Machine Learning solution now allows businesses to analyze news article content for sentiment and topic analysis,https://aws.amazon.com/about-aws/whats-new/2021/07/discovering-hot-topics-using-machine-learning-solution-allows-businesses-analyze-news-article-content-sentiment-topic-analysis/,https://amzn.to/3eQnYuS
+AWS:WhatsNew,AWS Glue DataBrew now supports writing prepared data directly into JDBC-supported destinations,https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-supports-writing-prepared-data-directly-into-jdbc-supported-destinations/,https://amzn.to/3kPb2sR
