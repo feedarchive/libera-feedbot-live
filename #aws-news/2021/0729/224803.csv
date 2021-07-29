@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Keyspaces (for Apache Cassandra) now automatically optimizes client connections made through AWS PrivateLink to improve availability and read/write throughput,https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-keyspaces-for-apache-cassandra-now-automatically-optimi/,https://amzn.to/3rJF7fa
+AWS:WhatsNew,"Amazon Rekognition Custom Labels makes it easy for customers to learn how to train machine learning models by providing tutorial videos, and sample datasets",https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rekognition-custom-labels-customers-learn-train-machine-learning-models-providing-tutorial-videos-sample-datasets/,https://amzn.to/3i9BZG8
