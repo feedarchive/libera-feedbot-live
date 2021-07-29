@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,The Amazon DynamoDB Accelerator (DAX) SDK for Java 2.x is now available,https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-sdk-for-java-2-x-is-available/,https://amzn.to/3lerNOq
+AWS:WhatsNew,Amazon EC2 Auto Scaling now lets you control which instances to terminate on scale-in,https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-auto-scaling-now-lets-you-control-which-instances-to-terminate-on-scale-in/,https://amzn.to/3f9U5WB
+AWS:WhatsNew,Introducing new Amazon EC2 G4ad instance sizes,https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-new-amazon-ec2-g4ad-instance-sizes/,https://amzn.to/3j0ZXma
