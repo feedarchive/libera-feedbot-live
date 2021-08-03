@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[management-console] Informational message: Increased Management Console Error Rates,http://status.aws.amazon.com/#management-console_1628029136,
+status,[lambda-eu-south-1] Informational message: Increased Invoke Error Rate,http://status.aws.amazon.com/#lambda-eu-south-1_1628028846,
