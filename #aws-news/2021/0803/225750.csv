@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[management-console] [RESOLVED] Increased Management Console Error Rates,http://status.aws.amazon.com/#management-console_1628030760,
+status,[lambda-eu-south-1] [RESOLVED] Increased Invoke Error Rate,http://status.aws.amazon.com/#lambda-eu-south-1_1628030700,
+status,[lambda-eu-south-1] [RESOLVED] Increased Invoke Error Rate,http://status.aws.amazon.com/#lambda-eu-south-1_1628028847,
