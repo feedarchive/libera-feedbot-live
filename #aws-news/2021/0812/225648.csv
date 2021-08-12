@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue DataBrew now supports writing prepared data into Tableau Hyper format,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-tableau-hyper-format/,https://amzn.to/3yDhxTP
+AWS:WhatsNew,Amazon API Gateway now supports mutual TLS with certificates from third-party CAs and ACM Private CA,https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-api-gateway-now-supports-mutual-tls-certificates-from-third-party-cas-and-acm-private-ca/,https://amzn.to/3iHL3Cl
+AWS:WhatsNew,CodeBuild Supports Publicly Viewable Build Results,https://aws.amazon.com/about-aws/whats-new/2021/08/codebuild-supports-publicly-viewable-build-results/,https://amzn.to/3AGzq4z
+AWS:WhatsNew,AWS Glue DataBrew now supports logical conditions as transformations,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-logical-conditions-transformations/,https://amzn.to/37AZ4eG
