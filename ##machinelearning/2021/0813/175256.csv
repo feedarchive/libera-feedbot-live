@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue DataBrew now supports writing prepared data into AWS Lake Formation based AWS Glue Data Catalog tables,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/,https://amzn.to/3g3Uavl
+AWS:WhatsNew,AWS Glue DataBrew now supports numerical format transformations,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-supports-numerical-format-transformations/,https://amzn.to/3sd5Qkt
