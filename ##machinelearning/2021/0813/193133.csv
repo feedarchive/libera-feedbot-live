@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.8.2: Wrap cub in its own namespace (#55292) (#61605),https://github.com/pytorch/pytorch/releases/tag/v1.8.2,
