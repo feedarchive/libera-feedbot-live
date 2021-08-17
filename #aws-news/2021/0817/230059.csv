@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transfer Family expands compatibility for FTPS/FTP clients and increases limit for number of servers,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-transfer-family-ftps-ftp-clients-number-servers/,https://amzn.to/3soopSG
+AWS:WhatsNew,Amazon EC2 customers can now use ED25519 keys for authentication during instance connectivity operations,https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-customers-ed25519-keys-authentication/,https://amzn.to/3mfBUmC
