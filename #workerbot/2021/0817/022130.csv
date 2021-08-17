@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ArXiv,Adaptive numerical simulations with Trixi.jl: A case study of Julia for scientific computing,https://arxiv.org/abs/2108.06476v1,
+ArXiv,Relaxation Based Modeling of GMD Induced Cascading Failures in PowerModelsGMD.jl,https://arxiv.org/abs/2108.06585v1,
+ArXiv,"On the performance of GPU accelerated q-LSKUM based meshfree solvers in Fortran, C++, Python, and Julia",https://arxiv.org/abs/2108.07031v1,
+ArXiv,"yupi: Generation, Tracking and Analysis of Trajectory data in Python",https://arxiv.org/abs/2108.06340v1,
+ArXiv,Nonparametric Estimation of the Random Coefficients Model in Python,https://arxiv.org/abs/2108.03582v2,
