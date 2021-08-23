@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-redshift-target/,https://amzn.to/3mrZ8Gu
+AWS:WhatsNew,AWS Database Migration Service now supports Redis as a target,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-supports-redis-target/,https://amzn.to/2UKA7uC
+AWS:WhatsNew,AWS Database Migration Service now supports MongoDB 4.2 and 4.4 as sources,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-mongodb-4-2-and-4-4/,https://amzn.to/3gphsfk
