@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Data Lifecycle Manager now automates deprecation of Amazon Machine Images (AMIs),https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-data-lifecycle-manager-automates-deprecation-ami/,https://amzn.to/3j8P5nx
+AWS:WhatsNew,AWS Database Migration Service now supports automatic segmentation using MongoDB and Amazon DocumentDB (with MongoDB compatibility) as a source,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-segmentation-mongodb/,https://amzn.to/3jaW4fB
