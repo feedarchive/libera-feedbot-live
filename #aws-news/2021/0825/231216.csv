@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,The new Amazon DynamoDB console is now your default experience to help you manage data and resources more easily,https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-dynamodb-console-manage-data-resources/,https://amzn.to/3gzjpWz
+AWS:WhatsNew,"IPv6 endpoints are now available for the Amazon EC2 Instance Metadata Service, Amazon Time Sync Service, and Amazon VPC DNS Server",https://aws.amazon.com/about-aws/whats-new/2021/08/Ipv6-amazon-ec2-metadata-time-sync-vpc-dns/,https://amzn.to/3jetiuy
