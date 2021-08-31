@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Distro for OpenTelemetry adds support for Amazon ECS in Amazon CloudWatch Container Insights and metrics support for AWS Lambda applications in Amazon Managed Prometheus (Preview),https://aws.amazon.com/about-aws/whats-new/2021/08/aws-distro-opentelemetry-amazon-ecs-cloudwatch-lambda-prometheus/,https://amzn.to/3mQo4aQ
+AWS:WhatsNew,AWS IoT Device Management announces new fleet monitoring enhancements,https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-device-management-fleet-monitoring/,https://amzn.to/38qNtzi
+AWS:WhatsNew,Amazon RDS for Oracle now supports July 2021 Patch Set Update (PSU) for 12.1 and Release Updates (RU) for 12.2 and 19c,https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-oracle-psu-12-1-ru-12-2-19c/,https://amzn.to/3t6oDhQ
