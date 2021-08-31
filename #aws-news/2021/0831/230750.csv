@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[elb-eu-west-1] [RESOLVED] Connectivity Issues,http://status.aws.amazon.com/#elb-eu-west-1_1630451062,
+status,[elb-us-west-2] [RESOLVED] Connectivity Issues,http://status.aws.amazon.com/#elb-us-west-2_1630450961,
+status,[internetconnectivity-us-west-2] [RESOLVED] Connectivity Issues,http://status.aws.amazon.com/#internetconnectivity-us-west-2_1630450965,
