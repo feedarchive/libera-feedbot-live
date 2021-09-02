@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing Amazon FSx for NetApp ONTAP,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/,https://amzn.to/2Vazc6N
+AWS:WhatsNew,Amazon S3 Intelligent-Tiering further automates storage cost savings by removing the minimum storage duration and monitoring and automation charge for small objects,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-intelligent-tiering-automates-storage-savings/,https://amzn.to/3jGgpdc
+AWS:WhatsNew,Updated AWS Solutions Implementation: AWS CloudEndure Migration Factory Solution,https://aws.amazon.com/about-aws/whats-new/2021/09/aws-solutions-implementation-aws-cloudendure-migration-factory-solution/,https://amzn.to/3DGnBOj
+AWS:WhatsNew,Amazon Elastic File System introduces Intelligent-Tiering to automatically optimize storage costs,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-file-system-intelligent-tiering/,https://amzn.to/3jF9d0N
+AWS:WhatsNew,AWS Transfer Family simplifies managed file transfer workflows with low code automation,https://aws.amazon.com/about-aws/whats-new/2021/09/aws-transfer-family-managed-workflows/,https://amzn.to/3gUrTrq
+AWS:WhatsNew,Amazon S3 Multi-Region Access Points accelerate access to replicated data sets by up to 60%,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-multi-region-access-points-replicated-data-sets/,https://amzn.to/3tbjN2L
+AWS:WhatsNew,Amazon EBS direct APIs now supports creating 64 TB EBS Snapshots,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ebs-apis-ebs-snapshots/,https://amzn.to/3kNytBj
