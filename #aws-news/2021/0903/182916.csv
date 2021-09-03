@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,ACM Private CA now supports the Online Certificate Status Protocol (OCSP),https://aws.amazon.com/about-aws/whats-new/2021/09/acm-private-ca-online-certificate-ocsp/,https://amzn.to/3kQoLye
+AWS:WhatsNew,Amazon EMR Studio is now HIPAA eligible and HITRUST certified,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-hipaa-hitrust/,https://amzn.to/3yNlAfn
+AWS:WhatsNew,"Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7 in AWS GovCloud (US) Regions",https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-postgresql-versions-aws-govcloud-regions/,https://amzn.to/3h3m4YT
