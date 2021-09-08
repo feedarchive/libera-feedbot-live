@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Data Streams with OpenSearch 1.0 to simplify management of time-series data,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-1-0-elasticsearch-data-streams/,https://amzn.to/3BX26qC
+AWS:WhatsNew,"OpenSearch Dashboards Notebooks, a new visual reporting feature, now available on Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)",https://aws.amazon.com/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/,https://amzn.to/3E2SY5G
+AWS:WhatsNew,Amazon Elasticsearch Service is now Amazon OpenSearch Service; adds support for OpenSearch 1.0,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticsearch-service-amazon-opensearch-service-opensearch-1-0/,https://amzn.to/3tpkXrv
