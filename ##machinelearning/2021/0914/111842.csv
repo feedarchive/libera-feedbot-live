@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+PwC:Trending,/microsoft/ TabNet: Attentive Interpretable Tabular Learning: https://github.com/microsoft/qlib/blob/main/qlib/contrib/model/pytorch_tabnet.py,https://paperswithcode.com/paper/tabnet-attentive-interpretable-tabular,https://j.mp/2ySxLyT
+PwC:Trending,/microsoft/ Attention-based LSTM for Aspect-level Sentiment Classification: https://github.com/microsoft/qlib/blob/main/qlib/contrib/model/pytorch_alstm.py,https://paperswithcode.com/paper/attention-based-lstm-for-aspect-level,https://j.mp/3Aac1Jf
