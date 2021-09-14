@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:50+,"[R] Impact of GPU uncertainty on the training of predictive deep neural networks: When training a predictive neural net using only CPUs, the learning error is higher than when using GPUs, suggesting that GPUs plays a different role in the learning process than just increasing computational speed",https://redd.it/pnav3b,
