@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"If I host a 50mb build (React) of a webapp on a server, is the whole 50mb gonna be transferred every time someone visits the website?? If so I can see the data transfers growing alot if my website has decent number of visits",https://redd.it/po0d0m,
