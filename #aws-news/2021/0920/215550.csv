@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/,https://amzn.to/3lMLRGx
+AWS:WhatsNew,"Amazon Detective supports S3 and DNS finding types, adds finding details",https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/,https://amzn.to/3nPQUZ8
