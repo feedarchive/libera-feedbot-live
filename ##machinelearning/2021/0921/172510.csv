@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"[R] Primer: Searching for Efficient Transformers for Language Modeling. “We use evolution to design a new Transformer variant, called Primer. Primer has a better scaling law, and is 3X to 4X faster for training than Transformer for language modeling.”",https://redd.it/psapqm,
