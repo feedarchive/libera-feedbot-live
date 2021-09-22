@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DynamoDB now provides you more granular control of audit logging by enabling you to filter Streams data-plane API activity in AWS CloudTrail,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-dynamodb-granular-control-audit-logging-streams-data-plane-api-activity-aws-cloudtrail/,https://go.aws/3kvhPri
