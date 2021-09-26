@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"I was hosting first time FastAPI (or anything in general) on AWS EC2 and everything is working nice but I have to add port :8000 to my public IP address, does it mean I made a mistake or it is just why this things work?",https://redd.it/pvvbe7,
