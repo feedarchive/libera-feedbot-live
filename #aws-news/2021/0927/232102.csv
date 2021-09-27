@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Connect now offers high-volume outbound communications for calls, texts, and emails",https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-communications/,https://go.aws/3CPK3TV
+AWS:WhatsNew,Amazon Connect Wisdom is now generally available,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/,https://go.aws/3zLWcr4
+AWS:WhatsNew,Application Load Balancer now enables AWS PrivateLink and static IP addresses by direct integration with Network Load Balancer,https://aws.amazon.com/about-aws/whats-new/2021/09/application-load-balancer-aws-privatelink-static-ip-addresses-network-load-balancer/,https://go.aws/3zMZpH1
+AWS:WhatsNew,AWS Launch Wizard now supports Microsoft SQL Server Always On deployments on Red Hat Enterprise Linux,https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/,https://go.aws/3od26PL
