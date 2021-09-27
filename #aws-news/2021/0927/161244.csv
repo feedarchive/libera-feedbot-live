@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle now supports sqlnet.ora client parameters for the Oracle Native Network Encryption (NNE)option,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-sqlnet-ora-client-parameters-oracle-native-network-encryption-nne-option/,https://go.aws/3zPnTiG
+AWS:WhatsNew,Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.1,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/,https://go.aws/3ukqHmL
+AWS:WhatsNew,AWS Backup simplifies recovery point deletions,https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/,https://go.aws/3uffS5v
