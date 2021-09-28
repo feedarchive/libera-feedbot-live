@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitLab:Blog,How to configure Sidekiq for specialized or large-scale GitLab instances,https://about.gitlab.com/blog/2021/09/27/how-to-configure-sidekiq-for-gitlab-at-scale/,https://j.mp/2Y4giA0
+GitLab:Blog,GitLab Patch Release: 14.0.11,https://about.gitlab.com/releases/2021/09/27/gitlab-14-0-11-released/,https://j.mp/3AMn4sc
+GitLab:Blog,GitLab Patch Release: 14.1.6,https://about.gitlab.com/releases/2021/09/27/gitlab-14-1-6-released/,https://j.mp/2XVgwJ7
