@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Achieve up to 34% better price/performance with AWS Lambda Functions powered by AWS Graviton2 processor,https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/,https://go.aws/3F0JYyB
+AWS:WhatsNew,Amazon Managed Service for Prometheus is now Generally Available with support for alert manager and rules,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-managed-service-prometheus-alert-manager-rules/,https://go.aws/3F6F8zN
+AWS:WhatsNew,Amazon ECR Public adds the ability to launch containers directly to AWS App Runner,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecr-public-containers-aws-app-runner/,https://go.aws/3oky6BQ
+AWS:WhatsNew,"AWS Snowcone is now available in the US East (Ohio), US West (San Francisco) and South America (Sao Paulo) regions",https://aws.amazon.com/about-aws/whats-new/2021/09/aws-snowcone-available-us-east-ohio-us-west-san-francisco-south-america-sao-paulo-regions/,https://go.aws/2Zz1CJs
