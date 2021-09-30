@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SES now supports 2048-bit DKIM keys,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/,https://go.aws/3mhbJdC
+AWS:WhatsNew,Announcing General Availability of Amplify Geo for AWS Amplify,https://aws.amazon.com/about-aws/whats-new/2021/09/amplify-geo-aws-amplify/,https://go.aws/3mha5Zo
+AWS:WhatsNew,Amazon ECS Service Discovery Now Available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/,https://go.aws/3mhbJu8
