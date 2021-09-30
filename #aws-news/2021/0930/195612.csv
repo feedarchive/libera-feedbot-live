@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AQUA for Amazon Redshift launches in three additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-additional-aws-regions/,https://go.aws/39RLNiS
+AWS:WhatsNew,"Amazon SageMaker JumpStart introduces new multimodal (long-form text, tabular) financial analysis tools",https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-jumpstart-multimodal-financial-analysis-tools/,https://go.aws/3B1gluw
+AWS:WhatsNew,AWS Lambda now supports triggering Lambda functions from an Amazon SQS queue in a different account,https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sos-queue/,https://go.aws/3kYqu5U
+AWS:WhatsNew,AWS announces AWS Snowcone SSD,https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-aws-snowcone-ssd/,https://go.aws/2Y4tZ1k
