@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS announces the general availability of AWS Cloud Control API,https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-cloud-control-api/,https://go.aws/3F3M6Wl
+AWS:WhatsNew,AWS IoT Core now makes it optional for customers to send the entire trust chain when provisioning devices using Just-in-Time Provisioning and Just-in-Time Registration,https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-core-just-in-time-provisioning-registration/,https://go.aws/3kY4mIU
+AWS:WhatsNew,Monitoring clock accuracy on AWS Fargate with Amazon ECS,https://aws.amazon.com/about-aws/whats-new/2021/09/monitoring-clock-aws-fargate-amazon-ecs/,https://go.aws/3zVqEz1
