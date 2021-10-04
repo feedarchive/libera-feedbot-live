@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"[R] ResNet strikes back: An improved training procedure in timm. There has been significant progress on best practices for training neural nets since ResNet's introduction in 2015. With such advances, a vanilla ResNet-50 reaches 80.4% top-1 accuracy on ImageNet without extra data or distillation.",https://redd.it/q0vt2b,
