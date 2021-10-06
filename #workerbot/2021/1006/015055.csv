@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,PyTorrent: A Python Library Corpus for Large-scale Language Models,https://arxiv.org/abs/2110.01710v1,
+ArXiv,LazySets.jl: Scalable Symbolic-Numeric Set Computations,https://arxiv.org/abs/2110.01711v1,
+ArXiv,FrankWolfe.jl: a high-performance and flexible toolbox for Frank-Wolfe algorithms and Conditional Gradients,https://arxiv.org/abs/2104.06675v2,
