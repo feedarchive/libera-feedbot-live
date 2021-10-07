@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports IAM authentication for Amazon MSK as an event source,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/,https://go.aws/3adEz9k
