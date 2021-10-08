@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+Medium,Facial Recognition: Execution and how Data Annotation is useful for it?,https://medium.com/p/fa7e216a0ade,
+Medium,Tired of Watching Your Machine Learning Model Train?,https://medium.com/p/f8fe52d0cf7f,
+Medium,What makes GPU is power center of Deep Learning platform,https://medium.com/p/9d282c3d02ea,
+Medium,Supervised Machine Learning: Classification — K-Nearest Neighbors and Data Pre-Processing,https://medium.com/p/3838e636db20,
+PwC:Latest,/microsoft/ The Connection between Out-of-Distribution Generalization and Privacy of ML Models: https://github.com/microsoft/robustdg,https://paperswithcode.com/paper/the-connection-between-out-of-distribution,https://j.mp/3FphWNr
+PwC:Latest,/c4ai/ mRAT-SQL+GAP:A Portuguese Text-to-SQL Transformer: https://github.com/c4ai/gap-text2sql,https://paperswithcode.com/paper/mrat-sql-gap-a-portuguese-text-to-sql,https://j.mp/3uTMwKr
+PwC:Latest,/unit8co/ Darts: User-Friendly Modern Machine Learning for Time Series: https://github.com/unit8co/darts,https://paperswithcode.com/paper/darts-user-friendly-modern-machine-learning,https://j.mp/3ah4q07
+PwC:Latest,/joakimjohnander/ Dense Gaussian Processes for Few-Shot Segmentation: https://github.com/joakimjohnander/dgpnet,https://paperswithcode.com/paper/dense-gaussian-processes-for-few-shot,https://j.mp/2WSNnhH
+PwC:Latest,/dydjw9/ Efficient Sharpness-aware Minimization for Improved Training of Neural Networks: https://github.com/dydjw9/efficient_sam,https://paperswithcode.com/paper/efficient-sharpness-aware-minimization-for,https://j.mp/3uTMwdp
+PwC:Latest,/ernestosanches/ Coresets for Decision Trees of Signals: https://github.com/ernestosanches/decision-trees-coreset,https://paperswithcode.com/paper/coresets-for-decision-trees-of-signals,https://j.mp/3AhAFXD
+PwC:Latest,/wkddydpf/ Towards Continual Knowledge Learning of Language Models: https://github.com/wkddydpf/continual-knowledge-learning,https://paperswithcode.com/paper/towards-continual-knowledge-learning-of,https://j.mp/3llZq0n
+PwC:Latest,/softsys4ai/ Pretrained Language Models are Symbolic Mathematics Solvers too!: https://github.com/softsys4ai/differentiable-proving,https://paperswithcode.com/paper/pretrained-language-models-are-symbolic,https://j.mp/3ag9GRy
+PwC:Latest,/samuro95/ Gradient Step Denoiser for convergent Plug-and-Play: https://github.com/samuro95/gspnp,https://paperswithcode.com/paper/gradient-step-denoiser-for-convergent-plug,https://j.mp/3ln9I0l
+PwC:Latest,/stanfordasl/ Propagating State Uncertainty Through Trajectory Forecasting: https://github.com/stanfordasl/psu-tf,https://paperswithcode.com/paper/propagating-state-uncertainty-through,https://j.mp/3uRuicg
+PwC:Latest,/jiahuei/ End-to-End Supermask Pruning: Learning to Prune Image Captioning Models: https://github.com/jiahuei/sparse-image-captioning,https://paperswithcode.com/paper/end-to-end-supermask-pruning-learning-to,https://j.mp/2Yydb3z
+PwC:Latest,/alirezamorsali/ Multi-Head ReLU Implicit Neural Representation Networks: https://github.com/alirezamorsali/mh-relu-inr,https://paperswithcode.com/paper/multi-head-relu-implicit-neural,https://j.mp/3ljswh4
+PwC:Latest,"/thestephencasper/ One Thing to Fool them All: Generating Interpretable, Universal, and Physically-Realizable Adversarial Features: https://github.com/thestephencasper/feature_fool",https://paperswithcode.com/paper/one-thing-to-fool-them-all-generating,https://j.mp/3BiDUPL
+PwC:Latest,/MohamedAfham/ Towards Accurate Cross-Domain In-Bed Human Pose Estimation: https://github.com/MohamedAfham/CD_HPE,https://paperswithcode.com/paper/towards-accurate-cross-domain-in-bed-human,https://j.mp/3DiYvE8
+PwC:Latest,/sciann/ Physics-informed neural network simulation of multiphase poroelasticity using stress-split sequential training: https://github.com/sciann/sciann-applications,https://paperswithcode.com/paper/physics-informed-neural-network-simulation-of,https://j.mp/2YupdLs
+PwC:Latest,/orevaahia/ The Low-Resource Double Bind: An Empirical Study of Pruning for Low-Resource Machine Translation: https://github.com/orevaahia/mc4lrnmt,https://paperswithcode.com/paper/the-low-resource-double-bind-an-empirical,https://j.mp/3uTMxOv
+PwC:Latest,/oracle/ Tribuo: Machine Learning with Provenance in Java: https://github.com/oracle/tribuo,https://paperswithcode.com/paper/tribuo-machine-learning-with-provenance-in,https://j.mp/3oNFQMV
+PwC:Latest,/basiralab/ A Few-shot Learning Graph Multi-Trajectory Evolution Network for Forecasting Multimodal Baby Connectivity Development from a Baseline Timepoint: https://github.com/basiralab/GmTE-Net,https://paperswithcode.com/paper/a-few-shot-learning-graph-multi-trajectory,https://j.mp/3lkojcL
+PwC:Latest,/lta-unimib/ Cloud Failure Prediction with Hierarchical Temporary Memory: An Empirical Assessment: https://github.com/lta-unimib/icmla2021,https://paperswithcode.com/paper/cloud-failure-prediction-with-hierarchical,https://j.mp/3oHyvhH
