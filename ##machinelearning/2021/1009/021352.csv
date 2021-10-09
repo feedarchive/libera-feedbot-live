@@ -1,0 +1,60 @@
+feed,title,long_url,short_url
+j:JMLR,Consistency of Gaussian Process Regression in Metric Spaces,http://jmlr.org/papers/v22/21-0853.html,https://j.mp/3ln1a9N
+j:JMLR,Quasi-Monte Carlo Quasi-Newton in Variational Bayes,http://jmlr.org/papers/v22/21-0498.html,https://j.mp/2YzzZ2F
+j:JMLR,Wasserstein distance estimates for the distributions of numerical approximations to ergodic stochastic differential equations,http://jmlr.org/papers/v22/21-0453.html,https://j.mp/3AnmNeh
+j:JMLR,Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks,http://jmlr.org/papers/v22/21-0366.html,https://j.mp/3As7918
+j:JMLR,DIG: A Turnkey Library for Diving into Graph Deep Learning Research,http://jmlr.org/papers/v22/21-0343.html,https://j.mp/3DoKoxg
+j:JMLR,Decentralized Stochastic Gradient Langevin Dynamics and Hamiltonian Monte Carlo,http://jmlr.org/papers/v22/21-0307.html,https://j.mp/3uU4RXD
+j:JMLR,DeEPCA: Decentralized Exact PCA with Linear Convergence Rate,http://jmlr.org/papers/v22/21-0298.html,https://j.mp/3alUDpx
+j:JMLR,Consensus-Based Optimization on the Sphere: Convergence to Global Minimizers and Machine Learning,http://jmlr.org/papers/v22/21-0259.html,https://j.mp/3oHOEnm
+j:JMLR,Expanding Boundaries of Gap Safe Screening,http://jmlr.org/papers/v22/21-0179.html,https://j.mp/3almAO7
+j:JMLR,GIBBON: General-purpose Information-Based Bayesian Optimisation,http://jmlr.org/papers/v22/21-0120.html,https://j.mp/3lnIYNa
+j:JMLR,A general linear-time inference method for Gaussian Processes on one dimension,http://jmlr.org/papers/v22/21-0072.html,https://j.mp/3AqCvVZ
+j:JMLR,A Generalised Linear Model Framework for β-Variational Autoencoders based on Exponential Dispersion Families,http://jmlr.org/papers/v22/21-0037.html,https://j.mp/3v2D5Z1
+j:JMLR,Probabilistic Iterative Methods for Linear Systems,http://jmlr.org/papers/v22/21-0031.html,https://j.mp/2WWE8x9
+j:JMLR,sklvq: Scikit Learning Vector Quantization,http://jmlr.org/papers/v22/21-0029.html,https://j.mp/2WVSWfr
+j:JMLR,Learning with semi-definite programming: statistical bounds based on fixed point analysis and excess risk curvature,http://jmlr.org/papers/v22/21-0021.html,https://j.mp/3FyME74
+j:JMLR,"Convolutional Neural Networks Are Not Invariant to Translation, but They Can Learn to Be",http://jmlr.org/papers/v22/21-0019.html,https://j.mp/3BuyPUK
+j:JMLR,How Well Generative Adversarial Networks Learn Distributions,http://jmlr.org/papers/v22/20-911.html,https://j.mp/3Ft94Xd
+j:JMLR,Tighter Risk Certificates for Neural Networks,http://jmlr.org/papers/v22/20-879.html,https://j.mp/3BrbnaR
+j:JMLR,FATE: An Industrial Grade Platform for Collaborative Learning With Data Protection,http://jmlr.org/papers/v22/20-815.html,https://j.mp/3loDsde
+j:JMLR,"Representer Theorems in Banach Spaces: Minimum Norm Interpolation, Regularized Learning and Semi-Discrete Inverse Problems",http://jmlr.org/papers/v22/20-751.html,https://j.mp/3uZiNzx
+j:JMLR,Bayesian Distance Clustering,http://jmlr.org/papers/v22/20-688.html,https://j.mp/3alMQIh
+j:JMLR,Stochastic Online Optimization using Kalman Recursion,http://jmlr.org/papers/v22/20-618.html,https://j.mp/3amT36I
+j:JMLR,Classification vs regression in overparameterized regimes: Does the loss function matter?,http://jmlr.org/papers/v22/20-603.html,https://j.mp/3ABLwvL
+j:JMLR,A Bayes-Optimal View on Adversarial Examples,http://jmlr.org/papers/v22/20-567.html,https://j.mp/3mETX47
+j:JMLR,Shape-Enforcing Operators for Generic Point and Interval Estimators of Functions,http://jmlr.org/papers/v22/20-513.html,https://j.mp/3lkSz7r
+j:JMLR,Soft Tensor Regression,http://jmlr.org/papers/v22/20-476.html,https://j.mp/3BsOofo
+j:JMLR,Thompson Sampling Algorithms for Cascading Bandits,http://jmlr.org/papers/v22/20-447.html,https://j.mp/2Yzt3CE
+j:JMLR,A Unified Framework for Spectral Clustering in Sparse Graphs,http://jmlr.org/papers/v22/20-261.html,https://j.mp/3Aq6cGI
+j:JMLR,"Context-dependent Networks in Multivariate Time Series: Models, Methods, and Risk Bounds in High Dimensions",http://jmlr.org/papers/v22/20-244.html,https://j.mp/3Auj6n8
+j:JMLR,TensorHive: Management of Exclusive GPU Access for Distributed Machine Learning Workloads,http://jmlr.org/papers/v22/20-225.html,https://j.mp/2YCjO4I
+j:JMLR,dalex: Responsible Machine Learning with Interactive Explainability and Fairness in Python,http://jmlr.org/papers/v22/20-1473.html,https://j.mp/3BFhnNr
+j:JMLR,Cooperative SGD: A Unified Framework for the Design and Analysis of Local-Update SGD Algorithms,http://jmlr.org/papers/v22/20-147.html,https://j.mp/3akd5if
+j:JMLR,Convex Geometry and Duality of Over-parameterized Neural Networks,http://jmlr.org/papers/v22/20-1447.html,https://j.mp/3DlIm0P
+j:JMLR,Bandit Learning in Decentralized Matching Markets,http://jmlr.org/papers/v22/20-1429.html,https://j.mp/3ak8jBt
+j:JMLR,Policy Teaching in Reinforcement Learning via Environment Poisoning Attacks,http://jmlr.org/papers/v22/20-1329.html,https://j.mp/3ApHpmf
+j:JMLR,Explaining by Removing: A Unified Framework for Model Explanation,http://jmlr.org/papers/v22/20-1316.html,https://j.mp/3ajiZQI
+j:JMLR,Oblivious Data for Fairness with Kernels,http://jmlr.org/papers/v22/20-1311.html,https://j.mp/2YB5Y2J
+j:JMLR,A Unified Convergence Analysis for Shuffling-Type Gradient Methods,http://jmlr.org/papers/v22/20-1238.html,https://j.mp/3BlNQbf
+j:JMLR,Hamilton-Jacobi Deep Q-Learning for Deterministic Continuous-Time Systems with Lipschitz Continuous Controls,http://jmlr.org/papers/v22/20-1235.html,https://j.mp/2YzA1HP
+j:JMLR,Langevin Monte Carlo: random coordinate descent and variance reduction,http://jmlr.org/papers/v22/20-1205.html,https://j.mp/3oL0JYR
+j:JMLR,Failures of Model-dependent Generalization Bounds for Least-norm Interpolation,http://jmlr.org/papers/v22/20-1164.html,https://j.mp/3oHOEDS
+j:JMLR,Learning partial correlation graphs and graphical models by covariance queries,http://jmlr.org/papers/v22/20-1137.html,https://j.mp/3lpqTyv
+j:JMLR,Interpretable Deep Generative Recommendation Models,http://jmlr.org/papers/v22/20-1098.html,https://j.mp/3lrSKy1
+j:JMLR,"Understanding How Dimension Reduction Tools Work: An Empirical Approach to Deciphering t-SNE, UMAP, TriMap, and PaCMAP for Data Visualization",http://jmlr.org/papers/v22/20-1061.html,https://j.mp/2YH7G2q
+j:JMLR,Refined approachability algorithms and application to regret minimization with global costs,http://jmlr.org/papers/v22/20-1019.html,https://j.mp/3uVs6QW
+j:JMLR,On ADMM in Deep Learning: Convergence and Saturation-Avoidance,http://jmlr.org/papers/v22/20-1006.html,https://j.mp/3lmA7vk
+j:JMLR,Integrated Principal Components Analysis,http://jmlr.org/papers/v22/20-084.html,https://j.mp/3BvUprO
+j:JMLR,Particle-Gibbs Sampling for Bayesian Feature Allocation Models,http://jmlr.org/papers/v22/20-082.html,https://j.mp/2Yzt61i
+j:JMLR,COKE: Communication-Censored Decentralized Kernel Learning,http://jmlr.org/papers/v22/20-070.html,https://j.mp/2WVSRIF
+j:JMLR,Learning Laplacian Matrix from Graph Signals with Sparse Spectral Representation,http://jmlr.org/papers/v22/19-944.html,https://j.mp/3BrblzL
+j:JMLR,Limit theorems for out-of-sample extensions of the adjacency and Laplacian spectral embeddings,http://jmlr.org/papers/v22/19-852.html,https://j.mp/3BsEOJF
+j:JMLR,Sparse Popularity Adjusted Stochastic Block Model,http://jmlr.org/papers/v22/19-835.html,https://j.mp/2YuDFm7
+j:JMLR,Method of Contraction-Expansion (MOCE) for Simultaneous Inference in Linear Models,http://jmlr.org/papers/v22/19-776.html,https://j.mp/3uTlHWJ
+j:JMLR,On the Estimation of Network Complexity: Dimension of Graphons,http://jmlr.org/papers/v22/19-747.html,https://j.mp/304JveJ
+j:JMLR,Collusion Detection and Ground Truth Inference in Crowdsourcing for Labeling Tasks,http://jmlr.org/papers/v22/19-373.html,https://j.mp/3alKxF3
+j:JMLR,One-Shot Federated Learning: Theoretical Limits and Algorithms to Achieve Them,http://jmlr.org/papers/v22/19-1048.html,https://j.mp/3oKLEXb
+j:JMLR,Differentially Private Regression and Classification with Sparse Gaussian Processes,http://jmlr.org/papers/v22/19-017.html,https://j.mp/3iJX5e5
+j:JMLR,Matrix Product States for Inference in Discrete Probabilistic Models,http://jmlr.org/papers/v22/18-431.html,https://j.mp/3uTbauo
+j:JMLR,As You Like It: Localization via Paired Comparisons,http://jmlr.org/papers/v22/18-105.html,https://j.mp/2YAv7di
