@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:50+,"[R] Local plasticity rules can learn deep representations using self-supervised contrastive predictions. No need to backprop error signals between layers. Networks trained with this self-supervised and local rule build deep hierarchical representations of images, speech and video.",https://redd.it/q4hkix,
