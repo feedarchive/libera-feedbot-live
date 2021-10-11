@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.10.0-rc2: Fix cosine similarity dim checks (#66214),https://github.com/pytorch/pytorch/releases/tag/v1.10.0-rc2,
