@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CDK releases v1.121.0 - v1.125.0 with features for faster development cycles using hotswap deployments and rollback control,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-cdk-releases-hotswap-rollback-control/,https://go.aws/2YFG1yP
+AWS:WhatsNew,New AWS Solutions Implementation: Automated Account Configuration,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-automated-account-configuration/,https://go.aws/2YHvgM6
