@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CodeGuru Reviewer adds detectors for AWS Java SDK v2’s best practices and features,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-reviewer-detectors-aws-java-sdk-v2s/,https://go.aws/3AGjjDI
+AWS:WhatsNew,AWS Outposts adds new CloudWatch dimension for capacity monitoring,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-outposts-cloudwatch-dimension-capacity-monitoring/,https://go.aws/3DEJD3i
+AWS:WhatsNew,"Amazon VPC Flow Logs now supports Apache Parquet, Hive-compatible prefixes and Hourly partitioned files",https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-vpc-flow-logs-parquet-hive-prefixes-partitioned-files/,https://go.aws/2XdEDmC
+AWS:WhatsNew,Amazon Kinesis Data Analytics now supports Apache Flink v1.13,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kinesis-data-analytics-apache-flink-version-1-13/,https://go.aws/3lDF1nV
+AWS:WhatsNew,AWS Elemental MediaTailor adds prefetch ad support for personalized ad insertion,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-mediatailor-prefetch-ad-support/,https://go.aws/3DH0zpx
