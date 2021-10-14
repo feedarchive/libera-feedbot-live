@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MemoryDB for Redis is now available in 11 additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-memorydb-redis-11-regions/,https://go.aws/3DFKFMi
+AWS:WhatsNew,AWS RoboMaker now supports Graphics Processing Unit (GPU) based simulation jobs,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-robomaker-supports-graphics-processing-unit-gpu/,https://go.aws/3p7EhJE
+AWS:WhatsNew,"Amazon SageMaker Data Wrangler now supports Amazon Athena Workgroups, feature correlation, and customer managed keys",https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-data-wrangler-athena-workgroups-feature-correlation-customer-managed-keys/,https://go.aws/3j5uRuy
