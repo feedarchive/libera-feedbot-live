@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Can anyone pls ELI5 the highlighted concept. I am confused by the logic of this: ""are not limited by an implicit deny""? I am under the impression that a Deny always trumps any other policy statement, even in resource policies.",https://redd.it/q9h5z0,
