@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"PyTorch 1.10 Release, including CUDA Graphs APIs, Frontend and compiler improvements",https://github.com/pytorch/pytorch/releases/tag/v1.10.0,
