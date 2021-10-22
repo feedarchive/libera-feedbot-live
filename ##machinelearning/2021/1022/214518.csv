@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,Bug fix release with updated binaries for Python 3.9 and cuDNN 8.0.5,https://github.com/pytorch/pytorch/releases/tag/v1.7.1,
+GitHub:pytorch,"PyTorch 1.7 released w/ CUDA 11, New APIs for FFTs, Windows support for Distributed training and more",https://github.com/pytorch/pytorch/releases/tag/v1.7.0,
+GitHub:pytorch,"Stable release of automatic mixed precision (AMP). New Beta features include a TensorPipe backend for RPC, memory profiler, and several improvements to distributed training for both RPC and DDP.",https://github.com/pytorch/pytorch/releases/tag/v1.6.0,
+GitHub:pytorch,Bug Fix release,https://github.com/pytorch/pytorch/releases/tag/v1.5.1,
