@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,what's the difference between a custom tenacy default vpc vs tenancy dedicated during creation of vpc? should i always pick dedicated then? is there are reason to also select all availability zone?,https://redd.it/qe6835,
