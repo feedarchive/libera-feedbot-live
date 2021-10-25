@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon DocumentDB (with MongoDB compatibility) adds support for storing, querying and indexing Geospatial data",https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-adds-geospatial-capabilities/,https://go.aws/3vM7dbG
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) now provides a JDBC driver to connect from BI tools and execute SQL Queries,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-mongodb-jdbc-driver/,https://go.aws/3m95ObL
+AWS:WhatsNew,Introducing AWS Migration Hub Strategy Recommendations,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-migration-hub-strategy-recommendations/,https://go.aws/3b87JHt
+AWS:WhatsNew,Amazon Pinpoint now supports 10 Digit Long Code (10DLC) vetting,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-pinpoint-10-digit-code-vetting/,https://go.aws/2ZiVQLZ
