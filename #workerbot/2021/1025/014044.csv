@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,DQC: a Python program package for Differentiable Quantum Chemistry,https://arxiv.org/abs/2110.11678v1,
+ArXiv,Signal-Envelope: A C++ library with Python bindings for temporal envelope estimation,https://arxiv.org/abs/2110.11807v1,
+ArXiv,Inscriptis -- A Python-based HTML to text conversion library optimized for knowledge extraction from the Web,https://arxiv.org/abs/2108.01454v2,
