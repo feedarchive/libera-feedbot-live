@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) adds support for Access Control with User-Defined Roles,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-access-control-user-roles/,https://go.aws/3ElCF3z
+AWS:WhatsNew,"Amazon DocumentDB (with MongoDB compatibility) adds support for $literal, $map, and $$ROOT",https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-adds-additional-mongodb-compatibility-apis/,https://go.aws/3pCEyoq
+AWS:WhatsNew,Amazon CloudFront adds support for client IP address and connection port header,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-cloudfront-client-ip-address-connection-port-header/,https://go.aws/3EdxjqS
