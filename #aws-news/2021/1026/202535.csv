@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Systems Manager Maintenance Windows now supports defining custom cutoff behavior for tasks,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-maintenance-windows-supports-behavior-task/,https://go.aws/3w0rQ41
+AWS:WhatsNew,Disable default reverse DNS rules with Route 53 Resolver,https://aws.amazon.com/about-aws/whats-new/2021/10/disable-default-reverse-dns-rules-route-53-resolver/,https://go.aws/3Bh2WOy
+AWS:WhatsNew,"Announcing the General Availability of AWS Local Zones in Las Vegas, New York City, and Portland",https://aws.amazon.com/about-aws/whats-new/2021/10/aws-general-availability-local-zones/,https://go.aws/3nv7RGK
