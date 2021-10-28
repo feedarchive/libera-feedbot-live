@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing Amazon EC2 C6i instances,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/,https://go.aws/3BjjOUI
+AWS:WhatsNew,AWS Fargate now supports Amazon ECS Windows containers,https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fargate-amazon-ecs-windows-containers/,https://go.aws/3BnddZh
+AWS:WhatsNew,Amazon Chime SDK now supports phone call recording,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-phone-call-recording/,https://go.aws/3EsHmIC
