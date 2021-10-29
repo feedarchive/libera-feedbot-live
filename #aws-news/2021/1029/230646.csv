@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 now supports sharing Amazon Machine Images across AWS Organizations and Organizational Units,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-amazon-machine-images-organizations/,https://go.aws/3bpKRDq
+AWS:WhatsNew,Amazon Connect Chat adds real-time message streaming APIs,https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-chat-real-time-message-streaming-apis/,https://go.aws/3vVCybG
+AWS:WhatsNew,"Amazon Lightsail now supports AWS CloudFormation for instances, disks and databases",https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/,https://go.aws/2ZvuL8u
