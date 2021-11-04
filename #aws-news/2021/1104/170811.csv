@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Simplify CI/CD Configuration for AWS Serverless Applications and your favorite CI/CD system – General Availability,https://aws.amazon.com/about-aws/whats-new/2021/11/ci-cd-configuration-aws-serverless-applications-system-general-availability/,https://go.aws/3mIQXVK
+AWS:WhatsNew,AWS DataSync can now copy data between Hadoop Distributed File Systems (HDFS) and AWS Storage services,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-datasync-hadoop-aws-storage-services/,https://go.aws/3wf1uuW
+AWS:WhatsNew,AWS Amplify launches further data management capabilities in the Admin UI,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-launches-data-management-capabilities-admin-ui/,https://go.aws/3wf1mLY
