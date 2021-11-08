@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Fault Injection Simulator now supports Amazon CloudWatch Alarms and AWS Systems Manager Automation Runbooks,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/,https://go.aws/3o3Vbqw
+AWS:WhatsNew,Amazon SageMaker Pipelines now supports retry policies and resume,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-pipelines-supports-retry-policies-resume/,https://go.aws/304HPSm
