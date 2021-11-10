@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,Performance Evaluation of Python ParallelProgramming Models: Charm4Py and mpi4py,https://arxiv.org/abs/2111.04872v1,
+ArXiv,An Empirical Study of Automated Unit Test Generation for Python,https://arxiv.org/abs/2111.05003v1,
+ArXiv,A research framework for writing differentiable PDE discretizations in JAX,https://arxiv.org/abs/2111.05218v1,
+ArXiv,RoboStack: Using the Robot Operating System alongside the Conda and Jupyter Data Science Ecosystems,https://arxiv.org/abs/2104.12910v2,
