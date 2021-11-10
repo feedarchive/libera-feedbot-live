@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Batch introduces fair-share scheduling,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-batch-fair-share-scheduling/,https://go.aws/3owrZJ9
+AWS:WhatsNew,AWS announces a new capability to switch license types for Windows Server and SQL Server applications on Amazon EC2,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/,https://go.aws/3ogeQn3
+AWS:WhatsNew,Amazon SNS now supports token-based authentication for APNs mobile push notifications,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/,https://go.aws/3D6jhqT
