@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS now adds container instance health information,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-container-instance-health-information/,https://go.aws/31KeBsV
+AWS:WhatsNew,AWS Control Tower now supports concurrent operations for detective guardrails,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-concurrent-operations-detective-guardrails/,https://go.aws/3D4KcTT
+AWS:WhatsNew,AWS Backup provides new resource assignment rules for your data protection policies,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-new-resource-assignment-rules-data-protection-policies/,https://go.aws/3n3Gm8b
+AWS:WhatsNew,"Amazon Translate Now Adds Support for four more languages and variants - Irish, Marathi, Portugal Portuguese and Punjabi",https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-supports-four-additional-languages/,https://go.aws/3HbACkv
