@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Achieve up to 30% better performance with Amazon DocumentDB (with MongoDB compatibility) using new Graviton2 instances,https://aws.amazon.com/about-aws/whats-new/2021/11/better-performance-amazon-documentdb-mongodb-graviton2-instances/,https://go.aws/3FbGhoS
+AWS:WhatsNew,Amazon ECS has improved Capacity Providers to deliver faster Cluster Auto Scaling,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-improved-capacity-providers-cluster-auto-scaling/,https://go.aws/3Hi1KOT
+AWS:WhatsNew,Amazon QLDB is now available in the Canada (Central) region,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-qldb-available-canada-central-region/,https://go.aws/3opNVFL
