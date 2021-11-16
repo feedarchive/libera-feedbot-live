@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Nvidia:DevBlog,Using Fully Redesigned Batch API and Performance Optimizations in nvCOMP v2.1.0,https://developer.nvidia.com/blog/using-fully-redesigned-batch-api-and-performance-optimizations-in-nvcomp-v2-1-0/,https://j.mp/3DmFGAv
+Nvidia:DevBlog,Develop the Next Generation of HPC Applications with the NVIDIA Arm HPC Developer Kit,https://developer.nvidia.com/blog/develop-the-next-generation-of-hpc-applications-with-the-nvidia-arm-hpc-developer-kit/,https://j.mp/3oz8C1L
+Nvidia:DevBlog,"Accelerating ReLu and GeLu Activation Functions, and Batched Sparse GEMM in cuSPARSELt v0.2.0",https://developer.nvidia.com/blog/accelerating-relu-and-gelu-activation-functions-and-batched-sparse-gemm-in-cusparselt-v0-2-0/,https://j.mp/3kFOU3c
