@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"AWS MWAA (Airflow) currently has issues with its auto-scaling, such that tasks can be assigned to workers that are shutting down, leading to lost work",https://redd.it/qvz27g,
