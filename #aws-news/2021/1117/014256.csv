@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue FindMatches now supports incrementally matching new data against an existing dataset,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-new-data-existing-dataset/,https://go.aws/30wtoHE
