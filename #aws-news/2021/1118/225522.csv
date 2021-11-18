@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift simplifies the use of other AWS services by introducing the default IAM role,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-default-iam-role/,https://go.aws/325vdvm
+AWS:WhatsNew,Amazon Aurora supports MySQL 8.0,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-aurora-mysql-8-0/,https://go.aws/3FuTeKN
+AWS:WhatsNew,AWS Identity and Access Management now makes it more efficient to troubleshoot access denied errors in AWS,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-identity-access-management-efficient-troubleshoot-error/,https://go.aws/3x3tRNm
+AWS:WhatsNew,AWS announces the launch of AWS AppConfig Feature Flags in preview,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-appconfig-feature-flags-preview/,https://go.aws/3HxYGhL
+AWS:WhatsNew,Amazon EMR Studio is now available in Europe (Paris) and South America (Sao Paulo),https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-studio-extended-regions/,https://go.aws/3DzQXxe
+AWS:WhatsNew,Amazon Cognito launches new console experience for user pools,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cognito-console-user-pools/,https://go.aws/3DIp3iA
