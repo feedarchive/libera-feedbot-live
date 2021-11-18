@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 on Outposts now delivers strong consistency automatically for all applications,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-outposts-strong-consistency/,https://go.aws/3ntofIL
+AWS:WhatsNew,AWS Glue DataBrew now supports custom SQL statements to retrieve data from Amazon Redshift and Snowflake,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/,https://go.aws/3CtDQwj
+AWS:WhatsNew,AWS Glue DataBrew announces native console integration with Amazon AppFlow,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-native-console-integration-amazon-appflow/,https://go.aws/3CvyFMt
+AWS:WhatsNew,Amazon Monitron launches Web App,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-monitron-web-app/,https://go.aws/2Z0xy9M
+AWS:WhatsNew,Amazon Rekognition reduces pricing of all Image APIs by up to 38%,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-pricing-apis/,https://go.aws/3kRNzqd
+AWS:WhatsNew,AWS Glue DataBrew now provides detection and data masking transformations for Personally Identifiable Information (PII),https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-detection-data-masking-transformations/,https://go.aws/3nx6msU
