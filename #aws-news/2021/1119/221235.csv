@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS IoT Core now supports Multi-Account Registration certificates on IoT Credential Provider endpoint,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-multi-account-certificates-iot-provider-endpoint/,https://go.aws/3CyLp54
+AWS:WhatsNew,Amazon Athena accelerates queries with AWS Glue Data Catalog partition indexes,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/,https://go.aws/30GyPDi
+AWS:WhatsNew,Amazon Connect CTI Adapter for Salesforce supports ML-based voice authentication,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-ml-voice-authentication/,https://go.aws/3nAMe9i
+AWS:WhatsNew,Amazon Connect CTI Adapter for Salesforce supports Wisdom to quickly solve customer issues,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-wisdom-customer-issues/,https://go.aws/3qSObQh
+AWS:WhatsNew,AWS Amplify announces the ability to export Amplify backends as CDK stacks to integrate into CDK-based pipelines,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-export-amplify-backends-cdk-stacks-integrate-cdk-based-pipelines/,https://go.aws/3CtWHYh
