@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Pinpoint now includes an SMS simulator feature,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-sms-simulator-feature/,https://go.aws/2Z2io3M
+AWS:WhatsNew,AWS Lambda now supports mTLS Authentication for Amazon MSK as an event source,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/,https://go.aws/3x5NzHW
+AWS:WhatsNew,AWS App Mesh now supports ARM64-based Envoy Images,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-mesh-arm64-envoy-images/,https://go.aws/3cuZaaf
