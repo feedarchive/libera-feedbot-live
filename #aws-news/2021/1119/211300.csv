@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"General Availability of Syne Tune, an open-source library for distributed hyperparameter and neural architecture optimization",https://aws.amazon.com/about-aws/whats-new/2021/11/syne-tune-hyperparameter-neural-architecture-optimization/,https://go.aws/3DBa764
+AWS:WhatsNew,AWS Database Migration Service now supports parallel load for partitioned data to S3,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-database-migration-parallel-load-partitioned-data/,https://go.aws/3nx024j
+AWS:WhatsNew,You can now submit multiple operations for simultaneous execution with AWS CloudFormation StackSets,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudformation-stacksets-operations-execution/,https://go.aws/3nAECne
