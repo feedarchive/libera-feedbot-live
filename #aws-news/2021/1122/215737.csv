@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,You can now import your AWS CloudFormation stacks into a CloudFormation stack set,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudformation-import-stack-set/,https://go.aws/3xaYD6I
+AWS:WhatsNew,Amazon ECS-optimized AMI is now available as an open-source project,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-optimized-ami-now-open-source/,https://go.aws/3DIfYGR
+AWS:WhatsNew,Announcing preview of Amazon Linux 2022,https://aws.amazon.com/about-aws/whats-new/2021/11/preview-amazon-linux-2022/,https://go.aws/3FINVHT
+AWS:WhatsNew,Amazon EC2 Mac Instances now support macOS Monterey,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-macos-monterey/,https://go.aws/3r1mMf5
+AWS:WhatsNew,Amazon Connect now supports custom contact attributes as search filters on the contact search page,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-custom-contact-attributes-search-page/,https://go.aws/3CU0VbX
+AWS:WhatsNew,Amazon EC2 Mac Instances now support hot attach and detach of EBS volumes,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-hot-attach-detach-ebs-volumes/,https://go.aws/3cBgUkr
+AWS:WhatsNew,Amazon RDS on AWS Outposts now supports backups on AWS Outposts,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-backups-aws-outposts/,https://go.aws/3qXgtt3
+AWS:WhatsNew,Amazon S3 Storage Lens metrics now available in Amazon CloudWatch,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/,https://go.aws/3oVCV3b
+AWS:WhatsNew,Amazon CloudWatch Lambda Insights now supports AWS Lambda functions powered by AWS Graviton2 Processor (General Availability),https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-lambda-insights-functions-graviton2/,https://go.aws/3DHy0sA
