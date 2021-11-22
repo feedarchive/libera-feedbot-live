@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ElastiCache now supports T4g Graviton2-based instances,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-supports-t4g-graviton2-based-instances/,https://go.aws/3HL4AMI
+AWS:WhatsNew,Introducing two new Amazon EC2 bare metal instances,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-bare-metal-instances/,https://go.aws/3kZfyo5
+AWS:WhatsNew,Amazon RDS Proxy now supports PostgreSQL major version 12,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-proxy-supports-postgresql-major-version-12/,https://go.aws/3xhjJAr
+AWS:WhatsNew,Introducing Amazon EC2 R6i instances,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/,https://go.aws/32pJhAa
+AWS:WhatsNew,Amazon MemoryDB for Redis now supports AWS Graviton2-based T4g instances and a 2-month Free Trial,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-graviton2-t4g-instances-free-trial/,https://go.aws/3nFBHcI
+AWS:WhatsNew,Amazon EventBridge cross-Region support now expands to more Regions,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/,https://go.aws/3nDOLPU
