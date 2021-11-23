@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[cloudwatch-af-south-1] Informational message: Metric Stream Delivery Delays,http://status.aws.amazon.com/#cloudwatch-af-south-1_1637644174,
+status,[cloudwatch-af-south-1] Informational message: Metric Stream Delivery Delays,http://status.aws.amazon.com/#cloudwatch-af-south-1_1637641176,
+status,[events-af-south-1] Informational message: Event Delivery Delays,http://status.aws.amazon.com/#events-af-south-1_1637644391,
