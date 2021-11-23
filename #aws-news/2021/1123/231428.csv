@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Chime SDK meetings live transcription now supports content identification and custom language models,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-live-transcription-identification-language-models/,https://go.aws/3nJG4U1
+AWS:WhatsNew,AWS Single Sign-On now provides one-click login to Amazon EC2 instances running Microsoft Windows,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-single-sign-on-one-click-login-ec2-windows/,https://go.aws/30QqUn6
+AWS:WhatsNew,AWS Amplify expands its Notifications category to include in-app messaging (Developer Preview),https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-notifications-in-app-messaging/,https://go.aws/3CHaTNr
+AWS:WhatsNew,Amazon Connect Customer Profiles now stores contact history at no charge to help personalize customer service,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-customer-profiles-contact-history/,https://go.aws/3xlbNhQ
+AWS:WhatsNew,Amazon S3 Lifecycle further optimizes storage cost savings with new actions and filters,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-lifecycle-storage-cost-savings/,https://go.aws/3FJoLsq
+AWS:WhatsNew,AWS Lambda now supports partial batch response for SQS as an event source,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-partial-batch-response-sqs-event-source/,https://go.aws/3HLxj43
+AWS:WhatsNew,Amazon Voice Focus as an Amazon Machine Image,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-voice-focus-machine-image/,https://go.aws/3CLN9YJ
+AWS:WhatsNew,Announcing Amazon Redshift cross-region data sharing (preview),https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-region-data-sharing/,https://go.aws/3cY1ln7
