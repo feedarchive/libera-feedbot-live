@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ElastiCache for Redis adds support for Redis 6.2,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-redis-support-redis-6-2/,https://go.aws/3l3ob0G
+AWS:WhatsNew,Amazon ECS announces a new integration with AWS Distro for OpenTelemetry,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-new-integration-aws-distro-opentelemetry/,https://go.aws/30VJjPz
+AWS:WhatsNew,Announcing AWS Fargate for Amazon ECS Powered by AWS Graviton2 Processors,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fargate-amazon-ecs-aws-graviton2-processors/,https://go.aws/30VJcDD
