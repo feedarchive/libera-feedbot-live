@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Application Load Balancer and Network Load Balancer end-to-end IPv6 support,https://aws.amazon.com/about-aws/whats-new/2021/11/application-load-balancer-network-load-balancer-end-to-end-ipv6-support/,https://go.aws/3FFrVNY
+AWS:WhatsNew,"New Multi-AZ deployment option for Amazon RDS for PostgreSQL and for MySQL; increased read capacity, lower and more consistent write transaction latency, and shorter failover time (Preview)",https://aws.amazon.com/about-aws/whats-new/2021/11/multi-az-deployment-amazon-rds-postgre-sql/,https://go.aws/32uvRmr
+AWS:WhatsNew,AQUA for Amazon Redshift launches in two additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2021/11/aqua-amazon-redshift-two-additional-regions/,https://go.aws/3cMqsJ6
+AWS:WhatsNew,Amazon SQS Announces Server-Side Encryption with Amazon SQS-managed encryption keys (SSE-SQS),https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sqs-server-side-encryption-keys-sse/,https://go.aws/3DRgYbC
+AWS:WhatsNew,Announcing usability improvements in the navigation bar of the AWS Management Console,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-management-console-navigation-bar-improvements/,https://go.aws/30SAnKC
