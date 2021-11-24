@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+APIchanges,Auto Scaling - 3 updated methods,https://awsapichanges.info/archive/changes/11fcfc-autoscaling.html,https://j.mp/3l6jtzE
+APIchanges,Amazon Connect Customer Profiles - 3 new 7 updated methods,https://awsapichanges.info/archive/changes/11fcfc-profile.html,https://j.mp/3cNQTOG
+APIchanges,EC2 Image Builder - 4 updated methods,https://awsapichanges.info/archive/changes/11fcfc-imagebuilder.html,https://j.mp/3CPmavn
+APIchanges,AWS IoT SiteWise - 5 new 2 updated methods,https://awsapichanges.info/archive/changes/11fcfc-iotsitewise.html,https://j.mp/3DV45xd
+APIchanges,AWS Proton - 18 new 8 updated methods,https://awsapichanges.info/archive/changes/11fcfc-proton.html,https://j.mp/3D1VqrL
+APIchanges,Amazon Timestream Query - 10 new methods,https://awsapichanges.info/archive/changes/11fcfc-query.timestream.html,https://j.mp/3r6gI4Y
+APIchanges,Amazon Timestream Write - 5 updated methods,https://awsapichanges.info/archive/changes/11fcfc-ingest.timestream.html,https://j.mp/3DPZBYx
+APIchanges,Amazon Translate - 4 updated methods,https://awsapichanges.info/archive/changes/11fcfc-translate.html,https://j.mp/3FJ3vmL
+APIchanges,AWS Backup - 2 updated methods,https://awsapichanges.info/archive/changes/850fc8-backup.html,https://j.mp/3r6l109
+APIchanges,Amazon DynamoDB - 3 updated methods,https://awsapichanges.info/archive/changes/850fc8-dynamodb.html,https://j.mp/3HR3gId
+APIchanges,Amazon Elastic Compute Cloud - 1 new 12 updated methods,https://awsapichanges.info/archive/changes/850fc8-ec2.html,https://j.mp/3oWLqe3
+APIchanges,Amazon ElastiCache - 22 updated methods,https://awsapichanges.info/archive/changes/850fc8-elasticache.html,https://j.mp/3CQhzsH
+APIchanges,AWS IoT - 2 new 2 updated methods,https://awsapichanges.info/archive/changes/850fc8-iot.html,https://j.mp/3l6bQZS
+APIchanges,AWS IoT Core Device Advisor - 1 new 2 updated methods,https://awsapichanges.info/archive/changes/850fc8-api.iotdeviceadvisor.html,https://j.mp/3nNhMbS
+APIchanges,AWS IoT Wireless - 2 new methods,https://awsapichanges.info/archive/changes/850fc8-api.iotwireless.html,https://j.mp/3xiX8Ua
+APIchanges,AWS Lambda - 5 updated methods,https://awsapichanges.info/archive/changes/850fc8-lambda.html,https://j.mp/30YTHpK
+APIchanges,Amazon OpenSearch Service - 1 updated methods,https://awsapichanges.info/archive/changes/850fc8-es.html,https://j.mp/30ZAy7d
+APIchanges,Amazon Relational Database Service - 1 new 12 updated methods,https://awsapichanges.info/archive/changes/850fc8-rds.html,https://j.mp/30TOOhx
+APIchanges,Amazon Redshift - 2 new 19 updated methods,https://awsapichanges.info/archive/changes/850fc8-redshift.html,https://j.mp/3nOJ6Xd
+APIchanges,Amazon Simple Storage Service - 4 updated methods,https://awsapichanges.info/archive/changes/850fc8-s3.html,https://j.mp/3l8NoHo
+APIchanges,Amazon Simple Queue Service - 2 updated methods,https://awsapichanges.info/archive/changes/850fc8-sqs.html,https://j.mp/30Zh9mv
