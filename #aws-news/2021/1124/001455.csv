@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,New features for AWS IoT Core Device Advisor,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-device-advisor-new-features/,https://go.aws/30WxNn9
+AWS:WhatsNew,Now prepare data and build models using TensorFlow 2.6 and PyTorch 1.8 in Amazon SageMaker Studio Notebooks,https://aws.amazon.com/about-aws/whats-new/2021/11/data-models-tensorflow-2-6-pytorch-1-8-amazon-sagemaker-studio-notebooks/,https://go.aws/3nH8vC9
+AWS:WhatsNew,Amazon Virtual Private Cloud (VPC) customers can now create IPv6-only subnets and EC2 instances,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-ipv6-subnets-ec2-instances/,https://go.aws/3xjZq5G
+AWS:WhatsNew,Amazon Lex launches support for Amazon Polly Neural Text-To-Speech (NTTS) voices for speech interactions,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-amazon-polly-neural-text-to-speech-ntts-voices/,https://go.aws/3r5a3Io
+AWS:WhatsNew,"AWS Amplify announces a redesigned, more extensible GraphQL Transformer for creating app backends quickly",https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-redesigned-graphql-transformer-app-backends/,https://go.aws/30VMvdJ
+AWS:WhatsNew,Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports checking for blue/green deployment when making configuration changes,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-opensearch-blue-green-deployment-configuration-changes/,https://go.aws/3r3TtIF
