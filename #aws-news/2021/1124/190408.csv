@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[apigateway-us-east-2] Informational message: Increased API Error Rates,http://status.aws.amazon.com/#apigateway-us-east-2_1637780385,
+status,[management-console] Informational message: Increased Error Rates,http://status.aws.amazon.com/#management-console_1637780142,
