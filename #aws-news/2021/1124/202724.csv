@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[apigateway-us-east-2] [RESOLVED] Increased API Error Rates,http://status.aws.amazon.com/#apigateway-us-east-2_1637785230,
+status,[management-console] [RESOLVED] Increased Error Rates,http://status.aws.amazon.com/#management-console_1637784832,
+status,[lambda-us-east-2] [RESOLVED] Increased Error Rates,http://status.aws.amazon.com/#lambda-us-east-2_1637784720,
