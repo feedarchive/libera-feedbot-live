@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[batch-us-east-2] Informational message: Increased API Error Rates and Scaling Delays,http://status.aws.amazon.com/#batch-us-east-2_1637781298,
+status,[apigateway-us-east-2] Informational message: Increased API Error Rates,http://status.aws.amazon.com/#apigateway-us-east-2_1637781870,
+status,[apigateway-us-east-2] Informational message: Increased API Error Rates,http://status.aws.amazon.com/#apigateway-us-east-2_1637780386,
