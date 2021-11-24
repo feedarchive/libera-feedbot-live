@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[batch-us-east-2] [RESOLVED] Increased API Error Rates and Scaling Delays,http://status.aws.amazon.com/#batch-us-east-2_1637784751,
+status,[batch-us-east-2] [RESOLVED] Increased API Error Rates and Scaling Delays,http://status.aws.amazon.com/#batch-us-east-2_1637781299,
+status,[lambda-us-east-2] [RESOLVED] Increased Error Rates,http://status.aws.amazon.com/#lambda-us-east-2_1637784761,
