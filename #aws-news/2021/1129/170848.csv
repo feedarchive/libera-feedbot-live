@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:Blog,Announcing Pull Through Cache Repositories for Amazon Elastic Container Registry,https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/,https://go.aws/3o4DM26
+AWS:Blog,"Introducing Amazon Braket Hybrid Jobs – Set Up, Monitor, and Efficiently Run Hybrid Quantum-Classical Workloads",https://aws.amazon.com/blogs/aws/introducing-amazon-braket-hybrid-jobs-set-up-monitor-and-efficiently-run-hybrid-quantum-classical-workloads/,https://go.aws/3E6wBw2
+AWS:Blog,New – Amazon EC2 M6a Instances Powered By 3rd Gen AMD EPYC Processors,https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6a-instances-powered-by-3rd-gen-amd-epyc-processors/,https://go.aws/2ZA1NEV
+AWS:Blog,New – Securely manage your AWS IoT Greengrass edge devices using AWS Systems Manager,https://aws.amazon.com/blogs/aws/new-securely-manage-your-aws-iot-greengrass-edge-devices-using-aws-systems-manager/,https://go.aws/3rpEeu5
+AWS:Blog,New – Real-User Monitoring for Amazon CloudWatch,https://aws.amazon.com/blogs/aws/cloudwatch-rum/,https://go.aws/3cWC24K
+AWS:Blog,New – Amazon CloudWatch Evidently – Experiments and Feature Management,https://aws.amazon.com/blogs/aws/cloudwatch-evidently/,https://go.aws/3ro89ma
+AWS:Blog,New – Amazon EC2 G5g Instances Powered by AWS Graviton2 Processors and NVIDIA T4G Tensor Core GPUs,https://aws.amazon.com/blogs/aws/new-amazon-ec2-g5g-instances-powered-by-aws-graviton2-processors-and-nvidia-t4g-tensor-core-gpus/,https://go.aws/3p4nfKI
+AWS:Blog,New for AWS Compute Optimizer – Resource Efficiency Metrics to Estimate Savings Opportunities and Performance Risks,https://aws.amazon.com/blogs/aws/new-for-aws-compute-optimizer-resource-efficiency-metrics-to-estimate-savings-opportunities-and-performance-risks/,https://go.aws/31bq0la
+AWS:Blog,New for AWS Compute Optimizer – Enhanced Infrastructure Metrics to Extend the Look-Back Period to Three Months,https://aws.amazon.com/blogs/aws/new-for-aws-compute-optimizer-enhanced-infrastructure-metrics-to-extend-the-look-back-period-to-three-months/,https://go.aws/3xBa9IR
+AWS:Blog,New – AWS Migration Hub Refactor Spaces Helps to Incrementally Refactor Your Applications,https://aws.amazon.com/blogs/aws/new-aws-migration-hub-refactor-spaces-helps-to-incrementally-refactor-your-applications/,https://go.aws/3payd1r
