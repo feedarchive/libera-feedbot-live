@@ -1,0 +1,18 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing Amazon EC2 M6a instances,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/,https://go.aws/3xA2xWW
+AWS:WhatsNew,AWS AI for data analytics (AIDA) partner solutions,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ai-data-analytics-aida-partner-solutions/,https://go.aws/3I2NdHo
+AWS:WhatsNew,AWS Ground Station launches expanded support for Software Defined Radios in Preview,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ground-station-software-defined-radios-preview/,https://go.aws/3o6cRmJ
+AWS:WhatsNew,Introducing Amazon CloudWatch Metrics Insights (Preview),https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-metrics-insights-preview/,https://go.aws/3rl0Xr6
+AWS:WhatsNew,AWS IoT SiteWise now supports hot and cold storage tiers for industrial data,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-sitewise-storage-tiers-industrial-data/,https://go.aws/3xDSFMa
+AWS:WhatsNew,Customize your AWS Well-Architected Review using Custom Lenses,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-well-architected-tool-custom-lenses/,https://go.aws/3rl0XaA
+AWS:WhatsNew,Securely manage your AWS IoT Greengrass edge devices using AWS Systems Manager,https://aws.amazon.com/about-aws/whats-new/2021/11/securely-manage-aws-iot-greengrass-edge-devices-aws-systems-manager/,https://go.aws/31ddxgN
+AWS:WhatsNew,New Greengrass Software Catalog with several new components makes it easier to build IoT edge applications,https://aws.amazon.com/about-aws/whats-new/2021/11/greengrass-software-catalog-iot-edge-applications/,https://go.aws/3FSiDy4
+AWS:WhatsNew,Announcing new Amazon EC2 G5g instances powered by AWS Graviton2 processors,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-g5g-instances-aws-graviton2-processors/,https://go.aws/3xyFUSO
+AWS:WhatsNew,Introducing Amazon CloudWatch RUM for monitoring applications’ client-side performance,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-rum-applications-client-side-performance/,https://go.aws/3o2QQVC
+AWS:WhatsNew,"AWS Compute Optimizer now offers enhanced infrastructure metrics, a new feature for EC2 recommendations",https://aws.amazon.com/about-aws/whats-new/2021/11/aws-compute-optimizer-enhanced-infrastructure-metrics-ec2-instances/,https://go.aws/3E6sekA
+AWS:WhatsNew,Announcing Amazon Braket Hybrid Jobs for running hybrid quantum-classical workloads on Amazon Braket,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-braket-hybrid-jobs-quantum-classical-workloads/,https://go.aws/3D5iFkr
+AWS:WhatsNew,Introducing AWS Migration Hub Refactor Spaces - Preview,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-migration-hub-refactor-spaces/,https://go.aws/2ZAhBYh
+AWS:WhatsNew,AWS Compute Optimizer now offers resource efficiency metrics,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-compute-optimizer-resource-efficiency-metrics/,https://go.aws/3E6MyCq
+AWS:WhatsNew,Introducing Amazon CloudWatch Evidently for feature experimentation and safer launches,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-evidently-feature-experimentation-safer-launches/,https://go.aws/31hfHfK
+AWS:WhatsNew,AWS announces the new Amazon Inspector for continual vulnerability management,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-inspector-continual-vulnerability-management/,https://go.aws/3xxzMdH
+AWS:WhatsNew,Amazon ECR announces pull through cache repositories,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecr-cache-repositories/,https://go.aws/3E741uv
