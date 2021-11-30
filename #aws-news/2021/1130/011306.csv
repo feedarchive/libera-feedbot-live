@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:Blog,New – Use Amazon S3 Event Notifications with Amazon EventBridge,https://aws.amazon.com/blogs/aws/new-use-amazon-s3-event-notifications-with-amazon-eventbridge/,https://go.aws/3D0eaI5
+AWS:Blog,New – Amazon EBS Snapshots Archive,https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshots-archive/,https://go.aws/3d2Yt8g
+AWS:Blog,New – AWS Control Tower Account Factory for Terraform,https://aws.amazon.com/blogs/aws/new-aws-control-tower-account-factory-for-terraform/,https://go.aws/31bWGLF
+AWS:Blog,New – Recycle Bin for EBS Snapshots,https://aws.amazon.com/blogs/aws/new-recycle-bin-for-ebs-snapshots/,https://go.aws/3I7rwpJ
+AWS:Blog,Introducing Karpenter – An Open-Source High-Performance Kubernetes Cluster Autoscaler,https://aws.amazon.com/blogs/aws/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/,https://go.aws/3E8UJOn
