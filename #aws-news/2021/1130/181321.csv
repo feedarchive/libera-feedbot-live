@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing preview of AWS Private 5G,https://aws.amazon.com/about-aws/whats-new/2021/11/preview-aws-private-5g/,https://go.aws/3o8WOV7
+AWS:WhatsNew,Announcing preview of Amazon EC2 Trn1 instances,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-trn1-instances/,https://go.aws/3xEzSQK
+AWS:WhatsNew,"AWS Lake Formation support Governed Tables, storage optimization and row-level security",https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-governed-tables-storage-security/,https://go.aws/3d3sDIq
+AWS:WhatsNew,Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-c7g-instances-aws-graviton3-processors/,https://go.aws/3pcWVy7
+AWS:WhatsNew,Introducing AWS Mainframe Modernization,https://aws.amazon.com/about-aws/whats-new/2021/11/introducing-aws-mainframe-modernization/,https://go.aws/3d752a6
+AWS:WhatsNew,Introducing Amazon EMR Serverless in preview,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/,https://go.aws/2ZJHepG
+AWS:WhatsNew,Announcing Amazon Kinesis Data Streams On-Demand,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/,https://go.aws/3d2w1U2
+AWS:WhatsNew,Announcing Amazon Redshift Serverless (Preview),https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-serverless/,https://go.aws/3rkUH2n
+AWS:WhatsNew,Introducing Amazon MSK Serverless in public preview,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-msk-serverless-public-preview/,https://go.aws/3lIfkSP
