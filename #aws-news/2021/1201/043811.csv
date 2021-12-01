@@ -1,0 +1,28 @@
+feed,title,long_url,short_url
+APIchanges,Access Analyzer - 1 updated methods,https://awsapichanges.info/archive/changes/114891-access-analyzer.html,https://j.mp/3o8cWGk
+APIchanges,AWS Backup Gateway - 16 new methods,https://awsapichanges.info/archive/changes/114891-backup-gateway.html,https://j.mp/3xGiuuL
+APIchanges,Amazon Elastic Compute Cloud - 28 updated methods,https://awsapichanges.info/archive/changes/114891-ec2.html,https://j.mp/3Ee9kYZ
+APIchanges,Amazon FSx - 10 new 15 updated methods,https://awsapichanges.info/archive/changes/114891-fsx.html,https://j.mp/3xFx45S
+APIchanges,AWS Glue - 7 updated methods,https://awsapichanges.info/archive/changes/114891-glue.html,https://j.mp/31dbslc
+APIchanges,AWS IoT - 3 updated methods,https://awsapichanges.info/archive/changes/114891-iot.html,https://j.mp/3EbQG42
+APIchanges,AWS IoT TwinMaker - 26 new methods,https://awsapichanges.info/archive/changes/114891-iottwinmaker.html,https://j.mp/3d2IJCp
+APIchanges,Managed Streaming for Kafka - 3 new methods,https://awsapichanges.info/archive/changes/114891-kafka.html,https://j.mp/3pcQD1K
+APIchanges,Amazon Kinesis - 1 new 4 updated methods,https://awsapichanges.info/archive/changes/114891-kinesis.html,https://j.mp/32NVP4x
+APIchanges,AWS Lake Formation - 19 new 9 updated methods,https://awsapichanges.info/archive/changes/114891-lakeformation.html,https://j.mp/3rmdGcT
+APIchanges,AWS Outposts - 3 updated methods,https://awsapichanges.info/archive/changes/114891-outposts.html,https://j.mp/3ll1Qfy
+APIchanges,Amazon Simple Storage Service - 20 updated methods,https://awsapichanges.info/archive/changes/114891-s3.html,https://j.mp/31f1AHC
+APIchanges,Amazon Import/Export Snowball - 7 updated methods,https://awsapichanges.info/archive/changes/114891-snowball.html,https://j.mp/3EaP1vH
+APIchanges,AWS Storage Gateway - 2 updated methods,https://awsapichanges.info/archive/changes/114891-storagegateway.html,https://j.mp/3rpSSkH
+APIchanges,Amazon WorkSpaces Web - 44 new methods,https://awsapichanges.info/archive/changes/114891-workspaces-web.html,https://j.mp/3Da94sA
+APIchanges,AWS Compute Optimizer - 4 new 9 updated methods,https://awsapichanges.info/archive/changes/071064-compute-optimizer.html,https://j.mp/3I4rb7f
+APIchanges,AWS Data Exchange - 1 new 10 updated methods,https://awsapichanges.info/archive/changes/071064-dataexchange.html,https://j.mp/3d4d4jJ
+APIchanges,Amazon Elastic Compute Cloud - 5 new 27 updated methods,https://awsapichanges.info/archive/changes/071064-ec2.html,https://j.mp/3pmcZho
+APIchanges,Amazon EC2 Container Registry - 6 new 3 updated methods,https://awsapichanges.info/archive/changes/071064-api.ecr.html,https://j.mp/3IbilV2
+APIchanges,Amazon CloudWatch Evidently - 32 new methods,https://awsapichanges.info/archive/changes/071064-evidently.html,https://j.mp/3piKRLO
+APIchanges,Inspector2 - 30 new methods,https://awsapichanges.info/archive/changes/071064-inspector2.html,https://j.mp/3D4Jcyx
+APIchanges,AWS IoT SiteWise - 2 updated methods,https://awsapichanges.info/archive/changes/071064-iotsitewise.html,https://j.mp/32BHCr9
+APIchanges,Amazon Recycle Bin - 8 new methods,https://awsapichanges.info/archive/changes/071064-rbin.html,https://j.mp/3lnEkyo
+APIchanges,CloudWatch RUM - 10 new methods,https://awsapichanges.info/archive/changes/071064-rum.html,https://j.mp/3G3EKSk
+APIchanges,Amazon Simple Storage Service - 4 updated methods,https://awsapichanges.info/archive/changes/071064-s3.html,https://j.mp/3o68PL0
+APIchanges,Amazon Simple Systems Manager (SSM) - 5 updated methods,https://awsapichanges.info/archive/changes/071064-ssm.html,https://j.mp/31k0ZVn
+APIchanges,AWS Well-Architected Tool - 8 new 13 updated methods,https://awsapichanges.info/archive/changes/071064-wellarchitected.html,https://j.mp/3IcIbIy
