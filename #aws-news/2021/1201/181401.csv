@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing AWS DMS Fleet Advisor for automated discovery and analysis of database and analytics workloads (Preview),https://aws.amazon.com/about-aws/whats-new/2021/12/aws-dms-fleet-advisor/,https://go.aws/3D8oy0d
+AWS:WhatsNew,Announcing Amazon RDS Custom for SQL Server,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-custom-sql-server/,https://go.aws/3o9Z52q
+AWS:WhatsNew,"AWS Database Migration Service now offers a new console experience, AWS DMS Studio",https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-service-aws-dms-studio/,https://go.aws/3pfyfFn
+AWS:WhatsNew,"Announcing Amazon DevOps Guru for RDS, an ML-powered capability that automatically detects and diagnoses performance and operational issues within Amazon Aurora",https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-rds-ml-powered-capability-amazon-aurora/,https://go.aws/3EdGCY9
+AWS:WhatsNew,"Amazon DynamoDB announces the new Amazon DynamoDB Standard-Infrequent Access table class, which helps you reduce your DynamoDB costs by up to 60 percent",https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-dynamodb-standard-infrequent-access-table-class/,https://go.aws/3pbnljW
