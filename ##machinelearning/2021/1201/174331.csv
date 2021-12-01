@@ -1,0 +1,47 @@
+feed,title,long_url,short_url
+j:JMLR,On Universal Approximation and Error Bounds for Fourier Neural Operators,http://jmlr.org/papers/v22/21-0806.html,https://j.mp/3rrKxgo
+j:JMLR,VariBAD: Variational Bayes-Adaptive Deep RL via Meta-Learning,http://jmlr.org/papers/v22/21-0657.html,https://j.mp/3G9a3LL
+j:JMLR,A Theory of the Risk for Optimization with Relaxation and its Application to Support Vector Machines,http://jmlr.org/papers/v22/21-0641.html,https://j.mp/3oaZfq8
+j:JMLR,V-statistics and Variance Estimation,http://jmlr.org/papers/v22/21-0575.html,https://j.mp/3xJUVkR
+j:JMLR,An Online Sequential Test for Qualitative Treatment Effects,http://jmlr.org/papers/v22/21-0383.html,https://j.mp/3FZlkhs
+j:JMLR,Double Generative Adversarial Networks for Conditional Independence Testing,http://jmlr.org/papers/v22/21-0294.html,https://j.mp/3Eitz7W
+j:JMLR,Linear Bandits on Uniformly Convex Sets,http://jmlr.org/papers/v22/21-0277.html,https://j.mp/31mkfS9
+j:JMLR,"Non-linear, Sparse Dimensionality Reduction via Path Lasso Penalized Autoencoders",http://jmlr.org/papers/v22/21-0203.html,https://j.mp/3dbN5Hn
+j:JMLR,LDLE: Low Distortion Local Eigenmaps,http://jmlr.org/papers/v22/21-0131.html,https://j.mp/3lLPJZd
+j:JMLR,Contrastive Estimation Reveals Topic Posterior Information to Linear Models,http://jmlr.org/papers/v22/21-0089.html,https://j.mp/3lLPAF9
+j:JMLR,Graph Matching with Partially-Correct Seeds,http://jmlr.org/papers/v22/21-0020.html,https://j.mp/31gvzPP
+j:JMLR,Fast Learning for Renewal Optimization in Online Task Scheduling,http://jmlr.org/papers/v22/20-813.html,https://j.mp/31g2hjY
+j:JMLR,Multilevel Monte Carlo Variational Inference,http://jmlr.org/papers/v22/20-653.html,https://j.mp/3EgbEP5
+j:JMLR,Gaussian Approximation for Bias Reduction in Q-Learning,http://jmlr.org/papers/v22/20-633.html,https://j.mp/3dbksKc
+j:JMLR,Estimating the Lasso's Effective Noise,http://jmlr.org/papers/v22/20-539.html,https://j.mp/32RrLVG
+j:JMLR,Partial Policy Iteration for L1-Robust Markov Decision Processes,http://jmlr.org/papers/v22/20-445.html,https://j.mp/31mkg8F
+j:JMLR,Simultaneous Change Point Inference and Structure Recovery for High Dimensional Gaussian Graphical Models,http://jmlr.org/papers/v22/20-327.html,https://j.mp/3obOCDx
+j:JMLR,On the Hardness of Robust Classification,http://jmlr.org/papers/v22/20-285.html,https://j.mp/3I9PTD8
+j:JMLR,Transferability of Spectral Graph Convolutional Neural Networks,http://jmlr.org/papers/v22/20-213.html,https://j.mp/3rnz9Cp
+j:JMLR,Nonparametric Continuous Sensor Registration,http://jmlr.org/papers/v22/20-1468.html,https://j.mp/3d5ogwK
+j:JMLR,Further results on latent discourse models and word embeddings,http://jmlr.org/papers/v22/20-1413.html,https://j.mp/3o9O0OQ
+j:JMLR,CAT: Compression-Aware Training for bandwidth reduction,http://jmlr.org/papers/v22/20-1374.html,https://j.mp/3dbkt0I
+j:JMLR,Stable-Baselines3: Reliable Reinforcement Learning Implementations,http://jmlr.org/papers/v22/20-1364.html,https://j.mp/31lTE7L
+j:JMLR,Reproducing kernel Hilbert C*-module and kernel mean embeddings,http://jmlr.org/papers/v22/20-1346.html,https://j.mp/3xL4kJa
+j:JMLR,Learning Bayesian Networks from Ordinal Data,http://jmlr.org/papers/v22/20-1338.html,https://j.mp/3oeLg2N
+j:JMLR,Exact Asymptotics for Linear Quadratic Adaptive Control,http://jmlr.org/papers/v22/20-1292.html,https://j.mp/3pAuqef
+j:JMLR,Regularized spectral methods for clustering signed networks,http://jmlr.org/papers/v22/20-1289.html,https://j.mp/3lorMGQ
+j:JMLR,On the Stability Properties and the Optimization Landscape of Training Problems with Squared Loss for Neural Networks and General Nonlinear Conic Approximation Schemes,http://jmlr.org/papers/v22/20-1259.html,https://j.mp/3G8Ro2H
+j:JMLR,Revisiting Model-Agnostic Private Learning: Faster Rates and Active Learning,http://jmlr.org/papers/v22/20-1251.html,https://j.mp/3oaGGlR
+j:JMLR,Domain adaptation under structural causal models,http://jmlr.org/papers/v22/20-1227.html,https://j.mp/3o88UOd
+j:JMLR,Learning Strategies in Decentralized Matching Markets under Uncertain Preferences,http://jmlr.org/papers/v22/20-1221.html,https://j.mp/3DeqxAn
+j:JMLR,ROOTS: Object-Centric Representation and Rendering of 3D Scenes,http://jmlr.org/papers/v22/20-1176.html,https://j.mp/3xKdipV
+j:JMLR,Optimized Score Transformation for Consistent Fair Classification,http://jmlr.org/papers/v22/20-1143.html,https://j.mp/31mke0x
+j:JMLR,Estimating Uncertainty Intervals from Collaborating Networks,http://jmlr.org/papers/v22/20-1100.html,https://j.mp/2ZM4zqK
+j:JMLR,Model Linkage Selection for Cooperative Learning,http://jmlr.org/papers/v22/20-1078.html,https://j.mp/3G1PjFC
+j:JMLR,Adversarial Monte Carlo Meta-Learning of Optimal Prediction Procedures,http://jmlr.org/papers/v22/20-1065.html,https://j.mp/3De4PMA
+j:JMLR,Inference for the Case Probability in High-dimensional Logistic Regression,http://jmlr.org/papers/v22/20-1050.html,https://j.mp/2ZLF34U
+j:JMLR,Bifurcation Spiking Neural Network,http://jmlr.org/papers/v22/20-1031.html,https://j.mp/3pl6KKq
+j:JMLR,Batch greedy maximization of non-submodular functions: Guarantees and applications to experimental design,http://jmlr.org/papers/v22/20-1023.html,https://j.mp/3odoqZc
+j:JMLR,Tractable Approximate Gaussian Inference for Bayesian Neural Networks,http://jmlr.org/papers/v22/20-1009.html,https://j.mp/32E3YIz
+j:JMLR,Bayesian time-aligned factor analysis of paired multivariate time series,http://jmlr.org/papers/v22/20-048.html,https://j.mp/3EeLv3k
+j:JMLR,On the Riemannian Search for Eigenvector Computation,http://jmlr.org/papers/v22/20-033.html,https://j.mp/2ZIXya9
+j:JMLR,Statistically and Computationally Efficient Change Point Localization in Regression Settings,http://jmlr.org/papers/v22/19-531.html,https://j.mp/3IbmlVv
+j:JMLR,Statistical Guarantees for Local Spectral Clustering on Random Neighborhood Graphs,http://jmlr.org/papers/v22/19-1016.html,https://j.mp/2ZJsOpx
+j:JMLR,Mixture Martingales Revisited with Applications to Sequential Tests and Confidence Intervals,http://jmlr.org/papers/v22/18-798.html,https://j.mp/3lnqDQ8
+j:JMLR,On lp-hyperparameter Learning via Bilevel Nonsmooth Optimization,http://jmlr.org/papers/v22/18-485.html,https://j.mp/3EhvF8e
