@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing the new Amazon S3 Glacier Instant Retrieval storage class - the lowest cost archive storage with milliseconds retrieval,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/,https://go.aws/3d8x19j
+AWS:WhatsNew,Announcing preview of AWS Backup for Amazon S3,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-s3-backup/,https://go.aws/3xCSnFf
+AWS:WhatsNew,Amazon S3 Glacier storage class is now Amazon S3 Glacier Flexible Retrieval; storage price reduced by 10% and bulk retrievals are now free,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-storage-class-amazon-s3-glacier-flexible-retrieval/,https://go.aws/3o7s7zt
+AWS:WhatsNew,AWS Backup adds support for VMware workloads,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-vmware-workloads/,https://go.aws/3D9q4PK
+AWS:WhatsNew,Amazon S3 Object Ownership can now disable access control lists to simplify access management for data in S3,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-object-ownership-simplify-access-management-data-s3/,https://go.aws/3xHMeru
+AWS:WhatsNew,Introducing Amazon FSx for OpenZFS,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-openzfs/,https://go.aws/3xGXcxh
+AWS:WhatsNew,"Amazon S3 console now reports security warnings, errors, and suggestions from IAM Access Analyzer as you author your S3 policies",https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-console-warnings-errors-suggestions-iam-access-analyzer/,https://go.aws/3oa32UJ
+AWS:WhatsNew,Amazon FSx for Lustre now supports linking multiple Amazon S3 buckets to a file system,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/,https://go.aws/3DbaUtx
+AWS:WhatsNew,Introducing AWS Microservice Extractor for .NET,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-microservice-extractor-net/,https://go.aws/3o8ymmL
+AWS:WhatsNew,Announcing the new S3 Intelligent-Tiering Archive Instant Access tier - Automatically save up to 68% on storage costs,https://aws.amazon.com/about-aws/whats-new/2021/11/s3-intelligent-tiering-archive-instant-access-tier/,https://go.aws/3G08yzl
+AWS:WhatsNew,AWS IoT Device Management Fleet Indexing now supports two additional data sources (Preview),https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-device-management-fleet-indexing-additional-data-sources-preview/,https://go.aws/3I8j4GM
+AWS:WhatsNew,Amazon Connect releases unified agent application to improve agent experience and customer interactions,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-unified-agent-application/,https://go.aws/3DdzOZg
+AWS:WhatsNew,AWS Snow Family launches offline tape data migration capability,https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/,https://go.aws/31g5Nej
+AWS:WhatsNew,Amazon FSx for Lustre can now automatically update file system contents as data is deleted and moved in Amazon S3,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/,https://go.aws/2ZKLtkQ
+AWS:WhatsNew,Amazon WorkSpaces introduces Amazon WorkSpaces Web,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-workspaces-introduces-amazon-workspaces-web/,https://go.aws/3Ec3wPQ
+AWS:WhatsNew,Announcing the next generation of Amazon FSx for Lustre file systems,https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-systems/,https://go.aws/3p8XpoU
