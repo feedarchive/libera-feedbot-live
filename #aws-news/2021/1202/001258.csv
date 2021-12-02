@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing a simplified FreeRTOS out-of-box AWS IoT connectivity experience,https://aws.amazon.com/about-aws/whats-new/2021/12/freertos-aws-iot-connectivity-experience/,https://go.aws/31oEyhH
+AWS:WhatsNew,Amazon SageMaker now supports cross-account lineage tracking and multi-hop lineage querying,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-cross-account-lineage-tracking-query/,https://go.aws/32SRVr5
+AWS:WhatsNew,Amazon Virtual Private Cloud (VPC) announces IP Address Manager (IPAM) to help simplify IP address management on AWS,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-virtual-private-cloud-vpc-announces-ip-address-manager-ipam/,https://go.aws/3odlH21
+AWS:WhatsNew,Introducing AWS Direct Connect SiteLink,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-direct-connect-sitelink/,https://go.aws/3IctVzb
+AWS:WhatsNew,AWS Transit Gateway introduces intra-region peering for simplified cloud operations and network connectivity,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transit-gateway-intra-region-cloud-network/,https://go.aws/3EjQ3W8
+AWS:WhatsNew,AWS Shield Advanced introduces automatic application-layer DDoS mitigation,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-shield-advanced-application-layer-ddos-mitigation/,https://go.aws/3rHODl1
+AWS:WhatsNew,Amazon Textract announces specialized support for automated processing of identity documents,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-textract-automated-processing-identity-documents/,https://go.aws/32SS2mv
+AWS:WhatsNew,Amazon Virtual Private Cloud (VPC) announces Network Access Analyzer to help you easily identify unintended network access,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-vpc-network-access-analyzer/,https://go.aws/3EjQi3u
+AWS:WhatsNew,AWS Managed Microsoft AD helps optimize scaling decisions with directory metrics in Amazon CloudWatch,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-managed-microsoft-ad-amazon-cloudwatch/,https://go.aws/3G7eQ0c
+AWS:WhatsNew,Amazon SageMaker Pipelines now integrates with SageMaker Model Monitor and SageMaker Clarify,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-pipelines-integrates-sagemaker-model-monitor-sagemaker-clarify/,https://go.aws/3d7ZKek
