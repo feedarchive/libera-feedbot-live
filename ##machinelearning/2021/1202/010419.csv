@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker now supports cross-account lineage tracking and multi-hop lineage querying,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-cross-account-lineage-tracking-query/,https://go.aws/32SRVr5
+AWS:WhatsNew,Amazon Textract announces specialized support for automated processing of identity documents,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-textract-automated-processing-identity-documents/,https://go.aws/32SS2mv
+AWS:WhatsNew,Amazon SageMaker Pipelines now integrates with SageMaker Model Monitor and SageMaker Clarify,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-pipelines-integrates-sagemaker-model-monitor-sagemaker-clarify/,https://go.aws/3d7ZKek
