@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now logs Hyperplane Elastic Network Interface (ENI) ID in AWS CloudTrail data events,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/,https://go.aws/3GfIEYj
+AWS:WhatsNew,Announcing preview of SQL Notebooks support in Amazon Redshift Query Editor V2,https://aws.amazon.com/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/,https://go.aws/3DmcWqw
+AWS:WhatsNew,"Amazon SageMaker Model Registry now supports endpoint visibility, custom metadata and model metrics",https://aws.amazon.com/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/,https://go.aws/3onKQqA
