@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PwC:Latest,/fredzzhang/ Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer: https://github.com/fredzzhang/upt,https://paperswithcode.com/paper/efficient-two-stage-detection-of-human-object,https://j.mp/3EtNVv8
+PwC:Latest,/YukeWang96/ TC-GNN: Accelerating Sparse Graph Neural Network Computation Via Dense Tensor Core on GPUs: https://github.com/YukeWang96/TCGNN-Pytorch,https://paperswithcode.com/paper/tc-gnn-accelerating-sparse-graph-neural,https://j.mp/3rFHMIC
+PwC:Latest,/L0SG/ Robust End-to-End Focal Liver Lesion Detection using Unregistered Multiphase Computed Tomography Images: https://github.com/L0SG/grouped-ssd-pytorch,https://paperswithcode.com/paper/robust-end-to-end-focal-liver-lesion,https://j.mp/3GijYOY
