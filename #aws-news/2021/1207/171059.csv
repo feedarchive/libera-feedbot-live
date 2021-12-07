@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[supportcenter] Informational message: Increased Error Rates,http://status.aws.amazon.com/#supportcenter_1638896490,
+status,[dynamodb-us-east-1] Service degradation: Increased API Error Rates,http://status.aws.amazon.com/#dynamodb-us-east-1_1638896271,
