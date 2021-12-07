@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+status,[ecs-us-east-1] Informational message: Elevated Fargate task launch failures,http://status.aws.amazon.com/#ecs-us-east-1_1638919976,
+status,[apigateway-us-east-1] Informational message: Elevated Errors and Latencies,http://status.aws.amazon.com/#apigateway-us-east-1_1638919396,
+status,[supportcenter] [RESOLVED] Increased Error Rates,http://status.aws.amazon.com/#supportcenter_1638918780,
+status,[ec2-us-east-1] [RESOLVED] Increased API Error Rates,http://status.aws.amazon.com/#ec2-us-east-1_1638919884,
