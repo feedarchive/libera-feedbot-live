@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 File Gateway now supports NFS file share auditing,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/,https://go.aws/3GlXP2e
+AWS:WhatsNew,Amazon S3 File Gateway enables administrators to force the closing of locked files,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/,https://go.aws/3lIvUSe
