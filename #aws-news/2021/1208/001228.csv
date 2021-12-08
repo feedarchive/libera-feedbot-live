@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[batch-us-east-1] Informational message: Increased Job Processing Delays,http://status.aws.amazon.com/#batch-us-east-1_1638922058,
+status,[apigateway-us-east-1] Service degradation: Elevated Errors and Latencies,http://status.aws.amazon.com/#apigateway-us-east-1_1638921921,
