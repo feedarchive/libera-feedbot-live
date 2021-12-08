@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS IoT Core now supports caching of responses returned by customer’s Custom Authorizer Lambdas when using HTTP connections,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-iot-core-caching-responses-custom-lambdas/,https://go.aws/3pBUZ2E
+AWS:WhatsNew,Amazon DevOps Guru introduces enhanced analysis for Amazon Aurora databases and support for AWS tags as an application boundary,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-amazon-aurorad-databases-aws-tags/,https://go.aws/31GfAur
+AWS:WhatsNew,Amazon Location adds Suggestion capability,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-location-suggestion-capability/,https://go.aws/3yeTxab
