@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,You can now enable data compression for capacity pool storage in Amazon FSx for NetApp ONTAP file systems,https://aws.amazon.com/about-aws/whats-new/2021/12/data-compression-amazon-fsx-netapp-ontap-file-systems/,https://go.aws/3EH0Hqj
+AWS:WhatsNew,AWS Network Firewall now supports AWS Managed Rules,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-network-firewall-aws-managed-rules/,https://go.aws/3oF7M4Y
+AWS:WhatsNew,Amazon Kinesis Data Analytics is now available in the Asia Pacific (Osaka) and Africa (Cape Town) regions,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-kinesis-data-analytics-available-regions/,https://go.aws/3oFvBtl
