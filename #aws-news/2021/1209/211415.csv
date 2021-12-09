@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,EKS add-ons now supports EBS CSI driver,https://aws.amazon.com/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/,https://go.aws/3oEMZ1p
+AWS:WhatsNew,AWS App2Container(A2C) now supports containerization of .NET Core / .NET 5 applications,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-a2c-containerization-net-core-applications/,https://go.aws/3EWdPIh
