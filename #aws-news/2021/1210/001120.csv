@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/,https://go.aws/31PSXni
+AWS:WhatsNew,Amazon Route 53 updates API actions,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/,https://go.aws/3yb9SwB
