@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.10.1-rc1: [release/1.10] Fix adaptive_max_pool2d for channels-last on CUDA (#67…,https://github.com/pytorch/pytorch/releases/tag/v1.10.1-rc1,
