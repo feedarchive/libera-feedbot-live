@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS DataSync can now copy data to and from Amazon FSx for Lustre,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/,https://go.aws/3peQjR3
+AWS:WhatsNew,Amazon Chime SDK media capture pipelines supports Amazon S3 server side encryption with AWS Key Management Service,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-media-capture-pipelines-s3-server-side-encryption-key-management/,https://go.aws/3EajvNj
