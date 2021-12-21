@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Customer Profiles is now PCI compliant and in scope for SOC 1 and SOC 2,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-pci-compliant-soc/,https://go.aws/3yRy7Ab
+AWS:WhatsNew,Amazon RDS for Oracle now supports Oracle Connection Manager (CMAN),https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-oracle-connection-manager-cman/,https://go.aws/32l5S0G
+AWS:WhatsNew,EC2 Image Builder adds console support for custom image creation from on-premise images,https://aws.amazon.com/about-aws/whats-new/2021/12/ec2-image-builder-console-custom-image-creation-on-premise-images/,https://go.aws/3sFf77d
