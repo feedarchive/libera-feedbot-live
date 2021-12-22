@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Cost Management now supports hourly granularity in Savings Plans Utilization and Coverage reports,https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cost-management-hourly-granularity-savings-reports/,https://go.aws/3FlGt5t
+AWS:WhatsNew,Support for Fujitsu QoS protocol now available in AWS Elemental MediaConnect,https://aws.amazon.com/about-aws/whats-new/2021/12/fujitsu-qos-protocol-aws-elemental-mediaconnect/,https://go.aws/3ehAEdD
+AWS:WhatsNew,Amazon Chime SDK now supports stereo audio,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-stereo-audio/,https://go.aws/3qe3xwJ
+AWS:WhatsNew,Amazon MSK adds support for Apache Kafka version 2.6.3,https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-apache-support-kafka-2-6-3/,https://go.aws/3H0wi71
