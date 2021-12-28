@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,Silent Bugs in Deep Learning Frameworks: An Empirical Study of Keras and TensorFlow,https://arxiv.org/abs/2112.13314v1,
+ArXiv,ShortcutFusion: From Tensorflow to FPGA-based accelerator with reuse-aware memory allocation for shortcut data,https://arxiv.org/abs/2106.08167v3,
