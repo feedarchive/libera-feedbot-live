@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"If i am designing a problem for RL , when my state is a vector and action is a real number as policy gives probability distribution over states . Now if my total number is fixed i.e i am getting say probability distrib. for 100 elements , so will this be continous action space or discrete ?",https://redd.it/rpnjcr,
