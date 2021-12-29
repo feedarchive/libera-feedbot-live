@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.10.2-rc1: fix formatting CIRCLE_TAG when building docs (#67026) (#69876),https://github.com/pytorch/pytorch/releases/tag/v1.10.2-rc1,
