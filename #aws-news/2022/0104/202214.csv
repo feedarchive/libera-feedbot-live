@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Managed Blockchain (AMB) announces support for Hyperledger Fabric v2.2,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/,https://go.aws/3qNBogl
+AWS:WhatsNew,Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports OpenSearch version 1.1,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-supports-version-1-1/,https://go.aws/3HACpzb
+AWS:WhatsNew,ACM Private CA Kubernetes cert-manager plugin is production ready,https://aws.amazon.com/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/,https://go.aws/3qHwnFW
