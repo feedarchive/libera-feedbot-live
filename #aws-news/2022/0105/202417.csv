@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle now supports October 2021 Release Update (RU) for Oracle Database 12.2 and 19c,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/,https://go.aws/3eRs0Tm
+AWS:WhatsNew,Amazon EMR on EKS adds error message details in DescribeJobRun API response to simplify debugging,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/,https://go.aws/3eRRm3F
+AWS:WhatsNew,Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports anomaly detection for historical data,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/,https://go.aws/3G2oVM4
+AWS:WhatsNew,Amazon EMR on EKS adds support for customized container images for AWS Graviton-based EC2 instances,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/,https://go.aws/3fath8p
