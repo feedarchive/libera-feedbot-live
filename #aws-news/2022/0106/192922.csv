@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EMR on EKS adds support for customized container images for interactive jobs run using managed endpoints,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-support-container-images-interactive-jobs-endpoints/,https://go.aws/3zve5f6
+AWS:WhatsNew,Announcing AWS Serverless Application Model (SAM) CLI support for local testing of AWS Cloud Development Kit (CDK),https://aws.amazon.com/about-aws/whats-new/2022/01/aws-serverless-application-model-sam-cli-aws-cloud-development-kit-cdk/,https://go.aws/3HKabBV
+AWS:WhatsNew,Amazon EKS now supports Internet Protocol version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-eks-ipv6/,https://go.aws/3eVnYt1
