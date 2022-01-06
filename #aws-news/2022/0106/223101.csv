@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports ES Modules and Top-Level Await for Node.js 14,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-es-modules-top-level-await-node-js-14/,https://go.aws/3HLQY35
+AWS:WhatsNew,Instance Tags now available on the Amazon EC2 Instance Metadata Service,https://aws.amazon.com/about-aws/whats-new/2022/01/instance-tags-amazon-ec2-instance-metadata-service/,https://go.aws/34uCx51
+AWS:WhatsNew,Fine grained access control now supported on existing Amazon OpenSearch Service domains,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-fine-grained-access-control/,https://go.aws/32NUbjT
