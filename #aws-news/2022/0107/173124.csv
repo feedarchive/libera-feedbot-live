@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon AppStream 2.0 now provides application entitlements for SAML 2.0 federated user identities,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appstream-2-0-application-entitlements-saml-2-0-federated-user-identities/,https://go.aws/3eYEXe6
+AWS:WhatsNew,Amazon ECR adds the ability to monitor repository pull statistics,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/,https://go.aws/3zI1e9B
+AWS:WhatsNew,AWS IoT Core for LoRaWAN Launches Two New Features to Manage and Monitor Communications Between Device and Cloud,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/,https://go.aws/3q1Z3uo
