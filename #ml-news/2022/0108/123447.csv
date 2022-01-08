@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/DS:200+,I used Python to make a dot density map (with 1 dot per person) for the US Decennial Censuses from 1990 to 2020. This is over a billion points. The result is an amazing way to visualize population and demographic changes over the last 30 years. I wanted to share the code + process I used.,https://redd.it/rykvwa,
