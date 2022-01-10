@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SNS now supports Attribute-based access controls (ABAC),https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/,https://go.aws/3f75vKg
+AWS:WhatsNew,AWS Compute Optimizer makes it easier to optimize by leveraging multiple EC2 instance architectures,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/,https://go.aws/3nfJ5Lc
