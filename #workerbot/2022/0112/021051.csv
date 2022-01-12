@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,pymdp: A Python library for active inference in discrete state spaces,https://arxiv.org/abs/2201.03904v1,
+ArXiv,PEPit: computer-assisted worst-case analyses of first-order optimization methods in Python,https://arxiv.org/abs/2201.04040v1,
+ArXiv,Bambi: A simple interface for fitting Bayesian linear models in Python,https://arxiv.org/abs/2012.10754v4,
