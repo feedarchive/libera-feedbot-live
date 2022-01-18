@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Now DynamoDB can return the throughput capacity consumed by PartiQL API calls to help you optimize your queries and throughput costs,https://aws.amazon.com/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/,https://go.aws/3nEszVw
+AWS:WhatsNew,Now remediate operational issues faster by executing AWS Systems Manager Automation runbooks from Slack,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/,https://go.aws/3qGCFa0
