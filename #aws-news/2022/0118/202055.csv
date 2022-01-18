@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudWatch Application Insights adds service monitoring for Microsoft Active Directory and SharePoint,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-application-insights-service-monitoring-microsoft-active-directory-sharepoint/,https://go.aws/3KkJCW9
+AWS:WhatsNew,AWS Systems Manager Automation now enables you to take action in third-party applications through webhooks,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-third-party-applications-webhooks/,https://go.aws/3tCwuG0
+AWS:WhatsNew,AWS Elastic Disaster Recovery now supports failback automation,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elastic-disaster-recovery-failback-automation/,https://go.aws/3nBODA7
