@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/slow-gradcheck/71126: Merge branch 'master' of https://github.com/pytorch/pytorch into niki…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fslow-gradcheck%2F71126,
+GitHub:pytorch,ciflow/slow/71126: Merge branch 'master' of https://github.com/pytorch/pytorch into niki…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fslow%2F71126,
+GitHub:pytorch,ciflow/cpu/71564: Fix version strings in CI,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcpu%2F71564,
+GitHub:pytorch,"ciflow/cpu/67096: Update on ""[caffe2] Export operators to c10 without including ATen/Te…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcpu%2F67096,
+GitHub:pytorch,"ciflow/cpu/67094: Update on ""[caffe2] Remove IValue include from operator.h""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcpu%2F67094,
