@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/win/71481,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fwin%2F71481,
+GitHub:pytorch,ciflow/macos/71481,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fmacos%2F71481,
+GitHub:pytorch,ciflow/rocm/71503,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Frocm%2F71503,
+GitHub:pytorch,"ciflow/none/71484: Update on "".github: Enable windows binary builds""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fnone%2F71484,
+GitHub:pytorch,"ciflow/binaries/71487: Update on ""DO NOT MERGE, testing minimal windows GHA builds""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F71487,
