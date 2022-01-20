@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Client VPN now supports banner text and maximum session duration,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/,https://go.aws/3ArcNCA
+AWS:WhatsNew,Amazon GuardDuty now detects EC2 instance credentials used from another AWS account,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-ec2-instance-credentials-aws-account/,https://go.aws/3Ky54HA
+AWS:WhatsNew,"Amazon S3 Object Ownership can now disable access control lists in the AWS China (Beijing), AWS China (Ningxia), and AWS GovCloud (US) Regions",https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-s3-object-ownership-control-lists-aws-china-govcloud/,https://go.aws/32hBmFg
