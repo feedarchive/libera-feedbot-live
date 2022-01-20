@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Red Hat OpenShift Service on AWS (ROSA) is now available in the Asia Pacific (Osaka) Region,https://aws.amazon.com/about-aws/whats-new/2022/01/red-hat-openshift-service-aws-rosa-osaka/,https://go.aws/3fINEJY
+AWS:WhatsNew,Amazon Rekognition improves accuracy of Content Moderation for Video,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rekognition-content-moderation-video/,https://go.aws/35aK49x
+AWS:WhatsNew,"New datasets available on the Registry of Open Data from Meta, the Brazilian Space Agency, Radboud University Medical Center, and others",https://aws.amazon.com/about-aws/whats-new/2022/01/new-datasets-registry-open-data/,https://go.aws/3Iorl8M
+AWS:WhatsNew,AWS Security Hub integrates with AWS Health,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-security-hub-health/,https://go.aws/3rB9dld
+AWS:WhatsNew,"AWS Lambda now supports Max Batching Window for Amazon MSK, Apache Kafka, Amazon MQ for Apache Active MQ and RabbitMQ as event sources",https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/,https://go.aws/3KmBsN0
