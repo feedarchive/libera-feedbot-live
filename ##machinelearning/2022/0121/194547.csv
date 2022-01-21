@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/mobile/67909,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fmobile%2F67909,
+GitHub:pytorch,"ciflow/ios/71644: Update on ""ci: Enable tests for iOS on GHA""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fios%2F71644,
+GitHub:pytorch,"ciflow/cuda/71216: Update on ""cuDNN/miopen: Use per-operator headers""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F71216,
+GitHub:pytorch,"ciflow/cuda/71215: Update on ""CUDA Kernels: Use per-operator headers (4/4)""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F71215,
+GitHub:pytorch,"ciflow/cuda/71214: Update on ""CUDA Kernels: Use per-operator headers (3/4)""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F71214,
+GitHub:pytorch,"ciflow/cuda/71213: Update on ""CUDA Kernels: Use per-operator headers (2/4)""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F71213,
+GitHub:pytorch,"ciflow/cuda/71212: Update on ""CUDA Kernels: Use per-operator headers (1/4)""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F71212,
+GitHub:pytorch,"ciflow/cuda/68462: Update on ""Remove CUDA Foreach... files dependency on function operat…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F68462,
