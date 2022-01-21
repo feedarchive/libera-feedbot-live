@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/all/71582,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F71582,
+GitHub:pytorch,"ciflow/all/71256: Update on ""Add new reduce options and autograd support for scatter_re…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F71256,
+GitHub:pytorch,"ciflow/all/70750: Update on ""Rename _scatter_reduce to scatter_reduce""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F70750,
