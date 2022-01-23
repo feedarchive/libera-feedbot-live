@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/all/71516: Update on ""[jit][edge] Migrate to TypeFactory for base types in schem…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F71516,
+GitHub:pytorch,"ciflow/all/69751: Update on ""no longer coalesce sparse COO tensors before comparison""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F69751,
+GitHub:pytorch,"ciflow/all/67796: Update on ""use `torch.testing.assert_equal` in `TestCase.assertEqual`""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F67796,
