@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/AWS:10+,Stop using static cloud credentials in GitHub Actions,https://redd.it/sb5qy5,
+r/AWS:10+,"Can you gracefully shutdown a Lambda? If not, what impacts does that have in things such as DB connection pools?",https://redd.it/sb16ti,
