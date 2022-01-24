@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/all/70253: Update on ""Implement forward AD for linalg.svd and improve svd_backward""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F70253,
+GitHub:pytorch,"ciflow/all/69827: Update on ""Rewrite svd and linalg.svd as structured kernels""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F69827,
