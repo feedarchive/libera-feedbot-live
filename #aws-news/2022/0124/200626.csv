@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) adds additional Geospatial query capabilities,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-geospatial-query-capabilities/,https://go.aws/3IEnnsR
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) adds support for $mergeObjects and $reduce,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-mongodb-apis/,https://go.aws/3Iz2m2x
+AWS:WhatsNew,AWS Elemental MediaConvert now supports 4K frame sizes and 10-bit color in the AV1 output format,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elemental-mediaconvert-4k-av1-output/,https://go.aws/3G2s51v
