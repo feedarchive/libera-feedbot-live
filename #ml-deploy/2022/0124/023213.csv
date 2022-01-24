@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Neural Network Quantization with AI Model Efficiency Toolkit (AIMET),https://arxiv.org/abs/2201.08442v1,
+ArXiv,GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration,https://arxiv.org/abs/2201.08475v1,
+ArXiv,AutoDistill: an End-to-End Framework to Explore and Distill Hardware-Efficient Language Models,https://arxiv.org/abs/2201.08539v1,
