@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/slow-gradcheck/69909: Update on ""Add OpInfo test to check that floating point inputs in OpI…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fslow-gradcheck%2F69909,
+GitHub:pytorch,"ciflow/slow/69909: Update on ""Add OpInfo test to check that floating point inputs in OpI…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fslow%2F69909,
+GitHub:pytorch,ciflow/all/71788: Add new reduce options and autograd support for scatter_reduce,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F71788,
+GitHub:pytorch,ciflow/all/71787: Rename _scatter_reduce to scatter_reduce and make it unstructured,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F71787,
