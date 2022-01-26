@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/all/69909: Update on ""Add OpInfo test to check that floating point inputs in OpI…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F69909,
+GitHub:pytorch,"ciflow/all/68522: Update on ""Deactivate the tracking of gradients in sampling functions…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F68522,
+GitHub:pytorch,"ciflow/all/68188: Update on ""Remove unnecessary non_contiguous and gradient tests from …",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F68188,
+GitHub:pytorch,"ciflow/all/67833: Update on ""Add linalg.lu""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F67833,
