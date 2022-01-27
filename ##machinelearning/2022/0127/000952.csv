@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/win/71579: Update on ""Fix persistent worker exits before pin_memory thread""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fwin%2F71579,
+GitHub:pytorch,"ciflow/binaries/71893: Update on ""DO NOT MERGE, testing minimal macOS builds""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F71893,
