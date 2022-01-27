@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/cuda/71756,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F71756,
+GitHub:pytorch,ciflow/all/71756,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F71756,
+GitHub:pytorch,ciflow/all/69828,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F69828,
+GitHub:pytorch,"ciflow/all/68711: Update on ""Sparse CSR CUDA: Add torch.baddbmm and torch.bmm""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F68711,
