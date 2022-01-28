@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/RL:10+,"What are some good resources to get started in reinforcement learning? Books, videos, etc",https://redd.it/sefk0a,
+r/RL:10+,"""MLGO: a Machine Learning Guided Compiler Optimizations Framework"", Trofin et al 2022 (tuning LLVM to reduce codesize by 5%)",https://redd.it/se4wrm,
