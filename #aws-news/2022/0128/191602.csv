@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Systems Manager Automation now enables monitoring of service usage quota in Amazon CloudWatch,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/,https://go.aws/3G9Pi1W
+AWS:WhatsNew,Amazon Kinesis Data Firehose now delivers to Honeycomb,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-kinesis-data-firehose-delivers-honeycomb/,https://go.aws/3r7UT4t
