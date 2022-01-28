@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/libtorch/71882,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Flibtorch%2F71882,
+GitHub:pytorch,ciflow/cuda/71949,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F71949,
+GitHub:pytorch,ciflow/all/71882,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F71882,
