@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker JumpStart models support custom VPC and KMS settings,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-custom-vpc-kms-settings/,https://go.aws/3AThdSP
+AWS:WhatsNew,Improved progress updates for blue/green deployments in Amazon OpenSearch Service,https://aws.amazon.com/about-aws/whats-new/2022/01/improved-progress-updates-blue-green-deployments-amazon-opensearch-service/,https://go.aws/3AOnkIg
