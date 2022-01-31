@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Chat now supports a configurable chat duration of up to 7 days,https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-connect-chat-duration-7-days/,https://go.aws/3ufWt6o
+AWS:WhatsNew,AWS Lambda auto scaling improvements for Amazon MSK and self-managed Apache Kafka as event sources,https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/,https://go.aws/3odn944
