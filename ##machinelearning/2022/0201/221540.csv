@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/slow/72127,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fslow%2F72127,
+GitHub:pytorch,ciflow/rocm/72142: enable GHA workflow defaults for ROCm,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Frocm%2F72142,
+GitHub:pytorch,ciflow/android/72127,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fandroid%2F72127,
