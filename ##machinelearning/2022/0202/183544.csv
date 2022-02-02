@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:tensorflow,TensorFlow 2.8.0,https://github.com/tensorflow/tensorflow/releases/tag/v2.8.0,
+GitHub:tensorflow,TensorFlow 2.7.1,https://github.com/tensorflow/tensorflow/releases/tag/v2.7.1,
+GitHub:tensorflow,TensorFlow 2.6.3,https://github.com/tensorflow/tensorflow/releases/tag/v2.6.3,
+GitHub:tensorflow,TensorFlow 2.5.3,https://github.com/tensorflow/tensorflow/releases/tag/v2.5.3,
