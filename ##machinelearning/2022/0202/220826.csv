@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/all/72127,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F72127,
+GitHub:pytorch,"ciflow/all/70606: Update on ""Disable torch.complex32 dtype""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F70606,
+GitHub:pytorch,ciflow/all/68812: Move the test to the other location to avoid merge conflict with anot…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F68812,
