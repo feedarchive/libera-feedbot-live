@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/win/72148: [pytorch] use cublas lt interface for bias fusion (#71200),https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fwin%2F72148,
+GitHub:pytorch,ciflow/cuda/72148: [pytorch] use cublas lt interface for bias fusion (#71200),https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F72148,
