@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Maintaining Personalized Experiences with Machine Learning adds support for business domains and user segmentation,https://aws.amazon.com/about-aws/whats-new/2022/02/maintaining-personalized-experiences-with-machine-learning-business-domains-user-segmentation/,https://go.aws/3HorXLz
+AWS:WhatsNew,AWS Secrets Manager now supports rotation windows,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-secrets-manager-windows/,https://go.aws/3rmrV17
+AWS:WhatsNew,AWS IoT Core now supports per-device level logging capability for fine-grained diagnostic of IoT devices,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-iot-core-device-logging-diagnostic-devices/,https://go.aws/3IVxpG0
+AWS:WhatsNew,MLOps Workload Orchestrator adds support for Amazon SageMaker Model Explainability and Model Bias Monitoring,https://aws.amazon.com/about-aws/whats-new/2022/02/mlops-workload-orchestrator-support-amazon-sagemaker-model-explainability-model-bias-monitoring/,https://go.aws/34ghLGp
