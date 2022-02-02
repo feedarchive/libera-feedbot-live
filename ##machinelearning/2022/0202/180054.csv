@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/binaries/72184,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F72184,
+GitHub:pytorch,ciflow/all/71662: [PyTorchEdge] backport v8 to v7 to support promoted ops as instructio…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F71662,
