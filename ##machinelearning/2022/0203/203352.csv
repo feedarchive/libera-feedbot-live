@@ -1,0 +1,58 @@
+feed,title,long_url,short_url
+j:JMLR,Inherent Tradeoffs in Learning Fair Representations,http://jmlr.org/papers/v23/21-1427.html,https://bit.ly/3upBbUa
+j:JMLR,solo-learn: A Library of Self-supervised Methods for Visual Representation Learning,http://jmlr.org/papers/v23/21-1155.html,https://bit.ly/3ATOywW
+j:JMLR,Bayesian Pseudo Posterior Mechanism under Asymptotic Differential Privacy,http://jmlr.org/papers/v23/21-0936.html,https://bit.ly/3J0oOBR
+j:JMLR,SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization,http://jmlr.org/papers/v23/21-0888.html,https://bit.ly/3Lk3Z6D
+j:JMLR,DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python,http://jmlr.org/papers/v23/21-0862.html,https://bit.ly/3unnGEl
+j:JMLR,LinCDE: Conditional Density Estimation via Lindsey's Method,http://jmlr.org/papers/v23/21-0840.html,https://bit.ly/3J4yBHk
+j:JMLR,Toolbox for Multimodal Learn (scikit-multimodallearn),http://jmlr.org/papers/v23/21-0791.html,https://bit.ly/34wKDde
+j:JMLR,Analytically Tractable Hidden-States Inference in Bayesian Neural Networks,http://jmlr.org/papers/v23/21-0758.html,https://bit.ly/3Gmszjj
+j:JMLR,Innovations Autoencoder and its Application in One-class Anomalous Sequence Detection,http://jmlr.org/papers/v23/21-0735.html,https://bit.ly/3Hs7DZG
+j:JMLR,Overparameterization of Deep ResNet: Zero Loss and Mean-field Analysis,http://jmlr.org/papers/v23/21-0669.html,https://bit.ly/34elOmI
+j:JMLR,Cascaded Diffusion Models for High Fidelity Image Generation,http://jmlr.org/papers/v23/21-0635.html,https://bit.ly/3rleiz7
+j:JMLR,Beyond Sub-Gaussian Noises: Sharp Concentration Analysis for Stochastic Gradient Descent,http://jmlr.org/papers/v23/21-0560.html,https://bit.ly/3gmz8b8
+j:JMLR,Optimal Transport for Stationary Markov Chains via Policy Iteration,http://jmlr.org/papers/v23/21-0519.html,https://bit.ly/3rlejDb
+j:JMLR,PAC Guarantees and Effective Algorithms for Detecting Novel Categories,http://jmlr.org/papers/v23/21-0451.html,https://bit.ly/3omQ31s
+j:JMLR,Sampling Permutations for Shapley Value Estimation,http://jmlr.org/papers/v23/21-0439.html,https://bit.ly/3onBpXZ
+j:JMLR,Approximation and Optimization Theory for Linear Continuous-Time Recurrent Neural Networks,http://jmlr.org/papers/v23/21-0368.html,https://bit.ly/3IZjazZ
+j:JMLR,The correlation-assisted missing data estimator,http://jmlr.org/papers/v23/21-0345.html,https://bit.ly/34zSqXG
+j:JMLR,Structure-adaptive Manifold Estimation,http://jmlr.org/papers/v23/21-0338.html,https://bit.ly/3oo9h78
+j:JMLR,"(f,Gamma)-Divergences: Interpolating between f-Divergences and Integral Probability Metrics",http://jmlr.org/papers/v23/21-0100.html,https://bit.ly/3rnaqhc
+j:JMLR,Score Matched Neural Exponential Families for Likelihood-Free Inference,http://jmlr.org/papers/v23/21-0061.html,https://bit.ly/34CtKOE
+j:JMLR,Projected Statistical Methods for Distributional Data on the Real Line with the Wasserstein Metric,http://jmlr.org/papers/v23/21-0059.html,https://bit.ly/3L7fNbY
+j:JMLR,Accelerated Zeroth-Order and First-Order Momentum Methods from Mini to Minimax Optimization,http://jmlr.org/papers/v23/20-924.html,https://bit.ly/3rqqsab
+j:JMLR,Optimality and Stability in Non-Convex Smooth Games,http://jmlr.org/papers/v23/20-918.html,https://bit.ly/3seRgJv
+j:JMLR,SODEN: A Scalable Continuous-Time Survival Model through Ordinary Differential Equation Networks,http://jmlr.org/papers/v23/20-900.html,https://bit.ly/3sispnY
+j:JMLR,Model Averaging Is Asymptotically Better Than Model Selection For Prediction,http://jmlr.org/papers/v23/20-874.html,https://bit.ly/34wFEcP
+j:JMLR,Active Learning for Nonlinear System Identification with Guarantees,http://jmlr.org/papers/v23/20-807.html,https://bit.ly/3scYxJT
+j:JMLR,An improper estimator with optimal excess risk in misspecified density estimation and logistic regression,http://jmlr.org/papers/v23/20-782.html,https://bit.ly/3sftmxx
+j:JMLR,A Class of Conjugate Priors for Multinomial Probit Models which Includes the Multivariate Normal One,http://jmlr.org/papers/v23/20-735.html,https://bit.ly/3GrvirV
+j:JMLR,Theoretical Convergence of Multi-Step Model-Agnostic Meta-Learning,http://jmlr.org/papers/v23/20-720.html,https://bit.ly/3rlekad
+j:JMLR,Novel Min-Max Reformulations of Linear Inverse Problems,http://jmlr.org/papers/v23/20-707.html,https://bit.ly/3L1SzUR
+j:JMLR,Data-Derived Weak Universal Consistency,http://jmlr.org/papers/v23/20-644.html,https://bit.ly/3uEFfQD
+j:JMLR,MurTree: Optimal Decision Trees via Dynamic Programming and Search,http://jmlr.org/papers/v23/20-520.html,https://bit.ly/34wNKSy
+j:JMLR,Efficient MCMC Sampling with Dimension-Free Convergence Rate using ADMM-type Splitting,http://jmlr.org/papers/v23/20-357.html,https://bit.ly/34j1rVn
+j:JMLR,On Biased Stochastic Gradient Estimation,http://jmlr.org/papers/v23/20-316.html,https://bit.ly/3IW8KAY
+j:JMLR,Fast and Robust Rank Aggregation against Model Misspecification,http://jmlr.org/papers/v23/20-315.html,https://bit.ly/3grfNp2
+j:JMLR,LSAR: Efficient Leverage Score Sampling Algorithm for the Analysis of Big Time Series Data,http://jmlr.org/papers/v23/20-247.html,https://bit.ly/3B4fCK8
+j:JMLR,Evolutionary Variational Optimization of Generative Models,http://jmlr.org/papers/v23/20-233.html,https://bit.ly/3unICLq
+j:JMLR,Supervised Dimensionality Reduction and Visualization using Centroid-Encoder,http://jmlr.org/papers/v23/20-188.html,https://bit.ly/3L4vcdc
+j:JMLR,Universal Approximation in Dropout Neural Networks,http://jmlr.org/papers/v23/20-1433.html,https://bit.ly/3L5VETH
+j:JMLR,Decimated Framelet System on Graphs and Fast G-Framelet Transforms,http://jmlr.org/papers/v23/20-1402.html,https://bit.ly/3L5VE69
+j:JMLR,Spatial Multivariate Trees for Big Data Bayesian Regression,http://jmlr.org/papers/v23/20-1361.html,https://bit.ly/3sftlcX
+j:JMLR,TFPnP: Tuning-free Plug-and-Play Proximal Algorithms with Applications to Inverse Imaging Problems,http://jmlr.org/papers/v23/20-1297.html,https://bit.ly/3AXPBfa
+j:JMLR,A Stochastic Bundle Method for Interpolation,http://jmlr.org/papers/v23/20-1248.html,https://bit.ly/3ojQvNZ
+j:JMLR,On Generalizations of Some Distance Based Classifiers for HDLSS Data,http://jmlr.org/papers/v23/20-1219.html,https://bit.ly/3s85mwg
+j:JMLR,Solving Large-Scale Sparse PCA to Certifiable (Near) Optimality,http://jmlr.org/papers/v23/20-1188.html,https://bit.ly/3rlej69
+j:JMLR,Approximate Information State for Approximate Planning and Reinforcement Learning in Partially Observed Systems,http://jmlr.org/papers/v23/20-1165.html,https://bit.ly/3oJr74P
+j:JMLR,Near Optimality of Finite Memory Feedback Policies in Partially Observed Markov Decision Processes,http://jmlr.org/papers/v23/20-1152.html,https://bit.ly/3rn3q3S
+j:JMLR,Interpolating Predictors in High-Dimensional Factor Regression,http://jmlr.org/papers/v23/20-112.html,https://bit.ly/3oowohJ
+j:JMLR,Scaling Laws from the Data Manifold Dimension,http://jmlr.org/papers/v23/20-1111.html,https://bit.ly/3siaAFI
+j:JMLR,Deep Learning in Target Space,http://jmlr.org/papers/v23/20-040.html,https://bit.ly/34g3ARQ
+j:JMLR,Bayesian Multinomial Logistic Normal Models through Marginally Latent Matrix-T Processes,http://jmlr.org/papers/v23/19-882.html,https://bit.ly/3HtQi2p
+j:JMLR,XAI Beyond Classification: Interpretable Neural Clustering,http://jmlr.org/papers/v23/19-497.html,https://bit.ly/3gmlSDp
+j:JMLR,Empirical Risk Minimization under Random Censorship,http://jmlr.org/papers/v23/19-450.html,https://bit.ly/3om9jMG
+j:JMLR,Exploiting locality in high-dimensional Factorial hidden Markov models,http://jmlr.org/papers/v23/19-267.html,https://bit.ly/3AWDGOL
+j:JMLR,Recovering shared structure from multiple networks with unknown edge distributions,http://jmlr.org/papers/v23/19-1056.html,https://bit.ly/3upvDZJ
+j:JMLR,Debiased Distributed Learning for Sparse Partial Linear Models in High Dimensions,http://jmlr.org/papers/v23/18-467.html,https://bit.ly/3AYwx0I
+j:JMLR,Joint Estimation and Inference for Data Integration Problems based on Multiple Multi-layered Gaussian Graphical Models,http://jmlr.org/papers/v23/18-131.html,https://bit.ly/3J0ouD9
