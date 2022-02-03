@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+PwC:Trending,/facebookresearch/ Tutorial on amortized optimization for learning to optimize over continuous domains: https://github.com/facebookresearch/amortized-optimization-tutorial,https://paperswithcode.com/paper/tutorial-on-amortized-optimization-for,https://bit.ly/3gkh8y9
+PwC:Trending,/madrylab/ Datamodels: Predicting Predictions from Training Data: https://github.com/madrylab/datamodels-data,https://paperswithcode.com/paper/datamodels-predicting-predictions-from,https://bit.ly/3ohG11A
+PwC:Trending,/patrick-kidger/ Equinox: neural networks in JAX via callable PyTrees and filtered transformations: https://github.com/patrick-kidger/equinox,https://paperswithcode.com/paper/equinox-neural-networks-in-jax-via-callable,https://bit.ly/3myuGKk
+PwC:Trending,/google-research/ Toward Training at ImageNet Scale with Differential Privacy: https://github.com/google-research/dp-imagenet,https://paperswithcode.com/paper/toward-training-at-imagenet-scale-with,https://bit.ly/3IYTbst
