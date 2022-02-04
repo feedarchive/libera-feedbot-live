@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.11.0-rc1: Remove forcing CUDNN_STATIC when CAFFE2_STATIC_LINK_CUDA (#72290) (#7…,https://github.com/pytorch/pytorch/releases/tag/v1.11.0-rc1,
+GitHub:pytorch,ciflow/cuda/72357,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F72357,
+GitHub:pytorch,ciflow/cpu/72357,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcpu%2F72357,
+GitHub:pytorch,ciflow/all/72364: test,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F72364,
