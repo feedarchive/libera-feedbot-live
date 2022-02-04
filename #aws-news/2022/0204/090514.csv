@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,[ELI5] Does Cloudfront Store content or just cache it for faster access (while being dependent on origin server storage) & does it typically require major work to get your project to work with Cloudfront in case of video content delivery?,https://redd.it/sjliaf,
