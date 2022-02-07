@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/cuda/72430: Add complex support for addmm without MKL; fix the bug when beta kwar…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F72430,
+GitHub:pytorch,ciflow/cpu/72430: Add complex support for addmm without MKL; fix the bug when beta kwar…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcpu%2F72430,
