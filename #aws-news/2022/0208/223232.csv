@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Autopilot now provides Confusion Matrix and additional new insights for classification problems,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-autopilot-matrix-insights-classification/,https://go.aws/3slIauy
+AWS:WhatsNew,"Amazon DocumentDB (with MongoDB compatibility) R6g and T4g instances are now available in Asia Pacific (Seoul), South America (Sao Paulo), and Europe (Paris) Regions",https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-documentdb-mongodb-r6g-t4g-additional-regions/,https://go.aws/3uAQQ2M
+AWS:WhatsNew,AWS announces geolocation enrichment for Amazon Fraud Detector Models,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-geolocation-enrichment-amazon-fraud-detector-models/,https://go.aws/3oCprtB
+AWS:WhatsNew,IPv6-only subnets and EC2 instances now available in AWS Asia Pacific (Jakarta) region,https://aws.amazon.com/about-aws/whats-new/2022/02/ipv6-only-subnets-ec2-instances-available-jakarta-region/,https://go.aws/3LlUwvi
+AWS:WhatsNew,Announcing AWS PrivateLink support for Amazon Forecast,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-amazon-forecast/,https://go.aws/34m0agz
+AWS:WhatsNew,Incident Manager from AWS Systems Manager now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2022/02/incident-manager-aws-systems-privatelink/,https://go.aws/3sKe9oD
+AWS:WhatsNew,Amazon VPC now supports an AWS-managed prefix list for Amazon CloudFront,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudfront-managed-prefix-list/,https://go.aws/3Gy3mCB
+AWS:WhatsNew,AWS Launch Wizard now supports the latest versions and to bring your own subscription (BYOS) for Red Hat Enterprise Linux,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-launch-wizard-latest-versions-byos-red-hat-enterprise-linux/,https://go.aws/3HxYKxE
+AWS:WhatsNew,Amazon Keyspaces now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspaces-fedramp-apache-cassandra/,https://go.aws/34LSBj3
