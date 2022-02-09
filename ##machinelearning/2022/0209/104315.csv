@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/win/72568,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fwin%2F72568,
+GitHub:pytorch,ciflow/cuda/72568,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F72568,
+GitHub:pytorch,ciflow/win/72559: Merge remote-tracking branch 'upstream/master' into use-opmath_t-in-c…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fwin%2F72559,
+GitHub:pytorch,ciflow/cuda/72559: Merge remote-tracking branch 'upstream/master' into use-opmath_t-in-c…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F72559,
