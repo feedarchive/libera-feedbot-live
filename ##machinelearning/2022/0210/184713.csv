@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.11.0-rc2: Fix tagged build detection for binary builds (#72628) (#72652),https://github.com/pytorch/pytorch/releases/tag/v1.11.0-rc2,
