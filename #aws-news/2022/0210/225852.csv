@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue DataBrew now supports multi-column and custom sort as transformations,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/,https://go.aws/3oBUcPy
+AWS:WhatsNew,AWS Glue DataBrew now supports E.164 phone number standardization as a transformation,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/,https://go.aws/3GGZ1gy
+AWS:WhatsNew,AWS Elemental MediaConnect now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-elemental-mediaconnect-privatelink/,https://go.aws/3uCXCFv
