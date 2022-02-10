@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/binaries/72628: Fix binary build detection for tagged builds,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F72628,
