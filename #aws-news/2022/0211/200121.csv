@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Neptune now supports up to 128TiB of storage per cluster,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-128tib-storage-cluster/,https://go.aws/3Jqq41x
+AWS:WhatsNew,Amazon Neptune ML now supports custom models and SPARQL query language,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-ml-custom-models-sparql/,https://go.aws/34WamMI
