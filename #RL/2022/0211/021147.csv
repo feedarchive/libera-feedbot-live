@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ArXiv,Transferred Q-learning,https://arxiv.org/abs/2202.04709v1,
+ArXiv,SAFER: Data-Efficient and Safe Reinforcement Learning via Skill Acquisition,https://arxiv.org/abs/2202.04849v1,
+ArXiv,Settling the Communication Complexity for Distributed Offline Reinforcement Learning,https://arxiv.org/abs/2202.04862v1,
+ArXiv,Understanding Value Decomposition Algorithms in Deep Cooperative Multi-Agent Reinforcement Learning,https://arxiv.org/abs/2202.04868v1,
+ArXiv,Interpretable pipelines with evolutionarily optimized modules for RL tasks with visual inputs,https://arxiv.org/abs/2202.04943v1,
+ArXiv,Nearly Horizon-Free Offline Reinforcement Learning,https://arxiv.org/abs/2103.14077v3,
+ArXiv,Using reinforcement learning to autonomously identify the source of errors for agents in a group mission,https://arxiv.org/abs/2107.09232v3,
+ArXiv,Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees,https://arxiv.org/abs/2201.08355v2,
