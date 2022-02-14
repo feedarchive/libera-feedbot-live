@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS SSO Expands Support for Customer Compliance with PCI-DSS and IRAP,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-sso-expands-support-customer-compliance/,https://go.aws/3sMwGRc
+AWS:WhatsNew,AWS WAF introduces AWS WAF Fraud Control - Account Takeover Prevention for protecting your login page against credential stuffing attacks,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-waf-fraud-control-login-credential-attacks/,https://go.aws/3HQ2cnz
