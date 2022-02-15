@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/,https://go.aws/3sBRWc8
+AWS:WhatsNew,CodeGuru Reviewer launches new Detector Library and example repositories,https://aws.amazon.com/about-aws/whats-new/2022/02/codeguru-reviewer-detector-library-repositories/,https://go.aws/3Bvylyj
