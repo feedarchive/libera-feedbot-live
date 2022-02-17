@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/macos/72993,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fmacos%2F72993,
+GitHub:pytorch,ciflow/binaries/73011,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F73011,
+GitHub:pytorch,"ciflow/binaries/72306: Update on ""Add BUILD_LAZY_CUDA_LINALG option""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F72306,
