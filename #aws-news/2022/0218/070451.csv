@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/AWS:10+,I created a very simple Python CLI tool to find unused IPv4 CIDR blocks in AWS VPCs. There's probably already something in the wild that fills this need but it was a fun to create nonetheless.,https://redd.it/sv9xwt,
+r/AWS:10+,Can someone explain the networking behind connecting from one VPC in AWS to another in GCP,https://redd.it/sv5zdg,
