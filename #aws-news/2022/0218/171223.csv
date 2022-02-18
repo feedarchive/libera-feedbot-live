@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:50+,I created a very simple Python CLI tool to find unused IPv4 CIDR blocks in AWS VPCs. There's probably already something in the wild that fills this need but it was a fun to create nonetheless.,https://redd.it/sv9xwt,
