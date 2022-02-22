@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/all/73203: [FSDP][Reland] Implement local_state_dict and load_local_state_dict,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F73203,
+GitHub:pytorch,ciflow/all/73115: [torch] do not fold bmm into mm when tensor1 dim==3 but not contiguou…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F73115,
+GitHub:pytorch,ciflow/docs/73125,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fdocs%2F73125,
