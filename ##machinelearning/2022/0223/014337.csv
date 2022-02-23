@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/binaries/73262: Update on ""ci: Migrate windows conda to GHA""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F73262,
+GitHub:pytorch,"ciflow/win/73237: Update on ""[DDP][BE] Remove bucket replicas""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fwin%2F73237,
+GitHub:pytorch,ciflow/binaries/73260: .github: Switch binary builds to use linux.2xlarge,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F73260,
+GitHub:pytorch,ciflow/all/73261: Skip optimizer overlap tests that have issues with NCCL async error h…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F73261,
