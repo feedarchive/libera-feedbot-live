@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 accelerates integrity checking of requests by up to 90%,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/,https://go.aws/3Im9JLd
+AWS:WhatsNew,Announcing TypeScript native support in the AWS Serverless Application Model (AWS SAM) CLI (using esbuild) (public preview),https://aws.amazon.com/about-aws/whats-new/2022/02/typescript-native-support-aws-serverless-application-model-cli-esbuild-public-preview/,https://go.aws/3pi3fFw
+AWS:WhatsNew,AWS Glue Schema Registry now supports Protocol Buffers (Protobuf) schemas,https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/,https://go.aws/3HyP85b
