@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/binaries/73393: Update on ""DO NOT MERGE< testing windows conda""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F73393,
+GitHub:pytorch,ciflow/all/73403: [PyTorchEdge] Extend _save_for_mobile to support flatbuffer format,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F73403,
