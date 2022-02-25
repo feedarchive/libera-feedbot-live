@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudWatch Agent adds support for Configurable Log Group Retention,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-retention/,https://go.aws/3soqik6
+AWS:WhatsNew,Announcing Payment Profiles for customizing AWS payment preferences,https://aws.amazon.com/about-aws/whats-new/2022/02/payment-profiles-customizing-aws-payment-preferences/,https://go.aws/3vklL3O
+AWS:WhatsNew,Amazon CloudWatch Agent adds Support for Log Filter Expressions,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-filter-expressions/,https://go.aws/35rf05p
+AWS:WhatsNew,Amazon CloudWatch Agent adds Support for NVIDIA GPU Metrics,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-nvidia-metrics/,https://go.aws/3pkzqnL
