@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"Question about Sutton's RL book Eq. 9.2, I am confused. Since h(s) is a probability, why would we add it instead of multiplying it with some other function/distribution in the equation (9.2)?",https://redd.it/t1arb3,
