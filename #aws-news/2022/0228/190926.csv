@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudWatch Container Insights adds support for Helm chart using AWS Distro for OpenTelemetry,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/,https://go.aws/3K96RSp
+AWS:WhatsNew,Amazon MQ now supports RabbitMQ version 3.8.27,https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-3-8-27/,https://go.aws/3HumKRm
