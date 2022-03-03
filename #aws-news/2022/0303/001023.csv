@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances",https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/,https://go.aws/3vxNEWh
+AWS:WhatsNew,Amazon MSK offers enhanced AWS CloudFormation support,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/,https://go.aws/3trLkxg
+AWS:WhatsNew,You can now choose from two different compression options on Amazon FSx for OpenZFS,https://aws.amazon.com/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/,https://go.aws/3HDgE12
