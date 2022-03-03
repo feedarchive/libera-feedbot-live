@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/slow/73748: Enable CPU device_type tests on CUDA slow machines,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fslow%2F73748,
+GitHub:pytorch,ciflow/ios/73744: [draft] add script to generate test model for ops (#73744),https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fios%2F73744,
+GitHub:pytorch,ciflow/binaries/73753,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F73753,
