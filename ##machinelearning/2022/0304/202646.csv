@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/macos/73808: [Quant][test] Added test to check if fp16 packing->unpacking yields t…,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fmacos%2F73808,
+GitHub:pytorch,"ciflow/macos/73685: Update on ""[Quant][test] Added test to check if fp16 packing->unpacki…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fmacos%2F73685,
+GitHub:pytorch,ciflow/binaries/73805,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F73805,
