@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/macos/73857: Update on ""[quant][core][performance] Changed cudnn quantized conv2d …",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fmacos%2F73857,
+GitHub:pytorch,"ciflow/macos/73773: Update on ""[Quant][core][refactorization] Refactored qconv_unpack.cpp…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fmacos%2F73773,
+GitHub:pytorch,"ciflow/macos/73510: Update on ""[Quant][core][gpu][refactorization] Refactored implementat…",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fmacos%2F73510,
