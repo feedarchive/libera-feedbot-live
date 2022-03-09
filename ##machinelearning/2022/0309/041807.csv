@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"ciflow/slow-gradcheck/73748: Update on ""Enable CPU device_type tests on CUDA slow machines""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fslow-gradcheck%2F73748,
+GitHub:pytorch,ciflow/all/63212: enable oneMKL&oneDNN on-demands verbose functinality,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F63212,
