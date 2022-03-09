@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon ECS Update Service API now supports updating Elastic Load Balancers, Service Registries, Tag Propagation, and ECS Managed Tags",https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/,https://go.aws/3sYKysw
+AWS:WhatsNew,Amazon DynamoDB increases default service quotas to simplify use of large numbers of tables,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/,https://go.aws/3vXyQjV
