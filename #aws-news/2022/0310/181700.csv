@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MSK Connect now supports external secrets and configuration with config providers,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/,https://go.aws/3Cuo0Dn
+AWS:WhatsNew,Amazon RDS for SQL Server now supports M6i and R6i instances,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-sql-server-supports-m6i-r6i-instances/,https://go.aws/3I05hki
