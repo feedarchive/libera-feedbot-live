@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,ciflow/cuda/74027: Update test/test_cuda.py,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fcuda%2F74027,
+GitHub:pytorch,ciflow/all/74027: Update test/test_cuda.py,https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fall%2F74027,
