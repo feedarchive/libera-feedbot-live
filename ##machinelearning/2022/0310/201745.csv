@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.11.0-rc7: Add M1 Py3.10 build definitions (#74018),https://github.com/pytorch/pytorch/releases/tag/v1.11.0-rc7,
+GitHub:pytorch,"ciflow/binaries/74009: Update on ""Use shared CUPTI by default""",https://github.com/pytorch/pytorch/releases/tag/ciflow%2Fbinaries%2F74009,
