@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/,https://go.aws/35QT58m
+AWS:WhatsNew,AWS CodeBuild supports Arm-based workloads in four additional regions,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/,https://go.aws/3t2YCBk
+AWS:WhatsNew,AWS Glue DataBrew now supports cross-account Glue Data Catalog S3 access,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/,https://go.aws/3tO0HAo
