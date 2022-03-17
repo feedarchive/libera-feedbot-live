@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe (Milan), Europe (Paris) and Europe (Stockholm) Regions",https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-t4g-instance-type-aws-graviton2-processors-new-regions/,https://go.aws/3tmbDGE
+AWS:WhatsNew,AWS Chatbot announces support for management of AWS resources from Slack (General Availability),https://aws.amazon.com/about-aws/whats-new/2022/03/aws-chatbot-support-management-resources-slack/,https://go.aws/3qfPS9m
+AWS:WhatsNew,AWS Backup Audit Manager adds new controls to help prove compliance of maintaining immutable backups across AWS Regions and accounts,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-audit-manager-controls-compliance-backups-accounts/,https://go.aws/3tkMaxe
