@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS now supports warm pools for Amazon EC2 Auto Scaling,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/,https://go.aws/3IzjC7s
+AWS:WhatsNew,AWS Amplify announces the new @mapsTo directive to iterate on GraphQL APIs without manual data migrations,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-amplify-mapsto-graphql-without-manual-data-migrations/,https://go.aws/3upFX2a
