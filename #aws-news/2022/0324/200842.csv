@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Panorama now supports the ability to bring your own machine learning libraries,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-machine-learning-libraries/,https://go.aws/36ElDlv
+AWS:WhatsNew,AWS Panorama now supports Amazon CloudWatch alarms for application errors,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/,https://go.aws/3qzn9wm
+AWS:WhatsNew,AWS Panorama applications now support receiving inbound messages over the local area network,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-inbound-messages-local-area-network/,https://go.aws/3IBLasT
+AWS:WhatsNew,AWS Support streamlines cases via Connector for Jira Service Management,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/,https://go.aws/3qvt9GA
