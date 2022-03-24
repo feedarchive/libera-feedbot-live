@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now allows customers to configure up to 10 GB of ephemeral storage for Lambda functions,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-configure-ephemeral-storage/,https://go.aws/3D6Ceut
