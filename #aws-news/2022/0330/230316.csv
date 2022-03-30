@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle now supports January 2022 Patch Set Update (PSU) for 12.1 and Release Updates (RU) for 12.2 and 19c,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-patch-set-update-release-ru/,https://go.aws/3LnzQlQ
+AWS:WhatsNew,AWS Firewall Manager now supports Palo Alto Networks Cloud Next Generation Firewalls,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-firewall-palo-alto-network-cloud-generation/,https://go.aws/3iNvyIr
+AWS:WhatsNew,AWS Glue 2.0 now supports fuzzy matching and deduplication using AWS Glue FindMatches,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-fuzzy-findmatches/,https://go.aws/38fk66i
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP now enables you to change the throughput capacity of your file systems,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fsx-netapp-ontap-enables-change-throughput-capacity-file-systems/,https://go.aws/36M8Qh8
+AWS:WhatsNew,Amazon EC2 now performs automatic recovery of instances by default,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/,https://go.aws/3qO4du3
+AWS:WhatsNew,AWS Security Hub launches 12 controls for security posture monitoring,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-security-hub-launches-controls-security-posture-monitoring/,https://go.aws/3NA2lyD
+AWS:WhatsNew,Amazon Textract announces updates to its tables and check detection features,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-textract-updates-tables-check-detection/,https://go.aws/3qOh3Iq
+AWS:WhatsNew,AWS Organizations now provides central AWS account closure to enable easier end-to-end account lifecycle management,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-organizations-central-account-closure-lifecycle-management/,https://go.aws/3IU2GZp
