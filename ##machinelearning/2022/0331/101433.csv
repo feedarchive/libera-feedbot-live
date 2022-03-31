@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,malfet/tag-ec6f767: [quant][fx] Cleanup unused to_fp16 check code in lowering (#74969),https://github.com/pytorch/pytorch/releases/tag/malfet%2Ftag-ec6f767,
+GitHub:pytorch,malfet/tag-317b1a0: [JIT] fix common_expression_hoisting (#74794),https://github.com/pytorch/pytorch/releases/tag/malfet%2Ftag-317b1a0,
+GitHub:pytorch,malfet/tag-2ef5611: Add comments for adding shape function and linting (#73570),https://github.com/pytorch/pytorch/releases/tag/malfet%2Ftag-2ef5611,
