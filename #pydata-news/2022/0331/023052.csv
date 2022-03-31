@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,pycefr: Python Competency Level through Code Analysis,https://arxiv.org/abs/2203.15990v1,
+ArXiv,A general approach for running Python codes in OpenFOAM using an embedded pybind11 Python interpreter,https://arxiv.org/abs/2203.16394v1,
