@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue DataBrew now supports the ORC file format as an input,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-glue-databrew-orc-file-format/,https://go.aws/3u1EQqk
+AWS:WhatsNew,Amazon ElastiCache for Redis now supports Global Datastore in two new Regions,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-elasticache-redis-global-datastore-regions/,https://go.aws/3tYNLcc
+AWS:WhatsNew,Amazon WorkSpaces launches APIs to allow custom branding,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-workspace-apis-custom-branding/,https://go.aws/3wXWEET
