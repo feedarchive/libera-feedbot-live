@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup now allows you to restore virtual disks from protected copies of your VMware virtual machines,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-virtual-disks-protected-copies-vmware-machines/,https://go.aws/3tZLFJ3
+AWS:WhatsNew,Amazon SageMaker Data Wrangler now supports Databricks as a data source,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/,https://go.aws/3DutIFT
