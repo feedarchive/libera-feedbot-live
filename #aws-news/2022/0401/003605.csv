@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS announces increased service quota for container instances per cluster,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-quota-service-container-cluster/,https://go.aws/3tXu6cT
+AWS:WhatsNew,Amazon EC2 now reduces visibility of public Amazon Machine Images (AMIs) older than two years,https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-visibility-public-machine-images-aims-two-years/,https://go.aws/3x1EW38
+AWS:WhatsNew,AWS Storage Gateway updates support for VMware and Microsoft hypervisors,https://aws.amazon.com/about-aws/whats-new/2022/03/aws-storage-gateway-vmware-microsoft-hypervisors/,https://go.aws/3Lu6YIL
