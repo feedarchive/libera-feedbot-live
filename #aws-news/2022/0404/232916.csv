@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Now launch RStudio on Amazon SageMaker using AWS CloudFormation,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rstudio-aws-sagemaker-cloudformation/,https://go.aws/3J3zDCJ
+AWS:WhatsNew,Amazon RDS Proxy now supports PostgreSQL major version 13,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-proxy-supports-postgresql-major-version-13/,https://go.aws/38x91hb
+AWS:WhatsNew,Amazon Route 53 now offers usage-based pricing for resource records above the free tier limit,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-usage-pricing-resource-records-above-free-tier/,https://go.aws/3jmSgrb
