@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS releases version 2.0 of the Amazon Pinpoint API for expanded support of SMS and voice channels,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-pinpoint-version-api-feature-sms-voice-channels/,https://go.aws/3r2Vu77
+AWS:WhatsNew,Amazon OpenSearch Service now supports OpenSearch version 1.2,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-supports-version-1-2/,https://go.aws/3J8lHra
+AWS:WhatsNew,Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific (Jakarta) Region,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-data-lifecycle-manager-jakarta-region/,https://go.aws/35DE6yn
+AWS:WhatsNew,Amazon Connect now supports scheduled syncs of Zendesk knowledge articles,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-syncs-zendesk-articles/,https://go.aws/3uWpa74
+AWS:WhatsNew,"Amazon EKS, Amazon EKS Distro, and Amazon EKS Anywhere now support Kubernetes version 1.22",https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-distro-eks-anywhere-kubernetes-1-22/,https://go.aws/3ua1LjG
