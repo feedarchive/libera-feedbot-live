@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Cross-cluster Replication is now supported on existing Amazon OpenSearch service domains,https://aws.amazon.com/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/,https://go.aws/3K7kyBz
+AWS:WhatsNew,AWS IoT Device Management and AWS IoT Device Defender now support monitoring device metrics via ListMetricValues API,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/,https://go.aws/3J8DBdn
+AWS:WhatsNew,Cross-cluster search is now supported on existing Amazon OpenSearch Service domains,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/,https://go.aws/3x3hkve
