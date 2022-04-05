@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup adds support for Persistent 2 deployment type of Amazon FSx for Lustre file systems,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/,https://go.aws/3uaBwcz
+AWS:WhatsNew,Amazon FSx now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-supports-aws-privatelink/,https://go.aws/3j9OJw0
+AWS:WhatsNew,AWS Amplify Hosting now uses a GitHub App to authorize access to repositories for CI/CD workflows,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-hosting-github-access-workflows/,https://go.aws/3Jeu44H
+AWS:WhatsNew,Amazon EC2 now provides a new and improved launch experience on the EC2 Console,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/,https://go.aws/3DH1F68
+AWS:WhatsNew,AWS Resource Access Manager is now available in the AWS Asia Pacific (Jakarta) Region,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-resource-access-manager-jakarta/,https://go.aws/3JeudFh
+AWS:WhatsNew,AWS AppSync adds support for enhanced filtering in real-time GraphQL subscriptions,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-appsync-enhanced-filtering-graphql-subscriptions/,https://go.aws/3JeudoL
+AWS:WhatsNew,"Announcing general availability of Amazon Athena ACID transactions, powered by Apache Iceberg",https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg/,https://go.aws/3u8RSma
