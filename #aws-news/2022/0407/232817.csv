@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EventBridge introduces Global endpoints for automatic failover and recovery,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/,https://go.aws/3NXbcKU
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) Performance Insights is now in preview,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/,https://go.aws/370Ik3T
+AWS:WhatsNew,"Amplify Geo Launches React Component for Maps, powered by Amazon Location Service",https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/,https://go.aws/37ueK6Q
