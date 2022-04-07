@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/,https://go.aws/3jxXosB
+AWS:WhatsNew,"AWS Announces Data Transfer Price Reduction for AWS PrivateLink, AWS Transit Gateway, and AWS Client VPN services",https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/,https://go.aws/3DNXQfz
+AWS:WhatsNew,Amazon RDS for SQL Server now supports SQL Server Agent job replication,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/,https://go.aws/3uiMGfx
