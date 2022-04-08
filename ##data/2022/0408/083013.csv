@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:OpenData,NOAA Unified Forecast System Weather Model (UFS-WM) Regression Tests,https://registry.opendata.aws/noaa-ufs-regtests,https://bit.ly/3KlxT9q
+AWS:OpenData,SMN Hi-Res Weather Forecast over Argentina,https://registry.opendata.aws/smn-ar-wrf-dataset,https://bit.ly/3NPLqs9
+AWS:OpenData,Ukrainian Cultural Heritage Web Archive,https://registry.opendata.aws/sucho,https://bit.ly/3LUJoVX
+AWS:OpenData,GATK Structural Variation (SV) Data,https://registry.opendata.aws/gatk-sv-data,https://bit.ly/3DQrqkk
