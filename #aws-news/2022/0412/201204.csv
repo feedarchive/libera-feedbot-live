@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS App Runner launches AWS X-Ray support,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/,https://go.aws/37IsCu1
+AWS:WhatsNew,You can now automatically attach Amazon FSx file systems to new Amazon EC2 instances you create in the new EC2 launch experience,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/,https://go.aws/3JO69JL
+AWS:WhatsNew,Amazon ECR Public announces changes to the gallery including navigation breadcrumbs and copying of image identifier from dropdown,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/,https://go.aws/3jzEzVE
