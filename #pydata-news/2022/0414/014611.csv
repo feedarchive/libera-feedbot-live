@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,Scalable Training of Language Models using JAX pjit and TPUv4,https://arxiv.org/abs/2204.06514v1,
+ArXiv,SimPlot++: a Python application for representing sequence similarity and detecting recombination,https://arxiv.org/abs/2112.09755v2,
