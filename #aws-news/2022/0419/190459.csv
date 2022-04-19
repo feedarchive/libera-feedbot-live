@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"ACK Controllers for Amazon EKS, Amazon ECR, Amazon DynamoDB, Amazon S3, AWS Application Autoscaling and AWS API Gateway v2 now generally available",https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/,https://go.aws/3OjVYjo
+AWS:WhatsNew,Introducing 35 new resource types in the CloudFormation Registry,https://aws.amazon.com/about-aws/whats-new/2022/04/introducing-35-types-cloudformation-registry/,https://go.aws/3Mb6bg0
+AWS:WhatsNew,AWS Marketplace customers can now modify their AMI and Container upfront contract pricing based subscriptions,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-marketplace-modify-ami-container-subscriptions/,https://go.aws/389BKsc
+AWS:WhatsNew,Amazon Interactive Video Service console and APIs now available in four additional regions,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-console-apis-additional-regions/,https://go.aws/386091t
