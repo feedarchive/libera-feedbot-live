@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transit Gateway is now available in AWS Asia Pacific (Jakarta) Region,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-transfer-family-jakarta-region/,https://go.aws/3vvc29m
+AWS:WhatsNew,Amazon Relational Database Service now supports Multi-AZ deployments on AWS Outposts for High Availability,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/,https://go.aws/3JYDDoM
+AWS:WhatsNew,AWS Key Management Service introduces new HMAC API,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/,https://go.aws/387PRhF
+AWS:WhatsNew,AWS Security Hub launches cross-Region security scores and compliance statuses,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/,https://go.aws/3Euxa3K
+AWS:WhatsNew,AWS Step Functions expands support for over 20 new AWS SDK integrations,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/,https://go.aws/3EuMNbs
