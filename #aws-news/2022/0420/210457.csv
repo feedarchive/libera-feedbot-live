@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,EC2 Auto Scaling now lets you set a default instance warm-up time for all instance scaling and replacement actions,https://aws.amazon.com/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/,https://go.aws/3vxY6eP
+AWS:WhatsNew,Amazon Personalize now supports starting and stopping recommenders,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-starting-stopping-recommenders/,https://go.aws/3v0dp0R
+AWS:WhatsNew,Amazon Neptune now supports global condition keys in AWS IAM policies,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/,https://go.aws/3EBsN6T
