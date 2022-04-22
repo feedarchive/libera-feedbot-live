@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Launch Wizard now provides guided deployment of Internet Information Services (IIS) for Windows Server,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/,https://go.aws/37BmKDn
+AWS:WhatsNew,AWS Launch Wizard now provides guided deployment of Microsoft Exchange Server,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/,https://go.aws/3OsWziT
+AWS:WhatsNew,AWS Batch adds improvements to UpdateComputeEnvironment API,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/,https://go.aws/3vFJRET
+AWS:WhatsNew,"Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud (US-West) Region",https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-regions/,https://go.aws/37GXkEh
