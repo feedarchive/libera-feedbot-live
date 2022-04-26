@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Lightsail load balancers now support automatic HTTPS redirects and configurable TLS security policy,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-lightsail-balancers-automatic-https-tls-security-policy/,https://go.aws/3LmE5yq
+AWS:WhatsNew,"Amazon RDS for MariaDB now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM",https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mariadb-m6i-r6i-new-instance-sizes/,https://go.aws/3vGgGBw
+AWS:WhatsNew,AWS Backup for Amazon FSx is now available in the AWS Asia Pacific (Osaka) Region,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-amazon-fsx-osaka/,https://go.aws/3vhv0RW
