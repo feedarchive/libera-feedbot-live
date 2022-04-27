@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Get insights into Data and Data Quality with Amazon SageMaker Data Wrangler,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-quality-wrangler/,https://go.aws/3vo5lr1
+AWS:WhatsNew,AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/,https://go.aws/3LriQLV
+AWS:WhatsNew,Amazon SageMaker Data Wrangler now supports random sampling and stratified sampling,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-supports-random-sampling-stratified-sampling/,https://go.aws/3KrXjl0
+AWS:WhatsNew,Amazon RDS Data API now supports returning SQL results as a simplified JSON string,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-data-api-sql-json-string/,https://go.aws/3OFqfJz
+AWS:WhatsNew,Amazon Route 53 Resolver endpoints for hybrid cloud Are Now Available in the Asia Pacific (Jakarta) Region,https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-resolver-endpoints-hybrid-cloud-jakarta/,https://go.aws/3ETI8jm
+AWS:WhatsNew,ElastiCache data tiering is now available in 3 additional regions,https://aws.amazon.com/about-aws/whats-new/2022/04/elasticache-data-tiering-available-additional-regions/,https://go.aws/3kh1ghN
+AWS:WhatsNew,AWS Snow Family now supports update of device certificates,https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-supports-update-device-certificates/,https://go.aws/38wGYhx
