@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EBS Snapshots Archive is now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ebs-snapshots-archive/,https://go.aws/3LGno1i
+AWS:WhatsNew,Amazon EKS console now supports all standard Kubernetes resources to simplify cluster management,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-console-supports-standard-kubernetes-resources-cluster-management/,https://go.aws/3OYJ4aL
+AWS:WhatsNew,Amazon RDS Performance Insights now allows you to more easily see metrics for any time interval,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-performance-insights-see-metrics-any-time-interval/,https://go.aws/3FcmiaY
