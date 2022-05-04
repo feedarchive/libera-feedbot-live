@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Serverless Application Model CLI now supports enabling AWS X-Ray tracing,https://aws.amazon.com/about-aws/whats-new/2022/05/aws-serverless-application-model-cli-supports-x-ray-tracing/,https://go.aws/3MO6fCS
+AWS:WhatsNew,Amazon RDS for PostgreSQL supports cascaded read replicas for up to 30X more read capacity,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/,https://go.aws/3kGyGqs
