@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ArXiv,Reinforcement Learning for Markovian Bandits: Is Posterior Sampling more Scalable than Optimism?,https://arxiv.org/abs/2106.08771v2,
+ArXiv,"Finite Horizon Q-learning: Stability, Convergence, Simulations and an application on Smart Grids",https://arxiv.org/abs/2110.15093v2,
+ArXiv,Sample Efficient Deep Reinforcement Learning via Uncertainty Estimation,https://arxiv.org/abs/2201.01666v3,
+ArXiv,Towards Deployment-Efficient Reinforcement Learning: Lower Bound and Optimality,https://arxiv.org/abs/2202.06450v2,
+ArXiv,Social learning spontaneously emerges by searching optimal heuristics with deep reinforcement learning,https://arxiv.org/abs/2204.12371v2,
+ArXiv,CCLF: A Contrastive-Curiosity-Driven Learning Framework for Sample-Efficient Reinforcement Learning,https://arxiv.org/abs/2205.00943v2,
