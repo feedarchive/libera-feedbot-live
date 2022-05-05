@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Braket Hybrid Jobs now supports embedded circuit simulations, improving the performance of certain hybrid quantum-classical algorithms by over 10X",https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-braket-hybrid-jobs-embedded-circuit-simulations-quantum-classical-algorithms-10x/,https://go.aws/38WABUX
+AWS:WhatsNew,AWS Service Catalog Provisioning constructs for the AWS Cloud Development Kit (AWS CDK) are now available,https://aws.amazon.com/about-aws/whats-new/2022/05/aws-service-catalog-provisioning-constructs-aws-cloud-development-kit-aws-cdk-available/,https://go.aws/3LMTxnK
+AWS:WhatsNew,"Amazon RDS for SQL Server now supports SQL Server 2016 SP3, 2017 CU27, and 2019 CU15",https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-sql-server-supports-sql-server-2016-sp3-2017-cu27-2019-cu15/,https://go.aws/39GUKyX
