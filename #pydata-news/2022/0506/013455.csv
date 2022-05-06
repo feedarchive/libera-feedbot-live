@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,pyRDF2Vec: A Python Implementation and Extension of RDF2Vec,https://arxiv.org/abs/2205.02283v1,
+ArXiv,PyDaddy: A Python package for discovering stochastic dynamical equations from timeseries data,https://arxiv.org/abs/2205.02645v1,
+ArXiv,Multi-Freq-LDPy: Multiple Frequency Estimation Under Local Differential Privacy in Python,https://arxiv.org/abs/2205.02648v1,
