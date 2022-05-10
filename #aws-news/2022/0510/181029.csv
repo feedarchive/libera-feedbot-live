@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EFS now supports a larger number of concurrent file locks,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/,https://go.aws/39cufkJ
+AWS:WhatsNew,Announcing three featured FreeRTOS Reference Integrations Projects,https://aws.amazon.com/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/,https://go.aws/3sqaRqS
