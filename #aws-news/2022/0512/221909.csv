@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda adds support for Node.js 16,https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/,https://go.aws/39XoQyh
+AWS:WhatsNew,Amazon VPC Traffic Mirroring now supports sending mirrored traffic to Gateway Load Balancer backed monitoring appliances,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/,https://go.aws/3lcgEfH
