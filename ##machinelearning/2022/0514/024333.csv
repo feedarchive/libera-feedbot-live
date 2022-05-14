@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:200+,"[P] I was tired of screenshotting plots in Jupyter to share my results. Wanted something better, information rich. So I built a new %%share magic that freezes a cell, captures its code, output & data and returns a URL for sharing.",https://redd.it/uosqgm,
