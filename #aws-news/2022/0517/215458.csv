@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Encryption SDK for .NET now generally available,https://aws.amazon.com/about-aws/whats-new/2022/05/aws-encryption-sdk-net-available/,https://go.aws/3NCYT5N
+AWS:WhatsNew,Amazon EC2 Auto Scaling now supports Predictive Scaling in the AWS GovCloud (US-West) Region,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/,https://go.aws/3li70IL
+AWS:WhatsNew,Amazon Redshift launches new Snapshot Isolation level support for concurrent transactions,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-redshift-snapshot-isolation-level-support-concurrent-transactions/,https://go.aws/3yJKxfF
