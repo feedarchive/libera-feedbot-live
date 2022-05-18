@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup adds Amazon FSx for NetApp ONTAP to its set of services for centralized data protection,https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-netapp-ontap-set-services-centralized-data-protection/,https://go.aws/3yJuVIO
+AWS:WhatsNew,AWS Backup adds support for Amazon FSx for OpenZFS,https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-openzfs/,https://go.aws/3yLyrCD
