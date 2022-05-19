@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Incident Manager from AWS Systems Manager expands support for runbook automation,https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-incident-manager-runbook-automation/,https://go.aws/3wwzViK
+AWS:WhatsNew,Amazon Chime SDK now supports video background replacement and blur on iOS and Android,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-chime-sdk-video-background-replacement-blur-ios-android/,https://go.aws/3LJoskh
+AWS:WhatsNew,Amazon Kendra releases Jira connector to enable document search on JIRA repository,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kendra-jira-enable-document-repository/,https://go.aws/3LzclpA
+AWS:WhatsNew,Amazon EC2 Auto Scaling now backfills Predictive Scaling forecasts so you can quickly validate forecast accuracy,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/,https://go.aws/380h7yI
