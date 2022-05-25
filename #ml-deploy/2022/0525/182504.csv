@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+Medium,Using FastAPI to deploy Machine Learning models,https://medium.com/p/cd5ed7219ea,
+Medium,Build a simple machine learning model using Pipelines and host as Flask website on heroku,https://medium.com/p/6a9b002cba29,
