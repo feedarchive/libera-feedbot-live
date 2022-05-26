@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ElastiCache now supports Memcached 1.6.12,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-supports-memcached-1-6-12/,https://go.aws/3wNUWp0
+AWS:WhatsNew,Amazon ElastiCache for Memcached now supports encryption of data in transit,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/,https://go.aws/39YbYbh
