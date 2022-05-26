@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Lightsail containers now supports deploying images from Amazon ECR private repositories,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lightsail-containers-deploying-images-amazon-ecr-private-repositories/,https://go.aws/3wVlLXr
+AWS:WhatsNew,Introducing Amazon EC2 C6id instances,https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-c6id-instances/,https://go.aws/3aeG2PM
+AWS:WhatsNew,Introducing Amazon EC2 M6id instances,https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-m6id-instances/,https://go.aws/3MWx8oO
