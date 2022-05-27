@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:50+,Trying to work around a bug in cognito that's been around for 2 years. This github thread reveals that Cognito is the red-headed stepchild of aws. Anyone have any recommendations for a cognito replacement?,https://redd.it/uybgx6,
