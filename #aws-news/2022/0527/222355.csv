@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS simplifies Capacity Provider integration with Auto Scaling groups,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/,https://go.aws/3Gz5lZa
+AWS:WhatsNew,Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language (CWL) with Toil,https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/,https://go.aws/38pGgTI
