@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+COVID-19:stats:🇺🇸,"As of 2022-05-29, `US` has had 83_984_644 confirmed COVID-19 cases (doubling in 446 mo) (4_288 new) and 1_004_733 (1.2%) deaths (doubling in 3269 mo) (7 new), with a current death rate of 0.2%",https://covid-api.com/api/reports?date=2022-05-29&iso=USA,https://bit.ly/3NG1yLR
