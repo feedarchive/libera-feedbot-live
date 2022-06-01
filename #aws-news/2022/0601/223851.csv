@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS adds support for publishing events to encrypted Amazon SNS topics,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-support-publishing-events-encrypted-amazon-sns-topics/,https://go.aws/3zdl1j8
+AWS:WhatsNew,Amazon Pinpoint launches journey custom channel input and response support,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-pinpoint-journey-custom-channel-input-response-support/,https://go.aws/3PUYVHZ
+AWS:WhatsNew,Amazon Route 53 announces IP-Based Routing for DNS Queries,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-route-53-ip-based-routing-dns-queries/,https://go.aws/3GICC3T
