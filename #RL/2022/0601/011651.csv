@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+ArXiv,Reinforcement Learning with a Terminator,https://arxiv.org/abs/2205.15376v1,
+ArXiv,GLDQN: Explicitly Parameterized Quantile Reinforcement Learning for Waste Reduction,https://arxiv.org/abs/2205.15455v1,
+ArXiv,Nearly Minimax Optimal Offline Reinforcement Learning with Linear Function Approximation: Single-Agent MDP and Markov Game,https://arxiv.org/abs/2205.15512v1,
+ArXiv,"Lessons Learned from Data-Driven Building Control Experiments: Contrasting Gaussian Process-based MPC, Bilevel DeePC, and Deep Reinforcement Learning",https://arxiv.org/abs/2205.15703v1,
+ArXiv,A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud,https://arxiv.org/abs/2205.15795v1,
+ArXiv,One Policy is Enough: Parallel Exploration with a Single Policy is Minimax Optimal for Reward-Free Reinforcement Learning,https://arxiv.org/abs/2205.15891v1,
+ArXiv,Forward and inverse reinforcement learning sharing network weights and hyperparameters,https://arxiv.org/abs/2008.07284v2,
+ArXiv,Regret Bounds and Reinforcement Learning Exploration of EXP-based Algorithms,https://arxiv.org/abs/2009.09538v2,
+ArXiv,Implicitly Regularized RL with Implicit Q-Values,https://arxiv.org/abs/2108.07041v2,
+ArXiv,Modeling Interactions of Autonomous Vehicles and Pedestrians with Deep Multi-Agent Reinforcement Learning for Collision Avoidance,https://arxiv.org/abs/2109.15266v3,
+ArXiv,Rethinking Learning Dynamics in RL using Adversarial Networks,https://arxiv.org/abs/2201.11783v2,
+ArXiv,Deconfounding Actor-Critic Network with Policy Adaptation for Dynamic Treatment Regimes,https://arxiv.org/abs/2205.09852v2,
