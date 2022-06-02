@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,You can now update the storage and IOPS capacity on your Amazon FSx for OpenZFS file systems,https://aws.amazon.com/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/,https://go.aws/3GN1Cay
+AWS:WhatsNew,"NoSQL Workbench for Amazon DynamoDB adds support for CreateTable, UpdateTable, and DeleteTable operations",https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/,https://go.aws/3Ng5EKL
+AWS:WhatsNew,"Amazon Braket adds support for Borealis, the first publicly accessible quantum computer that is claimed to offer quantum advantage",https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/,https://go.aws/395PDrV
