@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup adds AWS PrivateLink support for VMware workloads,https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/,https://go.aws/3xcupSC
+AWS:WhatsNew,Amazon EKS now supports DNS resolution of the cluster private endpoint in AWS GovCloud (US) regions,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/,https://go.aws/3MgwhOu
