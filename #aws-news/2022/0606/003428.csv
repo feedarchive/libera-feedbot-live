@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Something confuses me: When leveraging EKS or k8s in general, when do you run your databases inside of K8s and when you do use a managed database service like Aurora or DynamoDB?",https://redd.it/v5otig,
