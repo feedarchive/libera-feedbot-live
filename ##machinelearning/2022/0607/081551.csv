@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+TDS,Improve Your Data Preprocessing with ColumnTransformer and Pipelines,https://medium.com/p/b6ff7edd2f77,
+TDS,"Pandas GroupBy, Explained Simply",https://medium.com/p/b2ea80521cbb,
+TDS,Imbalanced Data? Stop Using ROC-AUC and Use AUPRC Instead,https://medium.com/p/46af4910a494,
