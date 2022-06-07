@@ -1,0 +1,34 @@
+feed,title,long_url,short_url
+j:JMLR,Scaling and Scalability: Provable Nonconvex Low-Rank Tensor Estimation from Incomplete Measurements,http://jmlr.org/papers/v23/21-1390.html,https://bit.ly/3NlN1Fk
+j:JMLR,Explicit Convergence Rates of Greedy and Random Quasi-Newton Methods,http://jmlr.org/papers/v23/21-1282.html,https://bit.ly/3Q3oWoq
+j:JMLR,Topologically penalized regression on manifolds,http://jmlr.org/papers/v23/21-1270.html,https://bit.ly/3GVQeZU
+j:JMLR,Fairness-Aware PAC Learning from Corrupted Data,http://jmlr.org/papers/v23/21-1189.html,https://bit.ly/3tl3GRr
+j:JMLR,Structure Learning for Directed Trees,http://jmlr.org/papers/v23/21-1159.html,https://bit.ly/3xqo9Ha
+j:JMLR,ktrain: A Low-Code Library for Augmented Machine Learning,http://jmlr.org/papers/v23/21-1124.html,https://bit.ly/3MoUxy1
+j:JMLR,A universally consistent learning rule with a universally monotone error,http://jmlr.org/papers/v23/21-1043.html,https://bit.ly/3Q3oVRo
+j:JMLR,Statistical Rates of Convergence for Functional Partially Linear Support Vector Machines for Classification,http://jmlr.org/papers/v23/21-0999.html,https://bit.ly/3zkAk9y
+j:JMLR,"Principal Components Bias in Over-parameterized Linear Models, and its Manifestation in Deep Neural Networks",http://jmlr.org/papers/v23/21-0991.html,https://bit.ly/3xnoZEe
+j:JMLR,Policy Evaluation and Temporal-Difference Learning in Continuous Time and Space: A Martingale Approach,http://jmlr.org/papers/v23/21-0947.html,https://bit.ly/3NoFJAT
+j:JMLR,Truncated Emphatic Temporal Difference Methods for Prediction and Control,http://jmlr.org/papers/v23/21-0934.html,https://bit.ly/3aznPNe
+j:JMLR,Intrinsically Motivated Goal Exploration Processes with Automatic Curriculum Learning,http://jmlr.org/papers/v23/21-0808.html,https://bit.ly/3NqA4ds
+j:JMLR,Universal Approximation of Functions on Sets,http://jmlr.org/papers/v23/21-0730.html,https://bit.ly/3ml0v8p
+j:JMLR,EV-GAN: Simulation of extreme events with ReLU neural networks,http://jmlr.org/papers/v23/21-0663.html,https://bit.ly/3GTyX3m
+j:JMLR,Implicit Differentiation for Fast Hyperparameter Selection in Non-Smooth Convex Learning,http://jmlr.org/papers/v23/21-0486.html,https://bit.ly/3Q3oVkm
+j:JMLR,Online Nonnegative CP-dictionary Learning for Markovian Data,http://jmlr.org/papers/v23/21-0419.html,https://bit.ly/3xoCRhH
+j:JMLR,On the Robustness to Misspecification of α-posteriors and Their Variational Approximations,http://jmlr.org/papers/v23/21-0386.html,https://bit.ly/3NuaHaE
+j:JMLR,Adversarial Robustness Guarantees for Gaussian Processes,http://jmlr.org/papers/v23/21-0382.html,https://bit.ly/3Ntz08w
+j:JMLR,A Generalized Projected Bellman Error for Off-policy Value Estimation in Reinforcement Learning,http://jmlr.org/papers/v23/21-037.html,https://bit.ly/3953crT
+j:JMLR,"A Momentumized, Adaptive, Dual Averaged Gradient Method",http://jmlr.org/papers/v23/21-0226.html,https://bit.ly/39cI1nx
+j:JMLR,Reverse-mode differentiation in arbitrary tensor network format: with application to supervised learning,http://jmlr.org/papers/v23/21-0225.html,https://bit.ly/3O0xoDo
+j:JMLR,A Perturbation-Based Kernel Approximation Framework,http://jmlr.org/papers/v23/20-984.html,https://bit.ly/3zlwLzX
+j:JMLR,The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks,http://jmlr.org/papers/v23/20-944.html,https://bit.ly/3GZsoN0
+j:JMLR,Non-asymptotic and Accurate Learning of Nonlinear Dynamical Systems,http://jmlr.org/papers/v23/20-617.html,https://bit.ly/38YfK4c
+j:JMLR,No Weighted-Regret Learning in Adversarial Bandits with Delays,http://jmlr.org/papers/v23/20-411.html,https://bit.ly/3MoUF0t
+j:JMLR,Exact simulation of diffusion first exit times: algorithm acceleration,http://jmlr.org/papers/v23/20-321.html,https://bit.ly/399hLKU
+j:JMLR,On the Efficiency of Entropic Regularized Algorithms for Optimal Transport,http://jmlr.org/papers/v23/20-277.html,https://bit.ly/3tjvuFS
+j:JMLR,Low-rank Tensor Learning with Nonconvex Overlapped Nuclear Norm Regularization,http://jmlr.org/papers/v23/20-1368.html,https://bit.ly/3Q2GhxS
+j:JMLR,Recovery and Generalization in Over-Realized Dictionary Learning,http://jmlr.org/papers/v23/20-1360.html,https://bit.ly/3NjUgO5
+j:JMLR,Transfer Learning in Information Criteria-based Feature Selection,http://jmlr.org/papers/v23/19-816.html,https://bit.ly/3NGa0eF
+j:JMLR,Manifold Coordinates with Physical Meaning,http://jmlr.org/papers/v23/19-644.html,https://bit.ly/3tjvvcU
+j:JMLR,An Optimization-centric View on Bayes' Rule: Reviewing and Generalizing Variational Inference,http://jmlr.org/papers/v23/19-1047.html,https://bit.ly/399velX
+j:JMLR,"Let's Make Block Coordinate Descent Converge Faster: Faster Greedy Rules, Message-Passing, Active-Set Complexity, and Superlinear Convergence",http://jmlr.org/papers/v23/18-045.html,https://bit.ly/3mn9RAu
