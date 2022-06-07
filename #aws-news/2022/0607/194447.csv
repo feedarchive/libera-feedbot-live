@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DynamoDB Standard-Infrequent Access table class is now available in AWS Asia Pacific (Jakarta) Region,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-aws-asia-pacific-jakarta-region/,https://go.aws/3mn6OIu
+AWS:WhatsNew,Amazon CloudFront now supports TLS 1.3 session resumption for viewer connections,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudfront-supports-tls-1-3-session-resumption-viewer-connections/,https://go.aws/39e891w
+AWS:WhatsNew,"Amazon EMR 6.6 adds support for Apache Spark 3.2, HUDI 0.10.1, Iceberg 0.13, Trino 0.367, PrestoDB 0.267, and more",https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-6-6-apache-spark-hudi-iceberg-trino-prestodb/,https://go.aws/3aDawLK
