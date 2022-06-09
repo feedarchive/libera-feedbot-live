@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for SQL Server now supports SQL Server 2014 SP3 CU4 SU,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/,https://go.aws/3aP5z2A
+AWS:WhatsNew,Split data into train and test sets in a few clicks with Amazon SageMaker Data Wrangler,https://aws.amazon.com/about-aws/whats-new/2022/06/split-data-train-test-sets-amazon-sagemaker-data-wrangler/,https://go.aws/3NFngQC
