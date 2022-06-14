@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Recycle Bin for EBS Snapshots and EBS-backed AMIs now supports IAM condition keys to manage retention rules,https://aws.amazon.com/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/,https://go.aws/3xNoyT1
