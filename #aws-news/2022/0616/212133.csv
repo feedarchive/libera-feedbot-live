@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Single Sign-On is now available in the Europe (Milan) Region,https://aws.amazon.com/about-aws/whats-new/2022/06/aws-single-sign-on-available-europe-milan/,https://go.aws/3Qqku3g
+AWS:WhatsNew,Amazon Connect launches API to retrieve agents’ current activity,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-launches-api-retrieve-agents-current-activity/,https://go.aws/3b9ihcA
+AWS:WhatsNew,Amazon Aurora Serverless v1 supports in-place upgrade from MySQL 5.6 to 5.7,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-serverless-v1-in-place-upgrade-mysql-5-6-5-7/,https://go.aws/3QoMep3
+AWS:WhatsNew,Amazon Chime SDK now supports 100 webcam video streams,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-100-webcam-video-streams/,https://go.aws/3OnGFpg
