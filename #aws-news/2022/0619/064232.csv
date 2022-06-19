@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"I need Lambda #1 to call Lambda #2. Is it better to call directly using the SDK, or should Lambda #2 be behind an API that Lambda #1 hits?",https://redd.it/vfi4u5,
