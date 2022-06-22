@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now available in Frankfurt and Stockholm Regions,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-standby-database-instances-available-frankfurt-stockholm-regions/,https://go.aws/3zXjxK1
+AWS:WhatsNew,Announcing new Console Query Editor for Amazon QLDB,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-console-query-editor-qldb/,https://go.aws/3zX1OTa
