@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.12.0-rc8: Disable AVX512 CPU dispatch by default (#80253) (#80356),https://github.com/pytorch/pytorch/releases/tag/v1.12.0-rc8,
