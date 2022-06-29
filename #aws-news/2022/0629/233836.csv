@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup Audit Manager adds new control to audit recovery point objective (RPO),https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/,https://go.aws/3bDkUnb
+AWS:WhatsNew,Now bring your own development environment in a custom image to RStudio on Amazon SageMaker,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-development-environment-custom-image-rstudio/,https://go.aws/3QYzZzF
+AWS:WhatsNew,Amazon MemoryDB for Redis is now PCI DSS Compliant,https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-memorydb-redis-pci-dss-compliant/,https://go.aws/3I09o1i
