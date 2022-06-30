@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Database Migration Service now supports VPC source and target endpoints,https://aws.amazon.com/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/,https://go.aws/3QYOtzG
+AWS:WhatsNew,Announcing bare metal support for Amazon EKS Anywhere,https://aws.amazon.com/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/,https://go.aws/3nvKZHk
