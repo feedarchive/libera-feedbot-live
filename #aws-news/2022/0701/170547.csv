@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Database Migration Service now supports IBM Db2 z/OS as a source,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/,https://go.aws/3R3pI5j
+AWS:WhatsNew,Amazon WorkMail now supports invoking Lambdas to fetch availability (free/busy),https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/,https://go.aws/3QWElHP
+AWS:WhatsNew,AWS Migration Hub Refactor Spaces can now enable and disable active routes,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-enable-disable-active-routes/,https://go.aws/3yB1GYv
+AWS:WhatsNew,AWS Database Migration Service now supports Babelfish for Aurora PostgreSQL as a target,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/,https://go.aws/3R3DPYj
