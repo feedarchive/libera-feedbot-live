@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:50+,[P] I think this is the fastest Dalle-Mini generator that's out there. I stripped it down for inference and converted it to PyTorch. 15 seconds for a 3x3 grid hosted on an A100. Free and open source,https://redd.it/vpwqn0,
