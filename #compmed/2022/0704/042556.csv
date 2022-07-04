@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PwC:Latest,/jhl-det/ A New Dataset and A Baseline Model for Breast Lesion Detection in Ultrasound Videos: https://github.com/jhl-det/cva-net,https://paperswithcode.com/paper/a-new-dataset-and-a-baseline-model-for-breast,https://bit.ly/3yG5cAw
+PwC:Latest,/multimodallearning/ Adapting the Mean Teacher for keypoint-based lung registration under geometric domain shifts: https://github.com/multimodallearning/registration-da-mean-teacher,https://paperswithcode.com/paper/adapting-the-mean-teacher-for-keypoint-based,https://bit.ly/3nxIgNP
+PwC:Latest,/markendo/ GaitForeMer: Self-Supervised Pre-Training of Transformers via Human Motion Forecasting for Few-Shot Gait Impairment Severity Estimation: https://github.com/markendo/gaitforemer,https://paperswithcode.com/paper/gaitforemer-self-supervised-pre-training-of,https://bit.ly/3NFPbyU
