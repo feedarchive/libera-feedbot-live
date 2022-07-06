@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Feature Store now supports feature metadata and search,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-supports-metadata-search/,https://go.aws/3bVwL00
+AWS:WhatsNew,Amazon SageMaker Feature Store now allows adding new features to existing feature groups,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-new-features-existing-feature-groups/,https://go.aws/3P5Eabk
+AWS:WhatsNew,Amazon SageMaker Feature Store adds operational metrics to easily monitor feature groups,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-operational-metrics-monitor-groups/,https://go.aws/3amONYz
