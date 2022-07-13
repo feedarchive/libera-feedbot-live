@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/AWS:10+,Amplify created route 53 record to point to cloud front url. Would I also need to create cloudfront distribution?,https://redd.it/vy79vp,
+r/AWS:10+,Node.js backend - user login using AWS SDK and Cognito,https://redd.it/vy43gy,
