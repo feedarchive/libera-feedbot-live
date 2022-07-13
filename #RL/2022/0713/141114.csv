@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:20+,CleanRL now has a DDPG + JAX implementation roughly 2.5-4x faster than DDPG + PyTorch,https://redd.it/vxn489,
