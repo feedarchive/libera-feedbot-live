@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Firewall Manager now supports AWS Network Firewall strict rule order with alert and drop configurations,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/,https://go.aws/3c3wnfQ
+AWS:WhatsNew,Amazon VPC Flow Logs adds Transit Gateway support for improved visibility and monitoring,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-vpc-flow-logs-transit-gateway-improved-visibility-monitoring/,https://go.aws/3cf7U7z
