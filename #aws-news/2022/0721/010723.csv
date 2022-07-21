@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup adds support for Amazon RDS Multi-AZ clusters,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/,https://go.aws/3PEB4Ml
+AWS:WhatsNew,AWS CloudFormation event notifications with Amazon EventBridge help you create event-driven applications,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/,https://go.aws/3cuZNUy
