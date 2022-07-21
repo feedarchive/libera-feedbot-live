@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transfer Family now supports ED25519 and ECDSA keys for user authentication,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-ed25519-ecdsa-keys-user-authentication/,https://go.aws/3znKZjz
+AWS:WhatsNew,Introducing Fine-grained access controls with job-scoped IAM Roles and Integration with AWS Lake Formation for Apache Spark and Apache Hive on Amazon EMR on EC2 Clusters,https://aws.amazon.com/about-aws/whats-new/2022/07/fine-grained-access-controls-job-scoped-iam-roles-integration-aws-lake-formation-apache-spark-hive-amazon-emr-ec2-clusters/,https://go.aws/3yV8S0w
+AWS:WhatsNew,AWS Managed Services is now available in Asia Pacific (Hong Kong) and Middle East (Bahrain) Regions,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-managed-services-available-asia-pacific-hong-kong-middle-east-bahrain-regions/,https://go.aws/3zqrlDD
