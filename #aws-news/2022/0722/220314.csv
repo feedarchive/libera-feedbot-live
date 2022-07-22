@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Lambda announces support for a new IAM condition key, lambda:SourceFunctionArn",https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/,https://go.aws/3ztQY6x
+AWS:WhatsNew,Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific (Sydney) Region,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-multi-az-option-faster-transaction-commit-latency-asia-pacific-sydney-region/,https://go.aws/3PKuByQ
+AWS:WhatsNew,Amazon EC2 Console adds ‘Verified Provider’ label for public AMIs,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/,https://go.aws/3v9ti4A
