@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.12.1-rc2: [ci] Release only change: bump macos worker instance type (#82113),https://github.com/pytorch/pytorch/releases/tag/v1.12.1-rc2,
