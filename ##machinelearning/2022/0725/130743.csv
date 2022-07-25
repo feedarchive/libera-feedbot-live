@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.12.1-rc1: Fix deserialization of TransformerEncoderLayer (#81832) (#81832) (#82…,https://github.com/pytorch/pytorch/releases/tag/v1.12.1-rc1,
