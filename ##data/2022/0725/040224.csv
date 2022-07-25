@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PwC:Latest:Datasets,/megvii-research/ RealFlow: EM-based Realistic Optical Flow Dataset Generation from Videos: https://github.com/megvii-research/realflow,https://paperswithcode.com/paper/realflow-em-based-realistic-optical-flow,https://bit.ly/3J43IE7
+PwC:Latest:Datasets,/facebookresearch/ Multiface: A Dataset for Neural Face Rendering: https://github.com/facebookresearch/multiface,https://paperswithcode.com/paper/multiface-a-dataset-for-neural-face-rendering,https://bit.ly/3PUFhev
+PwC:Latest:Datasets,/carla-simulator/ Synthetic Dataset Generation for Adversarial Machine Learning Research: https://github.com/carla-simulator/carla,https://paperswithcode.com/paper/synthetic-dataset-generation-for-adversarial,https://bit.ly/3J31zZa
