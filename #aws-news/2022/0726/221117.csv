@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing the re-Launched AWS Security Competency,https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-re-launched-aws-security-competency/,https://go.aws/3cENCoa
+AWS:WhatsNew,Amazon ECR Public now supports tag listing API for public repositories,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ecr-public-supports-tag-listing-api-public-repositories/,https://go.aws/3zxJyiA
+AWS:WhatsNew,"Amazon RDS Proxy now supports Amazon RDS for MariaDB running on version 10.3, 10.4 or 10.5",https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-proxy-mariadb-version-10-support/,https://go.aws/3ODE8XF
