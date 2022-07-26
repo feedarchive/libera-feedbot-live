@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Config conformance packs now provide scores to help you track resource compliance,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/,https://go.aws/3J3IA0F
+AWS:WhatsNew,AWS Single Sign-On (AWS SSO) is now AWS IAM Identity Center,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/,https://go.aws/3OFAzjA
+AWS:WhatsNew,Malware protection now a feature of Amazon GuardDuty,https://aws.amazon.com/about-aws/whats-new/2022/07/malware-protection-feature-amazon-guardduty/,https://go.aws/3Bd6K70
+AWS:WhatsNew,Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments (Preview),https://aws.amazon.com/about-aws/whats-new/2022/07/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments-preview/,https://go.aws/3cMONSI
+AWS:WhatsNew,AWS announces AWS Wickr (Preview),https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/,https://go.aws/3PFcSt2
+AWS:WhatsNew,Amazon Macie introduces new capability to securely review and validate sensitive data found in an Amazon S3 object,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-macie-capability-securely-review-validate-sensitive-data-amazon-s3-object/,https://go.aws/3zcJELf
+AWS:WhatsNew,AWS Security Hub now receives Amazon GuardDuty Malware Protection findings,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/,https://go.aws/3Q0ktSR
