@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon S3 increases the maximum number of S3 Access Points and adds support for Amazon Redshift, Amazon CloudFront, and Amazon SageMaker Feature Store",https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/,https://go.aws/3BnJq6G
+AWS:WhatsNew,Announcing Amazon WorkSpaces API to create WorkSpace Image,https://aws.amazon.com/about-aws/whats-new/2022/07/announcing-amazon-workspaces-api-create-image/,https://go.aws/3OGt1NE
+AWS:WhatsNew,Amazon Neptune now supports fine grained access control with IAM,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-neptune-supports-fine-grained-access-control-iam/,https://go.aws/3ShGO0a
+AWS:WhatsNew,AWS AppSync launches new API command to test GraphQL resolvers,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/,https://go.aws/3SaQdqm
+AWS:WhatsNew,Announcing Amazon Neptune Global Database,https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-neptune-global-database/,https://go.aws/3OTOzqh
+AWS:WhatsNew,AWS Outposts rack is now supported in the AWS Asia Pacific (Jakarta) Region,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-supported-aws-asia-pacific-jakarta-region/,https://go.aws/3zDouXR
