@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS IoT SiteWise is now available in US East (Ohio) and Canada (Central) AWS Regions,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-sitewise-canada-ohio-regions/,https://go.aws/3JdvZrD
+AWS:WhatsNew,AWS Control Tower now reduces AWS Config configuration items by only recording global resources in home Regions,https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-reduces-aws-config-items-recording-global-resources-home-regions/,https://go.aws/3PZ5NTS
