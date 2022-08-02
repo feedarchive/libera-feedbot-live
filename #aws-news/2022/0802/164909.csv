@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Build AWS Config rules using AWS CloudFormation Guard,https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/,https://go.aws/3btqusE
+AWS:WhatsNew,"Amazon Connect schedule adherence, now available in preview",https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-schedule-adherence-preview/,https://go.aws/3QavwZC
+AWS:WhatsNew,Amazon RDS for Oracle now supports April 2022 patch set update (PSU) for 12.1 and release updates (RU) for 19c & 21c,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-april-2022-patch-set-update-19c-21c/,https://go.aws/3QbptUG
