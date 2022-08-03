@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Nvidia:DevNews,Jetson AGX Orin 32GB Module Now Available,https://developer.nvidia.com/blog/jetson-agx-orin-32gb-module-now-available/,https://bit.ly/3Qj8xvG
+Nvidia:DevNews,Accelerated Inference for Large Transformer Models Using FasterTransformer and Triton Inference Server,https://developer.nvidia.com/blog/accelerated-inference-for-large-transformer-models-using-nvidia-fastertransformer-and-nvidia-triton-inference-server/,https://bit.ly/3QkWmyu
+Nvidia:DevNews,Deploying GPT-J and T5 with FasterTransformer and Triton Inference Server,https://developer.nvidia.com/blog/deploying-gpt-j-and-t5-with-fastertransformer-and-triton-inference-server/,https://bit.ly/3QfDX5P
