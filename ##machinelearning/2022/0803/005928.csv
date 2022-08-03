@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.12.1-rc5: Pin windows numpy (#82652) (#82686),https://github.com/pytorch/pytorch/releases/tag/v1.12.1-rc5,
+GitHub:pytorch,v1.12.1-rc4: Revert #75195 (#82504) (#82662),https://github.com/pytorch/pytorch/releases/tag/v1.12.1-rc4,
