@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitLab:Blog,"Decomposing the GitLab backend database, Part 3: Challenges and surprises",https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part3/,https://bit.ly/3oT5I8X
+GitLab:Blog,"Decomposing the GitLab backend database, Part 2: Final migration and results",https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part2/,https://bit.ly/3cWEfAg
+GitLab:Blog,"Decomposing the GitLab backend database, Part 1: Designing and planning",https://about.gitlab.com/blog/2022/08/04/path-to-decomposing-gitlab-database-part1/,https://bit.ly/3oYTT0V
