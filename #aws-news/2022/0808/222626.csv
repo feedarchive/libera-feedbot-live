@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) now supports DML query auditing with Amazon CloudWatch Logs,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/,https://go.aws/3P9nlM8
+AWS:WhatsNew,Amazon RDS Custom for Oracle now supports promotion of managed in-region read replica,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/,https://go.aws/3vP5Cml
+AWS:WhatsNew,Amazon S3 adds a new policy condition key to require or restrict server-side encryption with customer-provided keys (SSE-C),https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-s3-policy-condition-key-require-restrict-server-side-encryption-customer-provided-keys-sse-c/,https://go.aws/3zDn8LH
