@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Location Service now supports circular geofences,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-circular-geofences/,https://go.aws/3vWzxZS
+AWS:WhatsNew,Introducing the AWS Supply Chain Competency Partner Program,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-supply-chain-competency-partner-program/,https://go.aws/3Pkwr93
+AWS:WhatsNew,"Amazon EventBridge now supports receiving events from GitHub, Stripe and Twilio using Webhooks",https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eventbridge-supports-receiving-events-github-stripe-twilio-using-webhooks/,https://go.aws/3bUxbUB
+AWS:WhatsNew,Amazon AppFlow now supports data transfers from SAP applications to AWS Services using SAP Operational Data Provisioning (ODP),https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-data-sap-applications-aws-services-operational-data-provisioning/,https://go.aws/3vXv8Gq
+AWS:WhatsNew,Application Insights adds AppRegistry support and faster problem reporting,https://aws.amazon.com/about-aws/whats-new/2022/08/application-insights-appregistry-support-faster-problem-reporting/,https://go.aws/3vUcsXJ
+AWS:WhatsNew,AWS Console Mobile Application adds support for Cost Explorer service,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-console-mobile-cost-explorer/,https://go.aws/3w0yDfc
