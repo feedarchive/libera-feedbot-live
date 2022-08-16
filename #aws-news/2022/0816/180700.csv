@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue Python Shell jobs now offer Python 3.9 and additional pre-loaded libraries,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-python-shell-jobs-python-3-9-additional-pre-loaded-libraries/,https://go.aws/3QmNadb
+AWS:WhatsNew,Amazon MSK Serverless is now integrated with AWS CloudFormation and Terraform,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-msk-serverless-integrated-aws-cloudformation-terraform/,https://go.aws/3QuUaos
