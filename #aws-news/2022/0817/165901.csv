@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing AWS Resilience Hub support for Elastic Load Balancing and Amazon Route 53 Application Recovery Controller,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-resilience-hub-elastic-load-balancing-amazon-route-53-application-recovery-controller/,https://go.aws/3prUEzE
+AWS:WhatsNew,AWS Cost Anomaly Detection gets a simplified interface for anomaly exploration,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-cost-anomaly-detection-simplified-interface-anomaly-exploration/,https://go.aws/3JZ9BCW
+AWS:WhatsNew,Amazon Rekognition Custom Labels now offers the ability to copy trained computer vision models across AWS accounts,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rekognition-custom-labels-copy-trained-computer-vision-models-across-aws-accounts/,https://go.aws/3JZ0SAE
+AWS:WhatsNew,Amazon EC2 P4d Instances now available in AWS GovCloud (US) Region,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-p4d-instances-aws-govcloud-us-region/,https://go.aws/3CgUrXI
+AWS:WhatsNew,Amazon SageMaker Pipelines now supports the testing of machine learning workflows in your local environment,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-testing-machine-learning-workflows-local-environment/,https://go.aws/3K2gOlE
