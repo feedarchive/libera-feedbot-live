@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS App Mesh adds support for multiple listeners,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-support-multiple-listeners/,https://go.aws/3wdpn7k
+AWS:WhatsNew,Amazon Aurora now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-supports-ipv6/,https://go.aws/3w8XA8k
+AWS:WhatsNew,Amazon OpenSearch Service now provides improved visibility into validation errors during blue/green deployments,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-opensearch-improved-visibility-validation-errors-blue-green-deployments/,https://go.aws/3bZ86YX
+AWS:WhatsNew,AWS App Mesh introduces configurable Envoy access log format,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-introduces-configurable-envoy-access-log-format/,https://go.aws/3QTNT5B
