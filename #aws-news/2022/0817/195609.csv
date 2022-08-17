@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports custom Consumer Group IDs for Amazon MSK and Self-Managed Kafka as event sources,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-consumer-group-ids-msk-kafka-event-sources/,https://go.aws/3wb446A
+AWS:WhatsNew,Amazon SageMaker Canvas enables faster onboarding with automatic data import from local disk,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-enables-faster-onboarding-automatic-data-import-local-disk/,https://go.aws/3pmUrhn
