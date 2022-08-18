@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"For a Multi-Agent Swarm, would you have different RL models for each agent or one master RL model that takes in data of all the agents and outputs actions for all the agent, or are both the same thing?",https://redd.it/wqpnhh,
