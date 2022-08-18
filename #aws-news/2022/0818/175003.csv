@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Chime SDK supports video compositing merging (concatenation) for WebRTC media capture,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/,https://go.aws/3we7Tbf
+AWS:WhatsNew,Amazon Chime SDK now supports streaming to Amazon IVS and Elemental MediaLive,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-streaming-ivs-elemental-medialive/,https://go.aws/3dHYHFD
+AWS:WhatsNew,Center for Internet Security (CIS) Benchmark for Bottlerocket is now available,https://aws.amazon.com/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/,https://go.aws/3dGgBbN
