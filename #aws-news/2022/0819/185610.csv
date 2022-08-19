@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MemoryDB for Redis is now HIPAA eligible,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-memorydb-redis-hipaa-eligible/,https://go.aws/3CmxVwD
+AWS:WhatsNew,Amazon Chime SDK now supports signaling client in C++,https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/,https://go.aws/3T4UXOs
+AWS:WhatsNew,AWS Graviton2-based Amazon EC2 C6gd instances now available in South America (São Paulo) region,https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6gd-instances-available-south-america-sao-paulo-region/,https://go.aws/3T37CBr
