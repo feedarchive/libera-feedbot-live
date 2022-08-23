@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,Tyche: A library for probabilistic reasoning and belief modelling in Python,https://arxiv.org/abs/2208.09838v1,
+ArXiv,MolGraph: a Python package for the implementation of small molecular graphs and graph neural networks with TensorFlow and Keras,https://arxiv.org/abs/2208.09944v1,
