@@ -1,0 +1,106 @@
+feed,title,long_url,short_url
+Fast.ai,The Jupyter+git problem is now solved,https://www.fast.ai/2022/08/25/jupyter-git/,https://bit.ly/3AMQ6KB
+Fast.ai,nbdev+Quarto: A new secret weapon for productivity,https://www.fast.ai/2022/07/28/nbdev-v2/,https://bit.ly/3AMQ7hD
+Fast.ai,Practical Deep Learning for Coders 2022,https://www.fast.ai/2022/07/21/dl-coders-22/,https://bit.ly/3AMQ85b
+Fast.ai,Masks for COVID: Updating the evidence,https://www.fast.ai/2022/07/04/updated-masks-evidence/,https://bit.ly/3AMQ8Cd
+Fast.ai,Qualitative humanities research is crucial to AI,https://www.fast.ai/2022/06/01/qualitative/,https://bit.ly/3QPInRG
+Fast.ai,"AI Harms are Societal, Not Just Individual",https://www.fast.ai/2022/05/17/societal-harms/,https://bit.ly/3QYdDhG
+Fast.ai,There's no such thing as not a math person,https://www.fast.ai/2022/03/15/math-person/,https://bit.ly/3Thjq3h
+Fast.ai,"Doing Data Science for Social Good, Responsibly",https://www.fast.ai/2021/11/23/data-for-good/,https://bit.ly/3KtmmWv
+Fast.ai,Avoiding Data Disasters,https://www.fast.ai/2021/11/04/data-disasters/,https://bit.ly/3QSZuSz
+Fast.ai,SARS-CoV-2 Spike Protein Impairment of Endothelial Function Does Not Impact Vaccine Safety,https://www.fast.ai/2021/10/27/vaccine-safety/,https://bit.ly/3QS3QcR
+Fast.ai,Statistical problems found when studying Long Covid in kids,https://www.fast.ai/2021/10/17/control-groups/,https://bit.ly/3TkGf6j
+Fast.ai,Medicine is Political,https://www.fast.ai/2021/10/12/medicine-political/,https://bit.ly/3ThL1Bq
+Fast.ai,"Inaccuracies, irresponsible coverage, and conflicts of interest in The New Yorker",https://www.fast.ai/2021/09/25/new-yorker/,https://bit.ly/3cofSvy
+Fast.ai,"Australia can, and must, get R under 1.0",https://www.fast.ai/2021/09/03/covid-r/,https://bit.ly/3Td1Ttb
+Fast.ai,Getting Specific about AI Risks (an AI Taxonomy),https://www.fast.ai/2021/08/16/ai-taxonomy/,https://bit.ly/3Tt5qng
+Fast.ai,fastdownload: the magic behind one of the famous 4 lines of code,https://www.fast.ai/2021/08/02/fastdownload/,https://bit.ly/3KpWFpY
+Fast.ai,"Is GitHub Copilot a blessing, or a curse?",https://www.fast.ai/2021/07/19/copilot/,https://bit.ly/3ckM0Ad
+Fast.ai,"fastchan, a new conda mini-distribution",https://www.fast.ai/2021/07/15/fastconda/,https://bit.ly/3Tfuj5D
+Fast.ai,20 Years of Tech Startup Experiences in One Hour,https://www.fast.ai/2021/05/26/aihub/,https://bit.ly/3Tfukqd
+Fast.ai,I violated a code of conduct,https://www.fast.ai/2020/10/28/code-of-conduct/,https://bit.ly/3dZcXd9
+Fast.ai,Avoiding the smoke - how to breath clean air,https://www.fast.ai/2020/09/11/smoke-filter/,https://bit.ly/3AMQ8SJ
+Fast.ai,"fast.ai releases new deep learning course, four libraries, and 600-page book",https://www.fast.ai/2020/08/21/fastai2-launch/,https://bit.ly/3dZWXYs
+Fast.ai,Forward from the 'Deep Learning for Coders' Book,https://www.fast.ai/2020/08/20/soumith-forward/,https://bit.ly/32aIfnU
+Fast.ai,Essential Work-From-Home Advice: Cheap and Easy Ergonomic Setups,https://www.fast.ai/2020/08/06/ergonomics/,https://bit.ly/3Kk0ahA
+Fast.ai,Cloth masks can protect the wearer,https://www.fast.ai/2020/07/10/upgrade-your-mask/,https://bit.ly/3KjHD53
+Fast.ai,Particle sizes for mask filtration,https://www.fast.ai/2020/06/26/particle-sizes/,https://bit.ly/3KncKfY
+Fast.ai,Masks - FAQ for Skeptics,https://www.fast.ai/2020/04/20/skeptics-masks/,https://bit.ly/3AMQ6u5
+Fast.ai,Masks for all? The science says yes,https://www.fast.ai/2020/04/13/masks-summary/,https://bit.ly/3dWhBIO
+Fast.ai,Saving The Mask,https://www.fast.ai/2020/03/20/saving-the-mask/,https://bit.ly/3Tt5oMa
+Fast.ai,"Covid-19, your community, and you — a data science perspective",https://www.fast.ai/2020/03/09/coronavirus/,https://bit.ly/3TgsSUw
+Fast.ai,"Disinformation: what it is, why it's pervasive, and proposed regulations",https://www.fast.ai/2020/02/26/CADE-disinformation/,https://bit.ly/3dX3jrA
+Fast.ai,fastai—A Layered API for Deep Learning,https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/,https://bit.ly/3Tfumyl
+Fast.ai,4 Principles for Responsible Government Use of Technology,https://www.fast.ai/2020/01/21/responsible-government/,https://bit.ly/3KnytVd
+Fast.ai,Self-supervised learning and computer vision,https://www.fast.ai/2020/01/13/self_supervised/,https://bit.ly/3ThjrEn
+Fast.ai,Data project checklist,https://www.fast.ai/2020/01/07/data-questionnaire/,https://bit.ly/3Tm2zfU
+Fast.ai,nbdev: use Jupyter Notebooks for everything,https://www.fast.ai/2019/12/02/nbdev/,https://bit.ly/3Tm0Man
+Fast.ai,The problem with metrics is a big problem for AI,https://www.fast.ai/2019/09/24/metrics/,https://bit.ly/3QV4eHu
+Fast.ai,8 Things You Need to Know about Surveillance,https://www.fast.ai/2019/08/07/surveillance/,https://bit.ly/3KlVyY5
+Fast.ai,Make Delegation Work in Python,https://www.fast.ai/2019/08/06/delegation/,https://bit.ly/3TkghzC
+Fast.ai,new fast.ai course: A Code-First Introduction to Natural Language Processing,https://www.fast.ai/2019/07/08/fastai-nlp/,https://bit.ly/3KktYum
+Fast.ai,Deep Learning from the Foundations,https://www.fast.ai/2019/06/28/course-p2v3/,https://bit.ly/3KlAlNU
+Fast.ai,A LaTeX add-in for PowerPoint - my father's day project,https://www.fast.ai/2019/06/17/latex-ppt/,https://bit.ly/3QTw3zT
+Fast.ai,Was this Google Executive deeply misinformed or lying in the New York Times?,https://www.fast.ai/2019/05/28/google-nyt-mohan/,https://bit.ly/3dZcWWD
+Fast.ai,"Decrappification, DeOldification, and Super Resolution",https://www.fast.ai/2019/05/03/decrappify/,https://bit.ly/3dXL3ye
+Fast.ai,fast.ai Embracing Swift for Deep Learning,https://www.fast.ai/2019/03/06/fastai-swift/,https://bit.ly/3TgX3ea
+Fast.ai,"Dairy farming, solar panels, and diagnosing Parkinson's disease: what can you do with deep learning?",https://www.fast.ai/2019/02/21/dl-projects/,https://bit.ly/3TeWnWO
+Fast.ai,fastec2 script: Running and monitoring long-running tasks,https://www.fast.ai/2019/02/15/fastec2-script/,https://bit.ly/3QSBMpK
+Fast.ai,fastec2: AWS computer management for regular folks,https://www.fast.ai/2019/02/15/fastec2/,https://bit.ly/3Tio013
+Fast.ai,"Some thoughts on zero-day threats in AI, and OpenAI's GPT-2",https://www.fast.ai/2019/02/15/openai-gp2/,https://bit.ly/3AQvyRL
+Fast.ai,Five Things That Scare Me About AI,https://www.fast.ai/2019/01/29/five-scary-things/,https://bit.ly/3KlfmLc
+Fast.ai,Practical Deep Learning for Coders 2019,https://www.fast.ai/2019/01/24/course-v3/,https://bit.ly/3dYcqYY
+Fast.ai,"C++11, random distributions, and Swift",https://www.fast.ai/2019/01/13/swift-random/,https://bit.ly/3TgX1D4
+Fast.ai,High Performance Numeric Programming with Swift: Explorations and Reflections,https://www.fast.ai/2019/01/10/swift-numerics/,https://bit.ly/3KncIVd
+Fast.ai,One year of deep learning,https://www.fast.ai/2019/01/02/one-year-of-deep-learning/,https://bit.ly/3TixDNy
+Fast.ai,"The new fast.ai research datasets collection, on AWS Open Data",https://www.fast.ai/2018/10/16/aws-datasets/,https://bit.ly/3Kk55yZ
+Fast.ai,fastai v1 for PyTorch: Fast and accurate neural nets using modern best practices,https://www.fast.ai/2018/10/02/fastai-ai/,https://bit.ly/3APZrle
+Fast.ai,Introduction to Machine Learning for Coders: Launch,https://www.fast.ai/2018/09/26/ml-launch/,https://bit.ly/3TkbfD8
+Fast.ai,What You Need to Know Before Considering a PhD,https://www.fast.ai/2018/08/27/grad-school/,https://bit.ly/3ANPQev
+Fast.ai,Now anyone can train Imagenet in 18 minutes,https://www.fast.ai/2018/08/10/fastai-diu-imagenet/,https://bit.ly/3dXbPXB
+Fast.ai,What HBR Gets Wrong About Algorithms and Bias,https://www.fast.ai/2018/08/07/hbr-bias-algorithms/,https://bit.ly/3ThL1RW
+Fast.ai,Google's AutoML: Cutting Through the Hype,https://www.fast.ai/2018/07/23/auto-ml-3/,https://bit.ly/3TkGfmP
+Fast.ai,An Opinionated Introduction to AutoML and Neural Architecture Search,https://www.fast.ai/2018/07/16/auto-ml2/,https://bit.ly/3TiVX1t
+Fast.ai,What do machine learning practitioners actually do?,https://www.fast.ai/2018/07/12/auto-ml-1/,https://bit.ly/3TfuiP7
+Fast.ai,AdamW and Super-convergence is now the fastest way to train neural nets,https://www.fast.ai/2018/07/02/adam-weight-decay/,https://bit.ly/3TkghQ8
+Fast.ai,Launching Cutting Edge Deep Learning for Coders: 2018 edition,https://www.fast.ai/2018/05/07/part2-launch/,https://bit.ly/3AODQJS
+Fast.ai,Training Imagenet in 3 hours for USD 25; and CIFAR10 for USD 0.26,https://www.fast.ai/2018/04/30/dawnbench-fastai/,https://bit.ly/3KjHCOx
+Fast.ai,An Introduction to Deep Learning for Tabular Data,https://www.fast.ai/2018/04/29/categorical-embeddings/,https://bit.ly/3Td1V4h
+Fast.ai,A Discussion about Accessibility in AI at Stanford,https://www.fast.ai/2018/04/10/stanford-salon/,https://bit.ly/3Td1TJH
+Fast.ai,Adding Data Science to your College Curriculum,https://www.fast.ai/2018/02/27/college-curriculum/,https://bit.ly/3AK2zPj
+Fast.ai,Practical Deep Learning for Coders 2018,https://www.fast.ai/2018/01/26/v2-launch/,https://bit.ly/3TfrzVZ
+Fast.ai,New Opportunities For New Deep Learning Practitioners,https://www.fast.ai/2018/01/09/diversity-sponsors/,https://bit.ly/3Kk0e0M
+Fast.ai,Five Trends to Avoid When Founding a Startup,https://www.fast.ai/2018/01/08/startups/,https://bit.ly/3KpWFGu
+Fast.ai,Making Peace with Personal Branding,https://www.fast.ai/2017/12/18/personal-brand/,https://bit.ly/3dXL3OK
+Fast.ai,What you need to do deep learning,https://www.fast.ai/2017/11/16/what-you-need/,https://bit.ly/3KjnMCZ
+Fast.ai,How (and why) to create a good validation set,https://www.fast.ai/2017/11/13/validation-sets/,https://bit.ly/3cnLPEi
+Fast.ai,When Data Science Destabilizes Democracy and Facilitates Genocide,https://www.fast.ai/2017/11/02/ethics/,https://bit.ly/3ANbDD2
+Fast.ai,Credible sources of accurate information about AI,https://www.fast.ai/2017/09/19/accurate-info/,https://bit.ly/3AXFtoJ
+Fast.ai,Can Neural Nets Detect Sexual Orientation? A Data Scientist’s Perspective,https://www.fast.ai/2017/09/13/kosinski/,https://bit.ly/3Tm0NLt
+Fast.ai,Introducing Pytorch for fast.ai,https://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/,https://bit.ly/3TeWodk
+Fast.ai,Notes on state of the art techniques for language modeling,https://www.fast.ai/2017/08/25/language-modeling-sota/,https://bit.ly/3TiVVGT
+Fast.ai,Advice to Medical Experts Interested in AI,https://www.fast.ai/2017/08/21/ai-in-medicine/,https://bit.ly/3Klfn1I
+Fast.ai,"Thoughts on OpenAI, reinforcement learning, and killer robots",https://www.fast.ai/2017/07/28/killer-robots/,https://bit.ly/3ALPfKe
+Fast.ai,Cutting Edge Deep Learning for Coders: Launching Deep Learning Part 2,https://www.fast.ai/2017/07/28/deep-learning-part-two-launch/,https://bit.ly/3Tig1RJ
+Fast.ai,New fast.ai course: Computational Linear Algebra,https://www.fast.ai/2017/07/17/num-lin-alg/,https://bit.ly/3AMAJlp
+Fast.ai,How to Encourage Your Child's Interest in Science and Tech,https://www.fast.ai/2017/05/07/parent/,https://bit.ly/3ThL3cw
+Fast.ai,Alternatives to a Degree to Prove Yourself in Deep Learning,https://www.fast.ai/2017/04/06/alternatives/,https://bit.ly/3TfujCF
+Fast.ai,"To become a data scientist, focus on coding",https://www.fast.ai/2017/03/23/focus-on-coding/,https://bit.ly/3TfumhP
+Fast.ai,"Machine learning hasn't been commoditized yet, but that doesn't mean you need a PhD",https://www.fast.ai/2017/03/17/not-commoditized-no-phd/,https://bit.ly/3TinYGt
+Fast.ai,How to change careers and become a data scientist - one quant's experience,https://www.fast.ai/2017/03/01/changing-careers/,https://bit.ly/3ANuEFm
+Fast.ai,Deep Learning: Not Just for Silicon Valley,https://www.fast.ai/2017/02/27/not-just-silicon-valley/,https://bit.ly/3AO2XMN
+Fast.ai,Deep Learning For Coders - Full notes and transcripts now available,https://www.fast.ai/2017/02/24/captions-and-notes/,https://bit.ly/3TfunlT
+Fast.ai,Practical Deep Learning Part 2 - Integrating Recent Advances and Classic Machine Learning,https://www.fast.ai/2017/01/17/curriculum2/,https://bit.ly/3AP0FNB
+Fast.ai,Big deep learning news: Google Tensorflow chooses Keras,https://www.fast.ai/2017/01/03/keras/,https://bit.ly/3dXbQe7
+Fast.ai,Where is AI/ML actually adding value at your company?,https://www.fast.ai/2016/12/29/uses-of-ai/,https://bit.ly/3KjnMTv
+Fast.ai,The Deep Learning MOOC is now available!,https://www.fast.ai/2016/12/24/mooc/,https://bit.ly/3KncKN0
+Fast.ai,(Update - problem resolved!) Azure and AWS's 'GPU general availability' lies,https://www.fast.ai/2016/12/19/gpu-lies/,https://bit.ly/3ckx9Wv
+Fast.ai,So you are interested in deep learning,https://www.fast.ai/2016/12/19/favorite-posts/,https://bit.ly/3APDaE6
+Fast.ai,How should you structure your Data Science and Engineering teams?,https://www.fast.ai/2016/12/09/org-structure/,https://bit.ly/3dX3Iu1
+Fast.ai,"Please Don't Say ""It used to be called big data and now it's called deep learning""",https://www.fast.ai/2016/11/18/not-all-the-same/,https://bit.ly/3AO4uCr
+Fast.ai,"Andrew Ng says Deep learning is the ""New Electricity""; what this means to your organization",https://www.fast.ai/2016/10/11/fortune/,https://bit.ly/3AXFtFf
+Fast.ai,What We Will Cover in the First Deep Learning Certificate,https://www.fast.ai/2016/10/08/curriculum/,https://bit.ly/3Knyusf
+Fast.ai,Providing a Good Education in Deep Learning,https://www.fast.ai/2016/10/08/teaching-philosophy/,https://bit.ly/3e2hhsg
+Fast.ai,A unique path to deep learning expertise,https://www.fast.ai/2016/10/08/overview/,https://bit.ly/3TfSa57
+Fast.ai,The First Certificate in Deep Learning,https://www.fast.ai/2016/10/08/course-background/,https://bit.ly/3ALPg0K
+Fast.ai,Launching fast.ai,https://www.fast.ai/2016/10/07/fastai-launch/,https://bit.ly/3KBlkIh
