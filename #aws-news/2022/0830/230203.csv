@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AppFlow now supports Salesforce version 55.0 and additional AWS PrivateLink regions,https://aws.amazon.com/about-aws/whats-new/2022/08/appflow-supports-salesforce-version-55-0-additional-aws-privatelink-regions/,https://go.aws/3B0VY2Y
+AWS:WhatsNew,"Amazon Macie adds ability to tune findings with allow lists, and enhances machine learning models to better identify sensitive data",https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-macie-tune-findings-allow-lists-enhances-machine-learning-models-identify-sensitive-data/,https://go.aws/3cvUyUO
