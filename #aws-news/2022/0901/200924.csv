@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EBS adds the ability to take crash-consistent snapshots of a subset of EBS volumes attached to an Amazon EC2 instance,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ebs-ability-take-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/,https://go.aws/3cCM52e
+AWS:WhatsNew,Enterprise On-Ramp Support is now supported with AWS Outposts,https://aws.amazon.com/about-aws/whats-new/2022/09/enterprise-on-ramp-supported-aws-outposts/,https://go.aws/3Q9dA12
