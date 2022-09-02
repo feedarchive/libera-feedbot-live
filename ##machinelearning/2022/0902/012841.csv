@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Custom forecast frequencies now supported in Amazon Forecast,https://aws.amazon.com/about-aws/whats-new/2022/09/custom-forecast-frequencies-supported-amazon-forecast/,https://go.aws/3AC13xs
+AWS:WhatsNew,Amazon SageMaker Autopilot now provides custom data split options along with an improved experience for creating an AutoML experiment,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-custom-data-split-improved-automl-experiment/,https://go.aws/3B6XVuX
