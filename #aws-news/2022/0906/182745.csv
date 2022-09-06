@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Controllers for Kubernetes (ACK) for Amazon RDS, AWS Lambda, AWS Step Functions, Amazon Managed Service for Prometheus, and AWS KMS now generally available",https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/,https://go.aws/3qgPk2C
+AWS:WhatsNew,Amazon DynamoDB now supports up to 100 actions per transaction,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-dynamodb-supports-100-actions-per-transaction/,https://go.aws/3D1JAkM
