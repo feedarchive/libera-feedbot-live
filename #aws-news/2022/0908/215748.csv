@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Fargate announces migration of service quotas to vCPU-based quotas,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-announces-migration-service-quotas-vcpu-based/,https://go.aws/3D75umR
+AWS:WhatsNew,Amazon Virtual Private Cloud (VPC) Flow Logs can now be delivered to Amazon Kinesis Firehose,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-vpc-flow-logs-delivered-amazon-kinesis-firehose/,https://go.aws/3d0eqzL
+AWS:WhatsNew,AWS Security Hub launches 2 new security best practice controls,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-2-new-security-best-practice-controls/,https://go.aws/3x8pPEk
