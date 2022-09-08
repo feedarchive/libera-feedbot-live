@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing Seekable OCI for lazy loading container images,https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/,https://go.aws/3RC7how
+AWS:WhatsNew,AWS Backup adds Amazon CloudWatch metrics to its console dashboard,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-amazon-cloudwatch-metrics-console-dashboard/,https://go.aws/3RAx4gD
+AWS:WhatsNew,AWS CloudFormation announces new language extensions transform,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-new-language-extensions-transform/,https://go.aws/3Rxj9YP
+AWS:WhatsNew,AWS Transit Gateway adds Internet Group Management Protocol (IGMP) Multicast support in two additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-internet-group-management-protocol-igmp-multicast-support-additional-regions/,https://go.aws/3ewWw8a
+AWS:WhatsNew,AWS Transit Gateway Connect is now available in two additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-two-additional-regions/,https://go.aws/3eyvD3F
