@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for MySQL supports new minor version 8.0.30,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version/,https://go.aws/3QsAcK1
+AWS:WhatsNew,Applications using Amazon SNS to send SMS can now be hosted in four new regions,https://aws.amazon.com/about-aws/whats-new/2022/09/applications-amazon-sns-send-sms-now-hosted-new-regions/,https://go.aws/3L04ZNr
+AWS:WhatsNew,AWS Firewall Manager adds support for AWS WAF custom requests and responses,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-firewall-manager-support-aws-waf-custom-requests-responses/,https://go.aws/3TXUY7p
+AWS:WhatsNew,Announcing the composite slot type for Amazon Lex,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lex-composite-slot-type/,https://go.aws/3RS6wat
+AWS:WhatsNew,AWS Security Hub launches a new security best practice control,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-new-security-best-practice-control/,https://go.aws/3TTrrMh
