@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,What's the rationale for S3 API calls to cost so much? I tried mounting an S3 bucket as a file volume and my monthly bill got murdered with S3 API calls,https://redd.it/xebyp9,
