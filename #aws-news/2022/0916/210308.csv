@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon RDS for MariaDB supports new minor versions 10.5.17, 10.4.26, 10.3.36",https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-new-minor-versions/,https://go.aws/3RSUw99
+AWS:WhatsNew,AWS App Runner now supports deployment using cross-region Amazon ECR image,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-deployment-cross-region-amazon-ecr-image/,https://go.aws/3qIamr6
