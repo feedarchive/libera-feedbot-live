@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"""Human-level Atari 200x faster"", Kapturowski et al 2022 {DM} (Agent57 optimization: trust-region+loss normalization+normalization-free nets+self-distillation)",https://redd.it/xhxp9p,
