@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EMR on EKS now supports Spark SQL through the StartJobRun API,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-eks-supports-spark-sql-through-startjobrun-api/,https://go.aws/3qNKkTl
+AWS:WhatsNew,Easily install and update the CloudWatch Agent with Quick Setup,https://aws.amazon.com/about-aws/whats-new/2022/09/easily-install-update-cloudwatch-agent-quick-setup/,https://go.aws/3eX00B3
