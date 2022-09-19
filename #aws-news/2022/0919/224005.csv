@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SNS now supports message signatures based on SHA256 hashing,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-supports-message-signatures-based-sha256-hashing/,https://go.aws/3DDXPN4
+AWS:WhatsNew,AWS Elemental MediaLive adds encoding for Dolby Atmos and Dolby Vision,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-medialive-adds-encoding-dolby-atmos-vision/,https://go.aws/3duDZt1
