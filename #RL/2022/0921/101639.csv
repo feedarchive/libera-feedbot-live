@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/RL:10+,"Rewards increase up to a point, then start monotonically dropping (event though entropy loss is also decreasing). Why would PPO do this?",https://redd.it/xj79ed,
+r/RL:10+,Could starting with easy episodes lead to a faster DQN convergence?,https://redd.it/xicc3r,
