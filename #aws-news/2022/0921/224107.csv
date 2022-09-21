@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudWatch Evidently adds support for Client Side Evaluations for AWS Lambda (powered by AWS AppConfig),https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-evidently-client-side-evaluations-aws-lambda-aws-appconfig/,https://go.aws/3S5EU2b
+AWS:WhatsNew,AWS Comprehend now supports synchronous processing for targeted sentiment,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-comprehend-supports-synchronous-processing-targeted-sentiment/,https://go.aws/3eY3mng
