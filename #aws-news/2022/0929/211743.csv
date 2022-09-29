@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS X-Ray launches support for tracing PHP applications via OpenTelemetry in public preview,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-x-ray-support-tracing-php-applications-opentelemetry-public-preview/,https://go.aws/3LUU9sf
+AWS:WhatsNew,AWS Compute Optimizer now supports 37 new EC2 instance types and new memory metrics for Windows instances,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-compute-optimizer-37-new-ec2-instance-types-memory-metrics-windows/,https://go.aws/3LTJ9eM
