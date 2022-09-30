@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for MySQL supports new minor version 5.7.39,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version-5-7-39/,https://go.aws/3LTgred
+AWS:WhatsNew,AWS Cloud Map Updates Service Level Agreement,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-map-updates-sevice-level-agreement/,https://go.aws/3LTJ8Yl
+AWS:WhatsNew,AWS announces updated Support Plans Console with new IAM controls,https://aws.amazon.com/about-aws/whats-new/2022/09/aws-updated-support-plans-console-new-iam-controls/,https://go.aws/3RqvQDK
+AWS:WhatsNew,Reduce ML Model Training Job startup time by up to 8x using SageMaker Training Managed Warm Pools,https://aws.amazon.com/about-aws/whats-new/2022/09/reduce-ml-model-training-job-startup-time-8x-sagemaker-training-managed-warm-pools/,https://go.aws/3RmYzJD
+AWS:WhatsNew,Amazon SageMaker Autopilot now includes Amazon SageMaker Data Wrangler feature transforms when deploying models for inference,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-data-wrangler-feature-transforms-models-inference/,https://go.aws/3SsHn6K
