@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Reduce ML Model Training Job startup time by up to 8x using SageMaker Training Managed Warm Pools,https://aws.amazon.com/about-aws/whats-new/2022/09/reduce-ml-model-training-job-startup-time-8x-sagemaker-training-managed-warm-pools/,https://go.aws/3RmYzJD
+AWS:WhatsNew,Amazon SageMaker Autopilot now includes Amazon SageMaker Data Wrangler feature transforms when deploying models for inference,https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-data-wrangler-feature-transforms-models-inference/,https://go.aws/3SsHn6K
