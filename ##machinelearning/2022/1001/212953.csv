@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+JMLR:MLOSS,ReservoirComputing.jl: An Efficient and Modular Library for Reservoir Computing Models,http://jmlr.org/papers/v23/22-0611.html,https://bit.ly/3yaG44p
+JMLR:MLOSS,Deepchecks: A Library for Testing and Validating Machine Learning Models and Data,http://jmlr.org/papers/v23/22-0281.html,https://bit.ly/3e5nDHo
+JMLR:MLOSS,CleanRL: High-quality Single-file Implementations of Deep Reinforcement Learning Algorithms,http://jmlr.org/papers/v23/21-1342.html,https://bit.ly/3CpQ2S1
+JMLR:MLOSS,Tianshou: A Highly Modularized Deep Reinforcement Learning Library,http://jmlr.org/papers/v23/21-1127.html,https://bit.ly/3e1DXZV
