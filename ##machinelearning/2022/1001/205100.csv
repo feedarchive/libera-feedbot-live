@@ -1,0 +1,71 @@
+feed,title,long_url,short_url
+j:JMLR,ReservoirComputing.jl: An Efficient and Modular Library for Reservoir Computing Models,http://jmlr.org/papers/v23/22-0611.html,https://bit.ly/3yaG44p
+j:JMLR,Information-Theoretic Characterization of the Generalization Error for Iterative Semi-Supervised Learning,http://jmlr.org/papers/v23/22-0541.html,https://bit.ly/3C352DS
+j:JMLR,Integral Autoencoder Network for Discretization-Invariant Learning,http://jmlr.org/papers/v23/22-0297.html,https://bit.ly/3y7EmAX
+j:JMLR,Deepchecks: A Library for Testing and Validating Machine Learning Models and Data,http://jmlr.org/papers/v23/22-0281.html,https://bit.ly/3e5nDHo
+j:JMLR,Exact Partitioning of High-order Models with a Novel Convex Tensor Cone Relaxation,http://jmlr.org/papers/v23/22-0232.html,https://bit.ly/3Cpk8F6
+j:JMLR,De-Sequentialized Monte Carlo: a parallel-in-time particle smoother,http://jmlr.org/papers/v23/22-0140.html,https://bit.ly/3SxRuHM
+j:JMLR,On the Convergence Rates of Policy Gradient Methods,http://jmlr.org/papers/v23/22-0056.html,https://bit.ly/3CniLXw
+j:JMLR,Nonparametric adaptive control and prediction: theory and randomized algorithms,http://jmlr.org/papers/v23/22-0022.html,https://bit.ly/3Cm15vr
+j:JMLR,Generalized Resubstitution for Classification Error Estimation,http://jmlr.org/papers/v23/21-820.html,https://bit.ly/3y7FsMW
+j:JMLR,Convergence Guarantees for the Good-Turing Estimator,http://jmlr.org/papers/v23/21-1528.html,https://bit.ly/3C2PuAb
+j:JMLR,Jump Gaussian Process Model for Estimating Piecewise Continuous Regression Functions,http://jmlr.org/papers/v23/21-1472.html,https://bit.ly/3y97VSC
+j:JMLR,Nonstochastic Bandits with Composite Anonymous Feedback,http://jmlr.org/papers/v23/21-1443.html,https://bit.ly/3y3kNtt
+j:JMLR,Deep Network Approximation: Achieving Arbitrary Accuracy with Fixed Number of Neurons,http://jmlr.org/papers/v23/21-1404.html,https://bit.ly/3CphWgR
+j:JMLR,Policy Gradient and Actor-Critic Learning in Continuous Time and Space: Theory and Algorithms,http://jmlr.org/papers/v23/21-1387.html,https://bit.ly/3Suzm1n
+j:JMLR,CleanRL: High-quality Single-file Implementations of Deep Reinforcement Learning Algorithms,http://jmlr.org/papers/v23/21-1342.html,https://bit.ly/3CpQ2S1
+j:JMLR,The Weighted Generalised Covariance Measure,http://jmlr.org/papers/v23/21-1328.html,https://bit.ly/3y6uFCw
+j:JMLR,Communication-Constrained Distributed Quantile Regression with Optimal Statistical Guarantees,http://jmlr.org/papers/v23/21-1269.html,https://bit.ly/3BXRo4V
+j:JMLR,Fast Stagewise Sparse Factor Regression,http://jmlr.org/papers/v23/21-1265.html,https://bit.ly/3CphXBr
+j:JMLR,Minimax Mixing Time of the Metropolis-Adjusted Langevin Algorithm for Log-Concave Sampling,http://jmlr.org/papers/v23/21-1184.html,https://bit.ly/3CoSlEL
+j:JMLR,Learning linear non-Gaussian directed acyclic graph with diverging number of nodes,http://jmlr.org/papers/v23/21-1173.html,https://bit.ly/3BXKwoh
+j:JMLR,A Computationally Efficient Framework for Vector Representation of Persistence Diagrams,http://jmlr.org/papers/v23/21-1129.html,https://bit.ly/3CpNoM3
+j:JMLR,Tianshou: A Highly Modularized Deep Reinforcement Learning Library,http://jmlr.org/papers/v23/21-1127.html,https://bit.ly/3e1DXZV
+j:JMLR,Functional Linear Regression with Mixed Predictors,http://jmlr.org/papers/v23/21-1091.html,https://bit.ly/3e1QSes
+j:JMLR,Stochastic subgradient for composite convex optimization with functional constraints,http://jmlr.org/papers/v23/21-1062.html,https://bit.ly/3C1WoWa
+j:JMLR,A Random Matrix Perspective on Random Tensors,http://jmlr.org/papers/v23/21-1038.html,https://bit.ly/3y8E8JK
+j:JMLR,The Interplay Between Implicit Bias and Benign Overfitting in Two-Layer Linear Networks,http://jmlr.org/papers/v23/21-1011.html,https://bit.ly/3SvzhKD
+j:JMLR,Estimation and inference on high-dimensional individualized treatment rule in observational data using split-and-pooled de-correlated score,http://jmlr.org/papers/v23/21-0993.html,https://bit.ly/3Ss8xuP
+j:JMLR,Auto-Sklearn 2.0: Hands-free AutoML via Meta-Learning,http://jmlr.org/papers/v23/21-0992.html,https://bit.ly/3y7zKdZ
+j:JMLR,A proof of convergence for the gradient descent optimization method with random initializations in the training of neural networks with ReLU activation for piecewise linear target functions,http://jmlr.org/papers/v23/21-0962.html,https://bit.ly/3CoPL1C
+j:JMLR,Learning Temporal Evolution of Spatial Dependence with Generalized Spatiotemporal Gaussian Process Models,http://jmlr.org/papers/v23/21-0952.html,https://bit.ly/3y7uDdA
+j:JMLR,Tree-Based Models for Correlated Data,http://jmlr.org/papers/v23/21-0885.html,https://bit.ly/3Cs6269
+j:JMLR,Sparse Continuous Distributions and Fenchel-Young Losses,http://jmlr.org/papers/v23/21-0879.html,https://bit.ly/3C3GmLw
+j:JMLR,On Constraints in First-Order Optimization: A View from Non-Smooth Dynamical Systems,http://jmlr.org/papers/v23/21-0798.html,https://bit.ly/3BX39J3
+j:JMLR,"Simple Agent, Complex Environment: Efficient Reinforcement Learning with Agent States",http://jmlr.org/papers/v23/21-0773.html,https://bit.ly/3Cne3Jw
+j:JMLR,Adaptive Greedy Algorithm for Moderately Large Dimensions in Kernel Conditional Density Estimation,http://jmlr.org/papers/v23/21-0582.html,https://bit.ly/3e15JWn
+j:JMLR,Greedification Operators for Policy Optimization: Investigating Forward and Reverse KL Divergences,http://jmlr.org/papers/v23/21-054.html,https://bit.ly/3CniMe2
+j:JMLR,A Closer Look at Embedding Propagation for Manifold Smoothing,http://jmlr.org/papers/v23/21-0468.html,https://bit.ly/3fummdr
+j:JMLR,Using Active Queries to Infer Symmetric Node Functions of Graph Dynamical Systems,http://jmlr.org/papers/v23/21-0409.html,https://bit.ly/3SpKoou
+j:JMLR,Non-asymptotic Properties of Individualized Treatment Rules from Sequentially Rule-Adaptive Trials,http://jmlr.org/papers/v23/21-0354.html,https://bit.ly/3SsimsE
+j:JMLR,Projected Robust PCA with Application to Smooth Image Recovery,http://jmlr.org/papers/v23/21-0347.html,https://bit.ly/3y7wboc
+j:JMLR,Double Spike Dirichlet Priors for Structured Weighting,http://jmlr.org/papers/v23/21-0335.html,https://bit.ly/3CoJxPb
+j:JMLR,Quantile regression with ReLU Networks: Estimators and minimax rates,http://jmlr.org/papers/v23/21-0309.html,https://bit.ly/3fyBSVE
+j:JMLR,Multivariate Boosted Trees and Applications to Forecasting and Control,http://jmlr.org/papers/v23/21-0247.html,https://bit.ly/3Cr6QIv
+j:JMLR,Mappings for Marginal Probabilities with Applications to Models in Statistical Physics,http://jmlr.org/papers/v23/21-0200.html,https://bit.ly/3SuTTms
+j:JMLR,Mitigating the Effects of Non-Identifiability on Inference for Bayesian Neural Networks with Latent Variables,http://jmlr.org/papers/v23/21-0152.html,https://bit.ly/3dY0xm9
+j:JMLR,Tree-based Node Aggregation in Sparse Graphical Models,http://jmlr.org/papers/v23/21-0105.html,https://bit.ly/3y7waRa
+j:JMLR,Bayesian Covariate-Dependent Gaussian Graphical Models with Varying Structure,http://jmlr.org/papers/v23/21-0102.html,https://bit.ly/3Cm15LX
+j:JMLR,Weakly Supervised Disentangled Generative Causal Representation Learning,http://jmlr.org/papers/v23/21-0080.html,https://bit.ly/3BYXB0r
+j:JMLR,MALTS: Matching After Learning to Stretch,http://jmlr.org/papers/v23/21-0053.html,https://bit.ly/3e1QSuY
+j:JMLR,Simple and Optimal Stochastic Gradient Methods for Nonsmooth Nonconvex Optimization,http://jmlr.org/papers/v23/21-0028.html,https://bit.ly/3Cqhijq
+j:JMLR,A Wasserstein Distance Approach for Concentration of Empirical Risk Estimates,http://jmlr.org/papers/v23/20-965.html,https://bit.ly/3CpsrRg
+j:JMLR,Nonparametric Principal Subspace Regression,http://jmlr.org/papers/v23/20-963.html,https://bit.ly/3BTfIos
+j:JMLR,KoPA: Automated Kronecker Product Approximation,http://jmlr.org/papers/v23/20-931.html,https://bit.ly/3y7wa3C
+j:JMLR,Bounding the Error of Discretized Langevin Algorithms for Non-Strongly Log-Concave Targets,http://jmlr.org/papers/v23/20-655.html,https://bit.ly/3CrZsg0
+j:JMLR,Change point localization in dependent dynamic nonparametric random dot product graphs,http://jmlr.org/papers/v23/20-643.html,https://bit.ly/3dZ4Ays
+j:JMLR,An Efficient Sampling Algorithm for Non-smooth Composite Potentials,http://jmlr.org/papers/v23/20-527.html,https://bit.ly/3SsKb3P
+j:JMLR,Gaussian Process Boosting,http://jmlr.org/papers/v23/20-322.html,https://bit.ly/3fx8vTG
+j:JMLR,"Representation Learning for Maximization of MI, Nonlinear ICA and Nonlinear Subspaces with Robust Density Ratio Estimation",http://jmlr.org/papers/v23/20-1469.html,https://bit.ly/3CphVtj
+j:JMLR,Multi-Task Dynamical Systems,http://jmlr.org/papers/v23/20-1446.html,https://bit.ly/3C3MseK
+j:JMLR,"Towards Practical Adam: Non-Convexity, Convergence Theory, and Mini-Batch Acceleration",http://jmlr.org/papers/v23/20-1438.html,https://bit.ly/3y7wcsg
+j:JMLR,Asymptotic Study of Stochastic Adaptive Algorithms in Non-convex Landscape,http://jmlr.org/papers/v23/20-1407.html,https://bit.ly/3C4dm6B
+j:JMLR,Gaussian Process Parameter Estimation Using Mini-batch Stochastic Gradient Descent: Convergence Guarantees and Empirical Benefits,http://jmlr.org/papers/v23/20-1365.html,https://bit.ly/3y7wbVe
+j:JMLR,Underspecification Presents Challenges for Credibility in Modern Machine Learning,http://jmlr.org/papers/v23/20-1335.html,https://bit.ly/3y7wcIM
+j:JMLR,Two-Sample Testing on Ranked Preference Data and the Role of Modeling Assumptions,http://jmlr.org/papers/v23/20-1304.html,https://bit.ly/3SutkxI
+j:JMLR,Getting Better from Worse: Augmented Bagging and A Cautionary Tale of Variable Importance,http://jmlr.org/papers/v23/20-1264.html,https://bit.ly/3Swpp3i
+j:JMLR,On Acceleration for Convex Composite Minimization with Noise-Corrupted Gradients and Approximate Proximal Mapping,http://jmlr.org/papers/v23/20-1179.html,https://bit.ly/3CphW0l
+j:JMLR,Variance Reduced EXTRA and DIGing and Their Optimal Acceleration for Strongly Convex Decentralized Optimization,http://jmlr.org/papers/v23/20-1130.html,https://bit.ly/3StkRuH
+j:JMLR,Behavior Priors for Efficient Reinforcement Learning,http://jmlr.org/papers/v23/20-1038.html,https://bit.ly/3BZcHDe
+j:JMLR,Robust Distributed Accelerated Stochastic Gradient Methods for Multi-Agent Networks,http://jmlr.org/papers/v23/19-939.html,https://bit.ly/3CphWNT
+j:JMLR,Structural Agnostic Modeling: Adversarial Learning of Causal Graphs,http://jmlr.org/papers/v23/19-529.html,https://bit.ly/3SvQOCv
