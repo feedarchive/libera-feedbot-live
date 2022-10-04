@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Nimble Studio announces availability of Windows Server 2022 base image,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-nimble-studio-availability-windows-server-2022-base-image/,https://go.aws/3TcW2mT
+AWS:WhatsNew,Amazon Virtual Private Cloud (VPC) now supports two new CloudWatch metrics to measure and track network address usage,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-now-supports-new-cloudwatch-metrics-measure-track-network-address-usage/,https://go.aws/3EeesiL
+AWS:WhatsNew,AWS IoT SiteWise increasing quota limit for Assets and Asset Models,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-sitewise-quota-limit-assests-asset-models/,https://go.aws/3SXXclI
+AWS:WhatsNew,IAM Access Analyzer makes it easier to author and validate role trust policies,https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-author-validate-role-trust-policies/,https://go.aws/3CxysM4
