@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Neuron adds support for Amazon EC2 Trn1 instances to unlock high-performance, cost-effective deep learning training at scale",https://aws.amazon.com/about-aws/whats-new/2022/10/aws-neuron-amazon-ec2-trn1-instances-high-performance-cost-effective-deep-learning-training-scale/,https://go.aws/3yuGWB4
+AWS:WhatsNew,"Announcing Amazon EC2 Trn1 instances for high-performance, cost-effective deep learning training",https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-trn1-instances-high-performance-cost-effective-deep-learning-training/,https://go.aws/3VlqEUP
+AWS:WhatsNew,Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration,https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/,https://go.aws/3Euvk4Q
