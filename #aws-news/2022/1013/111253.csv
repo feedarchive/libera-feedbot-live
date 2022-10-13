@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,Apparently there's an AWS issue that causes AWS CLI not being able to get credentials if you try to log in with AWS SSO,https://redd.it/y2tfe3,
