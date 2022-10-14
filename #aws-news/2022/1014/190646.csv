@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transfer Family now supports post-upload processing of partially uploaded files,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/,https://go.aws/3T4vrsa
+AWS:WhatsNew,"Amazon EC2 High Memory instances are now available in Asia Pacific (Singapore), Canada (Central), and AWS GovCloud (US-East) regions",https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/,https://go.aws/3SVVl1n
+AWS:WhatsNew,AWS SAM CLI Pipelines now supports Open ID Connect Protocol,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/,https://go.aws/3g31wSF
