@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS now supports automating connectivity set up between an existing RDS or Aurora database and an EC2 compute instance,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/,https://go.aws/3Tqfts6
+AWS:WhatsNew,AWS Glue Crawlers support incremental Amazon S3 crawling on existing AWS Glue Data Catalog tables,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/,https://go.aws/3CYeBWo
