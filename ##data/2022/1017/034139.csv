@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PwC:Latest,/mlvlab/ TokenMixup: Efficient Attention-guided Token-level Data Augmentation for Transformers: https://github.com/mlvlab/tokenmixup,https://paperswithcode.com/paper/tokenmixup-efficient-attention-guided-token,https://bit.ly/3CZJycT
+PwC:Latest,/cvmi-lab/ Is synthetic data from generative models ready for image recognition?: https://github.com/cvmi-lab/syntheticdata,https://paperswithcode.com/paper/is-synthetic-data-from-generative-models,https://bit.ly/3VzMfJi
+PwC:Latest,/ritual-uh/ Style Transfer as Data Augmentation: A Case Study on Named Entity Recognition: https://github.com/ritual-uh/da_ner,https://paperswithcode.com/paper/style-transfer-as-data-augmentation-a-case,https://bit.ly/3VBEjHM
