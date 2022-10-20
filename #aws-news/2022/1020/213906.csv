@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudFormation language extensions transform is now available in AWS GovCloud,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-language-extensions-transform-available-aws-govcloud/,https://go.aws/3MSHbMb
+AWS:WhatsNew,AWS Service Management Connector now streamlines display of AWS Service Catalog products by Account and Region in ServiceNow Service Portal,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-service-management-connector-streamlines-display-aws-service-catalog-products-account-region-servicenow-service-portal/,https://go.aws/3s9ufYZ
+AWS:WhatsNew,IAM Identity Center adds session management features for improved user experience and cloud security,https://aws.amazon.com/about-aws/whats-new/2022/10/iam-identity-center-session-management-features-improved-user-experience-cloud-security/,https://go.aws/3z0HAXf
+AWS:WhatsNew,Amazon CloudFront adds fields for origin latency and ASN in real-time logs for more granular insights,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudfront-fields-origin-latency-asn-real-time-logs-granular-insights/,https://go.aws/3gu76xu
