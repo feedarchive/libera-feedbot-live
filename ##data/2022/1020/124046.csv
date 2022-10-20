@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:OpenData,Digital Earth Africa CHIRPS Rainfall,https://registry.opendata.aws/deafrica-chirps,https://bit.ly/3EYxVnU
+AWS:OpenData,Digital Earth Africa Fractional Cover,https://registry.opendata.aws/deafrica-fractional-cover,https://bit.ly/3MLTsC1
+AWS:OpenData,Digital Earth Africa Coastlines,https://registry.opendata.aws/deafrica-coastlines,https://bit.ly/3MNviXN
+AWS:OpenData,Digital Earth Africa Cropland Extent Map (2019),https://registry.opendata.aws/deafrica-crop-extent,https://bit.ly/3MLtMFE
