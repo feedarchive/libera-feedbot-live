@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.13.0-rc5: [MPS] Revamp copy_to_mps_ implementation (#87475),https://github.com/pytorch/pytorch/releases/tag/v1.13.0-rc5,
