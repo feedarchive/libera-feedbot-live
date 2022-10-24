@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 Replication now supports SSE-C encrypted objects,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-replication-sse-c-encrypted-objects/,https://go.aws/3sqRP3C
+AWS:WhatsNew,AWS Global Accelerator announces AddEndpoints and RemoveEndpoints APIs,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoints-removeendpoints-apis/,https://go.aws/3sw4r9j
