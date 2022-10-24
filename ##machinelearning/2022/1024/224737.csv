@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.13.0-rc6: attempted fix for nvrtc with lovelace (#87611) (#87618),https://github.com/pytorch/pytorch/releases/tag/v1.13.0-rc6,
