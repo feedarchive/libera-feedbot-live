@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora now supports T4g instances in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-supports-t4g-instances-aws-govcloud-us-regions/,https://go.aws/3gC8nmu
+AWS:WhatsNew,AWS Batch increases compute and memory resource configurations for Fargate type jobs by 4X,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-increases-compute-memory-resource-configurations-fargate-type-jobs-4x/,https://go.aws/3D2AnqT
