@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Organizations console now allows users to centrally manage primary contact information on AWS accounts,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-organizations-console-centrally-manage-primary-contact-information-aws-accounts/,https://go.aws/3TWqMJ6
+AWS:WhatsNew,AWS Resource Access Manager is now available in the Middle East (UAE) Region,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-resource-manager-available-middle-east-uae-region/,https://go.aws/3fctfjE
+AWS:WhatsNew,CDK For Kubernetes (CDK8s) announces general availability of CDK8s+ and manifest validation support,https://aws.amazon.com/about-aws/whats-new/2022/10/cdk-kubernetes-cdk8s-availability-manifest-validation-support/,https://go.aws/3W1cXuJ
