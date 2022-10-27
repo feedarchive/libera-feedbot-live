@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+PwC:Latest,/smlab-niser/ MIMA -- Multifunctional IoT Integrated Menstrual Aid: https://github.com/smlab-niser/mima2022,https://paperswithcode.com/paper/mima-multifunctional-iot-integrated-menstrual,https://bit.ly/3TIFbsC
+PwC:Latest,/algohunt/ Streaming Radiance Fields for 3D Video Synthesis: https://github.com/algohunt/streamrf,https://paperswithcode.com/paper/streaming-radiance-fields-for-3d-video,https://bit.ly/3TZg4l0
+PwC:Latest,"/mkunes/ Multitask Detection of Speaker Changes, Overlapping Speech and Voice Activity Using wav2vec 2.0: https://github.com/mkunes/w2v2_audioframeclassification",https://paperswithcode.com/paper/multitask-detection-of-speaker-changes,https://bit.ly/3gLtUcn
+PwC:Latest,/rwth-i6/ Monotonic segmental attention for automatic speech recognition: https://github.com/rwth-i6/returnn-experiments,https://paperswithcode.com/paper/monotonic-segmental-attention-for-automatic,https://bit.ly/3FqStWi
+PwC:Latest,/jyanqa/ Causality Detection using Multiple Annotation Decision: https://github.com/jyanqa/case-2022-causual-event,https://paperswithcode.com/paper/causality-detection-using-multiple-annotation,https://bit.ly/3TKh7FE
+PwC:Latest,/jolars/ Coordinate Descent for SLOPE: https://github.com/jolars/slopepy,https://paperswithcode.com/paper/coordinate-descent-for-slope,https://bit.ly/3TJoA7Q
+PwC:Latest,/ykotseruba/ TAMFormer: Multi-Modal Transformer with Learned Attention Mask for Early Intent Prediction: https://github.com/ykotseruba/PedestrianActionBenchmark,https://paperswithcode.com/paper/tamformer-multi-modal-transformer-with,https://bit.ly/3TNCS7B
+PwC:Latest,/rosanajurdi/ How precise are performance estimates for typical medical image segmentation tasks?: https://github.com/rosanajurdi/segval,https://paperswithcode.com/paper/how-precise-are-performance-estimates-for,https://bit.ly/3zla6TQ
+PwC:Latest,/keiserlab/ A single-cell gene expression language model: https://github.com/keiserlab/exceiver,https://paperswithcode.com/paper/a-single-cell-gene-expression-language-model,https://bit.ly/3TSB1hw
