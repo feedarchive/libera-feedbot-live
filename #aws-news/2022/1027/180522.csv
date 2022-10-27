@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing Amazon EMR Hive improvements: Metastore check (MSCK) command optimization and Parquet Modular Encryption,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-emr-hive-metastore-check-msck-command-optimization-parquet-modular-encryption/,https://go.aws/3TK4gmP
+AWS:WhatsNew,Announcing General Availability of Amazon EC2 i4i.metal instance for VMware Cloud on AWS,https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-amazon-ec2-i4i-metal-instance-vmware-cloud-aws/,https://go.aws/3W9DCFS
+AWS:WhatsNew,Amazon RDS for Oracle now supports memory optimized R5b instance types,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-oracle-supports-memory-optimized-r5b-instance-types/,https://go.aws/3f9T3gz
+AWS:WhatsNew,Announcing general availability of SQL Notebooks support in Amazon Redshift Query Editor,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-query-editor-sql-notebooks-support/,https://go.aws/3W9DCpm
