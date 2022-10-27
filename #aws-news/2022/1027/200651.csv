@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Avoid runaway queries and improve query resiliency to spot interruptions with PrestoDB and Trino on EMR 6.8,https://aws.amazon.com/about-aws/whats-new/2022/10/avoid-runaway-queries-improve-query-resiliency-spot-interruptions-prestodb-trino-emr-6-8/,https://go.aws/3zmf9De
+AWS:WhatsNew,AWS Console Mobile Application adds support for AWS CloudShell,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-console-mobile-application-adds-support-aws-cloudshell/,https://go.aws/3zo7swx
