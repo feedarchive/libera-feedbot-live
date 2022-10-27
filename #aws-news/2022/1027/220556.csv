@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 G5 instances now available in Stockholm region,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/,https://go.aws/3W99B93
+AWS:WhatsNew,AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe (Paris) region,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-paris-region/,https://go.aws/3DcSPgt
+AWS:WhatsNew,Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific (Singapore) Region,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-is4gen-im4gn-instances-available-asia-pacific-singapore-region/,https://go.aws/3gMncms
+AWS:WhatsNew,Amazon EC2 enables easier patching of guest operating system and applications with Replace Root Volume,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-enables-patching-guest-operating-system-application-replace-root-volume/,https://go.aws/3TYkfxo
+AWS:WhatsNew,AWS WAF launches Challenge rule action and Bot Control for Targeted Bots,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-waf-challenge-rule-action-bot-control-targeted-bots/,https://go.aws/3U69hWT
+AWS:WhatsNew,Amazon Aurora supports cluster export to S3,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-cluster-export-s3/,https://go.aws/3SJtyjJ
