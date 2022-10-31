@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Virtual Private Cloud (VPC) now supports the transfer of Elastic IP addresses between AWS accounts,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-transfer-elastic-ip-addresses-between-aws-accounts/,https://go.aws/3fkRAEd
+AWS:WhatsNew,Amazon Kinesis Data Streams adds capability to easily inspect data records in AWS Management Console,https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-kinesis-data-streams-capability-inspect-data-records-aws-management-console/,https://go.aws/3zsAbQI
+AWS:WhatsNew,Announcing certificate-based authentication for Amazon AppStream 2.0,https://aws.amazon.com/about-aws/whats-new/2022/10/certificate-based-authentication-amazon-appstream-2-0/,https://go.aws/3sN8hey
+AWS:WhatsNew,AWS IoT Core announces Location Action to route location data from IoT devices to Amazon Location Service,https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-core-location-action-route-location-data-iot-devices-amazon-location-service/,https://go.aws/3zwhRWQ
