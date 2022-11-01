@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Braket adds support for a neutral atom quantum processor named Aquila from QuEra Computing Inc,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-braket-neutral-atom-quantum-processor-named-aquila-quera-computing-inc/,https://go.aws/3FFtqz7
+AWS:WhatsNew,AWS App Runner now supports privately accessible services within Amazon VPC,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/,https://go.aws/3Ukb8aJ
+AWS:WhatsNew,"Amazon Connect launches API to make an agent eligible for new contacts, after a missed contact",https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-api-agent-new-contacts-missed-contact/,https://go.aws/3NpJzuc
+AWS:WhatsNew,Amazon RDS Custom for SQL Server now supports scaling storage,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-sql-server-scaling-storage/,https://go.aws/3DOpF98
