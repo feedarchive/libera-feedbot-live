@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Textract announces updates to the forms and text extraction features,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-forms-text-extraction-features/,https://go.aws/3Um03Wm
+AWS:WhatsNew,Amazon SageMaker Autopilot now provides feature selection and the ability to change data types while creating an AutoML experiment,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-feature-selection-ability-change-data-types-creating-automl-experiment/,https://go.aws/3FNAU2K
+AWS:WhatsNew,Amazon SageMaker Autopilot experiments are now up to 2x faster in Hyperparameter Optimization training mode,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-experiments-2x-faster-hyperparameter-optimization-training-mode/,https://go.aws/3FF4Vlh
+AWS:WhatsNew,Amazon Polly launches a Dutch NTTS voice,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-launches-dutch-ntts-voice/,https://go.aws/3NxaUKZ
