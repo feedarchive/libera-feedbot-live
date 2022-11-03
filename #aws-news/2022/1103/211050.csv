@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-10-gb-ephemeral-storage-lambda-functions-aws-govcloud-us-regions/,https://go.aws/3Uh26va
+AWS:WhatsNew,Announcing data tiering for Amazon MemoryDB for Redis,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-data-tiering/,https://go.aws/3T5nAKn
