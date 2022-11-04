@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudFormation now supports Amazon RDS Multi-AZ deployments with two readable standbys,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-supports-amazon-rds-multi-az-deployments-readable-standbys/,https://go.aws/3DElYBC
+AWS:WhatsNew,AWS Security Hub adds Wiz as a new integration partner,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-wiz-integration-partner/,https://go.aws/3NIvwA3
