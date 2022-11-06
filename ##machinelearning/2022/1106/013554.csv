@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,PyTorch 1.13: beta versions of functorch and improved support for Apple’s new M1 chips are now available,https://github.com/pytorch/pytorch/releases/tag/v1.13.0,
+GitHub:pytorch,"PyTorch 1.12.1 Release, small bug fix release",https://github.com/pytorch/pytorch/releases/tag/v1.12.1,
