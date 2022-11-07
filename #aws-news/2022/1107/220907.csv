@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for SQL Server Now Supports Access to Transaction Log Backups,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-supports-access-transaction-log-backups/,https://go.aws/3NP8iZg
+AWS:WhatsNew,Amazon SageMaker Canvas announces encryption support with customer managed keys for time series forecast models,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-encryption-keys-time-series-forecast-models/,https://go.aws/3t7GRAc
+AWS:WhatsNew,Amazon SageMaker Canvas announces support for correlation matrices for advanced data analysis,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-correlation-matrices-data-analysis/,https://go.aws/3EcmKqT
+AWS:WhatsNew,AWS Well-Architected Tool improves workload discovery and speeds up reviews,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-well-architected-tool-workload-discovery-speeds-reviews/,https://go.aws/3zSUl6w
