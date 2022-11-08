@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing AWS Resource Explorer,https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/,https://go.aws/3WMGUza
+AWS:WhatsNew,Amazon CloudWatch Logs now supports export to SSE-KMS encrypted S3 buckets,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-logs-supports-export-sse-kms-encrypted-s3-buckets/,https://go.aws/3WILVbQ
+AWS:WhatsNew,AWS Certificate Manager now supports Elliptic Curve Digital Signature Algorithm TLS certificates,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-certificate-manager-elliptic-curve-digital-signature-algorithm-tls-certificates/,https://go.aws/3UBl1Br
