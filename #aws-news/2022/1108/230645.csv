@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 placement groups can now be shared across multiple AWS accounts,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-placement-groups-shared-across-multiple-aws-accounts/,https://go.aws/3teYK03
+AWS:WhatsNew,Amazon Athena announces Query Result Reuse to accelerate queries,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-query-result-reuse-accelerate-queries/,https://go.aws/3zVeLMk
