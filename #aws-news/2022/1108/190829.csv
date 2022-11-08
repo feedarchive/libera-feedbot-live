@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle now supports July 2022 Release Updates (RU) for 21c,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-supports-july-2022-release-updates-ru-21c/,https://go.aws/3WWvlWa
+AWS:WhatsNew,AWS CloudTrail announces delegated administrator account support for AWS Organizations,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/,https://go.aws/3WPu03s
+AWS:WhatsNew,Amazon OpenSearch Service announces support for cross-VPC connectivity powered by AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-cross-vpc-connectivity-aws-privatelink/,https://go.aws/3tc4dEG
+AWS:WhatsNew,"Amazon Polly adds neural support for Swedish, Norwegian and Finnish",https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-neural-support-swedish-norwegian-finnish/,https://go.aws/3WIXuzQ
