@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Security Hub launches support for the Center for Internet Security’s (CIS) AWS Foundations Benchmark version 1.4.0,https://aws.amazon.com/about-aws/whats-new/2022/11/security-hub-center-internet-securitys-cis-foundations-benchmark-version-1-4-0/,https://go.aws/3fLzwn2
+AWS:WhatsNew,Amazon Keyspaces now supports the Murmur3Partioner,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-keyspaces-supports-murmur3partioner/,https://go.aws/3G4purS
+AWS:WhatsNew,"Amazon EC2 C6id, M6id, R6id instances are now available in additional regions",https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c6id-m6id-r6id-instances-additional-regions/,https://go.aws/3G2yFcj
