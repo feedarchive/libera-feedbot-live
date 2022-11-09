@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon QuickSight now supports monitoring of SPICE consumption by sending metrics to Amazon CloudWatch,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-monitoring-spice-consumption-sending-metrics-cloudwatch/,https://go.aws/3NPNeSh
+AWS:WhatsNew,Amazon RDS now supports new General Purpose gp3 storage volumes,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-general-purpose-gp3-storage-volumes/,https://go.aws/3NRgHLs
+AWS:WhatsNew,AWS Transfer Family is now available in the AWS Asia Pacific (Jakarta) Region,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-transfer-family-available-asia-pacific-jakarta-region/,https://go.aws/3NS0HsM
+AWS:WhatsNew,"Amazon EC2 announces network bandwidth support in attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet",https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-network-bandwith-support-instance-auto-scaling-ec2-fleet-spot-fleet/,https://go.aws/3NRWp4A
+AWS:WhatsNew,AWS Config now supports 14 new resource types,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/,https://go.aws/3NP3cw5
+AWS:WhatsNew,"Amazon EC2 now supports specifying list of instance types to use in attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet",https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-specifying-instance-types-selection-ec2-spot-fleet-auto-scaling/,https://go.aws/3EfYAvA
+AWS:WhatsNew,Announcing recurring custom line items for AWS Billing Conductor,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-recurring-custom-line-items/,https://go.aws/3Ej8ay0
