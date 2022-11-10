@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing Amazon WorkSpaces API to seamlessly migrate to WSP protocol,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-api-migrate-wsp-protocol/,https://go.aws/3EiPkHd
+AWS:WhatsNew,"AWS Lambda announces Telemetry API, further enriching monitoring and observability capabilities of Lambda Extensions",https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-telemetry-api-enriching-monitoring-observability-capabilities-lambda-extensions/,https://go.aws/3UMGYNy
+AWS:WhatsNew,"Amazon Aurora supports PostgreSQL 14.5, 13.8, 12.12, and 11.17 versions and logical replication cache",https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-supports-postgresql-versions-logical-replication-cache/,https://go.aws/3G6fKx9
