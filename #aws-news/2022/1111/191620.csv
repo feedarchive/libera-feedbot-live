@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Secrets Manager increases the API Requests per Second limits,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-secrets-manager-increases-api-requests-per-second-limits/,https://go.aws/3AvNEYL
+AWS:WhatsNew,Amazon RDS for MySQL supports new minor version 5.7.40,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-mysql-supports-new-minor-version-5-7-40/,https://go.aws/3Em2Idz
+AWS:WhatsNew,Amazon EC2 announces new price and capacity optimized allocation strategy for provisioning Amazon EC2 Spot Instances,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-price-capacity-optimized-allocation-strategy-provisioning-ec2-spot-instances/,https://go.aws/3g5tZYi
+AWS:WhatsNew,Announcing Amazon SageMaker Model Training support for ml.trn1 instances,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-model-training-support-ml-trn1-instances/,https://go.aws/3fVW3xi
+AWS:WhatsNew,The IPv6 Subnet default gateway router now supports multiple addresses,https://aws.amazon.com/about-aws/whats-new/2022/11/ipv6-subnet-default-gateway-router-multiple-addresses/,https://go.aws/3fZgTMq
+AWS:WhatsNew,AWS Backup now supports restore of VMware workloads to Amazon EC2,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-restore-vmware-workloads-amazon-ec2/,https://go.aws/3WSI10a
+AWS:WhatsNew,Amazon RDS for Oracle now supports October 2022 Release Updates (RU) for 19c and 21c,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-october-2022-release-updates/,https://go.aws/3G9ZBqv
