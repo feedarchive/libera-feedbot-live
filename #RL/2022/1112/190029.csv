@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"Hi, i am reading about Divergence in Reinforcement Learn'g but still not clear. Does it occur mainly due to greedy learning or is prevalent even in Policy Gradient algorithms. Does it depend on the initial value. What generally cause divergence ?Can someone explain or provide some reference text.",https://redd.it/yszbs7,
