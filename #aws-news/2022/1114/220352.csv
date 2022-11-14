@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EventBridge now supports enhanced filtering capabilities,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-enhanced-filtering-capabilities/,https://go.aws/3tzHmmE
+AWS:WhatsNew,Amazon S3 request-level information on use of access control lists (ACLs) coming to S3 server access logs and AWS CloudTrail,https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/,https://go.aws/3AfvRF3
+AWS:WhatsNew,AWS IoT Device Management now supports browser-based SSH via Secure Tunneling,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-management-supports-browser-based-ssh-secure-tunneling/,https://go.aws/3EweVMN
