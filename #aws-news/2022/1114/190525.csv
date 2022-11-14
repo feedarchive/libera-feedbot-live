@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Catalog API now supports Tag-Based Authorization of resources,https://aws.amazon.com/about-aws/whats-new/2022/11/catalog-api-supports-tag-based-authorization-resources/,https://go.aws/3O4EuHU
+AWS:WhatsNew,Amazon S3 Object Lambda is now available in the Asia Pacific (Osaka) AWS Region,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-object-lambda-available-asia-pacific-osaka-aws-region/,https://go.aws/3X0bDZo
+AWS:WhatsNew,Amazon Athena expands support for AWS Lake Formation fine-grained access control,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-support-lake-formation-fine-grained-access-control/,https://go.aws/3GgkcJY
+AWS:WhatsNew,AWS Controllers for Kubernetes (ACK) for Amazon Elastic Compute Cloud (EC2) is now generally available,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-controllers-kubernetes-ack-elastic-compute-cloud-ec2-generally-available/,https://go.aws/3twDVNU
+AWS:WhatsNew,Amazon Managed Workflows for Apache Airflow (MWAA) is now HIPAA eligible,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-workflows-apache-airflow-mwaa-hipaa-eligible/,https://go.aws/3X117Bj
+AWS:WhatsNew,AWS re:Post launches a community leaderboard,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-launches-community-leaderboard/,https://go.aws/3UZVyBr
