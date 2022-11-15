@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle now supports Amazon Elastic File System (EFS) integration,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-amazon-elastic-file-system-integration/,https://go.aws/3OaxPMy
+AWS:WhatsNew,Amazon HealthLake announces enhanced analytics feature,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-healthlake-enhanced-analytics-feature/,https://go.aws/3O8cEdU
+AWS:WhatsNew,Amazon Connect Customer Profiles now supports profile search using multiple search terms through the API,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-search-terms-api/,https://go.aws/3O6SAIZ
+AWS:WhatsNew,Concurrency scaling for write workloads is now generally available for Amazon Redshift,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-concurrency-scaling-write-workloads/,https://go.aws/3OctGb6
