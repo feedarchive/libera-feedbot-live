@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Managed Service for Prometheus supports 200M active metrics per workspace,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-service-prometheus-200m-active-metrics-workspace/,https://go.aws/3OcRRpQ
+AWS:WhatsNew,Amazon RDS events now include attributes for filtering with Amazon SNS,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-events-include-attributes-filtering-amazon-sns/,https://go.aws/3EzoCKr
+AWS:WhatsNew,AWS Elemental MediaConnect adds support for high-fidelity color workloads,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-elemental-mediaconnect-high-fidelity-color-workloads/,https://go.aws/3EzOvd9
+AWS:WhatsNew,AWS SAM CLI introduces Terraform support for AWS Lambda local testing and debugging,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sam-cli-terraform-support-lambda-local-testing-debugging/,https://go.aws/3AiKS8Y
+AWS:WhatsNew,"AWS re:Post is accessible to users in five additional languages - Traditional Chinese, Simplified Chinese, French, Japanese, and Korean",https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-five-additional-languages/,https://go.aws/3O7nu3U
+AWS:WhatsNew,Introducing Amazon HealthLake Imaging preview,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-healthlake-imaging-preview/,https://go.aws/3EBs5IG
