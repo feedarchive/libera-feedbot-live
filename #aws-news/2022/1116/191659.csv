@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,App2Container Support for EKS Blueprints,https://aws.amazon.com/about-aws/whats-new/2022/11/app2container-support-eks-blueprints/,https://go.aws/3tBqwUQ
+AWS:WhatsNew,Amazon EC2 increases size limit for AMI store and restore operations,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-increases-size-limit-ami-store-restore-operations/,https://go.aws/3TQdddS
+AWS:WhatsNew,AWS Microservice Extractor for .NET now extracts and ports code from Web Forms and WCF to .NET on Linux,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-microservice-extractor-net-extracts-ports-code-web-forms-linux/,https://go.aws/3OdDEc6
