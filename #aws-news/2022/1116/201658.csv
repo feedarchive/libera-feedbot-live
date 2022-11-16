@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Service now supports OpenSearch version 2.3,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-service-supports-opensearch-version-2-3/,https://go.aws/3TIqDIJ
+AWS:WhatsNew,AWS Proton now supports AWS CDK through CodeBuild provisioning,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-supports-cdk-codebuild-provisioning/,https://go.aws/3GmKom8
+AWS:WhatsNew,AWS Migration Hub Refactor Spaces now automatically handles DNS changes,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-dns-changes/,https://go.aws/3TGQtg4
