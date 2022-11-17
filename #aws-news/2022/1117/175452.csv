@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Amplify Hosting announces support for Next.js 12 and 13,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-hosting-support-next-js-12-13/,https://go.aws/3TK8Ror
+AWS:WhatsNew,AWS IoT Device Management now supports up to twelve query terms for more granular search and monitoring,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-management-supports-query-terms-granular-search-monitoring/,https://go.aws/3X5emB3
+AWS:WhatsNew,Build event-driven applications with AWS CloudFormation StackSets event notifications in Amazon EventBridge,https://aws.amazon.com/about-aws/whats-new/2022/11/event-driven-applications-cloudformation-stacksets-event-notifications-eventbridge/,https://go.aws/3GqAdgq
