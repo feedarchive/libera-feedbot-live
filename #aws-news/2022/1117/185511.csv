@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Security Hub now supports bidirectional integration via AWS Service Management Connector for Atlassian’s Jira Service Management Cloud,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-bidirectional-integration-connector-atlassians-jira-management-cloud/,https://go.aws/3gfNspw
+AWS:WhatsNew,Amazon WorkSpaces announces version 2.0 of WorkSpaces Streaming Protocol,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-version-2-0-streaming-protocol/,https://go.aws/3tAi1cB
+AWS:WhatsNew,AWS Service Management Connector now supports provisioning AWS Service Catalog products in Atlassian’s Jira Service Management Cloud,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-service-management-connector-catalog-jira-service-management-cloud/,https://go.aws/3EFfO5H
+AWS:WhatsNew,AWS Systems Manager Incident Manager now streamlines responses to Jira Service Management Cloud Incidents via AWS Service Management Connector,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-responses-jira-cloud-service-management-connector/,https://go.aws/3ED5yLt
