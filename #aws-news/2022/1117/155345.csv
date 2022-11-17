@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Application Load Balancers now support turning off cross zone load balancing per target group,https://aws.amazon.com/about-aws/whats-new/2022/11/application-load-balancers-turning-off-cross-zone-load-balancing-per-target-group/,https://go.aws/3ECmBNJ
