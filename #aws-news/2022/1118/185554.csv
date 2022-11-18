@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Observe and monitor SAP NetWeaver applications with Amazon CloudWatch Application Insights,https://aws.amazon.com/about-aws/whats-new/2022/11/observe-monitor-sap-netweaver-applications-cloudwatch-application-insights/,https://go.aws/3tDKoGR
+AWS:WhatsNew,AWS IoT TwinMaker now supports camera view and sub-model selection,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-camera-view-sub-model-selection/,https://go.aws/3tHg7H3
+AWS:WhatsNew,AWS IoT TwinMaker now supports data connector to Amazon Athena,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-data-connector-amazon-athena/,https://go.aws/3UHyhUZ
+AWS:WhatsNew,Amazon Personalize enables customers to measure the impact of their recommendations,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-personalize-enables-measure-impact-recommendations/,https://go.aws/3tNTqkl
+AWS:WhatsNew,AWS Lambda adds support for Node.js 18,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-node-js-18/,https://go.aws/3GpN2rj
+AWS:WhatsNew,Announcing certificate-based authentication for Amazon WorkSpaces,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-certificate-based-authentication/,https://go.aws/3V24hDe
+AWS:WhatsNew,Amazon Athena enhances Apache Iceberg table operations and file format support,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-enhances-apache-iceberg-table-operations-file-format-support/,https://go.aws/3EJmwb7
+AWS:WhatsNew,"Amazon RDS for PostgreSQL supports new minor versions 14.5, 13.8, 12.12, 11.17, and 10.22",https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-postgresql-new-minor-versions/,https://go.aws/3tKRxVP
+AWS:WhatsNew,Announcing General Availability for Amazon WorkSpaces Integration with SAML 2.0,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-integration-saml-2-0-availability/,https://go.aws/3URd5vV
+AWS:WhatsNew,AWS Database Migration Service now supports Internet Protocol version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2022/11/aws-database-migration-service-supports-ipv6/,https://go.aws/3UPnfx3
+AWS:WhatsNew,Amazon AppFlow launches monitoring with Amazon CloudWatch metrics,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-monitoring-amazon-cloudwatch-metrics/,https://go.aws/3UNvJ7D
