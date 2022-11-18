@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Simplify cross-account access for your AWS services with AWS Step Functions,https://aws.amazon.com/about-aws/whats-new/2022/11/simplify-cross-account-access-aws-services-step-functions/,https://go.aws/3XcJRJt
+AWS:WhatsNew,Announcing AWS Service Catalog AppRegistry support for automatic associations based on tags,https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-appregistry-support-automatic-associations-based-tags/,https://go.aws/3TPFlgU
+AWS:WhatsNew,AWS Audit Manager now provides search-based filtering and grouping to help with noncompliance root-cause analysis,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-audit-manager-search-based-filtering-grouping-root-cause-analysis/,https://go.aws/3glDhj9
+AWS:WhatsNew,AWS Migration Hub Refactor Spaces is now integrated with CloudHedge OmniDeq to speed container modernization,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-integrated-cloudhedge-omnideq-speed-container-modernization/,https://go.aws/3AsvlmS
+AWS:WhatsNew,"AWS Launch Wizard now supports additional SAP scaling scenarios, RHEL 8/6, and hourly pricing for 18/24 TB High Memory Instances",https://aws.amazon.com/about-aws/whats-new/2022/11/aws-launch-wizard-sap-scaling-scenarios-high-memory-instances/,https://go.aws/3XcJTRB
+AWS:WhatsNew,Amazon Athena releases data source connector for IBM Db2,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-data-source-connector-ibm-db2/,https://go.aws/3ArLR6K
