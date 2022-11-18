@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Organizations tag policies are now available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2022/11/organizations-tag-policies-available-aws-govcloud-us-regions/,https://go.aws/3OiwaV4
+AWS:WhatsNew,Amazon Forecast generates predictions for products with no historical data that is more accurate than before,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-forecast-generates-predictions-products-historical-data-more-accurate/,https://go.aws/3USXkoi
+AWS:WhatsNew,Introducing cross-account sharing to direct IAM principals and sharing with AWS Organization units using LF-TBAC in AWS Lake Formation,https://aws.amazon.com/about-aws/whats-new/2022/11/cross-account-sharing-direct-iam-principals-sharing-organization-units-lf-tbac-lake-formation/,https://go.aws/3TJmbcN
