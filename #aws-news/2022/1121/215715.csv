@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Service Catalog now supports syncing products with Infrastructure as Code template files from GitHub, GitHub Enterprise, or Bitbucket",https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-syncing-products-infrastructure-code-template-files-github-enterprise-bitbucket/,https://go.aws/3UXNHEO
+AWS:WhatsNew,AWS Backup announces support for SAP HANA databases on Amazon EC2 in Preview,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-sap-hana-databases-amazon-ec2-preview/,https://go.aws/3VhPYdw
+AWS:WhatsNew,Amazon RDS Custom for Oracle now supports Oracle Home customization,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-oracle-home-customization/,https://go.aws/3VezfYx
+AWS:WhatsNew,QuickSight dashboards now available for seller reporting and insights in AWS Marketplace (Preview),https://aws.amazon.com/about-aws/whats-new/2022/11/quicksight-dashboards-seller-reporting-insights-aws-marketplace-preview/,https://go.aws/3AyDG8X
