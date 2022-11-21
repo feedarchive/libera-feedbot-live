@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 Select improves query performance by up to 9x when using Trino,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-select-improves-query-performance-trino/,https://go.aws/3ErgVEX
+AWS:WhatsNew,Amazon EventBridge introduces new capabilities that make it simpler to build rules,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-capabilities-build-rules/,https://go.aws/3XeqijQ
+AWS:WhatsNew,Run long running fault-tolerant SQL queries with Trino and Amazon EMR with checkpointing on Amazon S3 or HDFS,https://aws.amazon.com/about-aws/whats-new/2022/11/run-long-sql-queries-trino-amazon-emr-checkpointing-amazon-s3-hdfs/,https://go.aws/3VerZvN
+AWS:WhatsNew,AWS Lambda announces support for Attribute-Based Access Control (ABAC) in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-abac-aws-govcloud-us-regions/,https://go.aws/3hQWTfk
