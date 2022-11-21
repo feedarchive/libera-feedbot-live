@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Secrets Manager now supports rotation of secrets as often as every four hours,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-secrets-manager-rotation-secrets-as-often-as-four-hours/,https://go.aws/3gpGH4t
+AWS:WhatsNew,Amazon CloudFront launches continuous deployment support,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-continuous-deployment-support/,https://go.aws/3Ve1Hdh
