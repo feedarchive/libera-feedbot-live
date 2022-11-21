@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS X-Ray adds trace linking for event-driven applications built on Amazon SQS and AWS Lambda,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-x-ray-trace-linking-event-driven-applications-amazon-sqs-lambda/,https://go.aws/3OnpHbJ
+AWS:WhatsNew,Amazon QuickSight supports NULL in parameter,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-null-parameter/,https://go.aws/3TWZqlJ
+AWS:WhatsNew,Amazon QuickSight Now Supports Connectivity to Databricks,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-connectivity-databricks/,https://go.aws/3GBtjoI
+AWS:WhatsNew,AWS Glue Crawlers Now Support Snowflake,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-crawlers-support-snowflake/,https://go.aws/3OpyxWk
+AWS:WhatsNew,Amazon Connect now supports configurable Lex timeouts within Chat experience,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-configurable-lex-timeouts-chat-experience/,https://go.aws/3Gxblnd
+AWS:WhatsNew,Amazon QuickSight launches admin asset management console,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-admin-asset-management-console/,https://go.aws/3GEXUlj
+AWS:WhatsNew,AWS IAM Identity Center now supports session management capabilities for AWS Command Line Interface (AWS CLI) and SDKs,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iam-identity-center-session-management-aws-cli-sdks/,https://go.aws/3TWwrOW
