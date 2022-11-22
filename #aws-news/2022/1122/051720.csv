@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Lambda default concurrent executions only 10, not 1000, in new accounts",https://redd.it/z1e8wh,
+r/AWS:10+,Just released a new version of my Terraform module for deploying a serverless Slack App on AWS,https://redd.it/z0zhcx,
