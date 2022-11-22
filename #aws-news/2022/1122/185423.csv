@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EMR on EKS adds support for configuring Spark properties within EMR Studio Jupyter Notebooks,https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-configuring-spark-properties-emr-studio-jupyter-notebooks/,https://go.aws/3EUf5Ol
+AWS:WhatsNew,AWS Control Tower now displays compliance status of external AWS Config rules,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-displays-compliance-status-external-config-rules/,https://go.aws/3ESZUEV
+AWS:WhatsNew,Support for reading and writing data in Amazon DynamoDB and cross account Amazon S3 access with Amazon EMR Serverless,https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/,https://go.aws/3AC8rtx
