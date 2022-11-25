@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+JMLR:MLOSS,OMLT: Optimization & Machine Learning Toolkit,http://jmlr.org/papers/v23/22-0277.html,https://bit.ly/3gCbdIw
+JMLR:MLOSS,WarpDrive: Fast End-to-End Deep Multi-Agent Reinforcement Learning on a GPU,http://jmlr.org/papers/v23/22-0185.html,https://bit.ly/3VuXpy3
+JMLR:MLOSS,d3rlpy: An Offline Deep Reinforcement Learning Library,http://jmlr.org/papers/v23/22-0017.html,https://bit.ly/3U1WHHL
+JMLR:MLOSS,JsonGrinder.jl: automated differentiable neural architecture for embedding arbitrary JSON data,http://jmlr.org/papers/v23/21-0174.html,https://bit.ly/3F1SZtb
