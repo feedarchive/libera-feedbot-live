@@ -1,0 +1,64 @@
+feed,title,long_url,short_url
+j:JMLR,Metrics of Calibration for Probabilistic Predictions,http://jmlr.org/papers/v23/22-0658.html,https://bit.ly/3F20NLs
+j:JMLR,Approximate Bayesian Computation via Classification,http://jmlr.org/papers/v23/22-0383.html,https://bit.ly/3F3Rtqo
+j:JMLR,OMLT: Optimization & Machine Learning Toolkit,http://jmlr.org/papers/v23/22-0277.html,https://bit.ly/3gCbdIw
+j:JMLR,Scalable Gaussian-process regression and variable selection using Vecchia approximations,http://jmlr.org/papers/v23/22-0204.html,https://bit.ly/3F1SZcF
+j:JMLR,"Existence, Stability and Scalability of Orthogonal Convolutional Neural Networks",http://jmlr.org/papers/v23/22-0026.html,https://bit.ly/3gCbeMA
+j:JMLR,Minimax optimal approaches to the label shift problem in non-parametric settings,http://jmlr.org/papers/v23/21-1519.html,https://bit.ly/3F1SYFD
+j:JMLR,Constraint Reasoning Embedded Structured Prediction,http://jmlr.org/papers/v23/21-1484.html,https://bit.ly/3F3Nydx
+j:JMLR,Vector-Valued Least-Squares Regression under Output Regularity Assumptions,http://jmlr.org/papers/v23/21-1357.html,https://bit.ly/3F2vL6l
+j:JMLR,Global Optimality and Finite Sample Analysis of Softmax Off-Policy Actor Critic under State Distribution Mismatch,http://jmlr.org/papers/v23/21-1306.html,https://bit.ly/3Vteusw
+j:JMLR,SGD with Coordinate Sampling: Theory and Practice,http://jmlr.org/papers/v23/21-1240.html,https://bit.ly/3VJIPTR
+j:JMLR,Information-theoretic Classification Accuracy: A Criterion that Guides Data-driven Combination of Ambiguous Outcome Labels in Multi-class Classification,http://jmlr.org/papers/v23/21-1150.html,https://bit.ly/3F2dXYX
+j:JMLR,Fundamental Limits and Tradeoffs in Invariant Representation Learning,http://jmlr.org/papers/v23/21-1078.html,https://bit.ly/3i1H0Tp
+j:JMLR,Early Stopping for Iterative Regularization with General Loss Functions,http://jmlr.org/papers/v23/21-0983.html,https://bit.ly/3i2Zgfa
+j:JMLR,Interval-censored Hawkes processes,http://jmlr.org/papers/v23/21-0917.html,https://bit.ly/3F1CD3O
+j:JMLR,Statistical Optimality and Computational Efficiency of Nystrom Kernel PCA,http://jmlr.org/papers/v23/21-0766.html,https://bit.ly/3EYSznr
+j:JMLR,Faster Randomized Interior Point Methods for Tall/Wide Linear Programs,http://jmlr.org/papers/v23/21-0709.html,https://bit.ly/3F2dXrV
+j:JMLR,Causal Aggregation: Estimation and Inference of Causal Effects by Constraint-Based Data Fusion,http://jmlr.org/papers/v23/21-0656.html,https://bit.ly/3VoFDN2
+j:JMLR,Fully General Online Imitation Learning,http://jmlr.org/papers/v23/21-0618.html,https://bit.ly/3F1SXBz
+j:JMLR,Distributional Random Forests: Heterogeneity Adjustment and Multivariate Distributional Regression,http://jmlr.org/papers/v23/21-0585.html,https://bit.ly/3EYSzDX
+j:JMLR,Maximum sampled conditional likelihood for informative subsampling,http://jmlr.org/papers/v23/21-0506.html,https://bit.ly/3gCbfQE
+j:JMLR,"The Geometry of Uniqueness, Sparsity and Clustering in Penalized Estimation",http://jmlr.org/papers/v23/21-0420.html,https://bit.ly/3gyDkZ9
+j:JMLR,ALMA: Alternating Minimization Algorithm for Clustering Mixture Multilayer Network,http://jmlr.org/papers/v23/21-0182.html,https://bit.ly/3VwfXOJ
+j:JMLR,Joint Continuous and Discrete Model Selection via Submodularity,http://jmlr.org/papers/v23/21-0166.html,https://bit.ly/3VuXRg3
+j:JMLR,"Distributed Stochastic Gradient Descent: Nonconvexity, Nonsmoothness, and Convergence to Local Minima",http://jmlr.org/papers/v23/20-899.html,https://bit.ly/3F2SWO0
+j:JMLR,Kernel Autocovariance Operators of Stationary Processes: Estimation and Convergence,http://jmlr.org/papers/v23/20-442.html,https://bit.ly/3VoV9IO
+j:JMLR,Project and Forget: Solving Large-Scale Metric Constrained Problems,http://jmlr.org/papers/v23/20-1424.html,https://bit.ly/3U1zWna
+j:JMLR,On Mixup Regularization,http://jmlr.org/papers/v23/20-1385.html,https://bit.ly/3gCbew4
+j:JMLR,Improving Bayesian Network Structure Learning in the Presence of Measurement Error,http://jmlr.org/papers/v23/20-1319.html,https://bit.ly/3F1T0NL
+j:JMLR,Convergence Rates for Gaussian Mixtures of Experts,http://jmlr.org/papers/v23/20-1129.html,https://bit.ly/3U8jQbe
+j:JMLR,Community detection in sparse latent space models,http://jmlr.org/papers/v23/20-1036.html,https://bit.ly/3gCbcnW
+j:JMLR,On Low-rank Trace Regression under General Sampling Distribution,http://jmlr.org/papers/v23/19-795.html,https://bit.ly/3UcDkM2
+j:JMLR,Network Regression with Graph Laplacians,http://jmlr.org/papers/v23/22-0681.html,https://bit.ly/3F1T1kN
+j:JMLR,Self-Healing Robust Neural Networks via Closed-Loop Control,http://jmlr.org/papers/v23/22-0529.html,https://bit.ly/3VtjvkM
+j:JMLR,Hamilton-Jacobi equations on graphs with applications to semi-supervised learning and data depth,http://jmlr.org/papers/v23/22-0293.html,https://bit.ly/3U797xY
+j:JMLR,Nonparametric Neighborhood Selection in Graphical Models,http://jmlr.org/papers/v23/22-0207.html,https://bit.ly/3U6B2y3
+j:JMLR,WarpDrive: Fast End-to-End Deep Multi-Agent Reinforcement Learning on a GPU,http://jmlr.org/papers/v23/22-0185.html,https://bit.ly/3VuXpy3
+j:JMLR,d3rlpy: An Offline Deep Reinforcement Learning Library,http://jmlr.org/papers/v23/22-0017.html,https://bit.ly/3U1WHHL
+j:JMLR,Oracle Complexity in Nonsmooth Nonconvex Optimization,http://jmlr.org/papers/v23/21-1507.html,https://bit.ly/3F3NDOn
+j:JMLR,Intrinsic Dimension Estimation Using Wasserstein Distance,http://jmlr.org/papers/v23/21-1483.html,https://bit.ly/3U8SqSS
+j:JMLR,Nystrom Regularization for Time Series Forecasting,http://jmlr.org/papers/v23/21-1341.html,https://bit.ly/3VqV8Eb
+j:JMLR,Toward Understanding Convolutional Neural Networks from Volterra Convolution Perspective,http://jmlr.org/papers/v23/21-1259.html,https://bit.ly/3F1SX4x
+j:JMLR,Detecting Latent Communities in Network Formation Models,http://jmlr.org/papers/v23/21-1234.html,https://bit.ly/3VtOWeA
+j:JMLR,The Separation Capacity of Random Neural Networks,http://jmlr.org/papers/v23/21-1079.html,https://bit.ly/3F3reAy
+j:JMLR,On Regularized Square-root Regression Problems: Distributionally Robust Interpretation and Fast Computations,http://jmlr.org/papers/v23/21-1070.html,https://bit.ly/3VijQXo
+j:JMLR,Learning from Noisy Pairwise Similarity and Unlabeled Data,http://jmlr.org/papers/v23/21-0946.html,https://bit.ly/3U8mVbp
+j:JMLR,Pathfinder: Parallel quasi-Newton variational inference,http://jmlr.org/papers/v23/21-0889.html,https://bit.ly/3F2FVnt
+j:JMLR,Tree-Values: Selective Inference for Regression Trees,http://jmlr.org/papers/v23/21-0722.html,https://bit.ly/3EZjcZw
+j:JMLR,Variational Inference in high-dimensional linear regression,http://jmlr.org/papers/v23/21-0696.html,https://bit.ly/3gyDeRh
+j:JMLR,Graph Partitioning and Sparse Matrix Ordering using Reinforcement Learning and Graph Neural Networks,http://jmlr.org/papers/v23/21-0644.html,https://bit.ly/3F4r640
+j:JMLR,On Instrumental Variable Regression for Deep Offline Policy Evaluation,http://jmlr.org/papers/v23/21-0614.html,https://bit.ly/3Ua4xyZ
+j:JMLR,Theoretical Foundations of t-SNE for Visualizing High-Dimensional Clustered Data,http://jmlr.org/papers/v23/21-0524.html,https://bit.ly/3gCbfA8
+j:JMLR,More Powerful Conditional Selective Inference for Generalized Lasso by Parametric Programming,http://jmlr.org/papers/v23/21-0494.html,https://bit.ly/3FbXced
+j:JMLR,Interpretable Classification of Categorical Time Series Using the Spectral Envelope and Optimal Scalings,http://jmlr.org/papers/v23/21-0369.html,https://bit.ly/3VuS7my
+j:JMLR,JsonGrinder.jl: automated differentiable neural architecture for embedding arbitrary JSON data,http://jmlr.org/papers/v23/21-0174.html,https://bit.ly/3F1SZtb
+j:JMLR,Handling Hard Affine SDP Shape Constraints in RKHSs,http://jmlr.org/papers/v23/21-0007.html,https://bit.ly/3VoVafQ
+j:JMLR,Stable Classification,http://jmlr.org/papers/v23/20-667.html,https://bit.ly/3VrRaeB
+j:JMLR,Semiparametric Inference For Causal Effects In Graphical Models With Hidden Variables,http://jmlr.org/papers/v23/20-296.html,https://bit.ly/3F1XIeB
+j:JMLR,Linearization and Identification of Multiple-Attractor Dynamical Systems through Laplacian Eigenmaps,http://jmlr.org/papers/v23/20-1405.html,https://bit.ly/3F20TTk
+j:JMLR,Expected Regret and Pseudo-Regret are Equivalent When the Optimal Arm is Unique,http://jmlr.org/papers/v23/20-1339.html,https://bit.ly/3gBPrVk
+j:JMLR,Two-mode Networks: Inference with as Many Parameters as Actors and Differential Privacy,http://jmlr.org/papers/v23/20-1255.html,https://bit.ly/3F4J3iR
+j:JMLR,Generalized Matrix Factorization: efficient algorithms for fitting generalized linear latent variable models to large data arrays,http://jmlr.org/papers/v23/20-1104.html,https://bit.ly/3F1m0Fj
+j:JMLR,Regularized and Smooth Double Core Tensor Factorization for Heterogeneous Data,http://jmlr.org/papers/v23/20-1002.html,https://bit.ly/3VtBRls
+j:JMLR,Estimating Causal Effects under Network Interference with Bayesian Generalized Propensity Scores,http://jmlr.org/papers/v23/18-711.html,https://bit.ly/3F2Ogrp
