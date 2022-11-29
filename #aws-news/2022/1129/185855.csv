@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:Blog,Announcing AWS KMS External Key Store (XKS),https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/,https://go.aws/3GVNOMR
+AWS:Blog,New for Amazon Redshift – General Availability of Streaming Ingestion for Kinesis Data Streams and Managed Streaming for Apache Kafka,https://aws.amazon.com/blogs/aws/new-for-amazon-redshift-general-availability-of-streaming-ingestion-for-kinesis-data-streams-and-managed-streaming-for-apache-kafka/,https://go.aws/3ONv0Bp
+AWS:Blog,"Introducing Amazon Omics – A Purpose-Built Service to Store, Query, and Analyze Genomic and Biological Data at Scale",https://aws.amazon.com/blogs/aws/introducing-amazon-omics-a-purpose-built-service-to-store-query-and-analyze-genomic-and-biological-data-at-scale/,https://go.aws/3ONYWx2
