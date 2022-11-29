@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift announces support for Dynamic Data Masking (Preview),https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-dynamic-data-masking-preview/,https://go.aws/3ER48vC
+AWS:WhatsNew,AWS KMS launches External Key Store,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-kms-external-key-store/,https://go.aws/3gIu8Bm
+AWS:WhatsNew,Amazon Redshift announces general availability of real-time streaming ingestion for Amazon KDS and Amazon MSK,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/,https://go.aws/3ENh7yv
