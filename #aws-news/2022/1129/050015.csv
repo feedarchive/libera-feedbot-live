@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Nitro Enclaves now supports Amazon EKS and Kubernetes,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-supports-amazoneks-kubernetes/,https://go.aws/3FkgIFr
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP simplifies access to Multi-AZ file systems from on-premises and peered networks,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-netapp-ontap-access-multi-az-file-systems-on-premises-peered-networks/,https://go.aws/3Faq7iv
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP doubles the maximum throughput capacity and SSD IOPS per file system,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-netapp-ontap-doubles-maximum-throughput-capacity-ssd-iops-file-system/,https://go.aws/3ibh6wy
+AWS:WhatsNew,Announcing a new generation of Amazon FSx for OpenZFS file systems,https://aws.amazon.com/about-aws/whats-new/2022/11/new-generation-amazon-fsx-openzfs-file-systems/,https://go.aws/3VzcsqD
+AWS:WhatsNew,Introducing Elastic Network Adapter (ENA) Express for Amazon EC2 instances,https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-network-adapter-ena-express-amazon-ec2-instances/,https://go.aws/3VBwJvW
+AWS:WhatsNew,"Announcing Amazon EC2 M6in, M6idn, R6in, and R6idn network optimized instances",https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/,https://go.aws/3F76YxX
+AWS:WhatsNew,Amazon QuickSight announces Paginated Reports,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-announces-paginated-reports/,https://go.aws/3Vx3HgM
+AWS:WhatsNew,Introducing Amazon EC2 C6in instances,https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/,https://go.aws/3VBd6UB
+AWS:WhatsNew,Announcing Amazon EC2 C7gn instances (Preview),https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-ec2-c7gn-instances-preview/,https://go.aws/3VBdhPL
+AWS:WhatsNew,"Announcing the general availability of AWS Local Zones in Buenos Aires, Copenhagen, Helsinki, and Muscat",https://aws.amazon.com/about-aws/whats-new/2022/11/aws-local-zones-buenos-aires-copenhagen-helsinki-muscat/,https://go.aws/3VBxxko
+AWS:WhatsNew,Announcing preview for Amazon Route 53 Application Recovery Controller zonal shift,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-route-53-application-recovery-controller-zonal-shift/,https://go.aws/3VytSDH
+AWS:WhatsNew,Elastic Load Balancing capabilities for application availability,https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-load-balancing-capabilities-application-availability/,https://go.aws/3VDro70
+AWS:WhatsNew,AWS Compute Optimizer now supports external metrics from observability partners,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-compute-optimizer-external-metrics-observability-partners/,https://go.aws/3Vv1Itk
+AWS:WhatsNew,AWS announces Amazon Inspector support for AWS Lambda functions,https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/,https://go.aws/3VD63Lk
+AWS:WhatsNew,Expanded API capabilities now generally available for Amazon QuickSight,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-expanded-api-capabilities/,https://go.aws/3ibh3Ro
