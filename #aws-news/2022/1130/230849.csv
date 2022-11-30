@@ -1,0 +1,46 @@
+feed,title,long_url,short_url
+APIchanges,Access Analyzer - 3 updated methods,https://awsapichanges.info/archive/changes/e60ab0-access-analyzer.html,https://bit.ly/3UkS1Nc
+APIchanges,Amazon Athena - 23 new 3 updated methods,https://awsapichanges.info/archive/changes/e60ab0-athena.html,https://bit.ly/3XPPsWy
+APIchanges,AWS Data Exchange - 10 updated methods,https://awsapichanges.info/archive/changes/e60ab0-dataexchange.html,https://bit.ly/3GW9Hf7
+APIchanges,Amazon DocumentDB Elastic Clusters - 13 new methods,https://awsapichanges.info/archive/changes/e60ab0-docdb-elastic.html,https://bit.ly/3H1ucHm
+APIchanges,AWS Glue - 16 new 8 updated methods,https://awsapichanges.info/archive/changes/e60ab0-glue.html,https://bit.ly/3iu0rV5
+APIchanges,AWS S3 Control - 3 updated methods,https://awsapichanges.info/archive/changes/e60ab0-s3-control.html,https://bit.ly/3H3N9ce
+APIchanges,Amazon SageMaker Service - 34 new 26 updated methods,https://awsapichanges.info/archive/changes/e60ab0-api.sagemaker.html,https://bit.ly/3XKGDwY
+APIchanges,Amazon SageMaker geospatial capabilities - 19 new methods,https://awsapichanges.info/archive/changes/e60ab0-sagemaker-geospatial.html,https://bit.ly/3UkE55K
+APIchanges,Amazon Elastic Compute Cloud - 24 new 26 updated methods,https://awsapichanges.info/archive/changes/5c1852-ec2.html,https://bit.ly/3XMDcGg
+APIchanges,Amazon Kinesis Firehose - 3 updated methods,https://awsapichanges.info/archive/changes/5c1852-firehose.html,https://bit.ly/3GZyqPp
+APIchanges,AWS Key Management Service - 6 updated methods,https://awsapichanges.info/archive/changes/5c1852-kms.html,https://bit.ly/3isrBM2
+APIchanges,Amazon Omics - 66 new methods,https://awsapichanges.info/archive/changes/5c1852-omics.html,https://bit.ly/3XKBUv8
+APIchanges,OpenSearch Service Serverless - 31 new methods,https://awsapichanges.info/archive/changes/5c1852-aoss.html,https://bit.ly/3UkE5CM
+APIchanges,Amazon Security Lake - 30 new methods,https://awsapichanges.info/archive/changes/5c1852-securitylake.html,https://bit.ly/3VIWtGq
+APIchanges,AWS SimSpace Weaver - 15 new methods,https://awsapichanges.info/archive/changes/5c1852-simspaceweaver.html,https://bit.ly/3VDMX7M
+APIchanges,AWS ARC - Zonal Shift - 6 new methods,https://awsapichanges.info/archive/changes/278393-arc-zonal-shift.html,https://bit.ly/3igN6PW
+APIchanges,AWS Compute Optimizer - 7 updated methods,https://awsapichanges.info/archive/changes/278393-compute-optimizer.html,https://bit.ly/3XK9LV9
+APIchanges,AWS Config - 3 new 6 updated methods,https://awsapichanges.info/archive/changes/278393-config.html,https://bit.ly/3GZaJqw
+APIchanges,Amazon Elastic Compute Cloud - 5 new 10 updated methods,https://awsapichanges.info/archive/changes/278393-ec2.html,https://bit.ly/3XKBUeC
+APIchanges,Amazon Elastic Kubernetes Service - 4 updated methods,https://awsapichanges.info/archive/changes/278393-eks.html,https://bit.ly/3UmyY5h
+APIchanges,Amazon FSx - 16 updated methods,https://awsapichanges.info/archive/changes/278393-fsx.html,https://bit.ly/3VEViYF
+APIchanges,AWS Glue - 5 updated methods,https://awsapichanges.info/archive/changes/278393-glue.html,https://bit.ly/3GZaJH2
+APIchanges,Inspector2 - 17 updated methods,https://awsapichanges.info/archive/changes/278393-inspector2.html,https://bit.ly/3irOuPW
+APIchanges,AWS Lambda - 8 updated methods,https://awsapichanges.info/archive/changes/278393-lambda.html,https://bit.ly/3UnYkj3
+APIchanges,AWS License Manager User Subscriptions - 1 new 3 updated methods,https://awsapichanges.info/archive/changes/278393-license-manager-user-subscriptions.html,https://bit.ly/3H0rOR8
+APIchanges,Amazon Macie 2 - 13 new 6 updated methods,https://awsapichanges.info/archive/changes/278393-macie2.html,https://bit.ly/3XXb2Zc
+APIchanges,Amazon QuickSight - 3 new 12 updated methods,https://awsapichanges.info/archive/changes/278393-quicksight.html,https://bit.ly/3XKQdA0
+APIchanges,AWS S3 Control - 2 new methods,https://awsapichanges.info/archive/changes/278393-s3-control.html,https://bit.ly/3UqRGZb
+APIchanges,AWS SecurityHub - 1 updated methods,https://awsapichanges.info/archive/changes/278393-securityhub.html,https://bit.ly/3GZyqyT
+APIchanges,AWS Backup - 6 new 13 updated methods,https://awsapichanges.info/archive/changes/44bf65-backup.html,https://bit.ly/3ilkC7H
+APIchanges,Elastic Disaster Recovery Service - 3 new 5 updated methods,https://awsapichanges.info/archive/changes/44bf65-drs.html,https://bit.ly/3VCHkGO
+APIchanges,Amazon EC2 Container Service - 1 new 18 updated methods,https://awsapichanges.info/archive/changes/44bf65-ecs.html,https://bit.ly/3XKGDgs
+APIchanges,Amazon Elastic File System - 5 updated methods,https://awsapichanges.info/archive/changes/44bf65-elasticfilesystem.html,https://bit.ly/3UAX9wZ
+APIchanges,AWS IoT - 6 updated methods,https://awsapichanges.info/archive/changes/44bf65-iot.html,https://bit.ly/3H1bHTg
+APIchanges,AWS IoT Data Plane - 1 updated methods,https://awsapichanges.info/archive/changes/44bf65-data-ats.iot.html,https://bit.ly/3H0rP7E
+APIchanges,AWS IoT Wireless - 3 new 3 updated methods,https://awsapichanges.info/archive/changes/44bf65-api.iotwireless.html,https://bit.ly/3GYkTaS
+APIchanges,AWSKendraFrontendService - 1 updated methods,https://awsapichanges.info/archive/changes/44bf65-kendra.html,https://bit.ly/3UpeF70
+APIchanges,Amazon CloudWatch Logs - 3 new 7 updated methods,https://awsapichanges.info/archive/changes/44bf65-logs.html,https://bit.ly/3XJqsQC
+APIchanges,Application Migration Service - 22 new 13 updated methods,https://awsapichanges.info/archive/changes/44bf65-mgn.html,https://bit.ly/3XJ8AoV
+APIchanges,Amazon CloudWatch - 2 updated methods,https://awsapichanges.info/archive/changes/44bf65-monitoring.html,https://bit.ly/3H3N8VI
+APIchanges,CloudWatch Observability Access Manager - 15 new methods,https://awsapichanges.info/archive/changes/44bf65-oam.html,https://bit.ly/3XYBS3d
+APIchanges,AWS Organizations - 3 new 4 updated methods,https://awsapichanges.info/archive/changes/44bf65-organizations.html,https://bit.ly/3XJ16SX
+APIchanges,Amazon Relational Database Service - 4 new methods,https://awsapichanges.info/archive/changes/44bf65-rds.html,https://bit.ly/3isrrUV
+APIchanges,Amazon Textract - 3 new methods,https://awsapichanges.info/archive/changes/44bf65-textract.html,https://bit.ly/3iu0zUz
+APIchanges,Amazon Transcribe Service - 4 updated methods,https://awsapichanges.info/archive/changes/44bf65-transcribe.html,https://bit.ly/3UmPNgm
