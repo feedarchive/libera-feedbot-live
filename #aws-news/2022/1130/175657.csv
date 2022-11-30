@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing Trusted Language Extensions for PostgreSQL on Amazon Aurora and Amazon RDS,https://aws.amazon.com/about-aws/whats-new/2022/11/trusted-language-extensions-postgresql-amazon-aurora-rds/,https://go.aws/3isZFYN
+AWS:WhatsNew,Amazon GuardDuty RDS Protection now in preview,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-guardduty-rds-protection-preview/,https://go.aws/3ETrjWj
+AWS:WhatsNew,Amazon Athena now supports Apache Spark,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-now-supports-apache-spark/,https://go.aws/3AXBVSO
+AWS:WhatsNew,Amazon SageMaker Studio launches redesigned user interface,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-redesigned-user-interface/,https://go.aws/3AX5WlU
+AWS:WhatsNew,Amazon Redshift now supports Multi-AZ (Preview) for RA3 clusters,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-multi-az-preview-ra3-clusters/,https://go.aws/3gLenJW
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) Elastic Clusters is now generally available,https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-documentdb-mongodb-elastic-clusters-available/,https://go.aws/3gOw4s8
+AWS:WhatsNew,Amazon SageMaker now supports geospatial ML (preview),https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-geospatial-ml-preview/,https://go.aws/3ugtMFn
