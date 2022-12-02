@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+PwC:Trending,/extreme-bert/ ExtremeBERT: A Toolkit for Accelerating Pretraining of Customized BERT: https://github.com/extreme-bert/extreme-bert,https://paperswithcode.com/paper/extremebert-a-toolkit-for-accelerating,https://bit.ly/3VJMZuy
+PwC:Trending,/hzfinfdu/ DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models: https://github.com/hzfinfdu/diffusion-bert,https://paperswithcode.com/paper/diffusionbert-improving-generative-masked,https://bit.ly/3AZUBkH
+PwC:Trending,/pals-ttic/ Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation: https://github.com/pals-ttic/sjc,https://paperswithcode.com/paper/score-jacobian-chaining-lifting-pretrained-2d,https://bit.ly/3Fiwmky
+PwC:Trending,/giannisdaras/ Multiresolution Textual Inversion: https://github.com/giannisdaras/multires_textual_inversion,https://paperswithcode.com/paper/multiresolution-textual-inversion,https://bit.ly/3OYpMTp
+PwC:Trending,/facebookresearch/ MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition: https://github.com/facebookresearch/memvit,https://paperswithcode.com/paper/memvit-memory-augmented-multiscale-vision,https://bit.ly/3B3bHOK
+PwC:Trending,"/google-research/ Shape, Pose, and Appearance from a Single Image via Bootstrapped Radiance Field Inversion: https://github.com/google-research/nerf-from-image",https://paperswithcode.com/paper/shape-pose-and-appearance-from-a-single-image,https://bit.ly/3EVzS2H
+PwC:Trending,/fengres/ Mixed Neural Voxels for Fast Multi-view Video Synthesis: https://github.com/fengres/mixvoxels,https://paperswithcode.com/paper/mixed-neural-voxels-for-fast-multi-view-video,https://bit.ly/3OYhkU7
