@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+r/RL:10+,[P] Flying a drone through obstacles (PPO with LSTM in POMDP),https://redd.it/zbqcps,
+r/RL:10+,reinforcement learning for space drone through obstacles,https://redd.it/zboqnn,
+r/RL:10+,Trying to deal with too much data. Working on a university project with a few TB of data available for historic games played in a gridworld environment. Is there a method for selecting the right data to get the best results with the least amount of computation?,https://redd.it/zbhmy9,
