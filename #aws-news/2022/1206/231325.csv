@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Snow Family Large Data Migration Manager is now available in additional Regions,https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/,https://go.aws/3P6lPvW
+AWS:WhatsNew,AWS IoT Device Defender Audit feature now identifies potential misconfiguration in IoT Policies,https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-defender-audit-identifies-potential-misconfiguration-iot-policies/,https://go.aws/3UHvavo
+AWS:WhatsNew,NoSQL Workbench for Amazon DynamoDB now supports creating data models directly from sample data model templates,https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-creating-data-models-sample-data-templates/,https://go.aws/3Y3HXen
+AWS:WhatsNew,NoSQL Workbench for Amazon DynamoDB now includes DynamoDB Local,https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-local/,https://go.aws/3P5Y6vQ
