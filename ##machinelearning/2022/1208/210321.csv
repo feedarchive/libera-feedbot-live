@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v1.13.1-rc1: [BE] Do not package caffe2 in wheel (#87986) (#90433),https://github.com/pytorch/pytorch/releases/tag/v1.13.1-rc1,
