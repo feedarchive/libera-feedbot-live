@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Managed Grafana adds support for AWS CloudFormation,https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/,https://da.gd/JkK16V
+AWS:WhatsNew,Announcing Global Free Tier Pricing Rules for AWS Billing Conductor,https://aws.amazon.com/about-aws/whats-new/2022/12/global-free-tier-pricing-rules-aws-billing-conductor/,https://da.gd/IJ0zq
+AWS:WhatsNew,Announcing preview of SageMaker Model Training support for ml.p4de instances,https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-model-training-ml-p4de-instances-preview/,https://da.gd/niY41
+AWS:WhatsNew,"Amazon Braket now supports adjoint gradient computation, unlocking runtime improvements and cost savings",https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-braket-adjoint-gradient-computation-runtime-cost-savings/,https://da.gd/vaQOh
