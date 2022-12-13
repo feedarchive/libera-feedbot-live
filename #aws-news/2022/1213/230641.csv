@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EBS direct APIs now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-direct-apis-internet-protocol-version-ipv6/,https://da.gd/UY9KP
+AWS:WhatsNew,Amazon RDS Proxy now supports PostgreSQL major version 14,https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-supports-postgresql-major-version-14/,https://da.gd/VJTQb
+AWS:WhatsNew,Monitor Amazon EMR Serverless jobs in near real-time using CloudWatch metrics,https://aws.amazon.com/about-aws/whats-new/2022/12/monitor-amazon-emr-serverless-jobs-near-real-time-cloudwatch-metrics/,https://da.gd/GVGfd8
