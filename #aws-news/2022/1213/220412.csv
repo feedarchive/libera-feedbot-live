@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Advanced Notice: Amazon S3 will automatically enable S3 Block Public Access and disable access control lists for all new buckets starting in April 2023,https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/,https://da.gd/pxvQP8
+AWS:WhatsNew,Amazon GuardDuty now available in AWS Europe (Zurich) Region,https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-guardduty-available-aws-europe-zurich-region/,https://da.gd/F7YFC
