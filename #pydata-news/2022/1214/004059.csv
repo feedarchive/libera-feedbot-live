@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:cpython,tk-8.6.13.0,https://github.com/python/cpython/releases/tag/tk-8.6.13.0,
+GitHub:cpython,tcl-core-8.6.13.0,https://github.com/python/cpython/releases/tag/tcl-core-8.6.13.0,
+GitHub:cpython,Import zlib 1.2.13 from https://zlib.net/zlib-1.2.13.tar.gz,https://github.com/python/cpython/releases/tag/zlib-1.2.13,
