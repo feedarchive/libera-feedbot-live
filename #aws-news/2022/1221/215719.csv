@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Nimble Studio now supports configurable persistent storage and new EBS volumes,https://aws.amazon.com/about-aws/whats-new/2022/12/nimble-studio-configurable-persistent-storage-ebs-volumes/,https://da.gd/pIpvF
+AWS:WhatsNew,Amazon EKS Anywhere now supports single-node clusters on bare metal,https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-single-node-clusters-bare-metal/,https://da.gd/0meX
+AWS:WhatsNew,Amazon RDS Custom for Oracle is now available in Asia Pacific (Seoul) and Asia Pacific (Osaka) AWS Regions,https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-oracle-asia-pacific-seoul-osaka-regions/,https://da.gd/TzyY
+AWS:WhatsNew,Amazon Nimble Studio now supports EBS Snapshots with Auto Backup,https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-nimble-studio-ebs-snapshots-auto-backup/,https://da.gd/T5LPQ
