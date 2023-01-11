@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:20+,"""DreamV3: Mastering Diverse Domains through World Models"", Hafner et al 2023 {DM} (can collect Minecraft diamonds from scratch in 50 episodes/29m steps using 17 GPU-days; scales w/model-size to n=200m)",https://redd.it/108t325,
