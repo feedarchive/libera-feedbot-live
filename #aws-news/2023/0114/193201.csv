@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,Suppose I had a process that scanned a file from bucket A and put it in bucket B. What's the best choice of infrastructure to implement this?,https://redd.it/10bbbwu,
