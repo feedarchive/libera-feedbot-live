@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 File Gateway increases maximum file shares per gateway from 10 to 50,https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-maximum-file-shares-gateway-10-50/,https://da.gd/t70QK
+AWS:WhatsNew,Amazon S3 File Gateway now supports DOS attributes,https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-dos-attributes/,https://da.gd/JbeCIN
+AWS:WhatsNew,Amazon CloudWatch launches cross-account Metric Streams,https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-cross-account-metric-streams/,https://da.gd/cp7R
