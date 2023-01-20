@@ -1,0 +1,47 @@
+feed,title,long_url,short_url
+j:JMLR,The d-Separation Criterion in Categorical Probability,http://jmlr.org/papers/v24/22-0916.html,https://da.gd/Cd9Nr
+j:JMLR,The multimarginal optimal transport formulation of adversarial multiclass classification,http://jmlr.org/papers/v24/22-0698.html,https://da.gd/LE7Al
+j:JMLR,Robust Load Balancing with Machine Learned Advice,http://jmlr.org/papers/v24/22-0629.html,https://da.gd/YYOzAl
+j:JMLR,Benchmarking Graph Neural Networks,http://jmlr.org/papers/v24/22-0567.html,https://da.gd/7N7fzv
+j:JMLR,A Simple Approach to Improve Single-Model Deep Uncertainty via Distance-Awareness,http://jmlr.org/papers/v24/22-0479.html,https://da.gd/pRTC
+j:JMLR,Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal data,http://jmlr.org/papers/v24/22-0365.html,https://da.gd/T35S2
+j:JMLR,On Batch Teaching Without Collusion,http://jmlr.org/papers/v24/22-0330.html,https://da.gd/AvfU7
+j:JMLR,Sensing Theorems for Unsupervised Learning in Linear Inverse Problems,http://jmlr.org/papers/v24/22-0315.html,https://da.gd/fN0z
+j:JMLR,First-Order Algorithms for Nonlinear Generalized Nash Equilibrium Problems,http://jmlr.org/papers/v24/22-0310.html,https://da.gd/1ToJ
+j:JMLR,"Ridges, Neural Networks, and the Radon Transform",http://jmlr.org/papers/v24/22-0227.html,https://da.gd/LcxALP
+j:JMLR,Label Distribution Changing Learning with Sample Space Expanding,http://jmlr.org/papers/v24/22-0210.html,https://da.gd/yNmKgb
+j:JMLR,Can Reinforcement Learning Find Stackelberg-Nash Equilibria in General-Sum Markov Games with Myopically Rational Followers?,http://jmlr.org/papers/v24/22-0203.html,https://da.gd/6fPo
+j:JMLR,Quantus: An Explainable AI Toolkit for Responsible Evaluation of Neural Network Explanations and Beyond,http://jmlr.org/papers/v24/22-0142.html,https://da.gd/7oL0
+j:JMLR,Gap Minimization for Knowledge Sharing and Transfer,http://jmlr.org/papers/v24/22-0099.html,https://da.gd/TxcDe
+j:JMLR,Sparse PCA: a Geometric Approach,http://jmlr.org/papers/v24/22-0088.html,https://da.gd/IaG6
+j:JMLR,"Labels, Information, and Computation: Efficient Learning Using Sufficient Labels",http://jmlr.org/papers/v24/22-0019.html,https://da.gd/IoCbj
+j:JMLR,Attacks against Federated Learning Defense Systems and their Mitigation,http://jmlr.org/papers/v24/22-0014.html,https://da.gd/progZ
+j:JMLR,HiClass: a Python Library for Local Hierarchical Classification Compatible with Scikit-learn,http://jmlr.org/papers/v24/21-1518.html,https://da.gd/JZcx
+j:JMLR,Impact of classification difficulty on the weight matrices spectra in Deep Learning and application to early-stopping,http://jmlr.org/papers/v24/21-1441.html,https://da.gd/h2Pn2
+j:JMLR,The SKIM-FA Kernel: High-Dimensional Variable Selection and Nonlinear Interaction Discovery in Linear Time,http://jmlr.org/papers/v24/21-1403.html,https://da.gd/Ee788p
+j:JMLR,Generalization Bounds for Noisy Iterative Algorithms Using Properties of Additive Noise Channels,http://jmlr.org/papers/v24/21-1396.html,https://da.gd/DbWcn
+j:JMLR,Discrete Variational Calculus for Accelerated Optimization,http://jmlr.org/papers/v24/21-1323.html,https://da.gd/6jHrL
+j:JMLR,Calibrated Multiple-Output Quantile Regression with Representation Learning,http://jmlr.org/papers/v24/21-1280.html,https://da.gd/yzuf6
+j:JMLR,Bayesian Data Selection,http://jmlr.org/papers/v24/21-1067.html,https://da.gd/R2iMo
+j:JMLR,Lower Bounds and Accelerated Algorithms for Bilevel Optimization,http://jmlr.org/papers/v24/21-0949.html,https://da.gd/zb4c
+j:JMLR,Graph-Aided Online Multi-Kernel Learning,http://jmlr.org/papers/v24/21-0877.html,https://da.gd/disJve
+j:JMLR,Interpolating Classifiers Make Few Mistakes,http://jmlr.org/papers/v24/21-0844.html,https://da.gd/9TkE
+j:JMLR,Regularized Joint Mixture Models,http://jmlr.org/papers/v24/21-0796.html,https://da.gd/TWIIp
+j:JMLR,An Inertial Block Majorization Minimization Framework for Nonsmooth Nonconvex Optimization,http://jmlr.org/papers/v24/21-0571.html,https://da.gd/K1jNL
+j:JMLR,Learning Mean-Field Games with Discounted and Average Costs,http://jmlr.org/papers/v24/21-0505.html,https://da.gd/YdjwYJ
+j:JMLR,Globally-Consistent Rule-Based Summary-Explanations for Machine Learning Models: Application to Credit-Risk Evaluation,http://jmlr.org/papers/v24/21-0488.html,https://da.gd/WTPPF
+j:JMLR,Extending Adversarial Attacks to Produce Adversarial Class Probability Distributions,http://jmlr.org/papers/v24/21-0326.html,https://da.gd/DGcbI3
+j:JMLR,Python package for causal discovery based on LiNGAM,http://jmlr.org/papers/v24/21-0321.html,https://da.gd/faYztm
+j:JMLR,Adaptation to the Range in K-Armed Bandits,http://jmlr.org/papers/v24/21-0148.html,https://da.gd/Wbpg0d
+j:JMLR,Learning-augmented count-min sketches via Bayesian nonparametrics,http://jmlr.org/papers/v24/21-0096.html,https://da.gd/K05PS
+j:JMLR,Optimal Strategies for Reject Option Classifiers,http://jmlr.org/papers/v24/21-0048.html,https://da.gd/2LWuiE
+j:JMLR,A Line-Search Descent Algorithm for Strict Saddle Functions with Complexity Guarantees,http://jmlr.org/papers/v24/20-608.html,https://da.gd/cfZKj
+j:JMLR,Sampling random graph homomorphisms and applications to network data analysis,http://jmlr.org/papers/v24/20-449.html,https://da.gd/loU5y
+j:JMLR,A Relaxed Inertial Forward-Backward-Forward Algorithm for Solving Monotone Inclusions with Application to GANs,http://jmlr.org/papers/v24/20-267.html,https://da.gd/jJVzRU
+j:JMLR,On Distance and Kernel Measures of Conditional Dependence,http://jmlr.org/papers/v24/20-238.html,https://da.gd/kkPi
+j:JMLR,AutoKeras: An AutoML Library for Deep Learning,http://jmlr.org/papers/v24/20-1355.html,https://da.gd/tjR2iM
+j:JMLR,Cluster-Specific Predictions with Multi-Task Gaussian Processes,http://jmlr.org/papers/v24/20-1321.html,https://da.gd/wk22Ud
+j:JMLR,Efficient Structure-preserving Support Tensor Train Machine,http://jmlr.org/papers/v24/20-1310.html,https://da.gd/CLTtQh
+j:JMLR,Bayesian Spiked Laplacian Graphs,http://jmlr.org/papers/v24/20-1206.html,https://da.gd/LkdJi
+j:JMLR,The Brier Score under Administrative Censoring: Problems and a Solution,http://jmlr.org/papers/v24/19-1030.html,https://da.gd/c9OB
+j:JMLR,"Approximation Bounds for Hierarchical Clustering: Average Linkage, Bisecting K-means, and Local Search",http://jmlr.org/papers/v24/18-080.html,https://da.gd/HVTP
