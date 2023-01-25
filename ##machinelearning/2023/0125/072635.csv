@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:200+,"H3 - a new generative language models that outperforms GPT-Neo-2.7B with only *2* attention layers! In H3, the researchers replace attention with a new layer based on state space models (SSMs). With the right modifications, it can outperform transformers. Also has no fixed context length.",https://redd.it/10kdeex,
