@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Medium,.duplicated() and .drop_duplicates() methods in Pandas. What is the difference?,https://medium.com/p/2991690bb224,
+Medium,Automated News Article Collection with Python,https://medium.com/p/9267968c9ea,
+Medium,Convert Python Dictionary into a dataframe: When the values are scalars,https://medium.com/p/41e2686072a2,
