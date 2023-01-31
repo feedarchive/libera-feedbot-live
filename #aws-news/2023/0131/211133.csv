@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudTrail Lake now supports ingestion of activity events from non-AWS sources,https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudtrail-lake-ingestion-activity-events-non-aws-sources/,https://da.gd/PHq68x
+AWS:WhatsNew,Amazon Athena releases data source connector for Google Cloud Storage,https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-athena-data-source-connector-google-cloud-storage/,https://da.gd/69eY
+AWS:WhatsNew,Amazon MemoryDB for Redis Announces 99.99% Availability Service Level Agreement,https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-memorydb-redis-service-level-agreement/,https://da.gd/RNHZx
