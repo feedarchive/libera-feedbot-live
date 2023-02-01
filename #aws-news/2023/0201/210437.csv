@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon increases NAT Gateway’s capacity to support concurrent connections to a unique destination,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-nat-gateways-capacity-concurrent-connections-unique-destination/,https://da.gd/x93Zs
+AWS:WhatsNew,AWS IoT Core’s Rules Engine now supports batching of device logs while routing logs from IoT devices to Amazon CloudWatch Logs,https://aws.amazon.com/about-aws/whats-new/2023/02/aws-iot-cores-rule-engine-device-logs-routing-amazon-cloudwatch-logs/,https://da.gd/IWYa
+AWS:WhatsNew,Amazon Omics Supports PrivateLink & CloudFormation,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-omics-private-link-cloudformation/,https://da.gd/EcW5qQ
