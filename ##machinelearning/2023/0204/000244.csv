@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+Nvidia:Research,Self Adaptive Reconfigurable Arrays (SARA): Learning Flexible GEMM Accelerator Configuration and Mapping-space using ML,https://research.nvidia.com/publication/2022-08_self-adaptive-reconfigurable-arrays-sara-learning-flexible-gemm-accelerator,https://da.gd/9jxkWS
+Nvidia:Research,DiGamma: Domain-aware Genetic Algorithm for HW-Mapping Co-optimization for DNN Accelerators,https://research.nvidia.com/publication/2022-03_digamma-domain-aware-genetic-algorithm-hw-mapping-co-optimization-dnn,https://da.gd/Isv6dK
+Nvidia:Research,Marvel: A Data-Centric Approach for Mapping Deep Learning Operators on Spatial Accelerators,https://research.nvidia.com/publication/2022-03_marvel-data-centric-approach-mapping-deep-learning-operators-spatial,https://da.gd/EDN2M
+Nvidia:Research,Heterogeneous Dataflow Accelerators for Multi-DNN Workloads,https://research.nvidia.com/publication/2021-02_heterogeneous-dataflow-accelerators-multi-dnn-workloads,https://da.gd/gZU9x
+Nvidia:Research,Flexion: A Quantitative Metric for Flexibility in DNN Accelerators,https://research.nvidia.com/publication/2021-01_flexion-quantitative-metric-flexibility-dnn-accelerators,https://da.gd/rm3hyj
+Nvidia:Research,Generating and Characterizing Scenarios for Safety Testing of Autonomous Vehicles,https://research.nvidia.com/publication/2020-11_generating-and-characterizing-scenarios-safety-testing-autonomous-vehicles-0,https://da.gd/0A5Vj
+Nvidia:Research,"MAESTRO: A Data-Centric Approach to Understand Reuse, Performance, and Hardware Cost of DNN Mappings",https://research.nvidia.com/publication/2020-04_maestro-data-centric-approach-understand-reuse-performance-and-hardware-cost,https://da.gd/nCr4z
+Nvidia:Research,"Understanding Reuse, Performance, and Hardware Cost of DNN Dataflows: A Data-Centric Approach",https://research.nvidia.com/publication/2019-10_understanding-reuse-performance-and-hardware-cost-dnn-dataflows-data-centric,https://da.gd/i8yB
