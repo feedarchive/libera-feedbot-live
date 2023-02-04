@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Hi all, I am looking into a clients Cloudwatch costs. 70% of the costs are for CW: Requests and when I filter it by API operation (Cost Explorer) it’s PUTMetricData as the primary driver of cost. How can I identify the source behind these costs for any potential optimisation?",https://redd.it/10sln7f,
