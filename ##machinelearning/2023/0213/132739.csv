@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"[R] [P] Adding Conditional Control to Text-to-Image Diffusion Models. ""This paper presents ControlNet, an end-to-end neural network architecture that controls large image diffusion models (like Stable Diffusion) to learn task-specific input conditions."" Example uses the Scribble ControlNet model.",https://redd.it/110i7h7,
