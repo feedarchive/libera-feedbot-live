@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"So one of our instance suddenly went down and had to force-restart the t3a.micro AMI2 EC2, while checking Instance Screenshot saw this, nothing unusual in System Log btw. any idea what could be the reason of EC2 Failure guys? nothing found on internet.",https://redd.it/11156wa,
