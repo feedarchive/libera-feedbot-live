@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Pinpoint now supports SMS and voice spending metrics in Amazon CloudWatch,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-pinpoint-sms-voice-spending-metrics-cloudwatch/,https://da.gd/7dKj3
+AWS:WhatsNew,AWS WAF Captcha adds support for ten additional languages,https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-captcha-ten-additional-languages/,https://da.gd/3ARTM
+AWS:WhatsNew,AWS WAF Fraud Control - Account Takeover Protection now allows inspection of origin responses,https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-fraud-control-account-takeover-prevention-cloudfront-origin-responses/,https://da.gd/UjdRq
+AWS:WhatsNew,Amazon Cognito identity pool data events are now available in AWS CloudTrail,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cognito-identity-pool-data-events-aws-cloudtrail/,https://da.gd/eV5p
