@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Route 53 & API Gateway - My API gateway works with the default invoke URL + path. I added my custom domain in API Gateway. Then connected, the new endpoint to Route 53 using A record. ( I used the wizard, and it was in the list of endpoints). I keep getting ""message"": ""Not Found"". Any idea? Tks",https://redd.it/115uzve,
