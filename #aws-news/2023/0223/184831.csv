@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Forecast now supports built-in holiday data for 251 countries to improve your forecasting accuracy,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-forecast-built-in-holiday-data-251-countries/,https://da.gd/79iI
+AWS:WhatsNew,AWS Resilience Hub adds application change capabilities and simplified APIs,https://aws.amazon.com/about-aws/whats-new/2023/02/aws-resilience-hub-application-change-capabilities-simplified-apis/,https://da.gd/Tt1mj
+AWS:WhatsNew,Amazon CloudWatch RUM now supports customer defined metrics for troubleshooting and monitoring,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-rum-customer-defined-metrics/,https://da.gd/5536n1
+AWS:WhatsNew,Amazon RDS for MySQL adds new disaster recovery (DR) capabilities with Cross-Region Automated Backups,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mysql-dr-capabilities-cross-region-automated-backups/,https://da.gd/8vxhO
+AWS:WhatsNew,Amazon RDS for MariaDB adds new disaster recovery (DR) capabilities with Cross-Region Automated Backups,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mariadb-disaster-recovery-capabilities-cross-region-automated-backups/,https://da.gd/GWram4
+AWS:WhatsNew,"Amazon EC2 C6in, M6in, M6idn, R6in, and R6idn instances are now available in Asia Pacific (Tokyo, Singapore) and AWS GovCloud (US-West)",https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c6in-m6idn-r6in-r6idn-instances-tokyo-singapore-govcloud-west/,https://da.gd/96E5
+AWS:WhatsNew,Amazon EMR on EKS is now available in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-available-aws-govloud-us-regions/,https://da.gd/W6sC
