@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing Amazon Lightsail for Research,https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-lightsail-research/,https://da.gd/1El43q
+AWS:WhatsNew,Amazon Kinesis Data Streams increases On-Demand write throughput limit to 1 GB/s,https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-streams-on-demand-write-throughput-1gb/,https://da.gd/32Te0
+AWS:WhatsNew,Amazon RDS for SQL Server now supports Cross Region Automated Backups with encryption,https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-sql-server-cross-region-automated-backups-encryption/,https://da.gd/H06C
