@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.0.0-rc3: [ROCM] Restrict pytorch rocm to only use triton 2.0.x (#95793) (#95834),https://github.com/pytorch/pytorch/releases/tag/v2.0.0-rc3,
