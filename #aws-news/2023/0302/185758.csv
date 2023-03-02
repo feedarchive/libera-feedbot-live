@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) adds support for MongoDB 5.0 wire protocol and client-side field level encryption,https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-documentdb-mongodb-5-0-wire-protocol-client-side-encryption/,https://da.gd/vQdPaT
+AWS:WhatsNew,Amazon Timestream now supports batch loading data,https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-timestream-supports-batch-loading-data/,https://da.gd/9bQq1c
+AWS:WhatsNew,AWS Control Tower announces a progress tracker for landing zone setup and upgrades,https://aws.amazon.com/about-aws/whats-new/2023/03/aws-control-tower-progress-tracker-landing-zone-setup-upgrades/,https://da.gd/09UAC
