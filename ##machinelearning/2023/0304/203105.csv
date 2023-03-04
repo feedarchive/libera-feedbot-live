@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"[R] Language models can now teach themselves HOW to use tools (i.e any API) in real time, completely automated. When given a task, SLAPA knows to search for the API documentation and learn all the information. Then he create API calls. If they don't work, he learns from his mistake and tries again.",https://redd.it/11hp2nu,
