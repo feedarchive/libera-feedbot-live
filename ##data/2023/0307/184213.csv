@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:OpenData,NOAA Unified Forecast System (UFS) Land Data Assimilation (DA) System,https://registry.opendata.aws/noaa-ufs-land-da,https://da.gd/CBLGR
+AWS:OpenData,NOAA Whole Atmosphere Model-Ionosphere Plasmasphere Electrodynamics (WAM-IPE) Forecast System (WFS),https://registry.opendata.aws/noaa-nws-wam-ipe,https://da.gd/Abfv
