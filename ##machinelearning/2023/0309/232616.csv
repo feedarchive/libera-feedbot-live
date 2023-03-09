@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.0.0-rc6: [inductor] use triu ref instead of lowering (#96040) (#96462),https://github.com/pytorch/pytorch/releases/tag/v2.0.0-rc6,
