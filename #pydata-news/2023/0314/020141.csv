@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,"Evaluating performance and portability of high-level programming models: Julia, Python/Numba, and Kokkos on exascale nodes",https://arxiv.org/abs/2303.06195v1,
+ArXiv,"PyPoll: A python library automating mining of networks, discussions and polarization on Twitter",https://arxiv.org/abs/2303.06478v1,
+ArXiv,PGMax: Factor Graphs for Discrete Probabilistic Graphical Models and Loopy Belief Propagation in JAX,https://arxiv.org/abs/2202.04110v3,
