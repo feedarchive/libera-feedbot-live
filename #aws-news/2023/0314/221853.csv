@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 M1 Mac instances now support in-place operating system updates,https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m1-mac-instances-system-updates-mac-versions/,https://da.gd/qetX
+AWS:WhatsNew,Amazon EC2 M6a and C6a instances now available in South America (Sao Paulo) region,https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m6a-c6a-instances-sao-paulo-region/,https://da.gd/RrY4VN
+AWS:WhatsNew,Amazon Keyspaces (for Apache Cassandra) now supports client-side timestamps,https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-keyspace-apache-cassandra-client-side-timestamps/,https://da.gd/mqbIn
