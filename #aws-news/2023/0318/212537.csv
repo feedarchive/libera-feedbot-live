@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,Terraform module to create a DNS alias for an ECR registry (123456789012.dkr.ecr.us-east-1.amazonaws.com => ecr.example.com),https://redd.it/11urtgx,
