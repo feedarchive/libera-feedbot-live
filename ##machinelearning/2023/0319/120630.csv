@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/ML:50+,"[P] I got annoyed by building and maintaining custom web scrapers, so I built an LLM-powered tool that can turn any website into an API",https://redd.it/11vfcne,
+r/ML:50+,"[P] [D] datasetGPT - A command-line tool to generate datasets by inferencing LLMs. Supports OpenAI, Cohere, and Petals.",https://redd.it/11v261n,
