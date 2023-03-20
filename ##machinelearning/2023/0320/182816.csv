@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"[R] RWKV 14B ctx8192 is a zero-shot instruction-follower without finetuning, 23 token/s on 3090 after latest optimization (16G VRAM is enough, and you can stream layers to save more VRAM)",https://redd.it/11teywc,
