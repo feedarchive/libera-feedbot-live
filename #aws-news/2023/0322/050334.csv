@@ -1,0 +1,112 @@
+feed,title,long_url,short_url
+APIchanges,Amazon Chime SDK Messaging - 3 new methods,https://awsapichanges.info/archive/changes/f990ba-messaging-chime.html,https://da.gd/Z0DYQy
+APIchanges,AWS Clean Rooms Service - 3 new 4 updated methods,https://awsapichanges.info/archive/changes/f990ba-cleanrooms.html,https://da.gd/5GpmA
+APIchanges,Amazon Elastic Compute Cloud - 5 updated methods,https://awsapichanges.info/archive/changes/f990ba-ec2.html,https://da.gd/trZMx5
+APIchanges,AWS IoT SiteWise - 2 updated methods,https://awsapichanges.info/archive/changes/f990ba-iotsitewise.html,https://da.gd/RtCKSD
+APIchanges,Application Migration Service - 6 new 21 updated methods,https://awsapichanges.info/archive/changes/f990ba-mgn.html,https://da.gd/zHeF0
+APIchanges,Application Auto Scaling - 3 new 2 updated methods,https://awsapichanges.info/archive/changes/05a0d4-application-autoscaling.html,https://da.gd/uBkpm
+APIchanges,Amazon Neptune - 10 updated methods,https://awsapichanges.info/archive/changes/05a0d4-rds.html,https://da.gd/QBTPoi
+APIchanges,Amazon S3 on Outposts - 2 updated methods,https://awsapichanges.info/archive/changes/05a0d4-s3-outposts.html,https://da.gd/3uaTWO
+APIchanges,Amazon WorkDocs - 1 new 1 updated methods,https://awsapichanges.info/archive/changes/05a0d4-workdocs.html,https://da.gd/inbMXK
+APIchanges,AWSBillingConductor - 6 updated methods,https://awsapichanges.info/archive/changes/f04a79-billingconductor.html,https://da.gd/WbP0
+APIchanges,AWS Config - 12 updated methods,https://awsapichanges.info/archive/changes/f04a79-config.html,https://da.gd/4OOa
+APIchanges,AWS Database Migration Service - 4 updated methods,https://awsapichanges.info/archive/changes/f04a79-dms.html,https://da.gd/DodZ6
+APIchanges,Amazon GuardDuty - 10 updated methods,https://awsapichanges.info/archive/changes/eba326-guardduty.html,https://da.gd/Bx5j8P
+APIchanges,Migration Hub Strategy Recommendations - 2 updated methods,https://awsapichanges.info/archive/changes/512728-migrationhub-strategy.html,https://da.gd/FWK4n
+APIchanges,AWS S3 Control - 3 updated methods,https://awsapichanges.info/archive/changes/512728-s3-control.html,https://da.gd/2q8SQr
+APIchanges,Amazon Security Lake - 5 updated methods,https://awsapichanges.info/archive/changes/512728-securitylake.html,https://da.gd/r4CWR1
+APIchanges,Application Auto Scaling - 2 updated methods,https://awsapichanges.info/archive/changes/7b8436-application-autoscaling.html,https://da.gd/EnUM6
+APIchanges,AWS Data Exchange - 6 updated methods,https://awsapichanges.info/archive/changes/7b8436-dataexchange.html,https://da.gd/aqLnLG
+APIchanges,Amazon Elastic Compute Cloud - 3 updated methods,https://awsapichanges.info/archive/changes/7b8436-ec2.html,https://da.gd/ZzVmRS
+APIchanges,Amazon Keyspaces - 3 updated methods,https://awsapichanges.info/archive/changes/7b8436-cassandra.html,https://da.gd/bMyCy
+APIchanges,Amazon AppIntegrations Service - 2 updated methods,https://awsapichanges.info/archive/changes/ac41da-app-integrations.html,https://da.gd/LbIYUO
+APIchanges,AWS S3 Control - 3 new 4 updated methods,https://awsapichanges.info/archive/changes/ac41da-s3-control.html,https://da.gd/iu6bp
+APIchanges,AWS Telco Network Builder - 3 updated methods,https://awsapichanges.info/archive/changes/ac41da-tnb.html,https://da.gd/gXsnzz
+APIchanges,CodeArtifact - 1 new 21 updated methods,https://awsapichanges.info/archive/changes/3c65b8-codeartifact.html,https://da.gd/JS6Wp
+APIchanges,Amazon Connect Service - 1 new methods,https://awsapichanges.info/archive/changes/3c65b8-connect.html,https://da.gd/Najr
+APIchanges,Amazon QuickSight - 10 updated methods,https://awsapichanges.info/archive/changes/3c65b8-quicksight.html,https://da.gd/IEVD
+APIchanges,Amazon SageMaker Service - 2 updated methods,https://awsapichanges.info/archive/changes/3c65b8-api.sagemaker.html,https://da.gd/89Lrbj
+APIchanges,Amazon Simple Email Service - 1 updated methods,https://awsapichanges.info/archive/changes/3c65b8-email.html,https://da.gd/KJw8v
+APIchanges,Amazon Athena - 2 updated methods,https://awsapichanges.info/archive/changes/5bfd7c-athena.html,https://da.gd/wTl51I
+APIchanges,Amazon DynamoDB - 6 updated methods,https://awsapichanges.info/archive/changes/5bfd7c-dynamodb.html,https://da.gd/SZqMTa
+APIchanges,Amazon Elastic Compute Cloud - 24 updated methods,https://awsapichanges.info/archive/changes/5bfd7c-ec2.html,https://da.gd/u9DYR
+APIchanges,AWS Lake Formation - 2 new 2 updated methods,https://awsapichanges.info/archive/changes/5bfd7c-lakeformation.html,https://da.gd/ncEs
+APIchanges,AWS Elemental MediaPackage - 11 updated methods,https://awsapichanges.info/archive/changes/5bfd7c-mediapackage.html,https://da.gd/9pUVsn
+APIchanges,AWS Elemental MediaPackage VOD - 8 updated methods,https://awsapichanges.info/archive/changes/5bfd7c-mediapackage-vod.html,https://da.gd/IIB8E
+APIchanges,Amazon Route 53 Resolver - 22 updated methods,https://awsapichanges.info/archive/changes/5bfd7c-route53resolver.html,https://da.gd/f2A0TS
+APIchanges,Amazon SageMaker Service - 16 updated methods,https://awsapichanges.info/archive/changes/5bfd7c-api.sagemaker.html,https://da.gd/AZOwFn
+APIchanges,AWS Database Migration Service - 4 new 1 updated methods,https://awsapichanges.info/archive/changes/e45e95-dms.html,https://da.gd/vT3jx5
+APIchanges,Amazon Elastic Compute Cloud - 6 updated methods,https://awsapichanges.info/archive/changes/143cb2-ec2.html,https://da.gd/zVucj
+APIchanges,AWS Elemental MediaConvert - 11 updated methods,https://awsapichanges.info/archive/changes/143cb2-mediaconvert.html,https://da.gd/IB49iZ
+APIchanges,AWS Elemental MediaLive - 7 updated methods,https://awsapichanges.info/archive/changes/143cb2-medialive.html,https://da.gd/Fkju
+APIchanges,Amazon Transcribe Service - 4 updated methods,https://awsapichanges.info/archive/changes/143cb2-transcribe.html,https://da.gd/0omiO7
+APIchanges,AWS IoT - 4 updated methods,https://awsapichanges.info/archive/changes/96478b-iot.html,https://da.gd/DxO9
+APIchanges,Migration Hub Strategy Recommendations - 4 updated methods,https://awsapichanges.info/archive/changes/96478b-migrationhub-strategy.html,https://da.gd/Mowh1a
+APIchanges,AWS Performance Insights - 1 updated methods,https://awsapichanges.info/archive/changes/96478b-pi.html,https://da.gd/bU1yKQ
+APIchanges,Amazon SageMaker Service - 1 updated methods,https://awsapichanges.info/archive/changes/96478b-api.sagemaker.html,https://da.gd/iLoj2
+APIchanges,Amazon CodeCatalyst - 1 new 1 updated methods,https://awsapichanges.info/archive/changes/f09624-codecatalyst.html,https://da.gd/48VD
+APIchanges,AWS Price List Service - 2 new methods,https://awsapichanges.info/archive/changes/f09624-api.pricing.html,https://da.gd/vXY5ju
+APIchanges,Amazon S3 on Outposts - 1 new methods,https://awsapichanges.info/archive/changes/f09624-s3-outposts.html,https://da.gd/Q6MXv
+APIchanges,Amazon Comprehend - 11 new 13 updated methods,https://awsapichanges.info/archive/changes/c44ef6-comprehend.html,https://da.gd/OiFlu
+APIchanges,Amazon Elastic Compute Cloud - 1 updated methods,https://awsapichanges.info/archive/changes/c44ef6-ec2.html,https://da.gd/BDivjb
+APIchanges,Amazon Lightsail - 4 new 94 updated methods,https://awsapichanges.info/archive/changes/c44ef6-lightsail.html,https://da.gd/5DisX
+APIchanges,Amazon Managed Blockchain - 2 updated methods,https://awsapichanges.info/archive/changes/c44ef6-managedblockchain.html,https://da.gd/pZNl3
+APIchanges,Amazon Omics - 9 updated methods,https://awsapichanges.info/archive/changes/c44ef6-omics.html,https://da.gd/1EmwP
+APIchanges,Amazon DevOps Guru - 2 updated methods,https://awsapichanges.info/archive/changes/94e4ab-devops-guru.html,https://da.gd/v0Rsp
+APIchanges,Elastic Disaster Recovery Service - 7 updated methods,https://awsapichanges.info/archive/changes/94e4ab-drs.html,https://da.gd/N0sxAS
+APIchanges,Amazon CloudWatch Internet Monitor - 10 new methods,https://awsapichanges.info/archive/changes/94e4ab-internetmonitor.html,https://da.gd/zyM3Wm
+APIchanges,AWS Lambda - 6 updated methods,https://awsapichanges.info/archive/changes/94e4ab-lambda.html,https://da.gd/O44XG
+APIchanges,AWS Elemental MediaConvert - 11 updated methods,https://awsapichanges.info/archive/changes/94e4ab-mediaconvert.html,https://da.gd/tBFe26
+APIchanges,Amazon Timestream Write - 4 new 4 updated methods,https://awsapichanges.info/archive/changes/94e4ab-ingest.timestream.html,https://da.gd/s1Vew5
+APIchanges,Amazon Connect Service - 1 updated methods,https://awsapichanges.info/archive/changes/ff78c2-connect.html,https://da.gd/CrTK
+APIchanges,Amazon Connect Cases - 1 new methods,https://awsapichanges.info/archive/changes/ff78c2-cases.html,https://da.gd/3feUxD
+APIchanges,AWS SecurityHub - 5 new 3 updated methods,https://awsapichanges.info/archive/changes/ff78c2-securityhub.html,https://da.gd/Gz1j
+APIchanges,Amazon Appflow - 3 updated methods,https://awsapichanges.info/archive/changes/714c17-appflow.html,https://da.gd/zO9Cb
+APIchanges,Amazon EC2 Container Service - 1 new 4 updated methods,https://awsapichanges.info/archive/changes/714c17-ecs.html,https://da.gd/E9mV8o
+APIchanges,AWS IoT Wireless - 3 updated methods,https://awsapichanges.info/archive/changes/714c17-api.iotwireless.html,https://da.gd/qmXf
+APIchanges,Amazon Location Service - 5 new 4 updated methods,https://awsapichanges.info/archive/changes/714c17-geo.html,https://da.gd/4pocz1
+APIchanges,Amazon Macie 2 - 2 updated methods,https://awsapichanges.info/archive/changes/714c17-macie2.html,https://da.gd/2HQ7
+APIchanges,AWS WAFV2 - 1 updated methods,https://awsapichanges.info/archive/changes/714c17-wafv2.html,https://da.gd/Xqdx
+APIchanges,Amazon Chime SDK Voice - 2 updated methods,https://awsapichanges.info/archive/changes/df8672-voice-chime.html,https://da.gd/1fxC
+APIchanges,Amazon CloudFront - 5 updated methods,https://awsapichanges.info/archive/changes/df8672-cloudfront.html,https://da.gd/QdEfZ
+APIchanges,Amazon OpenSearch Service - 2 new 8 updated methods,https://awsapichanges.info/archive/changes/df8672-es.html,https://da.gd/3ieJ
+APIchanges,CloudWatch RUM - 3 updated methods,https://awsapichanges.info/archive/changes/df8672-rum.html,https://da.gd/Jrm4
+APIchanges,Amazon QuickSight - 4 updated methods,https://awsapichanges.info/archive/changes/cc65a1-quicksight.html,https://da.gd/bwTn
+APIchanges,AWS Resilience Hub - 13 new 2 updated methods,https://awsapichanges.info/archive/changes/cc65a1-resiliencehub.html,https://da.gd/x7VOd5
+APIchanges,AWS Telco Network Builder - 33 new methods,https://awsapichanges.info/archive/changes/cc65a1-tnb.html,https://da.gd/mAcKU
+APIchanges,Amazon Connect Service - 5 updated methods,https://awsapichanges.info/archive/changes/a663ff-connect.html,https://da.gd/0VwoOb
+APIchanges,AWS App Runner - 1 updated methods,https://awsapichanges.info/archive/changes/15b59f-apprunner.html,https://da.gd/UN1ArJ
+APIchanges,AWS Glue - 5 updated methods,https://awsapichanges.info/archive/changes/15b59f-glue.html,https://da.gd/5VFEZ
+APIchanges,Amazon EMR - 4 updated methods,https://awsapichanges.info/archive/changes/fa08f6-elasticmapreduce.html,https://da.gd/hi1i
+APIchanges,Amazon Managed Grafana - 6 updated methods,https://awsapichanges.info/archive/changes/fa08f6-grafana.html,https://da.gd/bx5vF
+APIchanges,Amazon Fraud Detector - 5 new methods,https://awsapichanges.info/archive/changes/b4bdb2-frauddetector.html,https://da.gd/IHdTl
+APIchanges,AWS Glue - 5 updated methods,https://awsapichanges.info/archive/changes/b4bdb2-glue.html,https://da.gd/y0bL
+APIchanges,AWS Private 5G - 1 new 3 updated methods,https://awsapichanges.info/archive/changes/b4bdb2-private-networks.html,https://da.gd/1XLf0
+APIchanges,AWS WAFV2 - 8 updated methods,https://awsapichanges.info/archive/changes/b4bdb2-wafv2.html,https://da.gd/YxzE
+APIchanges,Amazon AppConfig - 3 updated methods,https://awsapichanges.info/archive/changes/090b52-appconfig.html,https://da.gd/Lp4HS
+APIchanges,AWS DataSync - 7 updated methods,https://awsapichanges.info/archive/changes/090b52-datasync.html,https://da.gd/F2WH
+APIchanges,Amazon Elastic Compute Cloud - 3 updated methods,https://awsapichanges.info/archive/changes/090b52-ec2.html,https://da.gd/wbOtzR
+APIchanges,AWS Account - 4 new methods,https://awsapichanges.info/archive/changes/0366a2-account.html,https://da.gd/CyGo
+APIchanges,AWS AppConfig Data - 1 updated methods,https://awsapichanges.info/archive/changes/0366a2-appconfigdata.html,https://da.gd/63MY7
+APIchanges,Amazon Import/Export Snowball - 1 new 6 updated methods,https://awsapichanges.info/archive/changes/0366a2-snowball.html,https://da.gd/Ci2WEl
+APIchanges,Auto Scaling - 1 new 2 updated methods,https://awsapichanges.info/archive/changes/895a93-autoscaling.html,https://da.gd/0tfB
+APIchanges,Amazon Connect Service - 1 updated methods,https://awsapichanges.info/archive/changes/895a93-connect.html,https://da.gd/7OWBCh
+APIchanges,Amazon Polly - 5 updated methods,https://awsapichanges.info/archive/changes/895a93-polly.html,https://da.gd/PLPbDF
+APIchanges,Amazon SageMaker Service - 3 updated methods,https://awsapichanges.info/archive/changes/895a93-api.sagemaker.html,https://da.gd/igs9NL
+APIchanges,Amazon EMR Containers - 3 updated methods,https://awsapichanges.info/archive/changes/985232-emr-containers.html,https://da.gd/MBl4sW
+APIchanges,AWS Migration Hub Refactor Spaces - 3 updated methods,https://awsapichanges.info/archive/changes/985232-refactor-spaces.html,https://da.gd/9k1B
+APIchanges,Amazon Lex Model Building V2 - 10 updated methods,https://awsapichanges.info/archive/changes/985232-models-v2-lex.html,https://da.gd/GOrh
+APIchanges,Amazon Lex Runtime V2 - 2 updated methods,https://awsapichanges.info/archive/changes/985232-runtime-v2-lex.html,https://da.gd/QVMxaM
+APIchanges,AWS Backup - 9 updated methods,https://awsapichanges.info/archive/changes/720bc9-backup.html,https://da.gd/d6P8ps
+APIchanges,Amazon CloudFront - 5 updated methods,https://awsapichanges.info/archive/changes/720bc9-cloudfront.html,https://da.gd/BqNqu7
+APIchanges,AWS Glue - 5 updated methods,https://awsapichanges.info/archive/changes/720bc9-glue.html,https://da.gd/yNe3
+APIchanges,AWS Compute Optimizer - 2 updated methods,https://awsapichanges.info/archive/changes/eb5b4a-compute-optimizer.html,https://da.gd/CbTiqY
+APIchanges,Amazon Connect Customer Profiles - 1 updated methods,https://awsapichanges.info/archive/changes/eb5b4a-profile.html,https://da.gd/CvL8y
+APIchanges,Amazon Fraud Detector - 3 updated methods,https://awsapichanges.info/archive/changes/eb5b4a-frauddetector.html,https://da.gd/ZHtt
+APIchanges,AWS Outposts - 2 updated methods,https://awsapichanges.info/archive/changes/eb5b4a-outposts.html,https://da.gd/9G0rhr
+APIchanges,AWS Proton - 1 new methods,https://awsapichanges.info/archive/changes/0bac5d-proton.html,https://da.gd/tNdBC
+APIchanges,Amazon AppConfig - 3 updated methods,https://awsapichanges.info/archive/changes/49009b-appconfig.html,https://da.gd/6oq8
+APIchanges,Amazon QuickSight - 9 updated methods,https://awsapichanges.info/archive/changes/49009b-quicksight.html,https://da.gd/mTxtwK
+APIchanges,Amazon DevOps Guru - 1 updated methods,https://awsapichanges.info/archive/changes/31e9b6-devops-guru.html,https://da.gd/4Fxh7
+APIchanges,Amazon Forecast Service - 3 updated methods,https://awsapichanges.info/archive/changes/31e9b6-forecast.html,https://da.gd/ksU3jq
+APIchanges,AWS MediaTailor - 1 new 2 updated methods,https://awsapichanges.info/archive/changes/31e9b6-api.mediatailor.html,https://da.gd/qkPRz
