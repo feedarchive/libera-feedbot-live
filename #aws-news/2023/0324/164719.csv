@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Deleted and remade my NextJS app. User login/auth works perfectly in my Amplify builds - but on my local project (when running dev or start), I get an error: 'User pool client ""xxxx"" does not exist.'.",https://redd.it/120lbt3,
