@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Want to enable S3 logging for best practice, but what about the logs for the logging bucket? Won't that result in an infinite loop of logging?",https://redd.it/1250tbx,
