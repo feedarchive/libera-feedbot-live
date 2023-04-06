@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"At a loss with this lambda to invalidate my cloudfront distribution. It works through the console, and with the cli, but not with my lambda and the logs show no errors. The IAM role for the lambda has the proper permissions. I'm really at a loss, please give me a hint or something!",https://redd.it/12cujxi,
