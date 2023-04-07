@@ -1,0 +1,78 @@
+feed,title,long_url,short_url
+j:JMLR,Benign overfitting in ridge regression,http://jmlr.org/papers/v24/22-1398.html,https://da.gd/IGnzb
+j:JMLR,Compute-Efficient Deep Learning: Algorithmic Trends and Opportunities,http://jmlr.org/papers/v24/22-1208.html,https://da.gd/VtjXl1
+j:JMLR,Minimal Width for Universal Property of Deep RNN,http://jmlr.org/papers/v24/22-1191.html,https://da.gd/I6baD
+j:JMLR,Maximum likelihood estimation in Gaussian process regression is ill-posed,http://jmlr.org/papers/v24/22-1153.html,https://da.gd/cWjuo
+j:JMLR,An Annotated Graph Model with Differential Degree Heterogeneity for Directed Networks,http://jmlr.org/papers/v24/22-1138.html,https://da.gd/MjPB
+j:JMLR,A Unified Framework for Optimization-Based Graph Coarsening,http://jmlr.org/papers/v24/22-1085.html,https://da.gd/TTkZEE
+j:JMLR,Deep linear networks can benignly overfit when shallow ones do,http://jmlr.org/papers/v24/22-1065.html,https://da.gd/wQQ77
+j:JMLR,SQLFlow: An Extensible Toolkit Integrating DB and AI,http://jmlr.org/papers/v24/22-1047.html,https://da.gd/m3gP
+j:JMLR,Learning Good State and Action Representations for Markov Decision Process via Tensor Decomposition,http://jmlr.org/papers/v24/22-0917.html,https://da.gd/LuvsT
+j:JMLR,Generalization Bounds for Adversarial Contrastive Learning,http://jmlr.org/papers/v24/22-0866.html,https://da.gd/TPKmw
+j:JMLR,The Implicit Bias of Benign Overfitting,http://jmlr.org/papers/v24/22-0784.html,https://da.gd/fd08v0
+j:JMLR,The Hyperspherical Geometry of Community Detection: Modularity as a Distance,http://jmlr.org/papers/v24/22-0744.html,https://da.gd/aRAbWR
+j:JMLR,FLIP: A Utility Preserving Privacy Mechanism for Time Series,http://jmlr.org/papers/v24/22-0734.html,https://da.gd/PAKSc
+j:JMLR,A General Theory for Federated Optimization with Asynchronous and Heterogeneous Clients Updates,http://jmlr.org/papers/v24/22-0689.html,https://da.gd/oKeH
+j:JMLR,Dimensionless machine learning: Imposing exact units equivariance,http://jmlr.org/papers/v24/22-0680.html,https://da.gd/TU5qCY
+j:JMLR,Bayesian Calibration of Imperfect Computer Models using Physics-Informed Priors,http://jmlr.org/papers/v24/22-0676.html,https://da.gd/CuvRPp
+j:JMLR,Risk Bounds for Positive-Unlabeled Learning Under the Selected At Random Assumption,http://jmlr.org/papers/v24/22-067.html,https://da.gd/urVX
+j:JMLR,Concentration analysis of multivariate elliptic diffusions,http://jmlr.org/papers/v24/22-0666.html,https://da.gd/jw3fR
+j:JMLR,Knowledge Hypergraph Embedding Meets Relational Algebra,http://jmlr.org/papers/v24/22-063.html,https://da.gd/RVWl0
+j:JMLR,Intrinsic Gaussian Process on Unknown Manifolds with Probabilistic Metrics,http://jmlr.org/papers/v24/22-0627.html,https://da.gd/Dsxxd2
+j:JMLR,Sparse Training with Lipschitz Continuous Loss Functions and a Weighted Group L0-norm Constraint,http://jmlr.org/papers/v24/22-0615.html,https://da.gd/ysJNJt
+j:JMLR,Learning Optimal Group-structured Individualized Treatment Rules with Many Treatments,http://jmlr.org/papers/v24/22-0520.html,https://da.gd/3D8Fs
+j:JMLR,Inference for Gaussian Processes with Matern Covariogram on Compact Riemannian Manifolds,http://jmlr.org/papers/v24/22-0503.html,https://da.gd/50KzO
+j:JMLR,FedLab: A Flexible Federated Learning Framework,http://jmlr.org/papers/v24/22-0440.html,https://da.gd/V6Ow
+j:JMLR,Connectivity Matters: Neural Network Pruning Through the Lens of Effective Sparsity,http://jmlr.org/papers/v24/22-0415.html,https://da.gd/tFcLB6
+j:JMLR,An Analysis of Robustness of Non-Lipschitz Networks,http://jmlr.org/papers/v24/22-0410.html,https://da.gd/3L7p
+j:JMLR,Fitting Autoregressive Graph Generative Models through Maximum Likelihood Estimation,http://jmlr.org/papers/v24/22-0337.html,https://da.gd/Hh7S
+j:JMLR,"Global Convergence of Sub-gradient Method for Robust Matrix Recovery: Small Initialization, Noisy Measurements, and Over-parameterization",http://jmlr.org/papers/v24/22-0233.html,https://da.gd/zV63Q
+j:JMLR,Statistical Inference for Noisy Incomplete Binary Matrix,http://jmlr.org/papers/v24/22-0214.html,https://da.gd/XsrYlP
+j:JMLR,Faith-Shap: The Faithful Shapley Interaction Index,http://jmlr.org/papers/v24/22-0202.html,https://da.gd/0kHBw
+j:JMLR,Decentralized Learning: Theoretical Optimality and Practical Improvements,http://jmlr.org/papers/v24/22-0044.html,https://da.gd/B84e
+j:JMLR,Non-Asymptotic Guarantees for Robust Statistical Learning under Infinite Variance Assumption,http://jmlr.org/papers/v24/22-0034.html,https://da.gd/GNKR
+j:JMLR,Recursive Quantile Estimation: Non-Asymptotic Confidence Bounds,http://jmlr.org/papers/v24/22-0021.html,https://da.gd/5td8qz
+j:JMLR,Outlier-Robust Subsampling Techniques for Persistent Homology,http://jmlr.org/papers/v24/21-1526.html,https://da.gd/7j2O
+j:JMLR,Neural Operator: Learning Maps Between Function Spaces With Applications to PDEs,http://jmlr.org/papers/v24/21-1524.html,https://da.gd/JAJEQR
+j:JMLR,Dimension-Grouped Mixed Membership Models for Multivariate Categorical Data,http://jmlr.org/papers/v24/21-1513.html,https://da.gd/wtFhh
+j:JMLR,Gaussian Processes with Errors in Variables: Theory and Computation,http://jmlr.org/papers/v24/21-1480.html,https://da.gd/xAAzd
+j:JMLR,Learning Partial Differential Equations in Reproducing Kernel Hilbert Spaces,http://jmlr.org/papers/v24/21-1363.html,https://da.gd/fDeN
+j:JMLR,Doubly Robust Stein-Kernelized Monte Carlo Estimator: Simultaneous Bias-Variance Reduction and Supercanonical Convergence,http://jmlr.org/papers/v24/21-1313.html,https://da.gd/3PQIBK
+j:JMLR,Online Optimization over Riemannian Manifolds,http://jmlr.org/papers/v24/21-1308.html,https://da.gd/qPzFV
+j:JMLR,Bayes-Newton Methods for Approximate Bayesian Inference with PSD Guarantees,http://jmlr.org/papers/v24/21-1298.html,https://da.gd/dKuc
+j:JMLR,Iterated Block Particle Filter for High-dimensional Parameter Learning: Beating the Curse of Dimensionality,http://jmlr.org/papers/v24/21-1253.html,https://da.gd/yoTTVJ
+j:JMLR,Fast Online Changepoint Detection via Functional Pruning CUSUM Statistics,http://jmlr.org/papers/v24/21-1230.html,https://da.gd/MSas6
+j:JMLR,Temporal Abstraction in Reinforcement Learning with the Successor Representation,http://jmlr.org/papers/v24/21-1213.html,https://da.gd/fy31
+j:JMLR,Approximate Post-Selective Inference for Regression with the Group LASSO,http://jmlr.org/papers/v24/21-1186.html,https://da.gd/jKIA
+j:JMLR,Towards Learning to Imitate from a Single Video Demonstration,http://jmlr.org/papers/v24/21-1174.html,https://da.gd/tcbn
+j:JMLR,A Likelihood Approach to Nonparametric Estimation of a Singular Distribution Using Deep Generative Models,http://jmlr.org/papers/v24/21-1099.html,https://da.gd/ZUOLrk
+j:JMLR,A Randomized Subspace-based Approach for Dimensionality Reduction and Important Variable Selection,http://jmlr.org/papers/v24/21-1046.html,https://da.gd/YSaw7j
+j:JMLR,Intrinsic Persistent Homology via Density-based Metric Learning,http://jmlr.org/papers/v24/21-1044.html,https://da.gd/IZxw
+j:JMLR,Privacy-Aware Rejection Sampling,http://jmlr.org/papers/v24/21-0870.html,https://da.gd/NcIJU
+j:JMLR,Inference for a Large Directed Acyclic Graph with Unspecified Interventions,http://jmlr.org/papers/v24/21-0855.html,https://da.gd/gqQJEC
+j:JMLR,How Do You Want Your Greedy: Simultaneous or Repeated?,http://jmlr.org/papers/v24/21-0782.html,https://da.gd/99X0
+j:JMLR,Kernel-Matrix Determinant Estimates from stopped Cholesky Decomposition,http://jmlr.org/papers/v24/21-0781.html,https://da.gd/cn6NQT
+j:JMLR,Optimizing ROC Curves with a Sort-Based Surrogate Loss for Binary Classification and Changepoint Detection,http://jmlr.org/papers/v24/21-0751.html,https://da.gd/uuQK
+j:JMLR,When Locally Linear Embedding Hits Boundary,http://jmlr.org/papers/v24/21-0697.html,https://da.gd/eF4Cd
+j:JMLR,Distributed Nonparametric Regression Imputation for Missing Response Problems with Large-scale Data,http://jmlr.org/papers/v24/21-0673.html,https://da.gd/gqWj8M
+j:JMLR,Prior Specification for Bayesian Matrix Factorization via Prior Predictive Matching,http://jmlr.org/papers/v24/21-0623.html,https://da.gd/5E0rFH
+j:JMLR,Posterior Contraction for Deep Gaussian Process Priors,http://jmlr.org/papers/v24/21-0556.html,https://da.gd/fqUMzZ
+j:JMLR,Wide-minima Density Hypothesis and the Explore-Exploit Learning Rate Schedule,http://jmlr.org/papers/v24/21-0549.html,https://da.gd/Nkk9zj
+j:JMLR,Fundamental limits and algorithms for sparse linear regression with sublinear sparsity,http://jmlr.org/papers/v24/21-0543.html,https://da.gd/HJyC
+j:JMLR,On the Complexity of SHAP-Score-Based Explanations: Tractability via Knowledge Compilation and Non-Approximability Results,http://jmlr.org/papers/v24/21-0389.html,https://da.gd/hXY0N3
+j:JMLR,Monotonic Alpha-divergence Minimisation for Variational Inference,http://jmlr.org/papers/v24/21-0249.html,https://da.gd/1dlXh
+j:JMLR,Density estimation on low-dimensional manifolds: an inflation-deflation approach,http://jmlr.org/papers/v24/21-0235.html,https://da.gd/ZcsF
+j:JMLR,Provably Sample-Efficient Model-Free Algorithm for MDPs with Peak Constraints,http://jmlr.org/papers/v24/21-0117.html,https://da.gd/qMZSA
+j:JMLR,Topological Convolutional Layers for Deep Learning,http://jmlr.org/papers/v24/21-0073.html,https://da.gd/ATIjVY
+j:JMLR,"Online Stochastic Gradient Descent with Arbitrary Initialization Solves Non-smooth, Non-convex Phase Retrieval",http://jmlr.org/papers/v24/20-902.html,https://da.gd/GE74
+j:JMLR,Tree-AMP: Compositional Inference with Tree Approximate Message Passing,http://jmlr.org/papers/v24/20-695.html,https://da.gd/G6ew50
+j:JMLR,On the geometry of Stein variational gradient descent,http://jmlr.org/papers/v24/20-602.html,https://da.gd/Ux0laR
+j:JMLR,Kernel-based estimation for partially functional linear model: Minimax rates and randomized sketches,http://jmlr.org/papers/v24/20-1461.html,https://da.gd/qyLP
+j:JMLR,Contextual Stochastic Block Model: Sharp Thresholds and Contiguity,http://jmlr.org/papers/v24/20-1419.html,https://da.gd/83Hwzz
+j:JMLR,VCG Mechanism Design with Unknown Agent Values under Stochastic Bandit Feedback,http://jmlr.org/papers/v24/20-1226.html,https://da.gd/RHcjPQ
+j:JMLR,Necessary and Sufficient Conditions for Inverse Reinforcement Learning of Bayesian Stopping Time Problems,http://jmlr.org/papers/v24/20-1202.html,https://da.gd/DE8i
+j:JMLR,Online Change-Point Detection in High-Dimensional Covariance Structure with Application to Dynamic Networks,http://jmlr.org/papers/v24/20-1101.html,https://da.gd/jlJrM
+j:JMLR,Convergence Rates of a Class of Multivariate Density Estimation Methods Based on Adaptive Partitioning,http://jmlr.org/papers/v24/20-060.html,https://da.gd/Xu02
+j:JMLR,Reinforcement Learning for Joint Optimization of Multiple Rewards,http://jmlr.org/papers/v24/19-980.html,https://da.gd/McmM
+j:JMLR,On the Convergence of Stochastic Gradient Descent with Bandwidth-based Step Size,http://jmlr.org/papers/v24/19-1009.html,https://da.gd/b5FvUo
+j:JMLR,A Group-Theoretic Approach to Computational Abstraction: Symmetry-Driven Hierarchical Clustering,http://jmlr.org/papers/v24/18-508.html,https://da.gd/3yTJM
