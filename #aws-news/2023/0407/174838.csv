@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Trusted Advisor introduces Engage for AWS Enterprise On-Ramp Support customers (Preview),https://aws.amazon.com/about-aws/whats-new/2023/04/aws-trusted-advisor-engage-enterprise-on-ramp-support-customers/,https://da.gd/6NvILb
+AWS:WhatsNew,NICE DCV announces the general availability of the DCV,https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv/,https://da.gd/6KR8
+AWS:WhatsNew,AWS CloudTrail Lake is now available in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudtrail-lake-aws-govcloud-us-regions/,https://da.gd/OGwOon
+AWS:WhatsNew,Amazon SageMaker now supports sharing predictions with Amazon QuickSight,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-sharing-predictions-quicksight/,https://da.gd/4kttez
+AWS:WhatsNew,Amazon RDS for MySQL supports inbound replication for RDS Multi-AZ deployment option with two readable standby DB instances,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-inbound-replication-multi-az-two-readable-instances/,https://da.gd/WL3aSr
+AWS:WhatsNew,EMR on EKS now supports Apache Spark with Java 11,https://aws.amazon.com/about-aws/whats-new/2023/04/emr-eks-apache-spark-java-11/,https://da.gd/lrVdL
+AWS:WhatsNew,Amazon RDS for MySQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-15-read-replicas-multi-az-two-readable-instances/,https://da.gd/iWDwJs
+AWS:WhatsNew,Amazon Aurora now supports PostgreSQL 15,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-postgresql-15/,https://da.gd/mAWeh
+AWS:WhatsNew,RDS Custom for SQL Server now supports Multi-AZ deployments,https://aws.amazon.com/about-aws/whats-new/2023/04/rds-custom-sql-server-multi-az-deployments/,https://da.gd/CTwy
+AWS:WhatsNew,"Amazon Aurora supports PostgreSQL 14.7, 13.10, 12.14, and 11.19 versions",https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-supports-postgresql-additional-versions/,https://da.gd/OS2yo
