@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS on AWS Fargate now supports FIPS 140-2 on AWS Fargate in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-fips-140-2-govcloud-us-regions/,https://da.gd/bg21
+AWS:WhatsNew,Amazon GuardDuty Adds Three New Threat Detections to Alert Customers on Suspicious DNS Traffic,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-threat-detections-dns-traffic/,https://da.gd/E78v
