@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS WAF increases web ACL capacity units limits,https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-web-acl-capacity-units-limits/,https://da.gd/RM21
+AWS:WhatsNew,AWS WAF supports larger request body inspections for Amazon CloudFront distributions,https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-body-inspections-amazon-cloudfront-distributions/,https://da.gd/fNYS
