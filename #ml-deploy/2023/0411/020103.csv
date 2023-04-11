@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ArXiv,AutoQNN: An End-to-End Framework for Automatically Quantizing Neural Networks,https://arxiv.org/abs/2304.03782v1,
+ArXiv,OFTER: An Online Pipeline for Time Series Forecasting,https://arxiv.org/abs/2304.03877v1,
+ArXiv,GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation,https://arxiv.org/abs/2304.03879v1,
+ArXiv,HARFLOW3D: A Latency-Oriented 3D-CNN Accelerator Toolflow for HAR on FPGA Devices,https://arxiv.org/abs/2303.17218v4,
+ArXiv,The ADMM-PINNs Algorithmic Framework for Nonsmooth PDE-Constrained Optimization: A Deep Learning Approach,https://arxiv.org/abs/2302.08309v1,
