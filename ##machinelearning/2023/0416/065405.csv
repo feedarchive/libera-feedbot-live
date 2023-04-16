@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:50+,llama-lite: a proof of concept fast sentence embeddings service based on llama.cpp (~1ms per token on CPU) [P],https://redd.it/12ng50q,
