@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DynamoDB now supports up to 50 concurrent table restores,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-dynamodb-concurrent-table-restores/,https://da.gd/GqZOs
+AWS:WhatsNew,Amazon EFS now supports up to 10 GiB/s of throughput,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-efs-10-gibs-throughput/,https://da.gd/vt6gG
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) provides ODBC driver to connect from BI tools,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-documentdb-mongodb-odbc-driver-bi-tools/,https://da.gd/E0bGF
