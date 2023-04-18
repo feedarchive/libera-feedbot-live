@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda adds support for Python 3.10,https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-python-3-10/,https://da.gd/aNnXec
+AWS:WhatsNew,AWS Backup announces support for SAP HANA databases on Amazon EC2,https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/,https://da.gd/IcnN
+AWS:WhatsNew,Amazon RDS events now include tags for filtering and routing,https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-events-tags-filtering-routing/,https://da.gd/BXNLM
