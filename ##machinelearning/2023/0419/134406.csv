@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.0.1-rc1: [MPS] Fix batch_norm_backwards key (#98794) (#99456),https://github.com/pytorch/pytorch/releases/tag/v2.0.1-rc1,
