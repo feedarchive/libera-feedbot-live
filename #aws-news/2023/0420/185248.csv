@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:100+,"Getting started with ECS can be overwhelming. It involves working with multiple services and concepts like ECR, Fargate, Task Definitions, Clusters etc. Let's see a step by step tutorial which touches upon these concepts, builds a simple task and gets it deployed on ECS.",https://redd.it/12p8yd0,
