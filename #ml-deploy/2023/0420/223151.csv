@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Medium,AWS SageMaker: Training and Deploying an XGBoost Model on the Iris Dataset,https://medium.com/p/2f08b19dfb2f,
+Medium,"Effortless model training and deployment using Falcon ML, ONNX and FastAPI",https://medium.com/p/338a0984e0b8,
+Medium,"Finetuning a commercially viable open source LLM (Flan-UL2) using Alpaca, Dolly15K and LoRA",https://medium.com/p/3b84e568c458,
