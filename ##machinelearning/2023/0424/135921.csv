@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.0.1-rc2: [2.0.1] Disable SDPA FlashAttention backward and mem eff attention on…,https://github.com/pytorch/pytorch/releases/tag/v2.0.1-rc2,
