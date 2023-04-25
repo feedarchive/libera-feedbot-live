@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"[D] Be careful with user facing apps using LLMs. They can easily be hijacked by nefarious users. In this example I simulated an LLM being ""tricked"" into executing a plugin via a JSON command by inserting nefarious text as a user.",https://redd.it/12xwzt9,
