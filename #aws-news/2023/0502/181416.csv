@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Inspector now allows customers to search its vulnerability intelligence database,https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-inspector-vulnerability-intelligence-database/,https://da.gd/6Y5m1g
+AWS:WhatsNew,Amazon SNS now supports message data protection in five additional regions,https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-message-data-protection-additional-regions/,https://da.gd/lx9Rr
+AWS:WhatsNew,Amazon SNS now supports FIFO topics in five additional regions,https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-fifo-topics-five-regions/,https://da.gd/FkPX
+AWS:WhatsNew,AWS Health now publishes service health events to Amazon EventBridge in primary and backup Regions,https://aws.amazon.com/about-aws/whats-new/2023/05/aws-health-publishes-events-eventbridge-primary-backup-regions/,https://da.gd/DLFNY
+AWS:WhatsNew,Amazon EFS Replication is now available in all AWS Regions,https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-efs-replication-aws-regions/,https://da.gd/TX8K
