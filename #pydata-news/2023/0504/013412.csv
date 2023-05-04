@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,An experience with PyCUDA: Refactoring an existing implementation of a ray-surface intersection algorithm,https://arxiv.org/abs/2305.01867v1,
+ArXiv,"Medical Image Deidentification, Cleaning and Compression Using Pylogik",https://arxiv.org/abs/2304.12322v2,
+ArXiv,pyPESTO: A modular and scalable tool for parameter estimation for dynamic models,https://arxiv.org/abs/2305.01821v1,
