@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CodeGuru Security plugin for SageMaker Studio and Jupyter Notebooks now in preview,https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codeguru-security-plugin-sagemaker-studio-jupyter-notebooks-preview/,https://da.gd/VnRtI
+AWS:WhatsNew,"Amazon SageMaker notebooks now support ml.p4d, ml.p4de and ml.inf1 instances",https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-notebooks-ml-p4d-ml-p4de-ml-inf1-instances/,https://da.gd/B72gh
+AWS:WhatsNew,Announcing Provisioned Concurrency for Amazon SageMaker Serverless Inference,https://aws.amazon.com/about-aws/whats-new/2023/05/provisioned-concurrency-amazon-sagemaker-serverless-inference/,https://da.gd/7kMNjj
+AWS:WhatsNew,Amazon SageMaker Canvas can now operationalize ML models in production,https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-canvas-operationalize-ml-models-production/,https://da.gd/741CbA
