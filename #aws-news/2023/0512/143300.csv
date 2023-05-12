@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,Minimum permissions to use `aws s3 sync public/ s3://<S3_BUCKET_NAME> --delete`,https://redd.it/13fef57,
