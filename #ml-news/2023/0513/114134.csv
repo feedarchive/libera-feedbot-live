@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/RL:20+,"First working use of rtgym for Deep-RL via the Rlib framework applied to Gran Turismo 1 (PS1) on PCSX-Redux emu. Communicating via TCP sockets, with protobuf for serialisation Sharing my first working pipeline. :) Major mini-party. https://youtu.be/zVrhbXNOHCc",https://redd.it/13etgq5,
+r/RL:20+,Best Practical RL Courses?,https://redd.it/13eq9wg,
