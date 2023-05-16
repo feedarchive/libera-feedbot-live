@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:50+,"[D] - At some point, does it make more sense for an LLM's long-term memory to be handled via training a model vs attempting to improve the size of the context window or improve recurrence techniques? GPT has amazing ""memory"" of factual data, but all of it was achieved via backpropagation",https://redd.it/13i8uis,
