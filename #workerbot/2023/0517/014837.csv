@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Exponential Integrators for Phase-Field Equations using Pseudo-spectral Methods: A Python Implementation,https://arxiv.org/abs/2305.08998v1,
+ArXiv,UQpy v4.1: Uncertainty Quantification with Python,https://arxiv.org/abs/2305.09572v1,
+ArXiv,torchosr -- a PyTorch extension package for Open Set Recognition models evaluation in Python,https://arxiv.org/abs/2305.09646v1,
