@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"LIMA, a 65B-Param LLaMa fine-tuned with standard supervised loss on only 1,000 carefully curated prompts & responses, without any RLHF, demonstrates remarkably strong performance, learning to follow specific responses from only a handful of examples in the training data, including complex queries",https://redd.it/13oe5ot,
