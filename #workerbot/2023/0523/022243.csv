@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,PyTorch Hyperparameter Tuning -- A Tutorial for spotPython,https://arxiv.org/abs/2305.11930v1,
+ArXiv,LAMDA-SSL: Semi-Supervised Learning in Python,https://arxiv.org/abs/2208.04610v2,
+ArXiv,EvoTorch: Scalable Evolutionary Computation in Python,https://arxiv.org/abs/2302.12600v3,
+ArXiv,Torch-Choice: A PyTorch Package for Large-Scale Choice Modelling with Python,https://arxiv.org/abs/2304.01906v2,
