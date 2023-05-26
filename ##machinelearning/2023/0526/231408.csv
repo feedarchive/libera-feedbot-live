@@ -1,0 +1,51 @@
+feed,title,long_url,short_url
+j:JMLR,From Classification Accuracy to Proper Scoring Rules: Elicitability of Probabilistic Top List Predictions,http://jmlr.org/papers/v24/23-0106.html,https://da.gd/ghmzY
+j:JMLR,Beyond the Golden Ratio for Variational Inequality Algorithms,http://jmlr.org/papers/v24/22-1488.html,https://da.gd/ZeaiE
+j:JMLR,Incremental Learning in Diagonal Linear Networks,http://jmlr.org/papers/v24/22-1395.html,https://da.gd/mKZWRG
+j:JMLR,Small Transformers Compute Universal Metric Embeddings,http://jmlr.org/papers/v24/22-1246.html,https://da.gd/KSG5sy
+j:JMLR,DART: Distance Assisted Recursive Testing,http://jmlr.org/papers/v24/22-1131.html,https://da.gd/gIgq
+j:JMLR,Inference on the Change Point under a High Dimensional Covariance Shift,http://jmlr.org/papers/v24/22-1122.html,https://da.gd/LKKZaQ
+j:JMLR,Bilevel Optimization with a Lower-level Contraction: Optimal Sample Complexity without Warm-Start,http://jmlr.org/papers/v24/22-1043.html,https://da.gd/rMU4dT
+j:JMLR,A Parameter-Free Conditional Gradient Method for Composite Minimization under Hölder Condition,http://jmlr.org/papers/v24/22-0983.html,https://da.gd/eCPD1
+j:JMLR,Robust Methods for High-Dimensional Linear Learning,http://jmlr.org/papers/v24/22-0964.html,https://da.gd/yu3W
+j:JMLR,A Framework and Benchmark for Deep Batch Active Learning for Regression,http://jmlr.org/papers/v24/22-0937.html,https://da.gd/JVBL9e
+j:JMLR,Preconditioned Gradient Descent for Overparameterized Nonconvex Burer--Monteiro Factorization with Global Optimality Certification,http://jmlr.org/papers/v24/22-0882.html,https://da.gd/44tbbo
+j:JMLR,Flexible Model Aggregation for Quantile Regression,http://jmlr.org/papers/v24/22-0799.html,https://da.gd/0xHSp
+j:JMLR,q-Learning in Continuous Time,http://jmlr.org/papers/v24/22-0755.html,https://da.gd/mTzMh9
+j:JMLR,Multivariate Soft Rank via Entropy-Regularized Optimal Transport: Sample Efficiency and Generative Modeling,http://jmlr.org/papers/v24/22-0616.html,https://da.gd/BftS
+j:JMLR,Infinite-dimensional optimization and Bayesian nonparametric learning of stochastic differential equations,http://jmlr.org/papers/v24/22-0582.html,https://da.gd/rHNlVK
+j:JMLR,Asynchronous Iterations in Optimization: New Sequence Results and Sharper Algorithmic Guarantees,http://jmlr.org/papers/v24/22-0555.html,https://da.gd/gFIkzo
+j:JMLR,Restarted Nonconvex Accelerated Gradient Descent: No More Polylogarithmic Factor in the in the O(epsilon^(-7/4)) Complexity,http://jmlr.org/papers/v24/22-0522.html,https://da.gd/oVYVgg
+j:JMLR,Integrating Random Effects in Deep Neural Networks,http://jmlr.org/papers/v24/22-0501.html,https://da.gd/OdQZ
+j:JMLR,Adaptive Data Depth via Multi-Armed Bandits,http://jmlr.org/papers/v24/22-0497.html,https://da.gd/dWHLu
+j:JMLR,Adapting and Evaluating Influence-Estimation Methods for Gradient-Boosted Decision Trees,http://jmlr.org/papers/v24/22-0449.html,https://da.gd/nL5c2
+j:JMLR,Consistent Model-based Clustering using the Quasi-Bernoulli Stick-breaking Process,http://jmlr.org/papers/v24/22-0436.html,https://da.gd/y1ZTyr
+j:JMLR,Selective inference for k-means clustering,http://jmlr.org/papers/v24/22-0371.html,https://da.gd/sFHk
+j:JMLR,Generalization error bounds for multiclass sparse linear classifiers,http://jmlr.org/papers/v24/22-0367.html,https://da.gd/WYMzQ
+j:JMLR,MALib: A Parallel Framework for Population-based Multi-agent Reinforcement Learning,http://jmlr.org/papers/v24/22-0169.html,https://da.gd/rYEO
+j:JMLR,Controlling Wasserstein Distances by Kernel Norms with Application to Compressive Statistical Learning,http://jmlr.org/papers/v24/21-1516.html,https://da.gd/wavoC
+j:JMLR,Fast Objective & Duality Gap Convergence for Non-Convex Strongly-Concave Min-Max Problems with PL Condition,http://jmlr.org/papers/v24/21-1471.html,https://da.gd/qOca6c
+j:JMLR,Stochastic Optimization under Distributional Drift,http://jmlr.org/papers/v24/21-1410.html,https://da.gd/qw3Y6
+j:JMLR,Off-Policy Actor-Critic with Emphatic Weightings,http://jmlr.org/papers/v24/21-1350.html,https://da.gd/f1eAG
+j:JMLR,Memory-Based Optimization Methods for Model-Agnostic Meta-Learning and Personalized Federated Learning,http://jmlr.org/papers/v24/21-1301.html,https://da.gd/K0qKns
+j:JMLR,Escaping The Curse of Dimensionality in Bayesian Model-Based Clustering,http://jmlr.org/papers/v24/21-1276.html,https://da.gd/vOwHSd
+j:JMLR,Large sample spectral analysis of graph-based multi-manifold clustering,http://jmlr.org/papers/v24/21-1254.html,https://da.gd/hQNFDf
+j:JMLR,On Tilted Losses in Machine Learning: Theory and Applications,http://jmlr.org/papers/v24/21-1095.html,https://da.gd/k6Yet4
+j:JMLR,Optimal Convergence Rates for Distributed Nystroem Approximation,http://jmlr.org/papers/v24/21-1049.html,https://da.gd/zqZV8F
+j:JMLR,Jump Interval-Learning for Individualized Decision Making with Continuous Treatments,http://jmlr.org/papers/v24/21-0843.html,https://da.gd/FqjA2
+j:JMLR,Policy Gradient Methods Find the Nash Equilibrium in N-player General-sum Linear-quadratic Games,http://jmlr.org/papers/v24/21-0842.html,https://da.gd/NaRUz
+j:JMLR,Asymptotics of Network Embeddings Learned via Subsampling,http://jmlr.org/papers/v24/21-0841.html,https://da.gd/NnshX
+j:JMLR,Implicit Bias of Gradient Descent for Mean Squared Error Regression with Two-Layer Wide Neural Networks,http://jmlr.org/papers/v24/21-0832.html,https://da.gd/tmQI
+j:JMLR,Dimension Reduction in Contextual Online Learning via Nonparametric Variable Selection,http://jmlr.org/papers/v24/21-0818.html,https://da.gd/jktz
+j:JMLR,Sparse GCA and Thresholded Gradient Descent,http://jmlr.org/papers/v24/21-0745.html,https://da.gd/EthsM
+j:JMLR,MARS: A Second-Order Reduction Algorithm for High-Dimensional Sparse Precision Matrices Estimation,http://jmlr.org/papers/v24/21-0699.html,https://da.gd/1mpl8
+j:JMLR,Exploiting Discovered Regression Discontinuities to Debias Conditioned-on-observable Estimators,http://jmlr.org/papers/v24/21-0670.html,https://da.gd/lHT6f
+j:JMLR,Generalized Linear Models in Non-interactive Local Differential Privacy with Public Data,http://jmlr.org/papers/v24/21-0523.html,https://da.gd/wpweAz
+j:JMLR,A Rigorous Information-Theoretic Definition of Redundancy and Relevancy in Feature Selection Based on (Partial) Information Decomposition,http://jmlr.org/papers/v24/21-0482.html,https://da.gd/hvELH0
+j:JMLR,Combinatorial Optimization and Reasoning with Graph Neural Networks,http://jmlr.org/papers/v24/21-0449.html,https://da.gd/qjhTc
+j:JMLR,A First Look into the Carbon Footprint of Federated Learning,http://jmlr.org/papers/v24/21-0445.html,https://da.gd/zOE4Ik
+j:JMLR,An Eigenmodel for Dynamic Multilayer Networks,http://jmlr.org/papers/v24/21-0270.html,https://da.gd/mWKz
+j:JMLR,Graph Clustering with Graph Neural Networks,http://jmlr.org/papers/v24/20-998.html,https://da.gd/hYXwLP
+j:JMLR,Euler-Lagrange Analysis of Generative Adversarial Networks,http://jmlr.org/papers/v24/20-1390.html,https://da.gd/FBRlqo
+j:JMLR,Statistical Robustness of Empirical Risks in Machine Learning,http://jmlr.org/papers/v24/20-1039.html,https://da.gd/lx30jM
+j:JMLR,HiGrad: Uncertainty Quantification for Online Learning and Stochastic Approximation,http://jmlr.org/papers/v24/18-521.html,https://da.gd/IcRi9
