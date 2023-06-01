@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,New Instance Metadata Service (IMDS) Packet Analyzer simplifies migration to IMDSv2,https://aws.amazon.com/about-aws/whats-new/2023/06/imds-packet-analyzer-simplifies-migration-imdsv2/,https://da.gd/ssNiE
+AWS:WhatsNew,Amazon RDS for PostgreSQL now supports HypoPG for creating hypothetical indexes,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-postgresql-hypopg-hypothetical-indexes/,https://da.gd/4odqS
+AWS:WhatsNew,Amazon SNS now supports AWS X-Ray active tracing for FIFO topics,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sns-x-ray-active-tracing-fifo-topics/,https://da.gd/6nqcf
