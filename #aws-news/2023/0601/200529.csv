@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda supports Kafka and Amazon MQ event sources in four additional regions,https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/,https://da.gd/R1BJOX
+AWS:WhatsNew,Amazon ECR adds registry.k8s.io as a supported upstream for pull through cache repositories,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecr-registry-k8s-io-upstream-pull-through-cache-repositories/,https://da.gd/0zEG1P
