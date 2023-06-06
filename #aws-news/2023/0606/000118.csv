@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudTrail Lake now supports selective start or stop ingestion of CloudTrail events,https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-start-stop-ingestion-cloudtrail-events/,https://da.gd/PiRikd
+AWS:WhatsNew,AWS Lambda launches CloudWatch metrics for asynchronous invocations in GovCloud Regions,https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-cloudwatch-metrics-invocations-govcloud/,https://da.gd/tGPRhz
