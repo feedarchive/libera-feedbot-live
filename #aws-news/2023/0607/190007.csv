@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda adds support for Ruby 3.2,https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-support-ruby-3-2/,https://da.gd/9xWHW
+AWS:WhatsNew,Amazon Redshift Serverless now supports query scheduling and Single sign-on support,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-query-scheduling-single-sign-on/,https://da.gd/vcLDj
+AWS:WhatsNew,Announcing Test Workbench for Amazon Lex,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-lex-test-workbench/,https://da.gd/NBlT
+AWS:WhatsNew,AWS CloudFormation StackSets skips suspended accounts for faster deployments,https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-suspended-accounts-deployments/,https://da.gd/I69Jr
+AWS:WhatsNew,"Amazon SageMaker Canvas supports retraining ML models, automating prediction workflows on updated datasets",https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-ml-models-workflows-datasets/,https://da.gd/d34jd
