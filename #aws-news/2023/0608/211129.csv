@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Athena for Apache Spark now supports Apache Hudi, Apache Iceberg, and Delta Lake",https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-hudi-iceberg-delta-lake/,https://da.gd/BPBPkK
+AWS:WhatsNew,Amazon Athena for Apache Spark now supports custom Java libraries,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-custom-java-libraries/,https://da.gd/NYGrzm
+AWS:WhatsNew,Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli/,https://da.gd/vnwOin
