@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,Manifolds.jl: An Extensible Julia Framework for Data Analysis on Manifolds,https://arxiv.org/abs/2106.08777v3,
+ArXiv,Extending JumpProcess.jl for fast point process simulation with time-varying intensities,https://arxiv.org/abs/2306.06992v1,
