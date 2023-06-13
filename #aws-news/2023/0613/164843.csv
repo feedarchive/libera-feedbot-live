@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,Why does AWS not recommend API keys in API gateway to authenticate clients? What other options are there for exposing an API and providing keys for it. This is an internal service accessing the API and not users through cognito for example,https://redd.it/148e8q8,
