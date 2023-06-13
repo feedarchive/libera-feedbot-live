@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,EMR on EKS now supports container log rotation for Apache Spark,https://aws.amazon.com/about-aws/whats-new/2023/06/emr-eks-container-log-rotation-apache-spark/,https://da.gd/6Bpu8
+AWS:WhatsNew,Amazon Personalize now supports VPC endpoints,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-personalize-vpc-endpoints/,https://da.gd/Yg7H
+AWS:WhatsNew,AWS IAM Identity Center now supports automated user provisioning from Google Workspace,https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iam-identity-center-automated-user-provisioning-google-workspace/,https://da.gd/gpEE
+AWS:WhatsNew,Announcing third-party risk assessments and CSV exports in AWS Audit Manager,https://aws.amazon.com/about-aws/whats-new/2023/06/third-party-risk-assessments-csv-exports-aws-audit-manager/,https://da.gd/evDsXk
+AWS:WhatsNew,Amazon Rekognition improves face search accuracy with user vectors,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rekognition-face-search-accuracy-user-vectors/,https://da.gd/yoRP7
