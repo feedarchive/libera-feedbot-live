@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+r/AWS:10+,How to ensure that only CloudFront has access to the S3 bucket when S3 is configured as a static site?,https://redd.it/148erwq,
+r/AWS:10+,Do I need to use an Nginx reverse proxy between Application Load Balancer and Gunicorn running in Fargate?,https://redd.it/1482n5l,
