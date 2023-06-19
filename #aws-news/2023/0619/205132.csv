@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon Redshift Serverless,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-firehose-data-stream-delivery-redshift-serverless/,https://da.gd/DlONnT
+AWS:WhatsNew,Amazon VPC CNI now supports IPv6 Egress for Pods in IPv4 enabled Kubernetes Clusters,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-cni-ipv6-egress-pods-ipv4-kubernetes-clusters/,https://da.gd/BWLW
