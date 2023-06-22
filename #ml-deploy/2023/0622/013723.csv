@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,MRFI: An Open Source Multi-Resolution Fault Injection Framework for Neural Network Processing,https://arxiv.org/abs/2306.11758v1,
+ArXiv,LMFlow: An Extensible Toolkit for Finetuning and Inference of Large Foundation Models,https://arxiv.org/abs/2306.12420v1,
+ArXiv,FLGo: A Fully Customizable Federated Learning Platform,https://arxiv.org/abs/2306.12079v1,
+ArXiv,MutateNN: Mutation Testing of Image Recognition Models Deployed on Hardware Accelerators,https://arxiv.org/abs/2306.01697v2,
