@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,PyKoopman: A Python Package for Data-Driven Approximation of the Koopman Operator,https://arxiv.org/abs/2306.12962v1,
+ArXiv,scikit-fda: A Python Package for Functional Data Analysis,https://arxiv.org/abs/2211.02566v2,
+ArXiv,CosmoPower-JAX: high-dimensional Bayesian inference with differentiable cosmological emulators,https://arxiv.org/abs/2305.06347v2,
