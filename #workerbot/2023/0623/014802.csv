@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,RobustNeuralNetworks.jl: a Package for Machine Learning and Data-Driven Control with Certified Robustness,https://arxiv.org/abs/2306.12612v1,
+ArXiv,PyKoopman: A Python Package for Data-Driven Approximation of the Koopman Operator,https://arxiv.org/abs/2306.12962v1,
+ArXiv,Frouros: A Python library for drift detection in machine learning systems,https://arxiv.org/abs/2208.06868v2,
+ArXiv,scikit-fda: A Python Package for Functional Data Analysis,https://arxiv.org/abs/2211.02566v2,
