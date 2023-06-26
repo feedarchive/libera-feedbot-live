@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Neo now supports compilation of PyTorch and TensorFlow models for Inferentia 2 and Trainium 1 instances,https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-neo-pytorch-tensorflow-models-inferentia-2-trainium-1-instances/,https://da.gd/QVc1
+AWS:WhatsNew,AWS Glue now supports native Snowflake connector with new ETL capabilities (preview),https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-native-snowflake-connector-etl-capabilities-preview/,https://da.gd/Dzog1
+AWS:WhatsNew,AWS SAM CLI announces remote invoke feature for AWS Lambda,https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sam-cli-announces-remote-invoke-aws-lambda/,https://da.gd/MtneS
+AWS:WhatsNew,AWS Control Tower achieves FedRAMP High authorization in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-fedramp-high-authorization-aws-govcloud-us-regions/,https://da.gd/C6p7Y
+AWS:WhatsNew,Amazon Redshift announces native console integration with ThoughtSpot,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-native-console-integration-thoughtspot/,https://da.gd/rMdfbw
