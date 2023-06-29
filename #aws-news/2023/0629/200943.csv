@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 R6a instances now support faster Amazon EBS-optimized performance,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6a-instances-ebs-performance/,https://da.gd/KVLY
+AWS:WhatsNew,Amazon S3 provides restore status of S3 Glacier objects using the S3 LIST API,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-restore-status-s3-glacier-objects-list-api/,https://da.gd/GMoYC
+AWS:WhatsNew,Amazon Athena now supports querying restored data in S3 Glacier,https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-querying-restored-data-s3-glacier/,https://da.gd/1Roo
