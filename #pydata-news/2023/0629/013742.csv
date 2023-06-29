@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,Raphtory: The temporal graph engine for Rust and Python,https://arxiv.org/abs/2306.16309v1,
+ArXiv,EHRKit: A Python Natural Language Processing Toolkit for Electronic Health Record Texts,https://arxiv.org/abs/2204.06604v5,
+ArXiv,Optimal interpolation with spatial rational Pythagorean hodograph curves,https://arxiv.org/abs/2302.04632v4,
+ArXiv,PyVBMC: Efficient Bayesian inference in Python,https://arxiv.org/abs/2303.09519v2,
