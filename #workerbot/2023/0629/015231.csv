@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,Raphtory: The temporal graph engine for Rust and Python,https://arxiv.org/abs/2306.16309v1,
+ArXiv,PyDTS: A Python Package for Discrete-Time Survival (Regularized) Regression with Competing Risks,https://arxiv.org/abs/2204.05731v5,
+ArXiv,EHRKit: A Python Natural Language Processing Toolkit for Electronic Health Record Texts,https://arxiv.org/abs/2204.06604v5,
+ArXiv,PyVBMC: Efficient Bayesian inference in Python,https://arxiv.org/abs/2303.09519v2,
