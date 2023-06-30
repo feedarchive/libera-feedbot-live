@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PwC:Latest:Datasets,/openmedlab/ MIS-FM: 3D Medical Image Segmentation using Foundation Models Pretrained on a Large-Scale Unannotated Dataset: https://github.com/openmedlab/mis-fm,https://paperswithcode.com/paper/mis-fm-3d-medical-image-segmentation-using,https://da.gd/47F40
+PwC:Latest:Datasets,/fujiilabcollaboration/ MNISQ: A Large-Scale Quantum Circuit Dataset for Machine Learning on/for Quantum Computers in the NISQ era: https://github.com/fujiilabcollaboration/mnisq-quantum-circuit-dataset,https://paperswithcode.com/paper/mnisq-a-large-scale-quantum-circuit-dataset,https://da.gd/MQwAYn
+PwC:Latest:Datasets,/cardio-ai/ Surgical Phase and Instrument Recognition: How to identify appropriate Dataset Splits: https://github.com/cardio-ai/endovis-ml,https://paperswithcode.com/paper/surgical-phase-and-instrument-recognition-how,https://da.gd/d2uJHJ
