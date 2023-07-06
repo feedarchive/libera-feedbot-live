@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,In-depth Analysis On Parallel Processing Patterns for High-Performance Dataframes,https://arxiv.org/abs/2307.01394v1,
+ArXiv,"Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java",https://arxiv.org/abs/2307.01117v2,
