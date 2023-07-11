@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,"Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java",https://arxiv.org/abs/2307.01117v3,
+ArXiv,LINFA: a Python library for variational inference with normalizing flow and annealing,https://arxiv.org/abs/2307.04675v1,
