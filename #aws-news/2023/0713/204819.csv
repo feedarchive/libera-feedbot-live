@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP announces two additional monitoring and troubleshooting capabilities,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-additional-monitoring-troubleshooting-capabilities/,https://da.gd/Ucs0jq
+AWS:WhatsNew,"Amazon FSx for NetApp ONTAP supports write once, read many (WORM) protection with SnapLock",https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-worm-protection/,https://da.gd/G4jmF
+AWS:WhatsNew,AWS Karpenter now supports Windows containers,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-karpenter-windows-containers/,https://da.gd/oXg4t
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP now supports IPSec encryption of data in transit,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-ipsec-encryption-data-transit/,https://da.gd/lAIi
