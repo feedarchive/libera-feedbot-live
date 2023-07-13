@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now detects and stops recursive loops in Lambda functions,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-detects-recursive-loops-lambda-functions/,https://da.gd/8gRt7
+AWS:WhatsNew,"Amazon Aurora supports PostgreSQL 15.3, 14.8, 13.11, 12.15, and 11.20 versions",https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-additional-versions/,https://da.gd/x0Osqu
+AWS:WhatsNew,Amazon Aurora PostgreSQL now supports pgvector for vector storage and similarity search,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-pgvector-vector-storage-similarity-search/,https://da.gd/lzGBo
