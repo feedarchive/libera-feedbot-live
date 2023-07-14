@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/RL:10+,"PPO agent completing Street Fighter III on our RL Platform, it consistently outperformed when using deterministic actions instead of sampling them proportionally to their probability. Why in your opinion? (see comment for details)",https://redd.it/14yjbbp,
