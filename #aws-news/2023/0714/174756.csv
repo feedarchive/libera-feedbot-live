@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Proton introduces deployment history,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-proton-deployment-history/,https://da.gd/k3ad
+AWS:WhatsNew,Amazon EMR on EKS adds programmatic execution for managed endpoints,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-programmatic-execution-managed-endpoints/,https://da.gd/mB9k0
+AWS:WhatsNew,AWS Elemental MediaTailor introduces alert categories in Channel Assembly,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediatailor-alert-categories-channel-assembly/,https://da.gd/0gXP
+AWS:WhatsNew,Amazon CloudFront announces support for 3072-bit RSA certificates,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudfront-3072-bit-rsa-certificates/,https://da.gd/HUUWd
+AWS:WhatsNew,Amazon Personalize now makes it easier to add columns to existing datasets,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-personalize-add-columns-existing-datasets/,https://da.gd/O12iOX
+AWS:WhatsNew,Amazon S3 Inventory can include ACLs as object metadata in inventory reports,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-s3-inventory-access-control-lists-metadata-inventory/,https://da.gd/PIiUF
+AWS:WhatsNew,Amazon EC2 M7g and R7g instances are now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-m7g-r7g-instances-additional-regions/,https://da.gd/wjqwov
+AWS:WhatsNew,AWS DMS now supports Amazon Redshift Serverless as a target,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-dms-amazon-redshift-target/,https://da.gd/SMAPGr
