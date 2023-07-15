@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:50+,"[P] PPO agent completing Street Fighter III on our RL Platform, it consistently outperformed when using deterministic actions instead of sampling them proportionally to their probability, see comment for details",https://redd.it/150adk0,
