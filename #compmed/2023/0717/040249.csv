@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+ArXiv:eess,Rician likelihood loss for quantitative MRI using self-supervised deep learning,https://arxiv.org/abs/2307.07072v1,
+ArXiv:eess,MaxCorrMGNN: A Multi-Graph Neural Network Framework for Generalized Multimodal Fusion of Medical Data for Outcome Prediction,https://arxiv.org/abs/2307.07093v1,
+ArXiv:eess,cOOpD: Reformulating COPD classification on chest CT scans as anomaly detection using contrastive representations,https://arxiv.org/abs/2307.07254v1,
+ArXiv:eess,Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation,https://arxiv.org/abs/2307.07269v1,
+ArXiv:eess,3D Shape-Based Myocardial Infarction Prediction Using Point Cloud Classification Networks,https://arxiv.org/abs/2307.07298v1,
+ArXiv:eess,KU-DMIS-MSRA at RadSum23: Pre-trained Vision-Language Model for Radiology Report Summarization,https://arxiv.org/abs/2307.07409v1,
+ArXiv:eess,Enhancing ECG Analysis of Implantable Cardiac Monitor Data: An Efficient Pipeline for Multi-Label Classification,https://arxiv.org/abs/2307.07423v1,
+ArXiv:eess,Brain Tumor Detection using Convolutional Neural Networks with Skip Connections,https://arxiv.org/abs/2307.07503v1,
+ArXiv:eess,Interpretable and Intervenable Ultrasonography-based Machine Learning Models for Pediatric Appendicitis,https://arxiv.org/abs/2302.14460v2,
+ArXiv:eess,Comparison of retinal regions-of-interest imaged by OCT for the classification of intermediate AMD,https://arxiv.org/abs/2305.02832v2,
+ArXiv:eess,Diffusion Probabilistic Priors for Zero-Shot Low-Dose CT Image Denoising,https://arxiv.org/abs/2305.15887v2,
+ArXiv:eess,Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference,https://arxiv.org/abs/2307.04421v2,
