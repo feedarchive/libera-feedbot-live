@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing the general availability of AWS HealthImaging,https://aws.amazon.com/about-aws/whats-new/2023/07/general-availability-aws-healthimaging/,https://da.gd/Yst2SP
+AWS:WhatsNew,Snowflake connectivity for AWS Glue for Apache Spark is now generally available,https://aws.amazon.com/about-aws/whats-new/2023/07/snowflake-connectivity-aws-glue-apache-spark/,https://da.gd/Ka9k0
+AWS:WhatsNew,AWS Glue Studio now supports Amazon Redshift Serverless,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-redshift-serverless/,https://da.gd/I6muo
+AWS:WhatsNew,AWS Glue jobs can now include AWS Glue DataBrew Recipes,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-jobs-databrew-recipes/,https://da.gd/Y51WU4
+AWS:WhatsNew,Amazon Redshift now supports querying Apache Iceberg tables,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-querying-apache-iceberg-tables/,https://da.gd/JXUhOC
