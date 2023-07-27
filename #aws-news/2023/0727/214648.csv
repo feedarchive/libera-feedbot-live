@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda adds support for Python 3.11,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-python-3-11/,https://da.gd/sgqtJk
+AWS:WhatsNew,Amazon RDS Custom for Oracle now supports AWS CloudFormation Templates,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-custom-oracle-aws-cloudformation-templates/,https://da.gd/B4Eb
+AWS:WhatsNew,AWS Glue now available in 2 new regions,https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-new-regions/,https://da.gd/43O14
+AWS:WhatsNew,Amazon MQ now supports RabbitMQ version 3.11 and new operator policies,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-mq-rabbitmq-version-3-11-operator-policies/,https://da.gd/4pSI
+AWS:WhatsNew,Amazon MQ now supports customer managed configuration for RabbitMQ brokers,https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-mq-managed-configuration-rabbitmq-brokers/,https://da.gd/BHtrDo
