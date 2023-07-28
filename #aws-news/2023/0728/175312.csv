@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Can somebody ELI5 what it means to put a Lambda function in a VPC? Using CDK, if you don't specify a VPC when creating a Lambda function, what does that effectively do?",https://redd.it/15bvtss,
