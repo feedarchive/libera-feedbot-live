@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Batch now supports price capacity optimized allocation strategy for Spot Instances,https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-price-capacity-optimized-allocation-strategy-spot-instances/,https://da.gd/yRYpq
+AWS:WhatsNew,SageMaker Studio announces pre-built docker ‘SageMaker Distribution’ for machine learning,https://aws.amazon.com/about-aws/whats-new/2023/08/sagemaker-studio-pre-built-docker-sagemaker-distribution-machine-learning/,https://da.gd/QSuvdC
+AWS:WhatsNew,Amazon RDS for Oracle now supports replicas for Single-tenant instances,https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-replicas-single-tenant-instances/,https://da.gd/X2Dy7
+AWS:WhatsNew,Amazon EKS makes it easier to configure and use Amazon EFS for persistent shared file storage,https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eks-configure-efs-shared-file-storage/,https://da.gd/WFdG
