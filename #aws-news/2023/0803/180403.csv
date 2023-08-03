@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon EFS now supports up to 55,000 IOPS per file system",https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-55000-iops-per-file-system/,https://da.gd/txPX
+AWS:WhatsNew,"Amazon EC2 VT1 now supports improved control of stream quality, latency and bandwidth",https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-vt1-improved-control-stream-quality-latency-bandwidth/,https://da.gd/dqlyr
+AWS:WhatsNew,RDS Custom for SQL Server now supports Local Time Zones,https://aws.amazon.com/about-aws/whats-new/2023/08/rds-custom-sql-server-local-time-zones/,https://da.gd/zwlppl
