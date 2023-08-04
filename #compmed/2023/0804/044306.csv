@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+ArXiv:eess,Framing image registration as a landmark detection problem for better representation of clinical relevance,https://arxiv.org/abs/2308.01318v1,
+ArXiv:eess,COVID-VR: A Deep Learning COVID-19 Classification Model Using Volume-Rendered Computer Tomography,https://arxiv.org/abs/2308.01433v1,
+ArXiv:eess,NuInsSeg: A Fully Annotated Dataset for Nuclei Instance Segmentation in H&E-Stained Histological Images,https://arxiv.org/abs/2308.01760v1,
+ArXiv:eess,Deep Learning-based Prediction of Stress and Strain Maps in Arterial Walls for Improved Cardiovascular Risk Assessment,https://arxiv.org/abs/2308.01771v1,
+ArXiv:eess,Accelerated respiratory-resolved 4D-MRI with separable spatio-temporal neural networks,https://arxiv.org/abs/2211.05678v2,
+ArXiv:eess,EDMAE: An Efficient Decoupled Masked Autoencoder for Standard View Identification in Pediatric Echocardiography,https://arxiv.org/abs/2302.13869v3,
+ArXiv:eess,CT Perfusion is All We Need: 4D CNN Segmentation of Penumbra and Core in Patient With Suspected Ischemic Stroke,https://arxiv.org/abs/2303.08757v2,
+ArXiv:eess,Automatically Predict Material Properties with Microscopic Image Example Polymer Compatibility,https://arxiv.org/abs/2303.12360v2,
+ArXiv:eess,atTRACTive: Semi-automatic white matter tract segmentation using active learning,https://arxiv.org/abs/2305.18905v3,
+ArXiv:eess,Domain knowledge-informed Synthetic fault sample generation with Health Data Map for cross-domain Planetary Gearbox Fault Diagnosis,https://arxiv.org/abs/2305.19569v4,
+ArXiv:eess,WindowNet: Learnable Windows for Chest X-ray Classification,https://arxiv.org/abs/2306.06038v2,
+ArXiv:eess,CMUNeXt: An Efficient Medical Image Segmentation Network based on Large Kernel and Skip Fusion,https://arxiv.org/abs/2308.01239v2,
