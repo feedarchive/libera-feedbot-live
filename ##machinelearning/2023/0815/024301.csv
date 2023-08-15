@@ -1,0 +1,85 @@
+feed,title,long_url,short_url
+j:JMLR,Fairlearn: Assessing and Improving Fairness of AI Systems,http://jmlr.org/papers/v24/23-0389.html,https://da.gd/mi11te
+j:JMLR,Scalable Real-Time Recurrent Learning Using Columnar-Constructive Networks,http://jmlr.org/papers/v24/23-0367.html,https://da.gd/14LkBB
+j:JMLR,Torchhd: An Open Source Python Library to Support Research on Hyperdimensional Computing and Vector Symbolic Architectures,http://jmlr.org/papers/v24/23-0300.html,https://da.gd/XA3Olz
+j:JMLR,skrl: Modular and Flexible Library for Reinforcement Learning,http://jmlr.org/papers/v24/23-0112.html,https://da.gd/5wdILG
+j:JMLR,"Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model",http://jmlr.org/papers/v24/23-0069.html,https://da.gd/ojaE9
+j:JMLR,Adaptive False Discovery Rate Control with Privacy Guarantee,http://jmlr.org/papers/v24/23-0039.html,https://da.gd/C8ux
+j:JMLR,Atlas: Few-shot Learning with Retrieval Augmented Language Models,http://jmlr.org/papers/v24/23-0037.html,https://da.gd/n3IzBO
+j:JMLR,Convex Reinforcement Learning in Finite Trials,http://jmlr.org/papers/v24/22-1514.html,https://da.gd/an0GF
+j:JMLR,Unbiased Multilevel Monte Carlo Methods for Intractable Distributions: MLMC Meets MCMC,http://jmlr.org/papers/v24/22-1468.html,https://da.gd/gqR1l0
+j:JMLR,Improving multiple-try Metropolis with local balancing,http://jmlr.org/papers/v24/22-1351.html,https://da.gd/aK0Y9
+j:JMLR,Importance Sparsification for Sinkhorn Algorithm,http://jmlr.org/papers/v24/22-1311.html,https://da.gd/qmPTo
+j:JMLR,Graph Attention Retrospective,http://jmlr.org/papers/v24/22-125.html,https://da.gd/DU7e9
+j:JMLR,Confidence Intervals and Hypothesis Testing for High-dimensional Quantile Regression: Convolution Smoothing and Debiasing,http://jmlr.org/papers/v24/22-1217.html,https://da.gd/7sRt
+j:JMLR,Selection by Prediction with Conformal p-values,http://jmlr.org/papers/v24/22-1176.html,https://da.gd/FRCcEB
+j:JMLR,Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics,http://jmlr.org/papers/v24/22-1160.html,https://da.gd/dWLKP
+j:JMLR,Sparse Graph Learning from Spatiotemporal Time Series,http://jmlr.org/papers/v24/22-1154.html,https://da.gd/smzztT
+j:JMLR,Improved Powered Stochastic Optimization Algorithms for Large-Scale Machine Learning,http://jmlr.org/papers/v24/22-1149.html,https://da.gd/B8Qn
+j:JMLR,PaLM: Scaling Language Modeling with Pathways,http://jmlr.org/papers/v24/22-1144.html,https://da.gd/t4UzV
+j:JMLR,Leaky Hockey Stick Loss: The First Negatively Divergent Margin-based Loss Function for Classification,http://jmlr.org/papers/v24/22-1104.html,https://da.gd/Yq84
+j:JMLR,Efficient Computation of Rankings from Pairwise Comparisons,http://jmlr.org/papers/v24/22-1086.html,https://da.gd/eTSVhl
+j:JMLR,Scalable Computation of Causal Bounds,http://jmlr.org/papers/v24/22-1081.html,https://da.gd/BRAs
+j:JMLR,Neural Q-learning for solving PDEs,http://jmlr.org/papers/v24/22-1075.html,https://da.gd/hEgC
+j:JMLR,Tractable and Near-Optimal Adversarial Algorithms for Robust Estimation in Contaminated Gaussian Models,http://jmlr.org/papers/v24/22-1053.html,https://da.gd/YwsSqk
+j:JMLR,MultiZoo and MultiBench: A Standardized Toolkit for Multimodal Deep Learning,http://jmlr.org/papers/v24/22-1021.html,https://da.gd/zHAi
+j:JMLR,Strategic Knowledge Transfer,http://jmlr.org/papers/v24/22-0968.html,https://da.gd/BAoqE
+j:JMLR,Lifted Bregman Training of Neural Networks,http://jmlr.org/papers/v24/22-0934.html,https://da.gd/kK4Ll
+j:JMLR,Statistical Comparisons of Classifiers by Generalized Stochastic Dominance,http://jmlr.org/papers/v24/22-0902.html,https://da.gd/M9JTLy
+j:JMLR,Sample Complexity for Distributionally Robust Learning under chi-square divergence,http://jmlr.org/papers/v24/22-0881.html,https://da.gd/yAmMWt
+j:JMLR,Interpretable and Fair Boolean Rule Sets via Column Generation,http://jmlr.org/papers/v24/22-0880.html,https://da.gd/3MJ795
+j:JMLR,On the Optimality of Nuclear-norm-based Matrix Completion for Problems with Smooth Non-linear Structure,http://jmlr.org/papers/v24/22-0850.html,https://da.gd/0tK9Sn
+j:JMLR,Autoregressive Networks,http://jmlr.org/papers/v24/22-0845.html,https://da.gd/mCFZy2
+j:JMLR,Merlion: End-to-End Machine Learning for Time Series,http://jmlr.org/papers/v24/22-0809.html,https://da.gd/ZgpiQ0
+j:JMLR,Limits of Dense Simplicial Complexes,http://jmlr.org/papers/v24/22-0808.html,https://da.gd/y5Pr
+j:JMLR,RankSEG: A Consistent Ranking-based Framework for Segmentation,http://jmlr.org/papers/v24/22-0712.html,https://da.gd/JB43AQ
+j:JMLR,Conditional Distribution Function Estimation Using Neural Networks for Censored and Uncensored Data,http://jmlr.org/papers/v24/22-0657.html,https://da.gd/9SvjcK
+j:JMLR,Single Timescale Actor-Critic Method to Solve the Linear Quadratic Regulator with Convergence Guarantees,http://jmlr.org/papers/v24/22-0644.html,https://da.gd/YxG6r
+j:JMLR,Multi-source Learning via Completion of Block-wise Overlapping Noisy Matrices,http://jmlr.org/papers/v24/22-0642.html,https://da.gd/npj0
+j:JMLR,A Unified Framework for Factorizing Distributional Value Functions for Multi-Agent Reinforcement Learning,http://jmlr.org/papers/v24/22-0630.html,https://da.gd/WueHPm
+j:JMLR,Functional L-Optimality Subsampling for Functional Generalized Linear Models with Massive Data,http://jmlr.org/papers/v24/22-0614.html,https://da.gd/cLZBEc
+j:JMLR,Adaptation Augmented Model-based Policy Optimization,http://jmlr.org/papers/v24/22-0606.html,https://da.gd/RNYZ
+j:JMLR,GANs as Gradient Flows that Converge,http://jmlr.org/papers/v24/22-0583.html,https://da.gd/83tuHZ
+j:JMLR,Random Forests for Change Point Detection,http://jmlr.org/papers/v24/22-0512.html,https://da.gd/7x9XuP
+j:JMLR,Least Squares Model Averaging for Distributed Data,http://jmlr.org/papers/v24/22-0511.html,https://da.gd/wA6OU
+j:JMLR,An Empirical Investigation of the Role of Pre-training in Lifelong Learning,http://jmlr.org/papers/v24/22-0496.html,https://da.gd/Y2qs5I
+j:JMLR,Polynomial-Time Algorithms for Counting and Sampling Markov Equivalent DAGs with Applications,http://jmlr.org/papers/v24/22-0495.html,https://da.gd/kkjSKL
+j:JMLR,An Inexact Augmented Lagrangian Algorithm for Training Leaky ReLU Neural Network with Group Sparsity,http://jmlr.org/papers/v24/22-0491.html,https://da.gd/r8nftD
+j:JMLR,Entropic Fictitious Play for Mean Field Optimization Problem,http://jmlr.org/papers/v24/22-0411.html,https://da.gd/J9a33F
+j:JMLR,GFlowNet Foundations,http://jmlr.org/papers/v24/22-0364.html,https://da.gd/7bEf
+j:JMLR,LibMTL: A Python Library for Deep Multi-Task Learning,http://jmlr.org/papers/v24/22-0347.html,https://da.gd/3FTR
+j:JMLR,Minimax Risk Classifiers with 0-1 Loss,http://jmlr.org/papers/v24/22-0339.html,https://da.gd/DHPB6j
+j:JMLR,Augmented Sparsifiers for Generalized Hypergraph Cuts,http://jmlr.org/papers/v24/22-0305.html,https://da.gd/ZFSFu
+j:JMLR,Non-stationary Online Learning with Memory and Non-stochastic Control,http://jmlr.org/papers/v24/22-0218.html,https://da.gd/mMMFR
+j:JMLR,L0Learn: A Scalable Package for Sparse Learning using L0 Regularization,http://jmlr.org/papers/v24/22-0189.html,https://da.gd/HigL
+j:JMLR,Buffered Asynchronous SGD for Byzantine Learning,http://jmlr.org/papers/v24/22-0184.html,https://da.gd/aikd
+j:JMLR,A Non-parametric View of FedAvg and FedProx:Beyond Stationary Points,http://jmlr.org/papers/v24/22-0153.html,https://da.gd/w9CztD
+j:JMLR,Multiplayer Performative Prediction: Learning in Decision-Dependent Games,http://jmlr.org/papers/v24/22-0131.html,https://da.gd/xcqE64
+j:JMLR,Variational Inverting Network for Statistical Inverse Problems of Partial Differential Equations,http://jmlr.org/papers/v24/22-0006.html,https://da.gd/7QzQvQ
+j:JMLR,Model-based Causal Discovery for Zero-Inflated Count Data,http://jmlr.org/papers/v24/21-1476.html,https://da.gd/l9mY2M
+j:JMLR,Q-Learning for MDPs with General Spaces: Convergence and Near Optimality via Quantization under Weak Continuity,http://jmlr.org/papers/v24/21-1457.html,https://da.gd/zWpgn
+j:JMLR,CodaLab Competitions: An Open Source Platform to Organize Scientific Challenges,http://jmlr.org/papers/v24/21-1436.html,https://da.gd/abLsbF
+j:JMLR,Contrasting Identifying Assumptions of Average Causal Effects: Robustness and Semiparametric Efficiency,http://jmlr.org/papers/v24/21-1392.html,https://da.gd/sCCeFF
+j:JMLR,Variational Gibbs Inference for Statistical Model Estimation from Incomplete Data,http://jmlr.org/papers/v24/21-1373.html,https://da.gd/khZCdy
+j:JMLR,Clustering and Structural Robustness in Causal Diagrams,http://jmlr.org/papers/v24/21-1322.html,https://da.gd/99KXQ
+j:JMLR,MMD Aggregated Two-Sample Test,http://jmlr.org/papers/v24/21-1289.html,https://da.gd/e5ip0
+j:JMLR,Divide-and-Conquer Fusion,http://jmlr.org/papers/v24/21-1274.html,https://da.gd/iTe5X
+j:JMLR,PAC-learning for Strategic Classification,http://jmlr.org/papers/v24/21-1250.html,https://da.gd/Afjqb
+j:JMLR,Insights into Ordinal Embedding Algorithms: A Systematic Evaluation,http://jmlr.org/papers/v24/21-1170.html,https://da.gd/LBJiD
+j:JMLR,Clustering with Tangles: Algorithmic Framework and Theoretical Guarantees,http://jmlr.org/papers/v24/21-1160.html,https://da.gd/Sf1ceW
+j:JMLR,Random Feature Neural Networks Learn Black-Scholes Type PDEs Without Curse of Dimensionality,http://jmlr.org/papers/v24/21-0987.html,https://da.gd/D3BGU
+j:JMLR,The Proximal ID Algorithm,http://jmlr.org/papers/v24/21-0950.html,https://da.gd/2c0x
+j:JMLR,Quantifying Network Similarity using Graph Cumulants,http://jmlr.org/papers/v24/21-082.html,https://da.gd/tV3s
+j:JMLR,Learning an Explicit Hyper-parameter Prediction Function Conditioned on Tasks,http://jmlr.org/papers/v24/21-0742.html,https://da.gd/1yM0Mw
+j:JMLR,On the Theoretical Equivalence of Several Trade-Off Curves Assessing Statistical Proximity,http://jmlr.org/papers/v24/21-0607.html,https://da.gd/WHkAk
+j:JMLR,Metrizing Weak Convergence with Maximum Mean Discrepancies,http://jmlr.org/papers/v24/21-0599.html,https://da.gd/tDpT
+j:JMLR,Quasi-Equivalence between Width and Depth of Neural Networks,http://jmlr.org/papers/v24/21-0579.html,https://da.gd/grXV
+j:JMLR,Naive regression requires weaker assumptions than factor models to adjust for multiple cause confounding,http://jmlr.org/papers/v24/21-0515.html,https://da.gd/tql3O
+j:JMLR,Factor Graph Neural Networks,http://jmlr.org/papers/v24/21-0434.html,https://da.gd/ZyTLBO
+j:JMLR,Dropout Training is Distributionally Robust Optimal,http://jmlr.org/papers/v24/21-0377.html,https://da.gd/vMNBJ
+j:JMLR,Variational Inference for Deblending Crowded Starfields,http://jmlr.org/papers/v24/21-0169.html,https://da.gd/GYSQ
+j:JMLR,F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative Multi-agent Reinforcement Learning,http://jmlr.org/papers/v24/20-700.html,https://da.gd/DDMsA
+j:JMLR,Comprehensive Algorithm Portfolio Evaluation using Item Response Theory,http://jmlr.org/papers/v24/20-1318.html,https://da.gd/Izkka
+j:JMLR,Evaluating Instrument Validity using the Principle of Independent Mechanisms,http://jmlr.org/papers/v24/20-1287.html,https://da.gd/MUZPcC
+j:JMLR,Model-Based Multi-Agent RL in Zero-Sum Markov Games with Near-Optimal Sample Complexity,http://jmlr.org/papers/v24/20-1131.html,https://da.gd/zOWc
+j:JMLR,Posterior Consistency for Bayesian Relevance Vector Machines,http://jmlr.org/papers/v24/20-1012.html,https://da.gd/psAT
