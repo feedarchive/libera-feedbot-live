@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Trying to setup a Transit Gateway/Site2Site VPN? Know what you're doing, but the damn thing still won't work? Don't freakin try to use the fancy ""Global AWS Accelerated"" vpn connections if your freakin vpn solution requires you DO NOT use nat traversal to work",https://redd.it/16576lt,
