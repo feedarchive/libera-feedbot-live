@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,MolGraph: a Python package for the implementation of molecular graphs and graph neural networks with TensorFlow and Keras,https://arxiv.org/abs/2208.09944v4,
+ArXiv,perms: Marginal likelihood estimation for binary Bayesian nonparametric models in Python and R,https://arxiv.org/abs/2309.01536v1,
+ArXiv,Symbolically integrating tensor networks over various random tensors -- the second version of Python RTNI,https://arxiv.org/abs/2309.01167v1,
