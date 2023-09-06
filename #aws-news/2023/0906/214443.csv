@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Location Service is now available in AWS GovCloud (US-West) Region,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-service-aws-govcloud-us-west-region/,https://da.gd/eyEP5F
+AWS:WhatsNew,AWS WAF Bot Control now protects against distributed proxy-based attacks,https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-bot-control-protects-against-distributed-proxy-based-attacks/,https://da.gd/c9KfWt
+AWS:WhatsNew,Amazon SageMaker Inference now supports Multi Model Endpoints for PyTorch,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-inference-multi-model-endpoints-pytorch/,https://da.gd/vn9e
