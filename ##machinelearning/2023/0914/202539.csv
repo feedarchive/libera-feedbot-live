@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.1.0-rc5: [fx][split] Copy node metadata for placeholders (#107981) (#109297),https://github.com/pytorch/pytorch/releases/tag/v2.1.0-rc5,
