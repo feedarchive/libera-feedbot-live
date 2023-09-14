@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SNS FIFO topics now support message delivery to Amazon SQS Standard queues,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-fifo-topics-message-delivery-sqs-standard-queues/,https://da.gd/QuYAox
+AWS:WhatsNew,Announcing AWS managed IAM policies for ROSA with hosted control planes,https://aws.amazon.com/about-aws/whats-new/2023/09/aws-managed-iam-policies-rosa-control-planes/,https://da.gd/8Y14am
