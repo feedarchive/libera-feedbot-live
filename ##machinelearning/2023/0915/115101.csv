@@ -1,0 +1,60 @@
+feed,title,long_url,short_url
+JMLR:MLOSS,SPMF: A Java Open-Source Pattern Mining Library,http://jmlr.org/papers/v15/fournierviger14a.html,https://da.gd/XA2j3E
+JMLR:MLOSS,The Gesture Recognition Toolkit,http://jmlr.org/papers/v15/gillian14a.html,https://da.gd/KUMh
+JMLR:MLOSS,ooDACE Toolbox: A Flexible Object-Oriented Kriging Implementation,http://jmlr.org/papers/v15/couckuyt14a.html,https://da.gd/Wx7CB
+JMLR:MLOSS,pystruct - Learning Structured Prediction in Python,http://jmlr.org/papers/v15/mueller14a.html,https://da.gd/nExd1
+JMLR:MLOSS,"Manopt, a Matlab Toolbox for Optimization on Manifolds",http://jmlr.org/papers/v15/boumal14a.html,https://da.gd/ptCuU
+JMLR:MLOSS,Conditional Random Field with High-order Dependencies for Sequence Labeling and Segmentation,http://jmlr.org/papers/v15/cuong14a.html,https://da.gd/31NG8
+JMLR:MLOSS,LIBOL: A Library for Online Learning Algorithms,http://jmlr.org/papers/v15/hoi14a.html,https://da.gd/A5q8HW
+JMLR:MLOSS,The FASTCLIME Package for Linear Programming and Large-Scale Precision Matrix Estimation in R,http://jmlr.org/papers/v15/pang14a.html,https://da.gd/n8nTn
+JMLR:MLOSS,Information Theoretical Estimators Toolbox,http://jmlr.org/papers/v15/szabo14a.html,https://da.gd/DuUz
+JMLR:MLOSS,EnsembleSVM: A Library for Ensemble Learning Using Support Vector Machines,http://jmlr.org/papers/v15/claesen14a.html,https://da.gd/50SjV
+JMLR:MLOSS,GURLS: A Least Squares Library for Supervised Learning,http://jmlr.org/papers/v14/tacchetti13a.html,https://da.gd/fGsvs
+JMLR:MLOSS,Divvy: Fast and Intuitive Exploratory Data Analysis,http://jmlr.org/papers/v14/lewis13a.html,https://da.gd/07XTM
+JMLR:MLOSS,QuantMiner for Mining Quantitative Association Rules,http://jmlr.org/papers/v14/salleb-aouissi13a.html,https://da.gd/zxCNq
+JMLR:MLOSS,The CAM Software for Nonnegative Blind Source Separation in R-Java,http://jmlr.org/papers/v14/wang13d.html,https://da.gd/7eDhj
+JMLR:MLOSS,Tapkee: An Efficient Dimension Reduction Library,http://jmlr.org/papers/v14/lisitsyn13a.html,https://da.gd/PZdU
+JMLR:MLOSS,Orange: Data Mining Toolbox in Python,http://jmlr.org/papers/v14/demsar13a.html,https://da.gd/9d5l
+JMLR:MLOSS,JKernelMachines: A Simple Framework for Kernel Machines,http://jmlr.org/papers/v14/picard13a.html,https://da.gd/qF98i3
+JMLR:MLOSS,MLPACK: A Scalable C++ Machine Learning Library,http://jmlr.org/papers/v14/curtin13a.html,https://da.gd/X2kI2
+JMLR:MLOSS,A C++ Template-Based Reinforcement Learning Library: Fitting the Code to the Mathematics,http://jmlr.org/papers/v14/frezza-buet13a.html,https://da.gd/GVIN
+JMLR:MLOSS,SVDFeature: A Toolkit for Feature-based Collaborative Filtering,http://jmlr.org/papers/v13/chen12a.html,https://da.gd/AEZa
+JMLR:MLOSS,DARWIN: A Framework for Machine Learning and Computer Vision Research and Development,http://jmlr.org/papers/v13/gould12a.html,https://da.gd/u11t
+JMLR:MLOSS,Sally: A Tool for Embedding Strings in Vector Spaces,http://jmlr.org/papers/v13/rieck12a.html,https://da.gd/X3v4MG
+JMLR:MLOSS,Oger: Modular Learning Architectures For Large-Scale Sequential Processing,http://jmlr.org/papers/v13/verstraeten12a.html,https://da.gd/7RbD
+JMLR:MLOSS,PREA: Personalized Recommendation Algorithms Toolkit,http://jmlr.org/papers/v13/lee12b.html,https://da.gd/JMSLZ
+JMLR:MLOSS,A Topic Modeling Toolbox Using Belief Propagation,http://jmlr.org/papers/v13/zeng12a.html,https://da.gd/ZEozTz
+JMLR:MLOSS,DEAP: Evolutionary Algorithms Made Easy,http://jmlr.org/papers/v13/fortin12a.html,https://da.gd/YAReg
+JMLR:MLOSS,Pattern for Python,http://jmlr.org/papers/v13/desmedt12a.html,https://da.gd/MzVe3
+JMLR:MLOSS,Jstacs: A Java Framework for Statistical Analysis and Classification of Biological Sequences,http://jmlr.org/papers/v13/grau12a.html,https://da.gd/IX9d
+JMLR:MLOSS,glm-ie: Generalised Linear Models Inference & Estimation Toolbox,http://jmlr.org/papers/v13/nickisch12a.html,https://da.gd/fTaMD
+JMLR:MLOSS,The huge Package for High-dimensional Undirected Graph Estimation in R,http://jmlr.org/papers/v13/zhao12a.html,https://da.gd/z8ilMx
+JMLR:MLOSS,NIMFA : A Python Library for Nonnegative Matrix Factorization,http://jmlr.org/papers/v13/zitnik12a.html,https://da.gd/deP91r
+JMLR:MLOSS,GPLP: A Local and Parallel Computation Toolbox for Gaussian Process Regression,http://jmlr.org/papers/v13/park12a.html,https://da.gd/kdtM
+JMLR:MLOSS,ML-Flex: A Flexible Toolbox for Performing Classification Analyses In Parallel,http://jmlr.org/papers/v13/piccolo12a.html,https://da.gd/hVvIr
+JMLR:MLOSS,The Stationary Subspace Analysis Toolbox,http://jmlr.org/papers/v12/mueller11a.html,https://da.gd/cHEdu
+JMLR:MLOSS,Scikit-learn: Machine Learning in Python,http://jmlr.org/papers/v12/pedregosa11a.html,https://da.gd/Up22
+JMLR:MLOSS,LPmade: Link Prediction Made Easy,http://jmlr.org/papers/v12/lichtenwalter11a.html,https://da.gd/jiKp
+JMLR:MLOSS,MULAN: A Java Library for Multi-Label Learning,http://jmlr.org/papers/v12/tsoumakas11a.html,https://da.gd/Z5xPh3
+JMLR:MLOSS,MSVMpack: A Multi-Class Support Vector Machine Package,http://jmlr.org/papers/v12/lauer11a.html,https://da.gd/cDGJif
+JMLR:MLOSS,The arules R-Package Ecosystem: Analyzing Interesting Patterns from Large Transaction Data Sets,http://jmlr.org/papers/v12/hahsler11a.html,https://da.gd/dYIGM
+JMLR:MLOSS,Gaussian Processes for Machine Learning (GPML) Toolbox,http://jmlr.org/papers/v11/rasmussen10a.html,https://da.gd/bdCsLX
+JMLR:MLOSS,libDAI: A Free and Open Source C++ Library for Discrete Approximate Inference in Graphical Models,http://jmlr.org/papers/v11/mooij10a.html,https://da.gd/6JFKFr
+JMLR:MLOSS,Model-based Boosting 2.0,http://jmlr.org/papers/v11/hothorn10a.html,https://da.gd/hUPKp
+JMLR:MLOSS,A Surrogate Modeling and Adaptive Sampling Toolbox for Computer Based Design,http://jmlr.org/papers/v11/gorissen10a.html,https://da.gd/hxhPx
+JMLR:MLOSS,The SHOGUN Machine Learning Toolbox,http://jmlr.org/papers/v11/sonnenburg10a.html,https://da.gd/XUZ7S
+JMLR:MLOSS,FastInf: An Efficient Approximate Inference Library,http://jmlr.org/papers/v11/jaimovich10a.html,https://da.gd/wELnXA
+JMLR:MLOSS,MOA: Massive Online Analysis,http://jmlr.org/papers/v11/bifet10a.html,https://da.gd/TjB2Ow
+JMLR:MLOSS,SFO: A Toolbox for Submodular Function Optimization,http://jmlr.org/papers/v11/krause10a.html,https://da.gd/wcEF
+JMLR:MLOSS,Continuous Time Bayesian Network Reasoning and Learning Engine,http://jmlr.org/papers/v11/shelton10a.html,https://da.gd/eHc7ga
+JMLR:MLOSS,Error-Correcting Output Codes Library,http://jmlr.org/papers/v11/escalera10a.html,https://da.gd/11TKy
+JMLR:MLOSS,DL-Learner: Learning Concepts in Description Logics,http://jmlr.org/papers/v10/lehmann09a.html,https://da.gd/RZCvjZ
+JMLR:MLOSS,RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments,http://jmlr.org/papers/v10/tanner09a.html,https://da.gd/4xqQf
+JMLR:MLOSS,Dlib-ml: A Machine Learning Toolkit,http://jmlr.org/papers/v10/king09a.html,https://da.gd/T9D4RE
+JMLR:MLOSS,"Model Monitor (M2): Evaluating, Comparing, and Monitoring Models",http://jmlr.org/papers/v10/raeder09a.html,https://da.gd/pxAqYi
+JMLR:MLOSS,Java-ML: A Machine Learning Library,http://jmlr.org/papers/v10/abeel09a.html,https://da.gd/1iurP5
+JMLR:MLOSS,Nieme: Large-Scale Energy-Based Models,http://jmlr.org/papers/v10/maes09a.html,https://da.gd/3Rqxp
+JMLR:MLOSS,Python Environment for Bayesian Learning: Inferring the Structure of Bayesian Networks from Knowledge and Data,http://jmlr.org/papers/v10/shah09a.html,https://da.gd/ebnm1c
+JMLR:MLOSS,JNCC2: The Java Implementation Of Naive Credal Classifier 2,http://jmlr.org/papers/v9/corani08b.html,https://da.gd/mfeH2
+JMLR:MLOSS,Shark,http://jmlr.org/papers/v9/igel08a.html,https://da.gd/bKh5T
+JMLR:MLOSS,A Library for Locally Weighted Projection Regression,http://jmlr.org/papers/v9/klanke08a.html,https://da.gd/FRuvp
