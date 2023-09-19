@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,RoSSO: A High-Performance Python Package for Robotic Surveillance Strategy Optimization Using JAX,https://arxiv.org/abs/2309.08742v1,
+ArXiv,Satisfiability.jl: Satisfiability Modulo Theories in Julia,https://arxiv.org/abs/2309.08778v1,
+ArXiv,"Groebner.jl: A package for Gr\""obner bases computations in Julia",https://arxiv.org/abs/2304.06935v2,
