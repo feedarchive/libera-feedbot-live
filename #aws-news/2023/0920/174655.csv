@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon RDS for Oracle supports M6i, R6i, and R5b instances in new regions",https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-oracle-m6i-r6i-r5b-instances-new-regions/,https://da.gd/pgr36b
+AWS:WhatsNew,AWS Glue Data Quality can now identify records that failed the CustomSQL rule type,https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-data-quality-identify-records-failed-customsql-rule-type/,https://da.gd/PwfYKS
+AWS:WhatsNew,AWS Glue Interactive Sessions releases new kernel and support IAM Conditionals,https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-interactive-sessions-kernel-support-iam-conditionals/,https://da.gd/pS5K4R
+AWS:WhatsNew,Amazon CloudWatch adds new Metric Math for RDS Performance Insights,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-metric-math-rds-insights/,https://da.gd/Pebz
