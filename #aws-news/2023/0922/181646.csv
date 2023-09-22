@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SNS message data protection can now de-identify outbound messages via redaction or masking,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-message-data-protection-de-identify-outbound-messages/,https://da.gd/26t7UO
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) supports in-place major version upgrade,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-in-place-version-upgrade/,https://da.gd/iApCm
+AWS:WhatsNew,AWS App Runner launches improvements for Auto-Scaling configuration management,https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-auto-scaling-management/,https://da.gd/3WTrQ1
