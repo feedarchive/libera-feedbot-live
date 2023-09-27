@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 now provides the Last-Modified time for delete markers using S3 Head and Get APIs,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-s3-last-modified-time-delete-markers-s3-head-get-apis/,https://da.gd/d0iC1L
+AWS:WhatsNew,Analyze multi-account app health with CloudWatch Application Insights,https://aws.amazon.com/about-aws/whats-new/2023/09/analyze-multi-account-app-health-cloudwatch-application-insights/,https://da.gd/wMS4Bs
+AWS:WhatsNew,Amazon MQ now supports RabbitMQ version 3.11.20,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-mq-rabbitmq-version-3-11-20/,https://da.gd/PZDEF
+AWS:WhatsNew,Amazon OpenSearch Service now provides improved visibility into Auto-Tune actions,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-service-improved-visibility-auto-tune-actions/,https://da.gd/B8JE
+AWS:WhatsNew,Amazon RDS Custom for SQL Server now supports changing the server-level collation,https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-server-changing-server-level-collation/,https://da.gd/colRbY
