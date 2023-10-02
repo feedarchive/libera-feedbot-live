@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Service now supports OpenSearch version 2.9,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-opensearch-version-2-9/,https://da.gd/VP0Fc
+AWS:WhatsNew,AWS CodeDeploy now supports multiple load balancers for Amazon EC2 applications,https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codedeploy-multiple-load-balancers-amazon-ec2-applications/,https://da.gd/IN04Ne
+AWS:WhatsNew,Application Load Balancer and Network Load Balancer now support registering instances addressed by IPv6 as targets,https://aws.amazon.com/about-aws/whats-new/2023/10/application-load-balancer-network-load-balancer-registering-instances-ipv6-targets/,https://da.gd/G2jjLF
