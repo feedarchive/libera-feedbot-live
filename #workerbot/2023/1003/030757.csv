@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,AsaPy: A Python Library for Aerospace Simulation Analysis,https://arxiv.org/abs/2310.00001v1,
+ArXiv,ShOpt.jl: A Julia Package for Empirical Point Spread Function Characterization of JWST NIRCam Data,https://arxiv.org/abs/2310.00071v1,
+ArXiv,"$\texttt{Davos}$: a Python ""smuggler"" for constructing lightweight reproducible notebooks",https://arxiv.org/abs/2211.15445v2,
