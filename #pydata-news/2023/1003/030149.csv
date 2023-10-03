@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,AsaPy: A Python Library for Aerospace Simulation Analysis,https://arxiv.org/abs/2310.00001v1,
+ArXiv,"$\texttt{Davos}$: a Python ""smuggler"" for constructing lightweight reproducible notebooks",https://arxiv.org/abs/2211.15445v2,
+ArXiv,Applications of Improvements to the Pythagorean Won-Loss Expectation in Optimizing Rosters,https://arxiv.org/abs/2310.01184v1,
