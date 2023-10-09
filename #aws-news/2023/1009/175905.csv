@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Elemental MediaTailor now supports ad break discovery in Channel Assembly,https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediatailor-ad-break-discovery-channel-assembly/,https://da.gd/O3SVi
+AWS:WhatsNew,"AWS Glue now supports GitLab, BitBucket in its Git integration feature",https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-gitlab-bitbucket-git-integration-feature/,https://da.gd/OdY7t
+AWS:WhatsNew,Amazon QuickSight now supports running queries as an IAM role for Redshift data sources,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-queries-iam-role-redshift-data-sources/,https://da.gd/WwdK
