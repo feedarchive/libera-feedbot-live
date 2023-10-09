@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+ArXiv,Small batch deep reinforcement learning,https://arxiv.org/abs/2310.03882v1,
+ArXiv,Class-Incremental Learning Using Generative Experience Replay Based on Time-aware Regularization,https://arxiv.org/abs/2310.03898v1,
+ArXiv,PyDCM: Custom Data Center Models with Reinforcement Learning for Sustainability,https://arxiv.org/abs/2310.03906v1,
+ArXiv,Reinforcement Learning with Fast and Forgetful Memory,https://arxiv.org/abs/2310.04128v1,
+ArXiv,Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning,https://arxiv.org/abs/2310.04148v1,
+ArXiv,Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning,https://arxiv.org/abs/2310.04241v1,
+ArXiv,DRIFT: Deep Reinforcement Learning for Intelligent Floating Platforms Trajectories,https://arxiv.org/abs/2310.04266v1,
+ArXiv,Adjustable Robust Reinforcement Learning for Online 3D Bin Packing,https://arxiv.org/abs/2310.04323v1,
+ArXiv,"Understanding, Predicting and Better Resolving Q-Value Divergence in Offline-RL",https://arxiv.org/abs/2310.04411v1,
+ArXiv,Beyond Uniform Sampling: Offline Reinforcement Learning with Imbalanced Datasets,https://arxiv.org/abs/2310.04413v1,
+ArXiv,Reinforcement Learning with a Terminator,https://arxiv.org/abs/2205.15376v2,
+ArXiv,Pre-training with Synthetic Data Helps Offline Reinforcement Learning,https://arxiv.org/abs/2310.00771v2,
