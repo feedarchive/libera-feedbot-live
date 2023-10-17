@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CodePipeline supports retrying a pipeline execution from the first action in a failed stage,https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-retrying-execution-first-action-failed-stage/,https://da.gd/qmifG3
+AWS:WhatsNew,Announcing Regional Expansion of ml.p4d instances on SageMaker Inference,https://aws.amazon.com/about-aws/whats-new/2023/10/regional-expansion-ml-p4d-instances-sagemaker-inference/,https://da.gd/igvq
+AWS:WhatsNew,"Preview of Regional Expansion for ml.p4d, ml.trn1, and ml.g5 instances on SageMaker Inference",https://aws.amazon.com/about-aws/whats-new/2023/10/preview-regional-expansion-ml-p4d-ml-trn1-ml-g5-instances-sagemaker-inference/,https://da.gd/17w7m7
