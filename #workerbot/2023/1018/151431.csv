@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:docker-compose,v2.23.0: check that the pull policy provided is a valid one,https://github.com/docker/compose/releases/tag/v2.23.0,
