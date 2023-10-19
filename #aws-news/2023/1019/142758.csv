@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/AWS:10+,"Need to do white-labeling which is based on domain used, we have just one CloudFront distribution though, any ideas on how to handle SSL certificates when a new customer is added? Is my only option always to create a new ACM certificate with the existing domains + the new one being onboarded?",https://redd.it/17bg5hd,
