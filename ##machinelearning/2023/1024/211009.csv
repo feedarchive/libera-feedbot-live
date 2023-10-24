@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.1.1-rc1: fix TEST_ROCM definition to disable test_jit_cudnn_extension on rocm …,https://github.com/pytorch/pytorch/releases/tag/v2.1.1-rc1,
