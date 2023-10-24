@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Aurora supports PostgreSQL 15.4, 14.9, 13.12, 12.16, and 11.21 versions",https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-postgre-sql-15-4-14-9-13-12-12-16-11-21-versions/,https://da.gd/kXpzaC
+AWS:WhatsNew,AWS CodePipeline supports parameterized pipelines,https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-parameterized-pipelines/,https://da.gd/4O2cpx
+AWS:WhatsNew,Amazon Aurora PostgreSQL now supports pgvector v0.5.0 with HNSW indexing,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-postgresql-pgvector-v0-5-0-hnsw-indexing/,https://da.gd/ekBEE
+AWS:WhatsNew,AWS CodePipeline supports triggering on git tags,https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-triggering-git-tags/,https://da.gd/brsHL
