@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.1.1-rc2: [release only] Pin Docker images for release. (#111971),https://github.com/pytorch/pytorch/releases/tag/v2.1.1-rc2,
