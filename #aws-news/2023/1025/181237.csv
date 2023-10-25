@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora MySQL 3.05 (compatible with MySQL 8.0.32) is generally available,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-mysql-3-05-compatible-8-0-32-generally-available/,https://da.gd/z1iSN4
+AWS:WhatsNew,Amazon Aurora PostgreSQL now supports federated query to MySQL and MariaDB databases,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-postgresql-federated-query-mysql-maria-db-databases/,https://da.gd/lzJ1sw
+AWS:WhatsNew,Amazon Aurora PostgreSQL now captures query plans on replica instances with query plan management,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-postgresql-captures-query-plans-replica-instances-management/,https://da.gd/gDrU
+AWS:WhatsNew,AWS announces an enhanced sign in experience in the AWS Console Mobile App for iOS,https://aws.amazon.com/about-aws/whats-new/2023/10/aws-console-mobile-app-ios-enhanced-sign-in/,https://da.gd/FZjhe
+AWS:WhatsNew,"Amazon RDS for PostgreSQL, MySQL, MariaDB support M7g, R7g DB instances in additional regions",https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-instances/,https://da.gd/8bZG
+AWS:WhatsNew,"AWS Glue now offers example jobs, drag-and-drop, and a preview-first layout",https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-example-jobs-drag-drop-preview-layout/,https://da.gd/lga9yO
+AWS:WhatsNew,Announcing Amazon Aurora MySQL 3.04 as long-term support (LTS) release,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-mysql-3-04-support-lts-release/,https://da.gd/I0CjR
+AWS:WhatsNew,Amazon FinSpace with Managed kdb Insights adds more historical database cache options,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-cache-options/,https://da.gd/KiD4N
+AWS:WhatsNew,Amazon Aurora MySQL includes optimizations that reduce the database restart time by up to 65%,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-mysql-reduce-database-restart-time/,https://da.gd/olyKtn
+AWS:WhatsNew,AWS Transfer Family announces Basic authentication for outbound AS2 messages,https://aws.amazon.com/about-aws/whats-new/2023/10/aws-transfer-family-authentication-outbound-as2-messages/,https://da.gd/YkIy
