@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,VMAF Re-implementation on PyTorch: Some Experimental Results,https://arxiv.org/abs/2310.15578v1,
+ArXiv,nanoT5: A PyTorch Framework for Pre-training and Fine-tuning T5-style Models with Limited Resources,https://arxiv.org/abs/2309.02373v2,
