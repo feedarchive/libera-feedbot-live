@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+r/ML:100+,"[R] QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models - Institute of Science and Technology Austria (ISTA) 2023 - Can compress the 1.6 trillion parameter SwitchTransformer-c2048 model to less than 160GB (20x compression, 0.8 bits per parameter) at only minor accuracy loss!",https://redd.it/17h3tgx,
