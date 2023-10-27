@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Service now supports efficient vector query filters for FAISS,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-vector-query-filters-faiss/,https://da.gd/7CfPJm
+AWS:WhatsNew,AWS Neuron adds support for Llama-2 70b model and PyTorch 2.0,https://aws.amazon.com/about-aws/whats-new/2023/10/aws-neuron-support-llama-pytorch/,https://da.gd/kCeW6H
