@@ -1,0 +1,63 @@
+feed,title,long_url,short_url
+j:JMLR,Bagging in overparameterized learning: Risk characterization and risk monotonization,http://jmlr.org/papers/v24/23-0887.html,https://da.gd/OPeDZs
+j:JMLR,Operator learning with PCA-Net: upper and lower complexity bounds,http://jmlr.org/papers/v24/23-0478.html,https://da.gd/QQpFb
+j:JMLR,Mixed Regression via Approximate Message Passing,http://jmlr.org/papers/v24/23-0473.html,https://da.gd/sVg2Up
+j:JMLR,The Dynamics of Sharpness-Aware Minimization: Bouncing Across Ravines and Drifting Towards Wide Minima,http://jmlr.org/papers/v24/23-043.html,https://da.gd/bJ8Zi1
+j:JMLR,MARLlib: A Scalable and Efficient Multi-agent Reinforcement Learning Library,http://jmlr.org/papers/v24/23-0378.html,https://da.gd/6GfU
+j:JMLR,"Fast Expectation Propagation for Heteroscedastic, Lasso-Penalized, and Quantile Regression",http://jmlr.org/papers/v24/23-0104.html,https://da.gd/gdBLzz
+j:JMLR,Zeroth-Order Alternating Gradient Descent Ascent Algorithms for A Class of Nonconvex-Nonconcave Minimax Problems,http://jmlr.org/papers/v24/22-1518.html,https://da.gd/0SHAXu
+j:JMLR,The Measure and Mismeasure of Fairness,http://jmlr.org/papers/v24/22-1511.html,https://da.gd/a1ef
+j:JMLR,Microcanonical Hamiltonian Monte Carlo,http://jmlr.org/papers/v24/22-1450.html,https://da.gd/SEJc5n
+j:JMLR,Prediction Equilibrium for Dynamic Network Flows,http://jmlr.org/papers/v24/22-1446.html,https://da.gd/6n4nYS
+j:JMLR,Dimension Reduction and MARS,http://jmlr.org/papers/v24/22-1422.html,https://da.gd/4cs9fH
+j:JMLR,Nevis'22: A Stream of 100 Tasks Sampled from 30 Years of Computer Vision Research,http://jmlr.org/papers/v24/22-1345.html,https://da.gd/2nW6V
+j:JMLR,Fast Screening Rules for Optimal Design via Quadratic Lasso Reformulation,http://jmlr.org/papers/v24/22-1305.html,https://da.gd/8iDw
+j:JMLR,Multi-Consensus Decentralized Accelerated Gradient Descent,http://jmlr.org/papers/v24/22-1210.html,https://da.gd/jNfkv
+j:JMLR,Continuous-in-time Limit for Bayesian Bandits,http://jmlr.org/papers/v24/22-1181.html,https://da.gd/bP0mF
+j:JMLR,Two Sample Testing in High Dimension via Maximum Mean Discrepancy,http://jmlr.org/papers/v24/22-1136.html,https://da.gd/JT87Jg
+j:JMLR,Random Feature Amplification: Feature Learning and Generalization in Neural Networks,http://jmlr.org/papers/v24/22-1132.html,https://da.gd/mOaR1
+j:JMLR,Pivotal Estimation of Linear Discriminant Analysis in High Dimensions,http://jmlr.org/papers/v24/22-1032.html,https://da.gd/Qsqnh1
+j:JMLR,Learning Optimal Feedback Operators and their Sparse Polynomial Approximations,http://jmlr.org/papers/v24/22-1010.html,https://da.gd/IEWz
+j:JMLR,Sensitivity-Free Gradient Descent Algorithms,http://jmlr.org/papers/v24/22-1002.html,https://da.gd/6cQu4d
+j:JMLR,A PDE approach for regret bounds under partial monitoring,http://jmlr.org/papers/v24/22-1001.html,https://da.gd/tF4CDd
+j:JMLR,A General Learning Framework for Open Ad Hoc Teamwork Using Graph-based Policy Learning,http://jmlr.org/papers/v24/22-099.html,https://da.gd/Yk1CJs
+j:JMLR,Causal Bandits for Linear Structural Equation Models,http://jmlr.org/papers/v24/22-0969.html,https://da.gd/AgsUqY
+j:JMLR,High-Dimensional Inference for Generalized Linear Models with Hidden Confounding,http://jmlr.org/papers/v24/22-0834.html,https://da.gd/MAMPH
+j:JMLR,"Weibull Racing Survival Analysis with Competing Events, Left Truncation, and Time-Varying Covariates",http://jmlr.org/papers/v24/22-0833.html,https://da.gd/MU5Ec
+j:JMLR,Erratum: Risk Bounds for the Majority Vote: From a PAC-Bayesian Analysis to a Learning Algorithm,http://jmlr.org/papers/v24/22-0747.html,https://da.gd/k0Vj
+j:JMLR,Augmented Transfer Regression Learning with Semi-non-parametric Nuisance Models,http://jmlr.org/papers/v24/22-0700.html,https://da.gd/Pbv1t
+j:JMLR,From Understanding Genetic Drift to a Smart-Restart Mechanism for Estimation-of-Distribution Algorithms,http://jmlr.org/papers/v24/22-0628.html,https://da.gd/uKrLPS
+j:JMLR,A Unified Analysis of Multi-task Functional Linear Regression Models with Manifold Constraint and Composite Quadratic Penalty,http://jmlr.org/papers/v24/22-0587.html,https://da.gd/gNeaPC
+j:JMLR,Deletion and Insertion Tests in Regression Models,http://jmlr.org/papers/v24/22-0560.html,https://da.gd/bzeUU
+j:JMLR,"Deep Neural Networks with Dependent Weights: Gaussian Process Mixture Limit, Heavy Tails, Sparsity and Compressibility",http://jmlr.org/papers/v24/22-0537.html,https://da.gd/YBxg9A
+j:JMLR,A New Look at Dynamic Regret for Non-Stationary Stochastic Bandits,http://jmlr.org/papers/v24/22-0387.html,https://da.gd/ikqtHP
+j:JMLR,Universal Approximation Property of Invertible Neural Networks,http://jmlr.org/papers/v24/22-0384.html,https://da.gd/NxCTM
+j:JMLR,Low Tree-Rank Bayesian Vector Autoregression Models,http://jmlr.org/papers/v24/22-0360.html,https://da.gd/IpZ8
+j:JMLR,Generic Unsupervised Optimization for a Latent Variable Model With Exponential Family Observables,http://jmlr.org/papers/v24/22-0359.html,https://da.gd/YYult
+j:JMLR,A Complete Characterization of Linear Estimators for Offline Policy Evaluation,http://jmlr.org/papers/v24/22-0341.html,https://da.gd/JtntXO
+j:JMLR,Near-Optimal Weighted Matrix Completion,http://jmlr.org/papers/v24/22-0331.html,https://da.gd/px8R6n
+j:JMLR,Community models for networks observed through edge nominations,http://jmlr.org/papers/v24/22-0313.html,https://da.gd/lhPij
+j:JMLR,The Bayesian Learning Rule,http://jmlr.org/papers/v24/22-0291.html,https://da.gd/gvZCk
+j:JMLR,Removing Data Heterogeneity Influence Enhances Network Topology Dependence of Decentralized SGD,http://jmlr.org/papers/v24/22-0283.html,https://da.gd/ZrMj
+j:JMLR,Sparse Markov Models for High-dimensional Inference,http://jmlr.org/papers/v24/22-0266.html,https://da.gd/pQoM
+j:JMLR,Distinguishing Cause and Effect in Bivariate Structural Causal Models: A Systematic Investigation,http://jmlr.org/papers/v24/22-0151.html,https://da.gd/n6CbB
+j:JMLR,"Elastic Gradient Descent, an Iterative Optimization Method Approximating the Solution Paths of the Elastic Net",http://jmlr.org/papers/v24/22-0119.html,https://da.gd/bKg3T
+j:JMLR,On Biased Compression for Distributed Learning,http://jmlr.org/papers/v24/21-1548.html,https://da.gd/2zdZ
+j:JMLR,Adaptive Clustering Using Kernel Density Estimators,http://jmlr.org/papers/v24/21-1532.html,https://da.gd/x9v5
+j:JMLR,A Continuous-time Stochastic Gradient Descent Method for Continuous Data,http://jmlr.org/papers/v24/21-1463.html,https://da.gd/N93ofz
+j:JMLR,Online Non-stochastic Control with Partial Feedback,http://jmlr.org/papers/v24/21-1444.html,https://da.gd/iORCj
+j:JMLR,Distributed Sparse Regression via Penalization,http://jmlr.org/papers/v24/21-1333.html,https://da.gd/wYxZdZ
+j:JMLR,Causal Discovery with Unobserved Confounding and Non-Gaussian Data,http://jmlr.org/papers/v24/21-1329.html,https://da.gd/zisNy
+j:JMLR,"Sharper Analysis for Minibatch Stochastic Proximal Point Methods: Stability, Smoothness, and Deviation",http://jmlr.org/papers/v24/21-1219.html,https://da.gd/K1DaN
+j:JMLR,Dynamic Ranking with the BTL Model: A Nearest Neighbor based Rank Centrality Method,http://jmlr.org/papers/v24/21-1179.html,https://da.gd/GjjRZN
+j:JMLR,Revisiting minimum description length complexity in overparameterized models,http://jmlr.org/papers/v24/21-1133.html,https://da.gd/ZJAkF1
+j:JMLR,Sparse Plus Low Rank Matrix Decomposition: A Discrete Optimization Approach,http://jmlr.org/papers/v24/21-1130.html,https://da.gd/qItWY
+j:JMLR,On the Estimation of Derivatives Using Plug-in Kernel Ridge Regression Estimators,http://jmlr.org/papers/v24/21-1110.html,https://da.gd/9RFhta
+j:JMLR,Surrogate Assisted Semi-supervised Inference for High Dimensional Risk Prediction,http://jmlr.org/papers/v24/21-1075.html,https://da.gd/mSco6H
+j:JMLR,ProtoryNet - Interpretable Text Classification Via Prototype Trajectories,http://jmlr.org/papers/v24/21-0899.html,https://da.gd/TJIAz
+j:JMLR,Distributed Algorithms for U-statistics-based Empirical Risk Minimization,http://jmlr.org/papers/v24/21-0890.html,https://da.gd/doz5Uh
+j:JMLR,Minimax Estimation for Personalized Federated Learning: An Alternative between FedAvg and Local Training?,http://jmlr.org/papers/v24/21-0224.html,https://da.gd/r3DAw0
+j:JMLR,Nearest Neighbor Dirichlet Mixtures,http://jmlr.org/papers/v24/21-0116.html,https://da.gd/FAm09c
+j:JMLR,Learning to Rank under Multinomial Logit Choice,http://jmlr.org/papers/v24/20-981.html,https://da.gd/RoeA
+j:JMLR,Scalable high-dimensional Bayesian varying coefficient models with unknown within-subject covariance,http://jmlr.org/papers/v24/20-1437.html,https://da.gd/Cphc
+j:JMLR,Multi-view Collaborative Gaussian Process Dynamical Systems,http://jmlr.org/papers/v24/19-094.html,https://da.gd/rHZ1QE
