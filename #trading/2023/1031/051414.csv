@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ArXiv,A Joint Time-frequency Domain Transformer for Multivariate Time Series Forecasting,https://arxiv.org/abs/2305.14649v2,
+ArXiv,LargeST: A Benchmark Dataset for Large-Scale Traffic Forecasting,https://arxiv.org/abs/2306.08259v2,
+ArXiv,BuildingsBench: A Large-Scale Dataset of 900K Buildings and Benchmark for Short-Term Load Forecasting,https://arxiv.org/abs/2307.00142v2,
+ArXiv,Diffusion Variational Autoencoder for Tackling Stochasticity in Multi-Step Regression Stock Price Prediction,https://arxiv.org/abs/2309.00073v2,
+ArXiv,Causal discovery in a complex industrial system: A time series benchmark,https://arxiv.org/abs/2310.18654v1,
+ArXiv,Quantile Super Learning for independent and online settings with application to solar power forecasting,https://arxiv.org/abs/2310.19343v1,
+ArXiv,An Online Bootstrap for Time Series,https://arxiv.org/abs/2310.19683v1,
+ArXiv,High-dimensional latent Gaussian count time series: Concentration results for autocovariances and applications,https://arxiv.org/abs/2301.00491v2,
