@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MSK adds check for too many partitions to AWS Trusted Advisor,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-check-partitions-aws-trusted-advisor/,https://da.gd/xiDmoU
+AWS:WhatsNew,AWS Control Tower is now available in Asia Pacific (Melbourne) Region,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-asia-pacific-melbourne-region/,https://da.gd/EDJ6x8
+AWS:WhatsNew,AWS Lambda supports faster polling scale-up rate for Amazon SQS as an event source,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-polling-scale-rate-sqs-event-source/,https://da.gd/vV5t
