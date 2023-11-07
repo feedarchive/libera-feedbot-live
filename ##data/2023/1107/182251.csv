@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:OpenData,CZ CELLxGENE Discover Census,https://registry.opendata.aws/czi-cellxgene-census,https://da.gd/QafkJb
+AWS:OpenData,Open VLF: Scientific Open Data Initiative for CRAAM's SAVNET and AWESOME VLF Data,https://registry.opendata.aws/craam-open-vlf,https://da.gd/yiRXLs
+AWS:OpenData,3-Band Cryo Data | Wide-field Infrared Survey Explorer (WISE),https://registry.opendata.aws/wise-cryo-3band,https://da.gd/AsWD1L
+AWS:OpenData,All-Sky Data | Wide-field Infrared Survey Explorer (WISE),https://registry.opendata.aws/wise-allsky,https://da.gd/y9PHuN
+AWS:OpenData,NEOWISE Post-Cryo Data | Wide-field Infrared Survey Explorer (WISE),https://registry.opendata.aws/wise-postcryo,https://da.gd/XCG9LI
+AWS:OpenData,NEOWISE Reactivation Data | Near-Earth Object Wide-field Infrared Survey Explorer (NEOWISE),https://registry.opendata.aws/wise-neowiser,https://da.gd/hzOh12
