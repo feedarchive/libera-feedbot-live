@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Deploy your stack sets faster with ConcurrencyMode in AWS CloudFormation,https://aws.amazon.com/about-aws/whats-new/2023/11/deploy-stack-sets-faster-concurrencymode-aws-cloudformation/,https://da.gd/UZO1
+AWS:WhatsNew,Amazon EKS Anywhere now supports self-service Enterprise Subscription purchases,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eks-anywhere-self-service-enterprise-subscription-purchases/,https://da.gd/7FKxh
+AWS:WhatsNew,Amazon Elastic Block Store now supports Block Public Access for EBS Snapshots,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-public-access-ebs-snapshots/,https://da.gd/sbYfQA
+AWS:WhatsNew,AWS Batch array jobs now support array size environment variable,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-batch-array-jobs-size-environment-variable/,https://da.gd/6sEynT
