@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS IoT Device Management adds support for indexing and querying device location,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-management-indexing-querying-device-location/,https://da.gd/obro
+AWS:WhatsNew,"Amazon SNS launches additional message filtering operators, including suffix and case-insensitive matching",https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sns-message-additional-filtering-operators/,https://da.gd/RcgBY
+AWS:WhatsNew,Amazon Transcribe now supports automatic language identification for multi-lingual real-time audio streams,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-automatic-language-identification/,https://da.gd/3MOd
+AWS:WhatsNew,Amazon RDS for MySQL now supports upgrading MySQL 5.7 snapshots to MySQL 8.0,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-upgrading-mysql-5-7-snapshots-mysql-8-0/,https://da.gd/cZZD
+AWS:WhatsNew,Amazon MSK adds support for Apache Kafka version 3.6.0 with Tiered Storage,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-support-apache-kafka-version-3-6-0-tiered-storage/,https://da.gd/A9f9v
+AWS:WhatsNew,AWS announces multiple stats query command for Amazon CloudWatch Logs Insights,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-logs-insights-stats-query-command/,https://da.gd/EdvBM
