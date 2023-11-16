@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Cost Explorer now provides more historical and granular data,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-explorer-provides-historical-granular-data/,https://da.gd/BTuAD9
+AWS:WhatsNew,AWS Lambda now supports failed-event destinations for Kafka event source mappings,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-failed-event-destinations-kafka-event-source-mappings/,https://da.gd/GlhV
+AWS:WhatsNew,"AWS Lambda introduces new controls to make it easier to search, filter, and aggregate Lambda function logs",https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-controls-search-filter-aggregate-lambda-function-logs/,https://da.gd/RUT5Rt
+AWS:WhatsNew,New Amazon CloudWatch metric monitors EBS volume I/O health,https://aws.amazon.com/about-aws/whats-new/2023/11/new-amazon-cloudwatch-metric-monitors-ebs-volume-i-o-health/,https://da.gd/8EJdg
+AWS:WhatsNew,Amazon FSx for Lustre now enables you to adjust the throughput tier of your file systems,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-lustre-adjust-throughput-tier-file-systems/,https://da.gd/55a0a5
+AWS:WhatsNew,Amazon FSx for OpenZFS expands availability in the US West (N. California) and Canada (Central) regions,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-availability-us-west-canada-regions/,https://da.gd/0BjJ
+AWS:WhatsNew,Amazon SQS announces support for logging data events in AWS CloudTrail,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-logging-data-events-aws-cloudtrail/,https://da.gd/NpzvHf
+AWS:WhatsNew,AWS AppSync introduces new metrics for monitoring of real-time GraphQL subscriptions,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-metrics-monitoring-graphql-subscriptions/,https://da.gd/iSYucM
+AWS:WhatsNew,Amazon FSx for OpenZFS provides additional performance metrics and an enhanced monitoring dashboard,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-performance-metrics-dashboard/,https://da.gd/h3sHp
+AWS:WhatsNew,Amazon EC2 C7gn instances are now available in AWS Asia Pacific (Tokyo) region,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gn-instances-tokyo-region/,https://da.gd/UHDn5
+AWS:WhatsNew,Announcing Policy Assistant for AWS Verified Access,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-verified-access-policy-assistant/,https://da.gd/QGKv
