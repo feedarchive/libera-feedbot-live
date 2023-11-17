@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Systems Manager Automation now offers support for loops, type transformations, and more",https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-automation-loops-type-transformations-more/,https://da.gd/GII9
+AWS:WhatsNew,AWS Supply Chain releases Work Order Insights,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-releases-work-order-insights/,https://da.gd/vv9z7P
+AWS:WhatsNew,Amazon OpenSearch Ingestion is now available in 3 additional commercial regions,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-available-additional-commercial-regions/,https://da.gd/0EHopz
+AWS:WhatsNew,AWS IAM Identity Center now provides new APIs to automate access to applications,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-apis-automate-access-applications/,https://da.gd/7jnOw
+AWS:WhatsNew,AWS Lambda adds support for Java 21,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-java-21/,https://da.gd/7tMxfv
+AWS:WhatsNew,Amazon EMR Serverless is now available 4 new AWS Regions,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/,https://da.gd/HHYvO
+AWS:WhatsNew,AWS Lambda now supports IAM access control for multi-VPC enabled Amazon MSK clusters,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-iam-access-control-multi-vpc-amazon-msk-clusters/,https://da.gd/P57t6R
+AWS:WhatsNew,Amazon Connect supports visibility and management of applied quotas using AWS Service Quotas,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-visibility-applied-service-quotas/,https://da.gd/n2DEk
+AWS:WhatsNew,Amazon Connect now provides a Contact Lens conversational analytics dashboard,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-analytics-dashboard/,https://da.gd/B0d3F
+AWS:WhatsNew,Monitor SAP Sybase ASE database with Amazon CloudWatch Application Insights,https://aws.amazon.com/about-aws/whats-new/2023/11/monitor-sap-ase-database-cloudwatch-insights/,https://da.gd/RjU8zM
+AWS:WhatsNew,Amazon RDS Custom for SQL Server extends Point in Time Recovery support for up to 1000 databases,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-sql-server-recovery-1000-databases/,https://da.gd/s7de9
+AWS:WhatsNew,AWS Fargate now supports AWS Graviton2 Processors in all AWS Regions,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fargate-graviton2-processors-aws-regions/,https://da.gd/mfwJlX
+AWS:WhatsNew,New JDBC driver now available for Amazon Athena,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-jdbc-driver/,https://da.gd/iAn3
