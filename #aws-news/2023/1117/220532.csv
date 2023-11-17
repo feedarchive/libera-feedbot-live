@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Programmatically create and manage SMS phone numbers with Amazon Pinpoint,https://aws.amazon.com/about-aws/whats-new/2023/11/programmatically-create-manage-sms-phone-numbers-amazon-pinpoint/,https://da.gd/yyyxW
+AWS:WhatsNew,AWS IAM Identity Center provides new account instance for faster evaluation and adoption of AWS managed applications,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-account-instance-evaluation-adoption-managed-applications/,https://da.gd/PYcJ7C
+AWS:WhatsNew,Amazon SageMaker Studio now supports automated user setup with IAM Identity Center,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-automated-user-setup-iam-identity-center/,https://da.gd/50P7Ec
+AWS:WhatsNew,Amazon VPC IP Address Manager now allows you to Bring Your Own ASN to AWS,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-ip-address-manager-bring-your-own-asn-aws/,https://da.gd/cvjet
+AWS:WhatsNew,Amazon CodeCatalyst now supports single sign-on using AWS IAM Identity Center,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-single-sign-on-aws-iam-identity-center/,https://da.gd/9xEtk
+AWS:WhatsNew,AWS Supply Chain Demand Planning provides up to 3x faster forecasting and 75% lower UI latency,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-faster-forecasting-lower-ui-latency/,https://da.gd/FnCWU
+AWS:WhatsNew,Amazon Athena adds cost-based optimizer to enhance query performance,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cost-based-optimizer-enhance-query-performance/,https://da.gd/1P7sw
+AWS:WhatsNew,"Amazon VPC IP Address Manager adds a free features tier, including AWS Organization-wide Public IP Insights",https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-address-manager-free-features-tier/,https://da.gd/fnaAQR
+AWS:WhatsNew,New Amazon Pinpoint SMS management capabilities for developers,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-pinpoint-sms-capabilities-developers/,https://da.gd/A5Mu20
+AWS:WhatsNew,Amazon EMR Studio adds interactive query editor powered by Amazon Athena,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-query-editor-athena/,https://da.gd/zvYaP6
+AWS:WhatsNew,Amazon VPC IP Address Manager now automates IP address assignments for VPC subnets,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-ip-address-manager-assignments-vpc-subnets/,https://da.gd/vgPt
+AWS:WhatsNew,AWS DMS now supports Amazon Timestream as a target,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-dms-amazon-timestream-target/,https://da.gd/juvDJ
+AWS:WhatsNew,Announcing teams for Amazon CodeCatalyst,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-teams/,https://da.gd/IshS1
