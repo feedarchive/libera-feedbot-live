@@ -1,0 +1,41 @@
+feed,title,long_url,short_url
+APIchanges,Amazon Athena - 3 updated methods,https://awsapichanges.info/archive/changes/e286cb-athena.html,https://da.gd/baHJ
+APIchanges,AWS CloudFormation - 3 updated methods,https://awsapichanges.info/archive/changes/e286cb-cloudformation.html,https://da.gd/uGT2
+APIchanges,AWS CodePipeline - 1 updated methods,https://awsapichanges.info/archive/changes/e286cb-codepipeline.html,https://da.gd/BObAwC
+APIchanges,AWS CodeStar connections - 15 new methods,https://awsapichanges.info/archive/changes/e286cb-codestar-connections.html,https://da.gd/WOXA
+APIchanges,Amazon Connect Service - 2 updated methods,https://awsapichanges.info/archive/changes/e286cb-connect.html,https://da.gd/gMqi
+APIchanges,Amazon Elastic Compute Cloud - 6 new 34 updated methods,https://awsapichanges.info/archive/changes/e286cb-ec2.html,https://da.gd/SVGB0
+APIchanges,Amazon EC2 Container Registry - 2 new 5 updated methods,https://awsapichanges.info/archive/changes/e286cb-api.ecr.html,https://da.gd/wqStsC
+APIchanges,Amazon EMR - 3 updated methods,https://awsapichanges.info/archive/changes/e286cb-elasticmapreduce.html,https://da.gd/Z9e0F
+APIchanges,Amazon EventBridge - 3 updated methods,https://awsapichanges.info/archive/changes/e286cb-events.html,https://da.gd/sw4URR
+APIchanges,Amazon CloudWatch Internet Monitor - 4 new methods,https://awsapichanges.info/archive/changes/e286cb-internetmonitor.html,https://da.gd/0MNoTp
+APIchanges,AWS Elemental MediaLive - 9 updated methods,https://awsapichanges.info/archive/changes/e286cb-medialive.html,https://da.gd/blgmv
+APIchanges,Amazon OpenSearch Ingestion - 6 updated methods,https://awsapichanges.info/archive/changes/e286cb-osis.html,https://da.gd/f0uw
+APIchanges,Amazon Relational Database Service - 12 updated methods,https://awsapichanges.info/archive/changes/e286cb-rds.html,https://da.gd/qrRV9i
+APIchanges,Amazon Redshift - 4 new 1 updated methods,https://awsapichanges.info/archive/changes/e286cb-redshift.html,https://da.gd/PtikA
+APIchanges,Redshift Serverless - 1 updated methods,https://awsapichanges.info/archive/changes/e286cb-redshift-serverless.html,https://da.gd/1ukx3
+APIchanges,AWS Single Sign-On Admin - 3 updated methods,https://awsapichanges.info/archive/changes/e286cb-sso.html,https://da.gd/CciA4x
+APIchanges,AWS SSO OIDC - 1 new methods,https://awsapichanges.info/archive/changes/e286cb-oidc.html,https://da.gd/XsDZu
+APIchanges,TrustedAdvisor Public API - 10 new methods,https://awsapichanges.info/archive/changes/e286cb-trustedadvisor.html,https://da.gd/r8yeB
+APIchanges,Amazon Verified Permissions - 1 new methods,https://awsapichanges.info/archive/changes/e286cb-verifiedpermissions.html,https://da.gd/nhw4Y
+APIchanges,Amazon Connect Wisdom Service - 10 new 5 updated methods,https://awsapichanges.info/archive/changes/e286cb-wisdom.html,https://da.gd/0543b
+APIchanges,Amazon CodeCatalyst - 3 updated methods,https://awsapichanges.info/archive/changes/773200-codecatalyst.html,https://da.gd/6bDG
+APIchanges,Amazon Data Lifecycle Manager - 4 updated methods,https://awsapichanges.info/archive/changes/773200-dlm.html,https://da.gd/l7gvK
+APIchanges,Amazon Elastic Compute Cloud - 10 updated methods,https://awsapichanges.info/archive/changes/773200-ec2.html,https://da.gd/NYi18H
+APIchanges,Amazon FSx - 1 updated methods,https://awsapichanges.info/archive/changes/773200-fsx.html,https://da.gd/BmLqN
+APIchanges,AWS Glue - 5 new methods,https://awsapichanges.info/archive/changes/773200-glue.html,https://da.gd/184NL
+APIchanges,EC2 Image Builder - 10 new 3 updated methods,https://awsapichanges.info/archive/changes/773200-imagebuilder.html,https://da.gd/p2fFq
+APIchanges,AWS IoT - 2 updated methods,https://awsapichanges.info/archive/changes/773200-iot.html,https://da.gd/BTp0Bh
+APIchanges,Amazon Interactive Video Service RealTime - 12 new methods,https://awsapichanges.info/archive/changes/773200-ivsrealtime.html,https://da.gd/3byUV9
+APIchanges,Managed Streaming for Kafka - 4 updated methods,https://awsapichanges.info/archive/changes/773200-kafka.html,https://da.gd/MOqy
+APIchanges,AWS Lambda - 8 updated methods,https://awsapichanges.info/archive/changes/773200-lambda.html,https://da.gd/citaI
+APIchanges,Amazon Macie 2 - 3 updated methods,https://awsapichanges.info/archive/changes/773200-macie2.html,https://da.gd/AFxH
+APIchanges,AWS Elemental MediaPackage - 4 updated methods,https://awsapichanges.info/archive/changes/773200-mediapackage.html,https://da.gd/PFexBt
+APIchanges,Amazon Pinpoint SMS Voice V2 - 26 new 11 updated methods,https://awsapichanges.info/archive/changes/773200-sms-voice.html,https://da.gd/wJVH8B
+APIchanges,Amazon Polly - 5 updated methods,https://awsapichanges.info/archive/changes/773200-polly.html,https://da.gd/lpVHoM
+APIchanges,Amazon QuickSight - 6 new 11 updated methods,https://awsapichanges.info/archive/changes/773200-quicksight.html,https://da.gd/aZAT6Y
+APIchanges,Amazon SageMaker Service - 20 updated methods,https://awsapichanges.info/archive/changes/773200-api.sagemaker.html,https://da.gd/Rd1Erv
+APIchanges,Amazon Simple Systems Manager (SSM) - 3 updated methods,https://awsapichanges.info/archive/changes/773200-ssm.html,https://da.gd/Rs86D
+APIchanges,AWS Systems Manager Incident Manager - 2 new methods,https://awsapichanges.info/archive/changes/773200-ssm-incidents.html,https://da.gd/j1jlay
+APIchanges,AWS Single Sign-On Admin - 36 new 1 updated methods,https://awsapichanges.info/archive/changes/773200-sso.html,https://da.gd/lafi3
+APIchanges,AWS Transfer Family - 9 updated methods,https://awsapichanges.info/archive/changes/773200-transfer.html,https://da.gd/jomEGc
