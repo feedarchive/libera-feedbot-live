@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue launches native connectivity to 6 databases,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-launches-native-connectivity-6-databases/,https://da.gd/iYtED
+AWS:WhatsNew,AWS Trusted Advisor announces new APIs,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-trusted-advisor-new-apis/,https://da.gd/j6eG
+AWS:WhatsNew,Amazon ECR pull through cache now supports additional upstream registries,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ecr-pull-through-cache-additional-upstream-registries/,https://da.gd/fSdy7
+AWS:WhatsNew,Amazon ECR adds ability to specify initial configuration for repositories created via pull through cache (Preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ecr-initial-configuration-repositories-pull-through-cache-preview/,https://da.gd/Gyru63
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) is Now Available in the AWS GovCloud (US-East) Region,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-mongodb-compatibility-aws-govcloud-us-east-region/,https://da.gd/5pmVG
+AWS:WhatsNew,Amazon QuickSight launches custom access to capabilities based on roles,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-custom-access-capabilities-based-roles/,https://da.gd/Nt42Tx
+AWS:WhatsNew,Amazon S3 Storage Lens now aggregates activity and status code metrics by prefix,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-aggregates-activity-status-code-metrics-prefix/,https://da.gd/vhpP6
+AWS:WhatsNew,"Amazon RDS for PostgreSQL supports minor versions 15.5, 14.10, 13.13, 12.17, and 11.22",https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-postgresql-minor-versions-15-5-14-10-13-13-12-17-11-22/,https://da.gd/hGchj
+AWS:WhatsNew,"Amazon EC2 C7g, M7g and R7g instances are now available in additional AWS Regions",https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7g-m7g-r7g-additional-regions/,https://da.gd/ayqZE
+AWS:WhatsNew,RDS Custom for SQL Server supports SQL Server Developer Edition,https://aws.amazon.com/about-aws/whats-new/2023/11/rds-custom-sql-server-developer-edition/,https://da.gd/iCyb2w
+AWS:WhatsNew,Amazon EventBridge EventBus announces support for read-only API events from CloudTrail,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-read-only-api-cloudtrail/,https://da.gd/EkFM2U
+AWS:WhatsNew,New payment options for the AWS Marketplace flexible payment scheduler,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-scheduler-payment-options/,https://da.gd/oGJ7h
+AWS:WhatsNew,Enforce fine-grained access control via AWS Lake Formation with Open Table Formats on Amazon EMR,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lake-formation-formats-emr-fine-grained-control/,https://da.gd/loDYa
+AWS:WhatsNew,AWS Glue for Apache Spark announces native connectivity for Amazon OpenSearch Service,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-apache-spark-native-connectivity-opensearch/,https://da.gd/FMBOi
+AWS:WhatsNew,AWS Transfer Family expands logical directories limit,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-transfer-family-logical-directories-limit/,https://da.gd/QocF5
