@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon QuickSight now supports export and import of asset permissions and tags,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-export-import-asset-permissions-tags/,https://da.gd/rxJeT
+AWS:WhatsNew,Amazon EC2 Mac instances now support Apple macOS Sonoma,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-mac-instances-support-apple-macos-sonoma/,https://da.gd/rqI2oD
+AWS:WhatsNew,Amazon QuickSight now supports runtime filtering for embedded dashboards and visuals,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-filtering-embedded-dashboards-visuals/,https://da.gd/TayvAJ
+AWS:WhatsNew,Amazon QuickSight now supports runtime theming for embedded dashboards and visuals,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-theming-embedded-dashboards-visuals/,https://da.gd/gFc3h
+AWS:WhatsNew,Amazon QuickSight now supports asset events using Amazon EventBridge,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-asset-events-amazon-eventbridge/,https://da.gd/B8O9ua
+AWS:WhatsNew,Amazon Verified Permissions now supports batch authorization,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-verified-permissions-supports-batch-authorization/,https://da.gd/joxR
+AWS:WhatsNew,AWS Outposts rack supports service link interface throughput metrics,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-outposts-rack-service-link-interface-throughput-metrics/,https://da.gd/FLRZ5
+AWS:WhatsNew,AWS Systems Manager Incident Manager now identifies probable root causes of incidents,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-incident-manager-identifies-probable-root-causes/,https://da.gd/AFvHA
+AWS:WhatsNew,Amazon Athena adds CloudWatch metrics for Provisioned Capacity,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cloudwatch-metrics-capacity/,https://da.gd/PpP1DJ
+AWS:WhatsNew,EC2 Security group connection tracking adds support for configurable idle timeouts,https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-security-connection-tracking-idle-timeouts/,https://da.gd/KsNRKb
+AWS:WhatsNew,Amazon OpenSearch Service now supports OpenSearch version 2.11,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-supports-version-2-11/,https://da.gd/oZe2F
+AWS:WhatsNew,AWS Glue announces entity-level actions to manage sensitive data,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-entity-level-actions-sensitive-data/,https://da.gd/3fVx9F
