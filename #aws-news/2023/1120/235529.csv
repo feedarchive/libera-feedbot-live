@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for PostgreSQL now supports major version 16,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-postgresql-major-version-16/,https://da.gd/oNrOr0
+AWS:WhatsNew,AWS Amplify Hosting extends server-side rendering (SSR) support to additional frameworks,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-ssr-additional-frameworks/,https://da.gd/Tmf0m
+AWS:WhatsNew,Announcing AWS Glue serverless Spark UI and observability metrics,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-serverless-spark-ui-observability-metrics/,https://da.gd/H6yNZM
+AWS:WhatsNew,Customer Profiles Flow block simplifies authentication and retrieval of customer profile information,https://aws.amazon.com/about-aws/whats-new/2023/11/customer-profiles-flow-authentication-customer-profiles/,https://da.gd/RvbnAZ
+AWS:WhatsNew,Application and Network Load Balancer now supports FIPS 140-3 for TLS Termination,https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-fips-tls-termination/,https://da.gd/Rhu0
+AWS:WhatsNew,Amazon Redshift announces integration with AWS Glue column-level statistics,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-integration-glue-column-statistics/,https://da.gd/9MiZAY
+AWS:WhatsNew,Amazon QuickSight now Supports Connectivity to Google BigQuery,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-connectivity-google-bigquery/,https://da.gd/KNC65E
+AWS:WhatsNew,Amazon S3 now supports enabling S3 Object Lock on existing buckets,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-enabling-object-lock-buckets/,https://da.gd/1Qum
+AWS:WhatsNew,Introducing Amazon CodeWhisperer for command line (preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-command-line-preview/,https://da.gd/53ul6L
+AWS:WhatsNew,Amazon EMR on Amazon EKS is now available in 3 additional regions,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-eks-3-additional-regions/,https://da.gd/poAFe
