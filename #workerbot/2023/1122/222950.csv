@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,LBR-Stack: ROS 2 and Python Integration of KUKA FRI for Med and IIWA Robots,https://arxiv.org/abs/2311.12709v1,
+ArXiv,PyDaddy: A Python package for discovering stochastic dynamical equations from timeseries data,https://arxiv.org/abs/2205.02645v3,
+ArXiv,cuPDLP.jl: A GPU Implementation of Restarted Primal-Dual Hybrid Gradient for Linear Programming in Julia,https://arxiv.org/abs/2311.12180v1,
