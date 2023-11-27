@@ -1,0 +1,41 @@
+feed,title,long_url,short_url
+APIchanges,Access Analyzer - 4 new 3 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-access-analyzer.html,https://da.gd/L8zo
+APIchanges,Amazon Prometheus Service - 5 new methods,https://awsapichanges.info/archive/changes/c1ef7c-aps.html,https://da.gd/Uq9xe
+APIchanges,AWS Billing and Cost Management Data Exports - 12 new methods,https://awsapichanges.info/archive/changes/c1ef7c-bcm-data-exports.html,https://da.gd/DRB8U
+APIchanges,AWS CloudTrail - 2 new 2 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-cloudtrail.html,https://da.gd/P7Q84e
+APIchanges,AWS CodeStar connections - 15 new methods,https://awsapichanges.info/archive/changes/c1ef7c-codestar-connections.html,https://da.gd/C8KxkQ
+APIchanges,AWS Compute Optimizer - 14 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-compute-optimizer.html,https://da.gd/tO33b
+APIchanges,AWS Config - 6 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-config.html,https://da.gd/Z8LQVS
+APIchanges,AWS Control Tower - 7 new methods,https://awsapichanges.info/archive/changes/c1ef7c-controltower.html,https://da.gd/idatWg
+APIchanges,Cost Optimization Hub - 7 new methods,https://awsapichanges.info/archive/changes/c1ef7c-cost-optimization-hub.html,https://da.gd/UrkHR
+APIchanges,Amazon Detective - 5 new methods,https://awsapichanges.info/archive/changes/c1ef7c-api.detective.html,https://da.gd/yCZu
+APIchanges,Amazon EC2 Container Service - 4 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-ecs.html,https://da.gd/EvlpPv
+APIchanges,Amazon Elastic Kubernetes Service - 5 new methods,https://awsapichanges.info/archive/changes/c1ef7c-eks.html,https://da.gd/C11FbV
+APIchanges,Amazon EKS Auth - 1 new methods,https://awsapichanges.info/archive/changes/c1ef7c-eks-auth.html,https://da.gd/HREDG
+APIchanges,Amazon Elastic File System - 5 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-elasticfilesystem.html,https://da.gd/90mp
+APIchanges,Elastic Load Balancing - 10 new 4 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-elasticloadbalancing.html,https://da.gd/sKqzcZ
+APIchanges,AWS Free Tier - 1 new methods,https://awsapichanges.info/archive/changes/c1ef7c-freetier.html,https://da.gd/Uoi8w
+APIchanges,Amazon FSx - 3 new 17 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-fsx.html,https://da.gd/h4VaL
+APIchanges,Amazon GuardDuty - 11 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-guardduty.html,https://da.gd/EXHSfj
+APIchanges,AWS IoT FleetWise - 14 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-iotfleetwise.html,https://da.gd/BNpFo
+APIchanges,AWS Lake Formation - 4 new methods,https://awsapichanges.info/archive/changes/c1ef7c-lakeformation.html,https://da.gd/LcYD
+APIchanges,Amazon CloudWatch Logs - 7 new 2 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-logs.html,https://da.gd/zmIk
+APIchanges,Amazon Managed Blockchain - 3 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-managedblockchain.html,https://da.gd/nwhPr4
+APIchanges,Amazon Lex Model Building V2 - 4 new 6 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-models-v2-lex.html,https://da.gd/TSZ5CR
+APIchanges,Amazon Personalize - 11 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-personalize.html,https://da.gd/H7Xrv
+APIchanges,Amazon Personalize Events - 2 new methods,https://awsapichanges.info/archive/changes/c1ef7c-personalize-events.html,https://da.gd/iYjcc
+APIchanges,Amazon Personalize Runtime - 1 new 2 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-personalize-runtime.html,https://da.gd/IG5z
+APIchanges,Amazon QuickSight - 3 new 6 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-quicksight.html,https://da.gd/vPYSRD
+APIchanges,Amazon Redshift - 8 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-redshift.html,https://da.gd/E8crP
+APIchanges,AWS re:Post Private - 11 new methods,https://awsapichanges.info/archive/changes/c1ef7c-repostspace.html,https://da.gd/bSGyuz
+APIchanges,Amazon Lex Runtime V2 - 2 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-runtime-v2-lex.html,https://da.gd/mjJ7wY
+APIchanges,AWS S3 Control - 20 new methods,https://awsapichanges.info/archive/changes/c1ef7c-s3-control.html,https://da.gd/cb2BFg
+APIchanges,AWS Secrets Manager - 1 new methods,https://awsapichanges.info/archive/changes/c1ef7c-secretsmanager.html,https://da.gd/q2VSL
+APIchanges,AWS SecurityHub - 2 new 11 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-securityhub.html,https://da.gd/gYMp
+APIchanges,AWS Step Functions - 1 new methods,https://awsapichanges.info/archive/changes/c1ef7c-states.html,https://da.gd/6hhAEE
+APIchanges,Amazon Transcribe Service - 21 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-transcribe.html,https://da.gd/3sif2A
+APIchanges,Amazon WorkSpaces - 4 updated methods,https://awsapichanges.info/archive/changes/c1ef7c-workspaces.html,https://da.gd/8YFvF5
+APIchanges,Amazon WorkSpaces Thin Client - 16 new methods,https://awsapichanges.info/archive/changes/c1ef7c-thinclient.html,https://da.gd/wkUhH
+APIchanges,Amazon Kinesis - 3 new methods,https://awsapichanges.info/archive/changes/5448ec-kinesis.html,https://da.gd/rIbHTv
+APIchanges,AWS S3 Control - 2 updated methods,https://awsapichanges.info/archive/changes/5448ec-s3-control.html,https://da.gd/BH7n
+APIchanges,Amazon SageMaker Service - 3 updated methods,https://awsapichanges.info/archive/changes/5448ec-api.sagemaker.html,https://da.gd/riuYhU
