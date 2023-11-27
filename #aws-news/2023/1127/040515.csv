@@ -1,0 +1,32 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Secrets Manager now supports batch retrieval of secrets,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-secrets-manager-batch-retrieval-secrets/,https://da.gd/zLS3
+AWS:WhatsNew,New from AWS: You can now customize security controls in AWS Security Hub,https://aws.amazon.com/about-aws/whats-new/2023/11/customize-security-controls-aws-security-hub/,https://da.gd/S0tb5
+AWS:WhatsNew,Announcing Amazon FSx for NetApp ONTAP scale-out file systems,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-netapp-ontap-scale-out-file-systems/,https://da.gd/TKgEk
+AWS:WhatsNew,IAM Access Analyzer now simplifies inspecting unused access to guide you toward least privilege,https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-inspecting-unused-access/,https://da.gd/IDuu
+AWS:WhatsNew,Amazon GuardDuty now supports runtime monitoring for Amazon EC2 (Preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-runtime-monitoring-amazon-ec2-preview/,https://da.gd/Gup9Z
+AWS:WhatsNew,Amazon Inspector expands AWS Lambda code scanning with generative AI powered remediation,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-aws-lambda-code-scanning/,https://da.gd/1PZbA
+AWS:WhatsNew,Announcing vision system data from AWS IoT FleetWise (Preview),https://aws.amazon.com/about-aws/whats-new/2023/11/vision-system-data-aws-iot-fleetwise-preview/,https://da.gd/6ZE89
+AWS:WhatsNew,Announcing Amazon EC2 High Memory U7i instances (Preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-u7i-instances-preview/,https://da.gd/yWybBf
+AWS:WhatsNew,IAM Access Analyzer introduces custom policy checks powered by automated reasoning,https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-custom-policy-check/,https://da.gd/j7vU2
+AWS:WhatsNew,AWS Step Functions launches support for HTTPS endpoints and a new TestState API,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-https-endpoints-teststate-api/,https://da.gd/8teiM
+AWS:WhatsNew,Amazon EKS introduces EKS Pod Identity,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eks-pod-identity/,https://da.gd/yYhZ
+AWS:WhatsNew,You can now manage and back up FSx for ONTAP FlexGroup volumes using the AWS Console and API,https://aws.amazon.com/about-aws/whats-new/2023/11/manage-back-up-fsx-netapp-flexgroup-volumes-aws-console-api/,https://da.gd/Lb3xz
+AWS:WhatsNew,FreeRTOS roadmap and code contribution process now published on freertos.org,https://aws.amazon.com/about-aws/whats-new/2023/11/freertos-roadmap-code-contribution-process-published-freertos-org/,https://da.gd/b6Kvmp
+AWS:WhatsNew,AWS IoT SiteWise Edge Now Available on Siemens Industrial Edge Marketplace (Preview),https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-edge-siemens-industrial-edge-marketplace-preview/,https://da.gd/c4kv
+AWS:WhatsNew,"Introducing Amazon GuardDuty ECS Runtime Monitoring, including AWS Fargate",https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-ecs-runtime-monitoring-fargate/,https://da.gd/xqkTTa
+AWS:WhatsNew,Announcing utterance generation for Amazon Lex,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-utterance-generation/,https://da.gd/ptnQWX
+AWS:WhatsNew,Amazon EventBridge now supports partner integrations with Adobe and Stripe,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-partner-integrations-adobe-stripe/,https://da.gd/yXCvi
+AWS:WhatsNew,Assisted Slot Resolution with Generative AI,https://aws.amazon.com/about-aws/whats-new/2023/11/assisted-slot-resolution-generative-ai/,https://da.gd/R5L4dp
+AWS:WhatsNew,Amazon Detective now supports log retrieval from Amazon Security Lake,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-log-retrieval-security-lake/,https://da.gd/g9MJw
+AWS:WhatsNew,Announcing AWS Console-to-Code (Preview) to generate code for console actions,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-console-to-code-preview-generate-console-actions/,https://da.gd/SrjuXy
+AWS:WhatsNew,"New Discover Apps page for PartyRock, an Amazon Bedrock Playground",https://aws.amazon.com/about-aws/whats-new/2023/11/app-discovery-page-partyrock-bedrock-playground/,https://da.gd/8tHXL6
+AWS:WhatsNew,Amazon Detective introduces finding group summaries using generative AI,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/,https://da.gd/6nEYbI
+AWS:WhatsNew,FSx for ONTAP now supports creating Multi-AZ file systems in Shared VPC participant accounts,https://aws.amazon.com/about-aws/whats-new/2023/11/fsx-ontap-multi-az-file-systems-vpc-participant-accounts/,https://da.gd/lH8WU
+AWS:WhatsNew,Descriptive Bot Builder with Generative AI,https://aws.amazon.com/about-aws/whats-new/2023/11/descriptive-bot-builder-generative-ai/,https://da.gd/I8WYL
+AWS:WhatsNew,Amazon WorkSpaces Thin Client is now generally available,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-workspaces-thin-client/,https://da.gd/BvkbO
+AWS:WhatsNew,Amazon Detective supports security investigations for Amazon GuardDuty ECS Runtime Monitoring,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-security-guardduty-ecs-monitoring/,https://da.gd/3V9C4D
+AWS:WhatsNew,Announcing new enhancements to Amazon CodeWhisperer,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-new-enhancements/,https://da.gd/Zg8Eql
+AWS:WhatsNew,Amazon FSx for OpenZFS now supports on-demand data replication across file systems,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-data-replication-file-systems/,https://da.gd/MicrY4
+AWS:WhatsNew,Announcing Conversational FAQ with generative AI for Amazon Lex (Preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-conversational-faq-ai-preview/,https://da.gd/ZchYq5
+AWS:WhatsNew,Announcing Lens Catalog for the AWS Well-Architected Tool,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-well-architected-tool-lens-catalog/,https://da.gd/E6gK
+AWS:WhatsNew,Amazon Detective announces investigations for IAM,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-investigations-iam/,https://da.gd/H3tVZ
