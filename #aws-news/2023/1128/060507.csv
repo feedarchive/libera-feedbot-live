@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift adds support for incremental refresh for materialized views on data lake tables (preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-incremental-refresh-materialized-views-data-lake-tables-preview/,https://da.gd/dK5V
+AWS:WhatsNew,Amazon Redshift announces Multidimensional Data Layouts to optimize your query performance (preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multidimensional-data-layouts-preview/,https://da.gd/ufbWgy
+AWS:WhatsNew,AWS Glue Data Catalog supports multi engine views with AWS Analytics Engines,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-multi-engine-views-analytics-engines/,https://da.gd/o27L
+AWS:WhatsNew,AWS Application Composer announces AWS Step Functions Workflow Studio integration,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-composer-step-functions-workflow-studio/,https://da.gd/1N11I
+AWS:WhatsNew,Amazon Redshift announces new fine-grained access control capabilities to nested objects (preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-fine-grained-access-control-capabilities-preview/,https://da.gd/xoLEu
+AWS:WhatsNew,Announcing custom blueprints for Amazon CodeCatalyst,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-custom-blueprints/,https://da.gd/jUvDUa
+AWS:WhatsNew,"Amazon Braket launches Braket Direct, a program to dive deeper into quantum computing",https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-braket-launches-braket-direct/,https://da.gd/xF1QOx
+AWS:WhatsNew,Introducing Amazon One Enterprise (Preview),https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-one-enterprise-preview/,https://da.gd/5L35Zz
+AWS:WhatsNew,Mountpoint for Amazon S3 CSI driver is now generally available,https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-csi-driver/,https://da.gd/ZKMm4d
+AWS:WhatsNew,AWS Support launches AWS Countdown with a premium tier,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-support-countdown-premium-tier/,https://da.gd/bH2j5W
+AWS:WhatsNew,AWS SDK for Kotlin is now generally available,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-kotlin/,https://da.gd/oOcr
+AWS:WhatsNew,AWS SDK for Rust is now generally available,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-sdk-rust/,https://da.gd/NUG6p
+AWS:WhatsNew,Introducing the Amazon CodeCatalyst Enterprise Tier,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-enterprise-tier/,https://da.gd/vkUru
