@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Bring your own Amazon EFS (Elastic File System) volume to JupyterLab and CodeEditor in Amazon SageMaker Studio,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eds-volume-jupyterlab-codeeditor-amazon-sagemaker-studio/,https://da.gd/6pORA
+AWS:WhatsNew,Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab,https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/,https://da.gd/vCTGCS
+AWS:WhatsNew,AWS Fault Injection Service launches two highly requested scenarios,https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-service-two-requested-scenarios/,https://da.gd/iYxO
+AWS:WhatsNew,Amazon Route 53 Application Recovery Controller launches zonal autoshift,https://aws.amazon.com/about-aws/whats-new/2023/11/route-53-application-recovery-zonal-autoshift/,https://da.gd/BvZQS
