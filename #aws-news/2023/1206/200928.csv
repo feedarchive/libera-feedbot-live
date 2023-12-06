@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Data plane API logging for Amazon DynamoDB using AWS CloudTrail is now available in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/,https://da.gd/XFao5E
+AWS:WhatsNew,AWS Migration Hub Orchestrator now supports replatforming applications to Amazon ECS,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-migration-hub-orchestrator-replatforming-applications-amazon-ecs/,https://da.gd/yP1cY
+AWS:WhatsNew,"Amazon EC2 Instance Connect now supports RHEL, CentOS, and MacOS",https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instance-connect-rhel-centos-macos/,https://da.gd/27eSdw
