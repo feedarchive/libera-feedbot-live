@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda functions now scale up to 12X faster,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-functions-scale-up/,https://da.gd/VoDJ
+AWS:WhatsNew,Amazon Aurora MySQL’s support for Microsoft Active Directory authentication available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-mysql-microsoft-active-directory-authentication-govcloud-regions/,https://da.gd/hVMa
+AWS:WhatsNew,Amazon CloudWatch Logs regular expression filter support now in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-regular-expression-govcloud-regions/,https://da.gd/I1jmi
