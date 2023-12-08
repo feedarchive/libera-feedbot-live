@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.2.0-rc5: Checkout release version if we are using python release (#115379),https://github.com/pytorch/pytorch/releases/tag/v2.2.0-rc5,
