@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudShell has migrated to Amazon Linux 2023 (AL2023),https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudshell-migrated-al2023/,https://da.gd/Z2igyP
+AWS:WhatsNew,Amazon FinSpace with Managed kdb Insights now supports running multiple kdb processes on shared compute,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-multiple-processes-shared-compute/,https://da.gd/nP1vhp
+AWS:WhatsNew,Amazon FinSpace with Managed kdb Insights now supports Tickerplants for real-time analytics,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-tickerplants/,https://da.gd/KRkvjg
+AWS:WhatsNew,Amazon FinSpace with Managed kdb Insights introduces Dataviews for sharing database caches across kdb clusters,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-dataviews/,https://da.gd/7v6TIy
+AWS:WhatsNew,AWS AppConfig now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-supports-privatelink/,https://da.gd/1j6x9E
+AWS:WhatsNew,AWS Lambda supports additional concurrency metric for improved quota monitoring,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-concurrency-metric-quota-monitoring/,https://da.gd/uCQ7l
