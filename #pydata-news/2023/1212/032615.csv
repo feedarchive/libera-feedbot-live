@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Augmenty: A Python Library for Structured Text Augmentation,https://arxiv.org/abs/2312.05520v1,
+ArXiv,Ascle: A Python Natural Language Processing Toolkit for Medical Text Generation,https://arxiv.org/abs/2311.16588v2,
+ArXiv,perms: Likelihood-free estimation of marginal likelihoods for binary response data in Python and R,https://arxiv.org/abs/2309.01536v3,
