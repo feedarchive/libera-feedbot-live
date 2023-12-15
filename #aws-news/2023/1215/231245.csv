@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Kinesis Data Firehose supports delivery of decompressed CloudWatch Logs to destinations,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-decompressed-cloudwatch-logs-destinations/,https://da.gd/gg0k
+AWS:WhatsNew,Amazon Data Lifecycle Manager is now available in the AWS Israel (Tel Aviv) Region,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-data-lifecycle-manager-aws-israel-tel-aviv-region/,https://da.gd/UGwK
+AWS:WhatsNew,AWS Control Tower Landing Zone updates managed policies and controls,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-control-tower-landing-zone-updates-managed-policies-controls/,https://da.gd/58aW75
+AWS:WhatsNew,Amazon MQ is now available in AWS Israel (Tel Aviv) Region,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-mq-aws-israel-tel-aviv-region/,https://da.gd/Qrj4ME
+AWS:WhatsNew,Amazon EC2 M7g instances are now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m7g-instances-additional-regions/,https://da.gd/2Pik
+AWS:WhatsNew,Amazon RDS for SQL Server supports minor version 2022 CU10,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-sql-server-minor-version-2022-cu10/,https://da.gd/nukX
+AWS:WhatsNew,Amazon Connect Cases now supports creating rules for monitoring and updating your cases,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-creating-rules-monitor-update-cases/,https://da.gd/jpGoVF
+AWS:WhatsNew,Amazon Connect Tasks now supports pausing/resuming of tasks,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-tasks-pausing-resuming-tasks/,https://da.gd/BXSNqY
+AWS:WhatsNew,Amazon Connect now provides more granular billing,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-billing/,https://da.gd/2Livkm
+AWS:WhatsNew,Amazon Linux announces support for KVM and VMWare images with AL2023.3,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-linux-kvm-vmware-images-al2023-3/,https://da.gd/4jbKtx
+AWS:WhatsNew,Amazon Connect launches more granular access controls (using tags) for your instances,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-controls-tags-instances/,https://da.gd/R4ozo
+AWS:WhatsNew,Amazon EMR on EC2 now supports high-availability instance fleets configuration,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-ec2-high-availability-fleets-configuration/,https://da.gd/mY4hU
+AWS:WhatsNew,Announcing the Auto Query feature for AWS IoT TwinMaker,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-twinmaker-auto-query-feature/,https://da.gd/a4JSAk
