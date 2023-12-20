@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS announces new AWS Direct Connect locations in Calgary, Canada",https://aws.amazon.com/about-aws/whats-new/2023/12/aws-direct-connect-locations-calgary-canada/,https://da.gd/irs4
+AWS:WhatsNew,AWS Clean Rooms expands support for customer compliance with ISO and SOC,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-clean-rooms-support-customer-compliance-iso-soc/,https://da.gd/Pekb3l
+AWS:WhatsNew,Amazon SNS FIFO topics are now available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-fifo-topics-aws-govcloud-us-regions/,https://da.gd/NDvHwF
+AWS:WhatsNew,FSx for NetApp ONTAP now supports using NetApp System Manager to manage your file systems,https://aws.amazon.com/about-aws/whats-new/2023/12/fsx-netapp-ontap-netapp-system-manager-file-systems/,https://da.gd/NRaAYA
+AWS:WhatsNew,Amazon Route 53 Resolver Endpoints now available in the Canada West (Calgary) Region,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-route-53-resolver-endpoints-canada-west-calgary-region/,https://da.gd/WhC8Z
+AWS:WhatsNew,Amazon Route 53 Resolver Endpoints now supports DNS-over-HTTPS (DoH),https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-route-53-resolver-endpoints-doh/,https://da.gd/X5wH0
+AWS:WhatsNew,"AWS announces new AWS Direct Connect location in Canberra, Australia",https://aws.amazon.com/about-aws/whats-new/2023/12/aws-direct-connect-location-canberra-australia/,https://da.gd/0VQ3LF
+AWS:WhatsNew,SageMaker model parallelism now provides up to 20% speed up with less code change,https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-parallelism-20-speed-code-change/,https://da.gd/o0nS7g
+AWS:WhatsNew,Amazon Virtual Private Cloud now supports Bring Your Own IP in three AWS Local Zones,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-virtual-private-cloud-byoip-three-zones/,https://da.gd/CXRUKL
+AWS:WhatsNew,Amazon Keyspaces adds support for DML query auditing with AWS CloudTrail,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-keyspaces-dml-query-auditing-cloudtrail/,https://da.gd/qZdwm
+AWS:WhatsNew,AWS Ground Station launches a new antenna location in Alaska,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-ground-station-antenna-alaska/,https://da.gd/hEih
+AWS:WhatsNew,Amazon Kinesis Data Firehose is now available in the AWS Canada West (Calgary) region,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-canada-calgary-region/,https://da.gd/EKMtb
