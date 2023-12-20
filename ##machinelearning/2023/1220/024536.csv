@@ -1,0 +1,60 @@
+feed,title,long_url,short_url
+j:JMLR,Principled Out-of-Distribution Detection via Multiple Testing,http://jmlr.org/papers/v24/23-0838.html,https://da.gd/Bil6k
+j:JMLR,Scaling Up Models and Data with t5x and seqio,http://jmlr.org/papers/v24/23-0795.html,https://da.gd/RWWdZV
+j:JMLR,On the Dynamics Under the Unhinged Loss and Beyond,http://jmlr.org/papers/v24/23-0771.html,https://da.gd/WWA9h
+j:JMLR,Set-valued Classification with Out-of-distribution Detection for Many Classes,http://jmlr.org/papers/v24/23-0712.html,https://da.gd/xX3k
+j:JMLR,"Diffusion Bridge Mixture Transports, Schrödinger Bridge Problems and Generative Modeling",http://jmlr.org/papers/v24/23-0527.html,https://da.gd/iGciv
+j:JMLR,Multilevel CNNs for Parametric PDEs,http://jmlr.org/papers/v24/23-0421.html,https://da.gd/kEMCG
+j:JMLR,A Unified Recipe for Deriving (Time-Uniform) PAC-Bayes Bounds,http://jmlr.org/papers/v24/23-0401.html,https://da.gd/57oLX
+j:JMLR,Decentralized Robust V-learning for Solving Markov Games with Model Uncertainty,http://jmlr.org/papers/v24/23-0310.html,https://da.gd/ACkG
+j:JMLR,Densely Connected G-invariant Deep Neural Networks with Signed Permutation Representations,http://jmlr.org/papers/v24/23-0294.html,https://da.gd/8Rsesl
+j:JMLR,A Permutation-Free Kernel Independence Test,http://jmlr.org/papers/v24/23-0248.html,https://da.gd/kfinP
+j:JMLR,LapGym - An Open Source Framework for Reinforcement Learning in Robot-Assisted Laparoscopic Surgery,http://jmlr.org/papers/v24/23-0207.html,https://da.gd/D0cecH
+j:JMLR,TorchOpt: An Efficient Library for Differentiable Optimization,http://jmlr.org/papers/v24/23-0191.html,https://da.gd/hHl5n
+j:JMLR,Confidence and Uncertainty Assessment for Distributional Random Forests,http://jmlr.org/papers/v24/23-0185.html,https://da.gd/uY4gV
+j:JMLR,Hard-Constrained Deep Learning for Climate Downscaling,http://jmlr.org/papers/v24/23-0158.html,https://da.gd/n2NPq
+j:JMLR,Partial Order in Chaos: Consensus on Feature Attributions in the Rashomon Set,http://jmlr.org/papers/v24/23-0149.html,https://da.gd/IHL3v
+j:JMLR,Avalanche: A PyTorch Library for Deep Continual Learning,http://jmlr.org/papers/v24/23-0130.html,https://da.gd/UYmUXh
+j:JMLR,Discovering Salient Neurons in deep NLP models,http://jmlr.org/papers/v24/23-0074.html,https://da.gd/xSTHab
+j:JMLR,Differentially Private Hypothesis Testing for Linear Regression,http://jmlr.org/papers/v24/23-0045.html,https://da.gd/BAcn
+j:JMLR,Attribution-based Explanations that Provide Recourse Cannot be Robust,http://jmlr.org/papers/v24/23-0042.html,https://da.gd/Wq5ECx
+j:JMLR,A Unified Theory of Diversity in Ensemble Learning,http://jmlr.org/papers/v24/23-0041.html,https://da.gd/fasWP
+j:JMLR,Optimal Parameter-Transfer Learning by Semiparametric Model Averaging,http://jmlr.org/papers/v24/23-0030.html,https://da.gd/lAHhf
+j:JMLR,Optimal Approximation Rates for Deep ReLU Neural Networks on Sobolev and Besov Spaces,http://jmlr.org/papers/v24/23-0025.html,https://da.gd/0Vtc25
+j:JMLR,MAUVE Scores for Generative Models: Theory and Practice,http://jmlr.org/papers/v24/23-0023.html,https://da.gd/2uqYoU
+j:JMLR,Beyond Spectral Gap: The Role of the Topology in Decentralized Learning,http://jmlr.org/papers/v24/22-1471.html,https://da.gd/PgTga
+j:JMLR,A Unified Experiment Design Approach for Cyclic and Acyclic Causal Models,http://jmlr.org/papers/v24/22-1425.html,https://da.gd/wB66N5
+j:JMLR,Limitations on approximation by deep and shallow neural networks,http://jmlr.org/papers/v24/22-1381.html,https://da.gd/dMKlE
+j:JMLR,Group SLOPE Penalized Low-Rank Tensor Regression,http://jmlr.org/papers/v24/22-1327.html,https://da.gd/mHnfA
+j:JMLR,Modular Regression: Improving Linear Models by Incorporating Auxiliary Data,http://jmlr.org/papers/v24/22-1318.html,https://da.gd/BncTL
+j:JMLR,Robust High-Dimensional Low-Rank Matrix Estimation: Optimal Rate and Data-Adaptive Tuning,http://jmlr.org/papers/v24/22-1302.html,https://da.gd/42s08W
+j:JMLR,Instance-Dependent Generalization Bounds via Optimal Transport,http://jmlr.org/papers/v24/22-1293.html,https://da.gd/y7CL0I
+j:JMLR,Conformal Frequency Estimation using Discrete Sketched Data with Coverage for Distinct Queries,http://jmlr.org/papers/v24/22-1278.html,https://da.gd/JnSt
+j:JMLR,Implicit Regularization and Entrywise Convergence of Riemannian Optimization for Low Tucker-Rank Tensor Completion,http://jmlr.org/papers/v24/22-1256.html,https://da.gd/joU1Z
+j:JMLR,"Linear Partial Monitoring for Sequential Decision Making: Algorithms, Regret Bounds and Applications",http://jmlr.org/papers/v24/22-1248.html,https://da.gd/SD0QDb
+j:JMLR,Radial Basis Approximation of Tensor Fields on Manifolds: From Operator Estimation to Manifold Learning,http://jmlr.org/papers/v24/22-1193.html,https://da.gd/ZeBJCm
+j:JMLR,Large data limit of the MBO scheme for data clustering: convergence of the dynamics,http://jmlr.org/papers/v24/22-1089.html,https://da.gd/xAEsw4
+j:JMLR,Accelerated Primal-Dual Mirror Dynamics for Centralized and Distributed Constrained Convex Optimization Problems,http://jmlr.org/papers/v24/22-1069.html,https://da.gd/LlEc
+j:JMLR,The Geometry and Calculus of Losses,http://jmlr.org/papers/v24/22-0987.html,https://da.gd/vzhH9
+j:JMLR,A Bayesian Bradley-Terry model to compare multiple ML algorithms on multiple data sets,http://jmlr.org/papers/v24/22-0907.html,https://da.gd/WkzPSs
+j:JMLR,Topological Hidden Markov Models,http://jmlr.org/papers/v24/22-0685.html,https://da.gd/nP2ZIy
+j:JMLR,"Compression, Generalization and Learning",http://jmlr.org/papers/v24/22-0605.html,https://da.gd/OhGGeE
+j:JMLR,Community Recovery in the Geometric Block Model,http://jmlr.org/papers/v24/22-0572.html,https://da.gd/dUFufp
+j:JMLR,The Art of BART: Minimax Optimality over Nonhomogeneous Smoothness in High Dimension,http://jmlr.org/papers/v24/22-0382.html,https://da.gd/re9t6s
+j:JMLR,Finite-time Koopman Identifier: A Unified Batch-online Learning Framework for Joint Learning of Koopman Structure and Parameters,http://jmlr.org/papers/v24/22-0349.html,https://da.gd/l635f3
+j:JMLR,T-Cal: An Optimal Test for the Calibration of Predictive Models,http://jmlr.org/papers/v24/22-0320.html,https://da.gd/6aEyEI
+j:JMLR,Dimensionality Reduction and Wasserstein Stability for Kernel Regression,http://jmlr.org/papers/v24/22-0303.html,https://da.gd/3wnNs
+j:JMLR,Weisfeiler and Leman go Machine Learning: The Story so far,http://jmlr.org/papers/v24/22-0240.html,https://da.gd/uvVJdb
+j:JMLR,Learning Conditional Generative Models for Phase Retrieval,http://jmlr.org/papers/v24/22-0106.html,https://da.gd/nka1
+j:JMLR,Fair Data Representation for Machine Learning at the Pareto Frontier,http://jmlr.org/papers/v24/22-0005.html,https://da.gd/lDQP
+j:JMLR,The Power of Contrast for Feature Learning: A Theoretical Analysis,http://jmlr.org/papers/v24/21-1501.html,https://da.gd/gWEnO
+j:JMLR,Mini-batching error and adaptive Langevin dynamics,http://jmlr.org/papers/v24/21-1412.html,https://da.gd/RZS4z
+j:JMLR,Bandit problems with fidelity rewards,http://jmlr.org/papers/v24/21-1408.html,https://da.gd/jMmsF
+j:JMLR,Reproducing Kernels and New Approaches in Compositional Data Analysis,http://jmlr.org/papers/v24/21-1398.html,https://da.gd/xXDOS
+j:JMLR,Benign Overfitting of Constant-Stepsize SGD for Linear Regression,http://jmlr.org/papers/v24/21-1297.html,https://da.gd/2A66g
+j:JMLR,ProtoShotXAI: Using Prototypical Few-Shot Architecture for Explainable AI,http://jmlr.org/papers/v24/21-1261.html,https://da.gd/RFFR
+j:JMLR,Be More Active! Understanding the Differences Between Mean and Sampled Representations of Variational Autoencoders,http://jmlr.org/papers/v24/21-1145.html,https://da.gd/eRpN
+j:JMLR,Semi-Supervised Off-Policy Reinforcement Learning and Value Estimation for Dynamic Treatment Regimes,http://jmlr.org/papers/v24/21-0187.html,https://da.gd/OwHh
+j:JMLR,Consistent Second-Order Conic Integer Programming for Learning Bayesian Networks,http://jmlr.org/papers/v24/20-536.html,https://da.gd/4Dol
+j:JMLR,Scale Invariant Power Iteration,http://jmlr.org/papers/v24/19-784.html,https://da.gd/2UtM0
+j:JMLR,Higher-Order Spectral Clustering Under Superimposed Stochastic Block Models,http://jmlr.org/papers/v24/19-183.html,https://da.gd/rmcK9m
