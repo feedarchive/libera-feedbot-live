@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+ArXiv,Sample Efficient Reinforcement Learning with Partial Dynamics Knowledge,https://arxiv.org/abs/2312.12558v1,
+ArXiv,BadRL: Sparse Targeted Backdoor Attack Against Reinforcement Learning,https://arxiv.org/abs/2312.12585v1,
+ArXiv,Safe Multi-Agent Reinforcement Learning for Formation Control without Individual Reference Targets,https://arxiv.org/abs/2312.12861v1,
+ArXiv,PGN: A perturbation generation network against deep reinforcement learning,https://arxiv.org/abs/2312.12904v1,
+ArXiv,Contextual Pre-Planning on Reward Machine Abstractions for Enhanced Transfer in Deep Reinforcement Learning,https://arxiv.org/abs/2307.05209v2,
+ArXiv,Online RL in Linearly $q^\pi$-Realizable MDPs Is as Easy as in Linear MDPs If You Learn What to Ignore,https://arxiv.org/abs/2310.07811v2,
+ArXiv,Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization,https://arxiv.org/abs/2311.03351v2,
+ArXiv,ReRoGCRL: Representation-based Robustness in Goal-Conditioned Reinforcement Learning,https://arxiv.org/abs/2312.07392v3,
+ArXiv,Weighted Q-learning for optimal dynamic treatment regimes with MNAR coavriates,https://arxiv.org/abs/2312.01735v2,
