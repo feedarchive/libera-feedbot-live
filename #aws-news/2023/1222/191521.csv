@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora for PostgreSQL now supports h3-pg for geospatial indexing,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-h3-pg-geospatial-indexing/,https://da.gd/g2Cv
+AWS:WhatsNew,Amazon Aurora PostgreSQL now supports HypoPG extension for creating hypothetical indexes,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-hypopg-extension/,https://da.gd/g4YZ
+AWS:WhatsNew,Amazon Aurora for PostgreSQL now supports delegating extension management to lower privileged users,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-delegating-extension-management/,https://da.gd/I1dsQr
+AWS:WhatsNew,Amazon CloudWatch Network Monitor is now generally available,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-network-monitor-generally-available/,https://da.gd/WtXxi
+AWS:WhatsNew,Amazon EC2 R7iz instances are now available in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-r7iz-instances-additional-aws-regions/,https://da.gd/cy3YuB
+AWS:WhatsNew,Amazon RDS for Db2 now supports X2iedn instances,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-db2-supports-x2iedn-instances/,https://da.gd/B33BdI
+AWS:WhatsNew,Amazon Connect agent workspace supports contextual views for third-party apps (preview),https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-agent-workspace-views-third-party-apps/,https://da.gd/SC31
+AWS:WhatsNew,AWS Neuron adds support for PyTorch 2.1 and Llama-2-70b model inference,https://aws.amazon.com/about-aws/whats-new/2023/12/aws-neuron-pytorch-2-1-llama-2-70b-model-inference/,https://da.gd/AaunUh
+AWS:WhatsNew,Amazon CloudWatch alarms adds AWS Lambda as an alarm state change action,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-alarms-lambda-change-action/,https://da.gd/AqsBR
