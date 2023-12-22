@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudFront now supports 4096-bit RSA TLS certificates,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudfront-4096-bit-rsa-tls-certificates/,https://da.gd/NT0vl
+AWS:WhatsNew,Amazon Connect Contact Lens launches new API to search for contacts,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-contact-lens-api-search-contacts/,https://da.gd/qLnKK
+AWS:WhatsNew,Amazon EMR Serverless supports fine-grained access control via AWS Lake Formation (Preview),https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-grained-lake-formation-preview/,https://da.gd/8UrEZ
+AWS:WhatsNew,Amazon Connect Tasks now makes it easier to link and track tasks and associated contacts,https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-link-track-tasks-contacts/,https://da.gd/3Xgd
