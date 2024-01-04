@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Systems Manager now supports SSM Agent version update in the context of an Application,https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ssm-agent-version-update-context-application/,https://da.gd/4YvVN8
+AWS:WhatsNew,Amazon OpenSearch Service now supports TLS 1.3 and perfect forward secrecy,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-tls-1-3-perfect-forward-secrecy/,https://da.gd/FTWHC
+AWS:WhatsNew,"AWS Systems Manager now supports Ubuntu 23.04, Debian 12, MacOS 14, and SUSE SP5",https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ubuntu-debian-macos-suse/,https://da.gd/9PM9
+AWS:WhatsNew,Amazon Connect launches granular access controls for historical metrics,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-granular-access-controls-historical-metrics/,https://da.gd/oHn1C
