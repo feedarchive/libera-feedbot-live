@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SQS announces support for logging data events in AWS CloudTrail in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sqs-logging-data-events-aws-cloudtrail-govcloud-us-regions/,https://da.gd/KZyUNI
+AWS:WhatsNew,AWS announces higher read IOPS for Amazon Elastic File System,https://aws.amazon.com/about-aws/whats-new/2024/01/higher-read-iops-amazon-elastic-file-system/,https://da.gd/u8rPQZ
+AWS:WhatsNew,Stream data into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming (Preview),https://aws.amazon.com/about-aws/whats-new/2024/01/stream-data-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/,https://da.gd/nFFcyf
