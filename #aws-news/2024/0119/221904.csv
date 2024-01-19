@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Stream date into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming (Preview),https://aws.amazon.com/about-aws/whats-new/2024/01/stream-date-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/,https://da.gd/tZskpG
+AWS:WhatsNew,"Network Load Balancer now supports RSA 3072-bit, ECDSA 256/384/521-bit certificates via AWS Certificate Manager",https://aws.amazon.com/about-aws/whats-new/2024/01/network-load-balancer-rsa-3072-bit-ecdsa-256-384-521-bit-certificates/,https://da.gd/9gPtYx
+AWS:WhatsNew,Amazon ECS announces managed instance draining,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-managed-instance-draining/,https://da.gd/lkeiZ
