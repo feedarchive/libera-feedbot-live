@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS Service Connect introduces support for automatic traffic encryption with TLS Certificates,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-automatic-traffic-encryption-tls-certificates/,https://da.gd/IRXty
+AWS:WhatsNew,Amazon RDS Custom for SQL Server supports SQL Server 2022,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-sql-server-supports-sql-server-2022/,https://da.gd/hMbbp
+AWS:WhatsNew,Amazon ECS support for configurable timeout for services running with Service Connect,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-configurable-timeout-service-connect/,https://da.gd/lZ7yq
