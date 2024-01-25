@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Systems Manager now supports syncing inventory data to and from AWS opt-in Regions,https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-syncing-inventory-data-opt-in-regions/,https://da.gd/PEaaON
+AWS:WhatsNew,Introducing the AWS Small and Medium Business (SMB) Competency,https://aws.amazon.com/about-aws/whats-new/2024/01/aws-small-medium-business-competency/,https://da.gd/Pdwm
+AWS:WhatsNew,Amazon VPC now supports idempotency for route table and network ACL creation,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-vpc-idempotency-route-table-network-acl/,https://da.gd/gczv
