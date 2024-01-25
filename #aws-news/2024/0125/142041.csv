@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Billing Conductor releases account-scoped custom line items,https://aws.amazon.com/about-aws/whats-new/2024/01/aws-billing-conductor-account-scoped-custom-line-items/,https://da.gd/AKzaCV
+AWS:WhatsNew,AWS Payment Cryptography launches additional options for importing and exporting keys,https://aws.amazon.com/about-aws/whats-new/2024/01/aws-payment-cryptography-options-importing-exporting-keys/,https://da.gd/MLOgS
+AWS:WhatsNew,Amazon RDS for PostgreSQL now supports croaring-rs and num-bigint crates for Trusted Language Extensions,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-postgresql-croaring-rs-num-bigint-crates-trusted-language-extensions/,https://da.gd/t04ei
+AWS:WhatsNew,Amazon Connect SMS is now available in two additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-sms-two-regions/,https://da.gd/Oc8KL
