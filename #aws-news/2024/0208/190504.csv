@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transfer Family now publishes events to Amazon EventBridge for SFTP connectors,https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-amazon-eventbridge-sftp-connectors/,https://da.gd/4YQ4
+AWS:WhatsNew,Amazon Redshift announces auto and incremental materialized views for data sharing consumer tables,https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-auto-views-data-sharing-tables/,https://da.gd/fERWD
+AWS:WhatsNew,Amazon Redshift announces programmatic access to Advisor recommendations via API,https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-access-advisor-recommendations-api/,https://da.gd/FeBZ
+AWS:WhatsNew,"AWS Transfer Family now publishes events to Amazon EventBridge for SFTP, FTPS, and FTP servers",https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-eventbridge-servers/,https://da.gd/QN9N9
