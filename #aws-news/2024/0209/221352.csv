@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,ROSA is available in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/02/rosa-aws-govcloud-us-regions/,https://da.gd/7Lg6n0
+AWS:WhatsNew,Amazon GuardDuty Malware Protection now supports scanning EBS managed key encrypted volumes,https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-malware-protection-ebs-managed-key-encrypted-volumes/,https://da.gd/QJyVx
+AWS:WhatsNew,CodePipeline supports additional trigger filters and new execution modes,https://aws.amazon.com/about-aws/whats-new/2024/02/codepipeline-trigger-filters-execution-modes/,https://da.gd/p0oRJ
