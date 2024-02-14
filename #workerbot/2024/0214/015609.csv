@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,"CodPy: a Python library for numerics, machine learning, and statistics",https://arxiv.org/abs/2402.07084,
+ArXiv,PyDMD: A Python package for robust dynamic mode decomposition,https://arxiv.org/abs/2402.07463,
+ArXiv,"Groebner.jl: A package for Gr\""obner bases computations in Julia",https://arxiv.org/abs/2304.06935,
