@@ -1,0 +1,36 @@
+feed,title,long_url,short_url
+j:JMLR,Deep Network Approximation: Beyond ReLU to Diverse Activation Functions,http://jmlr.org/papers/v25/23-0912.html,https://da.gd/FqIe
+j:JMLR,Effect-Invariant Mechanisms for Policy Generalization,http://jmlr.org/papers/v25/23-0802.html,https://da.gd/mGHhr
+j:JMLR,Pygmtools: A Python Graph Matching Toolkit,http://jmlr.org/papers/v25/23-0572.html,https://da.gd/1eBFlg
+j:JMLR,Heterogeneous-Agent Reinforcement Learning,http://jmlr.org/papers/v25/23-0488.html,https://da.gd/N1UTiE
+j:JMLR,Sample-efficient Adversarial Imitation Learning,http://jmlr.org/papers/v25/23-0314.html,https://da.gd/gNQUPM
+j:JMLR,"Stochastic Modified Flows, Mean-Field Limits and Dynamics of Stochastic Gradient Descent",http://jmlr.org/papers/v25/23-0220.html,https://da.gd/umHwTc
+j:JMLR,Rates of convergence for density estimation with generative adversarial networks,http://jmlr.org/papers/v25/23-0062.html,https://da.gd/aUsYwn
+j:JMLR,Additive smoothing error in backward variational inference for general state-space models,http://jmlr.org/papers/v25/22-1392.html,https://da.gd/2eTBf
+j:JMLR,"Optimal Bump Functions for Shallow ReLU networks: Weight Decay, Depth Separation, Curse of Dimensionality",http://jmlr.org/papers/v25/22-1296.html,https://da.gd/h17tx
+j:JMLR,Numerically Stable Sparse Gaussian Processes via Minimum Separation using Cover Trees,http://jmlr.org/papers/v25/22-1170.html,https://da.gd/MzhjdE
+j:JMLR,On Tail Decay Rate Estimation of Loss Function Distributions,http://jmlr.org/papers/v25/22-0846.html,https://da.gd/uPwJz
+j:JMLR,Deep Nonparametric Estimation of Operators between Infinite Dimensional Spaces,http://jmlr.org/papers/v25/22-0719.html,https://da.gd/DLsBX7
+j:JMLR,Post-Regularization Confidence Bands for Ordinary Differential Equations,http://jmlr.org/papers/v25/22-0487.html,https://da.gd/cXVzE
+j:JMLR,On the Generalization of Stochastic Gradient Descent with Momentum,http://jmlr.org/papers/v25/22-0068.html,https://da.gd/ChvEj
+j:JMLR,Pursuit of the Cluster Structure of Network Lasso: Recovery Condition and Non-convex Extension,http://jmlr.org/papers/v25/21-1190.html,https://da.gd/Edqu
+j:JMLR,Iterate Averaging in the Quest for Best Test Error,http://jmlr.org/papers/v25/21-1125.html,https://da.gd/yA2z4C
+j:JMLR,Nonparametric Inference under B-bits Quantization,http://jmlr.org/papers/v25/20-075.html,https://da.gd/PX58N
+j:JMLR,"Black Box Variational Inference with a Deterministic Objective: Faster, More Accurate, and Even More Black Box",http://jmlr.org/papers/v25/23-1015.html,https://da.gd/IzEI
+j:JMLR,On Sufficient Graphical Models,http://jmlr.org/papers/v25/23-0893.html,https://da.gd/CoGoU
+j:JMLR,Localized Debiased Machine Learning: Efficient Inference on Quantile Treatment Effects and Beyond,http://jmlr.org/papers/v25/23-0661.html,https://da.gd/y7nERq
+j:JMLR,On the Effect of Initialization: The Scaling Path of 2-Layer Neural Networks,http://jmlr.org/papers/v25/23-0549.html,https://da.gd/cIEC6
+j:JMLR,Improving physics-informed neural networks with meta-learned optimization,http://jmlr.org/papers/v25/23-0356.html,https://da.gd/ZS7ykq
+j:JMLR,A Comparison of Continuous-Time Approximations to Stochastic Gradient Descent,http://jmlr.org/papers/v25/23-0237.html,https://da.gd/udxe
+j:JMLR,Critically Assessing the State of the Art in Neural Network Verification,http://jmlr.org/papers/v25/23-0119.html,https://da.gd/aq6Ug
+j:JMLR,Estimating the Minimizer and the Minimum Value of a Regression Function,http://jmlr.org/papers/v25/22-1396.html,https://da.gd/dxSQ
+j:JMLR,Modeling Random Networks with Heterogeneous Reciprocity,http://jmlr.org/papers/v25/22-1317.html,https://da.gd/KtlAc
+j:JMLR,"Exploration, Exploitation, and Engagement in Multi-Armed Bandits with Abandonment",http://jmlr.org/papers/v25/22-1251.html,https://da.gd/rEn5X
+j:JMLR,On Efficient and Scalable Computation of the Nonparametric Maximum Likelihood Estimator in Mixture Models,http://jmlr.org/papers/v25/22-1120.html,https://da.gd/zJ6op
+j:JMLR,Decorrelated Variable Importance,http://jmlr.org/papers/v25/22-0801.html,https://da.gd/eH3SD
+j:JMLR,Model-Free Representation Learning and Exploration in Low-Rank MDPs,http://jmlr.org/papers/v25/22-0687.html,https://da.gd/aYEb0B
+j:JMLR,Seeded Graph Matching for the Correlated Gaussian Wigner Model via the Projected Power Method,http://jmlr.org/papers/v25/22-0402.html,https://da.gd/gW3M5
+j:JMLR,Fast Policy Extragradient Methods for Competitive Games with Entropy Regularization,http://jmlr.org/papers/v25/21-1205.html,https://da.gd/W27C8
+j:JMLR,"Power of knockoff: The impact of ranking algorithm, augmented design, and symmetric statistic",http://jmlr.org/papers/v25/21-1137.html,https://da.gd/FEEIN
+j:JMLR,Lower Complexity Bounds of Finite-Sum Optimization Problems: The Results and Construction,http://jmlr.org/papers/v25/21-0264.html,https://da.gd/KZMl
+j:JMLR,On Truthing Issues in Supervised Classification,http://jmlr.org/papers/v25/19-301.html,https://da.gd/fzxBj
