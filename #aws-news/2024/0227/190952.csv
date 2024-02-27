@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS Multi-AZ deployments with two readable standbys now supports General Purpose gp3 storage volumes,https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-multi-az-deployments-general-purpose-gp3-storage-volumes/,https://da.gd/EbsEwJ
+AWS:WhatsNew,Accelerate machine learning model training with Amazon SageMaker and Amazon S3 Express One Zone,https://aws.amazon.com/about-aws/whats-new/2024/02/machine-learning-model-training-amazon-sagemaker-s3-express-one-zone/,https://da.gd/GMoQb
+AWS:WhatsNew,Amazon Data Firehose adds message extraction feature for decompressed CloudWatch Logs,https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-message-extraction-cloudwatch-logs/,https://da.gd/iBn8Q
+AWS:WhatsNew,Amazon Location Service releases authentication library for iOS and Android,https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-location-service-authentication-ios-android/,https://da.gd/ygfTM
