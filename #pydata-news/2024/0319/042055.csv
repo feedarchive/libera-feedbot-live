@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,JORA: JAX Tensor-Parallel LoRA Library for Retrieval Augmented Fine-Tuning,https://arxiv.org/abs/2403.11366,
+ArXiv,PyHySCO: GPU-Enabled Susceptibility Artifact Distortion Correction in Seconds,https://arxiv.org/abs/2403.10706,
+ArXiv,PyGOD: A Python Library for Graph Outlier Detection,https://arxiv.org/abs/2204.12095,
