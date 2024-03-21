@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+BAIR,Modeling Extremely Large Images with xT,http://localhost:4000/blog/2024/03/21/xt/,https://da.gd/t8WmjW
+BAIR,2024 BAIR Graduate Directory,http://localhost:4000/blog/2024/03/11/grads-2024/,https://da.gd/wuPq
+BAIR,The Shift from Models to Compound AI Systems,http://localhost:4000/blog/2024/02/18/compound-ai-systems/,https://da.gd/9IKt
+BAIR,Ghostbuster: Detecting Text Ghostwritten by Large Language Models,http://localhost:4000/blog/2023/11/14/ghostbuster/,https://da.gd/EoVF
+BAIR,Asymmetric Certified Robustness via Feature-Convex Neural Networks,http://localhost:4000/blog/2023/11/14/fcnn/,https://da.gd/K4PXrk
+BAIR,Goal Representations for Instruction Following,http://localhost:4000/blog/2023/10/17/grif/,https://da.gd/S5ghQ
+BAIR,Rethinking the Role of PPO in RLHF,http://localhost:4000/blog/2023/10/16/p3o/,https://da.gd/NjEHUU
+BAIR,Training Diffusion Models with Reinforcement Learning,http://localhost:4000/blog/2023/07/14/ddpo/,https://da.gd/lG4uy
+BAIR,On the Stepwise Nature of Self-Supervised Learning,http://localhost:4000/blog/2023/07/10/stepwise-ssl/,https://da.gd/rHTb93
+BAIR,Generating 3D Molecular Conformers via Equivariant Coarse-Graining and Aggregated Attention,http://localhost:4000/blog/2023/06/29/coarsenconf/,https://da.gd/8bA3
