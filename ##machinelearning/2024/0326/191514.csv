@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GitHub:pytorch,forpull1: fix the problem that cpu_fallback for aten::triu_indices on custom de…,https://github.com/pytorch/pytorch/releases/tag/forpull1,
+GitHub:pytorch,"cslpull7: Revert ""[dynamo] Forward OptimizedModule.__setattr__ to the wrapped m…",https://github.com/pytorch/pytorch/releases/tag/cslpull7,
+GitHub:pytorch,cslpull6: [Inductor] Support custom op in JIT with cpp wrapper (#122554),https://github.com/pytorch/pytorch/releases/tag/cslpull6,
+GitHub:pytorch,cslpull5: Add XPU ATen merge rule (#122484),https://github.com/pytorch/pytorch/releases/tag/cslpull5,
+GitHub:pytorch,cslpull4: update comment of test_invalid_last_dim_stride in test_transformers.p…,https://github.com/pytorch/pytorch/releases/tag/cslpull4,
+GitHub:pytorch,cslpull3: [ez] Add more files to trigger inductor (#122669),https://github.com/pytorch/pytorch/releases/tag/cslpull3,
+GitHub:pytorch,cslpull2: [dtensor] add backward support for scaled dot product attention (flas…,https://github.com/pytorch/pytorch/releases/tag/cslpull2,
