@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GitHub:pytorch,cslpull16: Fixed `_infer_device_type` warning in `checkpoint` (#122726),https://github.com/pytorch/pytorch/releases/tag/cslpull16,
+GitHub:pytorch,cslpull15: add a couple debug options (#121033),https://github.com/pytorch/pytorch/releases/tag/cslpull15,
+GitHub:pytorch,cslpull14: [quant][pt2e] Enable observer sharing between different quantization …,https://github.com/pytorch/pytorch/releases/tag/cslpull14,
+GitHub:pytorch,"cslpull13: Revert ""[xla hash update] update the pinned xla hash (#122628)""",https://github.com/pytorch/pytorch/releases/tag/cslpull13,
+GitHub:pytorch,"cslpull12: Revert ""Only update momentum buffers for SGD if momentum is enabled (…",https://github.com/pytorch/pytorch/releases/tag/cslpull12,
+GitHub:pytorch,cslpull11: [xla hash update] update the pinned xla hash (#122628),https://github.com/pytorch/pytorch/releases/tag/cslpull11,
+GitHub:pytorch,"cslpull10: Revert ""[Inductor] Run pattern matcher over the original graph (#1225…",https://github.com/pytorch/pytorch/releases/tag/cslpull10,
