@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"cslpull19: Revert ""[c10d] disable compute_duration by default (#122138)"" (#122539)",https://github.com/pytorch/pytorch/releases/tag/cslpull19,
+GitHub:pytorch,cslpull18: [Inductor] Run pattern matcher over the original graph (#122519),https://github.com/pytorch/pytorch/releases/tag/cslpull18,
+GitHub:pytorch,cslpull17: [dynamo] pop result of print reordering (#122744),https://github.com/pytorch/pytorch/releases/tag/cslpull17,
