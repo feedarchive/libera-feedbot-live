@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GitHub:pytorch,cslpull47: Delete torch.autograd.function.traceable APIs (#122817),https://github.com/pytorch/pytorch/releases/tag/cslpull47,
+GitHub:pytorch,cslpull46: Z3 validation: Lift operators later when we actually run with Z3 (#12…,https://github.com/pytorch/pytorch/releases/tag/cslpull46,
+GitHub:pytorch,cslpull45: Add wrapper for fbgemm quantization operations (#122763),https://github.com/pytorch/pytorch/releases/tag/cslpull45,
+GitHub:pytorch,cslpull44: Let dynamo trace some functions in functorch.deprecated.* namespace (…,https://github.com/pytorch/pytorch/releases/tag/cslpull44,
+GitHub:pytorch,cslpull43: Rewrite quantized conv transpose2d for vulkan (#122547),https://github.com/pytorch/pytorch/releases/tag/cslpull43,
+GitHub:pytorch,cslpull42: Add quantized.linear_unpacked_dynamic_fp16 (#122762),https://github.com/pytorch/pytorch/releases/tag/cslpull42,
+GitHub:pytorch,cslpull41: [torch quantization]fix HistogramObserver OOM when (self.max_val - se…,https://github.com/pytorch/pytorch/releases/tag/cslpull41,
+GitHub:pytorch,cslpull40: Add Opinfo entries for HOP testing (#122265),https://github.com/pytorch/pytorch/releases/tag/cslpull40,
+GitHub:pytorch,cslpull39: [AMD] turn off triton memcache for amd devices (#122560),https://github.com/pytorch/pytorch/releases/tag/cslpull39,
+GitHub:pytorch,"cslpull38: Back out ""Added a check in register_lowering to avoid decomposed ops …",https://github.com/pytorch/pytorch/releases/tag/cslpull38,
