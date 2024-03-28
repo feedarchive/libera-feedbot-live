@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GitHub:pytorch,cslpull59: Use zeros for NJT dummy to avoid messing with randomness (#122902),https://github.com/pytorch/pytorch/releases/tag/cslpull59,
+GitHub:pytorch,cslpull58: Remove previous grad impl. in torch dynamo (#122215),https://github.com/pytorch/pytorch/releases/tag/cslpull58,
+GitHub:pytorch,cslpull57: Remove previous grad impl. in torch dynamo (#122215),https://github.com/pytorch/pytorch/releases/tag/cslpull57,
+GitHub:pytorch,cslpull56: Remove previous grad impl. in torch dynamo (#122215),https://github.com/pytorch/pytorch/releases/tag/cslpull56,
+GitHub:pytorch,cslpull55: Support map in pre-dispatch functionalization (#121444),https://github.com/pytorch/pytorch/releases/tag/cslpull55,
+GitHub:pytorch,cslpull54: Upgrade submodule oneDNN to v3.3.6 (#122164),https://github.com/pytorch/pytorch/releases/tag/cslpull54,
+GitHub:pytorch,"cslpull53: Revert ""Add non strict inline constraints and runtime assertions to n…",https://github.com/pytorch/pytorch/releases/tag/cslpull53,
+GitHub:pytorch,cslpull52: [FSDP2] Simplified `_move_states_to_device` (#122907),https://github.com/pytorch/pytorch/releases/tag/cslpull52,
+GitHub:pytorch,cslpull51: [FSDP2] Used `_chunk_cat` for reduce-scatter copy-in (#122888),https://github.com/pytorch/pytorch/releases/tag/cslpull51,
+GitHub:pytorch,cslpull50: [export] Make quantizer compatible with the standard nn_module_stack.…,https://github.com/pytorch/pytorch/releases/tag/cslpull50,
