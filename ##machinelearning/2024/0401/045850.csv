@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GitHub:pytorch,rerunGithubInfraFailure/8503332389: Add skip models by device in Dynamo Test (#122591),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503332389,
+GitHub:pytorch,rerunGithubInfraFailure/8503332377: Add skip models by device in Dynamo Test (#122591),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503332377,
+GitHub:pytorch,rerunGithubInfraFailure/8503332376: Add skip models by device in Dynamo Test (#122591),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503332376,
+GitHub:pytorch,rerunGithubInfraFailure/8503332369: Add skip models by device in Dynamo Test (#122591),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503332369,
+GitHub:pytorch,rerunGithubInfraFailure/8503332366: Add skip models by device in Dynamo Test (#122591),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503332366,
+GitHub:pytorch,rerunGithubInfraFailure/8503332348: Add skip models by device in Dynamo Test (#122591),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503332348,
+GitHub:pytorch,rerunGithubInfraFailure/8503332346: Add skip models by device in Dynamo Test (#122591),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503332346,
+GitHub:pytorch,"rerunGithubInfraFailure/8503007118: Update on ""[WIP]Intel GPU oneDNN upstreaming: Conv pointwise fusion""",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503007118,
+GitHub:pytorch,"rerunGithubInfraFailure/8503007081: Update on ""Intel GPU oneDNN upstreaming for primitive integration""",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503007081,
+GitHub:pytorch,"rerunGithubInfraFailure/8503006917: Update on ""[WIP]Intel GPU oneDNN upstreaming: Linear pointwise fusion""",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8503006917,
