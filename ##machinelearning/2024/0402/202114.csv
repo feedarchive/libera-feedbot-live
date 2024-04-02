@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GitHub:pytorch,whc_flight_4,https://github.com/pytorch/pytorch/releases/tag/whc_flight_4,
+GitHub:pytorch,sqzhang_flight_3,https://github.com/pytorch/pytorch/releases/tag/sqzhang_flight_3,
+GitHub:pytorch,rerunGithubInfraFailure/8528935707: [ez][FSDP2] Removed `_contiguous_orig_stride` (#123142),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8528935707,
+GitHub:pytorch,rerunGithubInfraFailure/8528935706: [ez][FSDP2] Removed `_contiguous_orig_stride` (#123142),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8528935706,
+GitHub:pytorch,rerunGithubInfraFailure/8528935703: [ez][FSDP2] Removed `_contiguous_orig_stride` (#123142),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8528935703,
+GitHub:pytorch,rerunGithubInfraFailure/8528935701: [ez][FSDP2] Removed `_contiguous_orig_stride` (#123142),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8528935701,
+GitHub:pytorch,rerunGithubInfraFailure/8528935700: [ez][FSDP2] Removed `_contiguous_orig_stride` (#123142),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8528935700,
+GitHub:pytorch,rerunGithubInfraFailure/8528935693: [ez][FSDP2] Removed `_contiguous_orig_stride` (#123142),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8528935693,
+GitHub:pytorch,rerunGithubInfraFailure/8528935692: [ez][FSDP2] Removed `_contiguous_orig_stride` (#123142),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8528935692,
