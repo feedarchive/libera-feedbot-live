@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,gpu_tracker: Python package for tracking and profiling GPU utilization in both desktop and high-performance computing environments,https://arxiv.org/abs/2404.01473,
+ArXiv,XLB: A differentiable massively parallel lattice Boltzmann library in Python,https://arxiv.org/abs/2311.16080,
