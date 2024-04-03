@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GitHub:pytorch,rerunGithubInfraFailure/8533914219: Optimize multi_tensor_apply (take 2) (#119764),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533914219,
+GitHub:pytorch,rerunGithubInfraFailure/8533914215: Optimize multi_tensor_apply (take 2) (#119764),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533914215,
+GitHub:pytorch,rerunGithubInfraFailure/8533914196: Optimize multi_tensor_apply (take 2) (#119764),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533914196,
+GitHub:pytorch,rerunGithubInfraFailure/8533914188: Optimize multi_tensor_apply (take 2) (#119764),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533914188,
+GitHub:pytorch,rerunGithubInfraFailure/8533914186: Optimize multi_tensor_apply (take 2) (#119764),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533914186,
+GitHub:pytorch,rerunGithubInfraFailure/8533914185: Optimize multi_tensor_apply (take 2) (#119764),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533914185,
+GitHub:pytorch,rerunGithubInfraFailure/8533914183: Optimize multi_tensor_apply (take 2) (#119764),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533914183,
+GitHub:pytorch,rerunGithubInfraFailure/8533748914: [dynamo][cpp-guards] Optimize tensor.grad accessor (#123226),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533748914,
+GitHub:pytorch,rerunGithubInfraFailure/8533748910: [dynamo][cpp-guards] Optimize tensor.grad accessor (#123226),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533748910,
+GitHub:pytorch,rerunGithubInfraFailure/8533748894: [dynamo][cpp-guards] Optimize tensor.grad accessor (#123226),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8533748894,
