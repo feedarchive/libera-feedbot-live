@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.3.0-rc7: Fix swap_tensors path in _apply for modules that inherit from RNNBase…,https://github.com/pytorch/pytorch/releases/tag/v2.3.0-rc7,
+GitHub:pytorch,rerunGithubInfraFailure/8529569320,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8529569320,
+GitHub:pytorch,rerunGithubInfraFailure/8529569290,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8529569290,
+GitHub:pytorch,rerunGithubInfraFailure/8529569282,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8529569282,
+GitHub:pytorch,rerunGithubInfraFailure/8529320202: [sparse] proper sparse iteration (#123128),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8529320202,
