@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.3.0-rc10: [Wheel] Change libtorch_cpu OpenMP search path (#123417) (#123442),https://github.com/pytorch/pytorch/releases/tag/v2.3.0-rc10,
+GitHub:pytorch,v2.3.0-rc9: update submodule onnx==1.16.0 (#123387),https://github.com/pytorch/pytorch/releases/tag/v2.3.0-rc9,
+GitHub:pytorch,rerunGithubInfraFailure/8572523276: [Release/2.3] Set py3.x build-environment name consistently (#123446),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8572523276,
+GitHub:pytorch,rerunGithubInfraFailure/8572523272: [Release/2.3] Set py3.x build-environment name consistently (#123446),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8572523272,
+GitHub:pytorch,rerunGithubInfraFailure/8572523268: [Release/2.3] Set py3.x build-environment name consistently (#123446),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8572523268,
+GitHub:pytorch,rerunGithubInfraFailure/8571835991: [dynamo] Emit FUNCTORCH_STACK_MATCH guard in vmap(compile(f)) case (#…,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8571835991,
+GitHub:pytorch,rerunGithubInfraFailure/8571835985: [dynamo] Emit FUNCTORCH_STACK_MATCH guard in vmap(compile(f)) case (#…,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8571835985,
+GitHub:pytorch,rerunGithubInfraFailure/8571835963: [dynamo] Emit FUNCTORCH_STACK_MATCH guard in vmap(compile(f)) case (#…,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8571835963,
+GitHub:pytorch,rerunGithubInfraFailure/8571835951: [dynamo] Emit FUNCTORCH_STACK_MATCH guard in vmap(compile(f)) case (#…,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8571835951,
