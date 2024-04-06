@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GitHub:pytorch,rerunGithubInfraFailure/8578317675: [dynamo][cpp-guards] Fix missing decref in GradGuardAccessor (#123488),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8578317675,
+GitHub:pytorch,rerunGithubInfraFailure/8578317674: [dynamo][cpp-guards] Fix missing decref in GradGuardAccessor (#123488),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8578317674,
+GitHub:pytorch,rerunGithubInfraFailure/8578317673: [dynamo][cpp-guards] Fix missing decref in GradGuardAccessor (#123488),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8578317673,
+GitHub:pytorch,"rerunGithubInfraFailure/8578052736: [dynamo, 3.12] fix graph break issues with BINARY/STORE_SLICE (#123401)",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8578052736,
+GitHub:pytorch,"rerunGithubInfraFailure/8578052734: [dynamo, 3.12] fix graph break issues with BINARY/STORE_SLICE (#123401)",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8578052734,
+GitHub:pytorch,"rerunGithubInfraFailure/8578052726: [dynamo, 3.12] fix graph break issues with BINARY/STORE_SLICE (#123401)",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8578052726,
+GitHub:pytorch,rerunGithubInfraFailure/8578028605: [inductor] Add explicit ops.fma and use it in softmax_backward (#122518),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8578028605,
+GitHub:pytorch,rerunGithubInfraFailure/8577983486: [AOTInductor] Fix non-determinism in CUfunction declarations (#123266),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8577983486,
+GitHub:pytorch,"rerunGithubInfraFailure/8577923403: Revert ""Enable tests disabled for #115607 (#123314)""",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8577923403,
+GitHub:pytorch,rerunGithubInfraFailure/8577758926: add record function Id to Torch ops (#122948),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8577758926,
