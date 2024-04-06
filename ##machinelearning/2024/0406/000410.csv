@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.3.0-rc11: Fix for MPS regression in #122016 and #123178 (#123385),https://github.com/pytorch/pytorch/releases/tag/v2.3.0-rc11,
+GitHub:pytorch,rerunGithubInfraFailure/8576818712: Enable dynamo'd tests disabled for #115679 (#123315),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8576818712,
+GitHub:pytorch,rerunGithubInfraFailure/8576818709: Enable dynamo'd tests disabled for #115679 (#123315),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8576818709,
+GitHub:pytorch,rerunGithubInfraFailure/8576818706: Enable dynamo'd tests disabled for #115679 (#123315),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8576818706,
+GitHub:pytorch,rerunGithubInfraFailure/8576818705: Enable dynamo'd tests disabled for #115679 (#123315),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8576818705,
+GitHub:pytorch,rerunGithubInfraFailure/8576784460: Adding health check server hook in torch elastic (#122750),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8576784460,
+GitHub:pytorch,rerunGithubInfraFailure/8576784459: Adding health check server hook in torch elastic (#122750),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8576784459,
