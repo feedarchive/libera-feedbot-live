@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,rerunGithubInfraFailure/8590904076: Use graph.find_nodes in pattern matcher (#122331),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8590904076,
+GitHub:pytorch,rerunGithubInfraFailure/8590845475: [Bug Fix] Fix Cuda 12.4 compilation - Refactor SFINAE boxing logic (…,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8590845475,
