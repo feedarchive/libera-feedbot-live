@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+GitHub:pytorch,rerunGithubInfraFailure/8655257452: Don't add non-integer Triton kernel arg 1 to equal_to_1,https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655257452,
+GitHub:pytorch,rerunGithubInfraFailure/8655253217: Pass triton kernel info to record function (#123871),https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655253217,
+GitHub:pytorch,"rerunGithubInfraFailure/8655220990: Update on ""[compiled autograd][dynamo] Codegen aliases to keep grad m…",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655220990,
+GitHub:pytorch,"rerunGithubInfraFailure/8655218643: Update on ""[compiled autograd][dynamo] Codegen aliases to keep grad m…",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655218643,
+GitHub:pytorch,"rerunGithubInfraFailure/8655218273: Update on ""Enable dynamo test_state_dict_deterministic""",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655218273,
+GitHub:pytorch,"rerunGithubInfraFailure/8655213705: Update on ""Enable dynamo test_state_dict_deterministic""",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655213705,
+GitHub:pytorch,"rerunGithubInfraFailure/8655211558: Update on ""[compiled autograd][dynamo] Codegen aliases to keep grad m…",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655211558,
+GitHub:pytorch,"rerunGithubInfraFailure/8655211556: Update on ""[compiled autograd][dynamo] Codegen aliases to keep grad m…",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655211556,
+GitHub:pytorch,"rerunGithubInfraFailure/8655209411: Update on ""Move step to cpu if capturable/fused is not specified""",https://github.com/pytorch/pytorch/releases/tag/rerunGithubInfraFailure%2F8655209411,
