@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 23.2,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-oracle-apex-version-23-20/,https://da.gd/Q82Pjr
+AWS:WhatsNew,Amazon RDS for Oracle supports managed Oracle Data Guard Switchover and Automated Backups for replicas in additional regions,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-data-guard-switchover-automated-backups-additional-regions/,https://da.gd/E4l9yg
+AWS:WhatsNew,Amazon RDS for SQL supports minor version 2022 CU12,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-minor-version-2022-cu12/,https://da.gd/ecArR
+AWS:WhatsNew,Amazon MSK is now available in Canada West (Calgary) Region,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-msk-canada-west-calgary-region/,https://da.gd/IzmYr
