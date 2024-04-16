@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,flight_5: [nccl-pg] Pass pg name and desc to NCCL communicator (#124149),https://github.com/pytorch/pytorch/releases/tag/flight_5,
