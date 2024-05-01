@@ -1,0 +1,25 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Q Developer is now generally available,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-developer-generally-available/,https://da.gd/TjVw61
+AWS:WhatsNew,AWS Security Hub announces the AWS Resource Tagging Standard,https://aws.amazon.com/about-aws/whats-new/2024/04/aws-security-hub-resource-tagging-standard/,https://da.gd/BGgKfI
+AWS:WhatsNew,Amazon Q data integration in AWS Glue is now generally available,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-data-integration-aws-glue-generally-available/,https://da.gd/C917s
+AWS:WhatsNew,AWS CodeArtifact now supports RubyGems,https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codeartifact-rubygems/,https://da.gd/V6U3M
+AWS:WhatsNew,AWS Config simplifies usage analysis with Amazon CloudWatch metrics,https://aws.amazon.com/about-aws/whats-new/2024/04/aws-config-usage-analysis-amazon-cloudwatch-metrics/,https://da.gd/3Z0dum
+AWS:WhatsNew,AWS HealthOmics now supports dynamic run storage for private workflows,https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-dynamic-run-storage-private-workflows/,https://da.gd/ix61r
+AWS:WhatsNew,Automate deployment of SAP Web Dispatcher using AWS Launch Wizard,https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/,https://da.gd/RuMQt
+AWS:WhatsNew,Announcing Timestream Compute Unit (TCU) for Amazon Timestream for LiveAnalytics,https://aws.amazon.com/about-aws/whats-new/2024/04/tcu-amazon-timestream-liveanalytics/,https://da.gd/PnnUM
+AWS:WhatsNew,Amazon EventBridge Pipes now supports event delivery through AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-pipes-event-delivery-aws-privatelink/,https://da.gd/JYd6Tn
+AWS:WhatsNew,Announcing the general availability of Amazon Q Business and Amazon Q Apps (Preview),https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-q-business-apps-preview/,https://da.gd/rgjYTj
+AWS:WhatsNew,Amazon OpenSearch Service now supports Route 53 alias record for custom endpoint,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-service-route-53-alias-record-custom-endpoint/,https://da.gd/3ciMp
+AWS:WhatsNew,AWS announces Amazon Q in QuickSight,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-quicksight/,https://da.gd/bHU0b
+AWS:WhatsNew,AWS HealthOmics now supports cross-account sharing for private workflows,https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-cross-account-sharing-private-workflows/,https://da.gd/YUNE
+AWS:WhatsNew,AWS WAF is now available in in the Canada West (Calgary) Region,https://aws.amazon.com/about-aws/whats-new/2024/04/aws-waf-canada-west-calgary-region/,https://da.gd/8iXhXh
+AWS:WhatsNew,"AWS AppFabric now supports Salesforce, Azure Monitor and Google Analytics",https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-salesforce-azure-monitor-google-analytics/,https://da.gd/RMyhuY
+AWS:WhatsNew,"AWS announces new AWS Direct Connect location in Aurora, Illinois",https://aws.amazon.com/about-aws/whats-new/2024/04/aws-direct-connect-aurora-illinois/,https://da.gd/DUkyn
+AWS:WhatsNew,Amazon DynamoDB now supports an AWS FIS action to pause global table replication,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-dynamodb-fis-action-pause-global-table-replication/,https://da.gd/upWCX
+AWS:WhatsNew,Amazon Location Service releases Places integration plugin for MapLibre GL JS Geocoder,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-plugin-maplibre-gl-js-geocoder/,https://da.gd/KiMaxA
+AWS:WhatsNew,AWS Mainframe Modernization File Transfer introduces enhanced data set discovery workflow,https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-file-transfer-data-workflow/,https://da.gd/kjfZR
+AWS:WhatsNew,Amazon Titan Text Embeddings V2 now available in Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-titan-text-embeddings-v2-amazon-bedrock/,https://da.gd/2RoC
+AWS:WhatsNew,Amazon Redshift announces support for Multi-AZ deployment with zero-ETL integration,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-redshift-multi-az-deployment-zero-etl-integration/,https://da.gd/mYtJq
+AWS:WhatsNew,Amazon Q launches subscription management with AWS IAM Identity Center integration,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-subscription-management-identity-center/,https://da.gd/OXBlv
+AWS:WhatsNew,Amazon Transcribe announces general availability of generative AI-powered call summarization,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-generative-ai-powered-call-summarization/,https://da.gd/NN01k9
+AWS:WhatsNew,Amazon RDS for MySQL supports Innovation Release version 8.3 in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-mysql-release-8-3-rds-database-preview/,https://da.gd/0Gt2LL
