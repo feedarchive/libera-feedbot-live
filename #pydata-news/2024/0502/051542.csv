@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ArXiv,Cantera-Based Python Computer Program for Solving Steam Power Cycles with Superheating,https://arxiv.org/abs/2405.00007,
+ArXiv,Proof-of-concept: Using ChatGPT to Translate and Modernize an Earth System Model from Fortran to Python/JAX,https://arxiv.org/abs/2405.00018,
+ArXiv,"BayesBlend: Easy Model Blending using Pseudo-Bayesian Model Averaging, Stacking and Hierarchical Stacking in Python",https://arxiv.org/abs/2405.00158,
+ArXiv,IgCONDA-PET: Implicitly-Guided Counterfactual Diffusion for Detecting Anomalies in PET Images,https://arxiv.org/abs/2405.00239,
+ArXiv,$\texttt{immrax}$: A Parallelizable and Differentiable Toolbox for Interval Analysis and Mixed Monotone Reachability in JAX,https://arxiv.org/abs/2401.11608,
