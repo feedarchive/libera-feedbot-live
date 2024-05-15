@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.3.1-rc2: Pin triton-rocm to latest 2.3.1 commit (#126309),https://github.com/pytorch/pytorch/releases/tag/v2.3.1-rc2,
