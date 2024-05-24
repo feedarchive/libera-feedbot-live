@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.30,https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-distro-kubernetes-version-1-30/,https://da.gd/w8TF
+AWS:WhatsNew,Amazon Redshift announces Snapshot Isolation as the default for new cluster creates and restores,https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-snapshot-isolation-default,https://da.gd/bTUGG
+AWS:WhatsNew,Amazon Security Lake now supports logs from AWS WAF,https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-security-lake-supports-log-aws-waf,https://da.gd/ttMCV
