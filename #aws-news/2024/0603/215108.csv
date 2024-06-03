@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup now supports Amazon Elastic Block Store (EBS) Snapshots Archive in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-backup-amazon-ebs-snapshots-archive-govcloud-regions,https://da.gd/clS6f
+AWS:WhatsNew,Amazon CloudWatch Logs announces Live Tail streaming CLI support,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-logs-announces-live-tail-streaming-cli-support,https://da.gd/wH8q
+AWS:WhatsNew,AWS Batch introduces the Job Queue Snapshot to view jobs at the front of the job queues,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-batch-job-queue-snapshot-jobs-front-job-queues/,https://da.gd/xaAQF
