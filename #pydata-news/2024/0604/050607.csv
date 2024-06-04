@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Performance comparison of Dask and Apache Spark on HPC systems for Neuroimaging,https://arxiv.org/abs/2406.01409,
+ArXiv,Optimizing Photometric Light Curve Analysis: Evaluating Scipy's Minimize Function for Eclipse Mapping of Cataclysmic Variables,https://arxiv.org/abs/2406.00071,
+ArXiv,NUBO: A Transparent Python Package for Bayesian Optimization,https://arxiv.org/abs/2305.06709,
