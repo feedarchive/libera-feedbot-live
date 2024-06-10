@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS on AWS Fargate now allows you to encrypt ephemeral storage with customer-managed KMS keys,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ecs-aws-fargate-encrypt-ephemeral-storage-customer-managed-kms-keys,https://da.gd/2EfSg
+AWS:WhatsNew,"Amazon CloudWatch Application Signals, for application monitoring (APM) is generally available",https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-application-signals-application-monitoring/,https://da.gd/PQpkkg
