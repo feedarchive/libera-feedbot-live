@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Cases is now available in additional Asia Pacific regions,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions,https://da.gd/qqkwcp
+AWS:WhatsNew,"Introducing Maven, Python, and NuGet support in Amazon CodeCatalyst package repositories",https://aws.amazon.com/about-aws/whats-new/2024/06/maven-python-nuget-support-amazon-codecatalyst-package-repositories,https://da.gd/PMPc
+AWS:WhatsNew,"Amazon RDS for MariaDB supports minors 10.11.8, 10.6.18, 10.5.25, 10.4.34",https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-mariadb-supports-new-minors/,https://da.gd/Kwi1j
+AWS:WhatsNew,"AWS Systems Manager now supports additional Rocky, Oracle, and Alma Linux versions",https://aws.amazon.com/about-aws/whats-new/2024/06/aws-systems-manager-rocky-oracle-alma-linux-versions/,https://da.gd/x3V1
+AWS:WhatsNew,AWS KMS now supports Elliptic Curve Diffie-Hellman (ECDH) key agreement,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-kms-elliptic-curve-diffie-hellman-ecdh-key-agreement/,https://da.gd/S40v
+AWS:WhatsNew,Amazon EC2 C7i-flex instances are now available in US East (Ohio) Region,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c7i-flex-instances-ohio-region/,https://da.gd/bG4T6q
+AWS:WhatsNew,AWS CodeBuild now supports organization and global GitHub webhooks,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codebuild-organization-global-github-webhooks/,https://da.gd/zL3QmQ
+AWS:WhatsNew,Amazon RDS for Oracle now supports memory optimized R6i instance types,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-oracle-memory-optimized-r6i-instance-types,https://da.gd/OgRsg
+AWS:WhatsNew,Amazon DataZone introduces advanced search filtering capabilities,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-advanced-search-filtering-capabilities,https://da.gd/6YAPSP
+AWS:WhatsNew,Amazon SES now publishes email sending events to EventBridge,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-publishes-email-sending-events-eventbridge,https://da.gd/blzI8V
+AWS:WhatsNew,AWS IoT TwinMaker announces Dynamic Scene feature,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-twinmaker-dynamic-scene-feature/,https://da.gd/Yq7Wg
+AWS:WhatsNew,"Amazon Bedrock now available in the (London), (São Paulo), and Canada (Central) regions",https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-bedrock-london-sao-paulo-canada-central-regions/,https://da.gd/zwXXS
+AWS:WhatsNew,Amazon CodeCatalyst now supports managing billing and access with a single AWS account,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-managing-billing-access-aws-account,https://da.gd/gQON
+AWS:WhatsNew,Cross-region failover now available in AWS Elemental MediaPackage,https://aws.amazon.com/about-aws/whats-new/2024/06/cross-region-failover-aws-elemental-mediapackage/,https://da.gd/cdck0f
+AWS:WhatsNew,"Amazon DataZone achieves SOC, ISO, and CSTAR certifications",https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-soc-iso-cstar-certifications/,https://da.gd/jWpe6
+AWS:WhatsNew,Amazon EKS open sources Pod Identity agent,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eks-open-sources-pod-identity-agent,https://da.gd/3c9co
+AWS:WhatsNew,Announcing the Access Console for NICE DCV,https://aws.amazon.com/about-aws/whats-new/2024/06/access-console-nice-dcv,https://da.gd/Eq38sh
+AWS:WhatsNew,AWS Launch Wizard now supports resource and tag-based access controls,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-launch-wizard-resource-tag-based-access-controls/,https://da.gd/RaFU
+AWS:WhatsNew,Amazon MQ is now available in AWS Canada West (Calgary) region,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-mq-available-calgary-region,https://da.gd/IUve9
+AWS:WhatsNew,Amazon ElastiCache Serverless now supports snapshot and restore for Memcached,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-elasticache-serverless-snapshot-restore-memcached,https://da.gd/QSly
+AWS:WhatsNew,AWS User Notifications is now available in Canada West (Calgary) Region,https://aws.amazon.com/about-aws/whats-new/2024/06/user-notifications-canada-west-calgary-region,https://da.gd/J1LOf
+AWS:WhatsNew,Amazon OpenSearch Ingestion adds support for customer managed VPC interface endpoints,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-customer-managed-vpc-interface-endpoints,https://da.gd/irvApp
+AWS:WhatsNew,AWS Mainframe Modernization Application Testing is now generally available,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-mainframe-modernization-application-testing-generally-available,https://da.gd/8txtnP
+AWS:WhatsNew,Amazon DynamoDB supports pausing global table replication in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-dynamodb-pausing-global-table-replication-govcloud-regions,https://da.gd/t1awI1
+AWS:WhatsNew,"Research and Engineering Studio on AWS, Version 2024.06 now available",https://aws.amazon.com/about-aws/whats-new/2024/06/research-engineering-studio-aws-version-2024-06/,https://da.gd/RNzpJO
+AWS:WhatsNew,Amazon OpenSearch Serverless now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-now-supports-ipv6/,https://da.gd/9wrk
