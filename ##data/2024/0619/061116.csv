@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+PwC:Latest:Datasets,/jhl-det/ ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection: https://github.com/jhl-det/rgbd_video_sod,https://paperswithcode.com/paper/vidsod-100-a-new-dataset-and-a-baseline-model,https://da.gd/J6bOF
+PwC:Latest:Datasets,/rolnicklab/ Insect Identification in the Wild: The AMI Dataset: https://github.com/rolnicklab/ami-dataset,https://paperswithcode.com/paper/insect-identification-in-the-wild-the-ami,https://da.gd/s0IAg
+PwC:Latest:Datasets,/geox-lab/ RS-GPT4V: A Unified Multimodal Instruction-Following Dataset for Remote Sensing Image Understanding: https://github.com/geox-lab/rs-gpt4v,https://paperswithcode.com/paper/rs-gpt4v-a-unified-multimodal-instruction,https://da.gd/IQLKph
+PwC:Latest:Datasets,/lx709/ VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding: https://github.com/lx709/vrsbench,https://paperswithcode.com/paper/vrsbench-a-versatile-vision-language,https://da.gd/sWEVB
