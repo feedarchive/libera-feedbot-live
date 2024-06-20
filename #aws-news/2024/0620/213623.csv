@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock now supports compressed embeddings from Cohere Embed,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-bedrock-compressed-embeddings-cohere-embed/,https://da.gd/x6Yfaq
+AWS:WhatsNew,Amazon RDS for Oracle now supports Oracle Multitenant in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-for-oracle-multitenant-govcloud-us-regions/,https://da.gd/qfr8lC
+AWS:WhatsNew,"AWS CodeArtifact now supports Cargo, the Rust package manager",https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codeartifact-cargo-rust-package-manager/,https://da.gd/fo1f
