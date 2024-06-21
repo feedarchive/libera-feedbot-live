@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.4.0-rc6: [ROCm] Include hsa headers for rocm-triton whl (#129235),https://github.com/pytorch/pytorch/releases/tag/v2.4.0-rc6,
