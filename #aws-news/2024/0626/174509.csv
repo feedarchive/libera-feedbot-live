@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudShell now supports Amazon Virtual Private Cloud (VPC),https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudshell-amazon-virtual-private-cloud/,https://da.gd/NBKq5X
+AWS:WhatsNew,Amazon CloudWatch Logs now supports account level subscription filter in 4 additional regions,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-logs-subscription-filter-4-regions/,https://da.gd/ta5Ec
+AWS:WhatsNew,EventBridge Scheduler adds more universal targets including Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2024/06/eventbridge-scheduler-universal-targets-amazon-bedrock,https://da.gd/C3b2z
