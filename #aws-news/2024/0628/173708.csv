@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS ParallelCluster 3.10 with support for Amazon Linux 2023 and Terraform,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-parallelcluster-3-10-amazon-linux-2023-terraform,https://da.gd/3951rL
+AWS:WhatsNew,Amazon Q in Connect now recommends step-by-step guides,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-connect-step-by-step-guides,https://da.gd/r5vzyF
+AWS:WhatsNew,Amazon SageMaker now supports SageMaker Studio Personalization,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-sagemaker-studio-personalization/,https://da.gd/AjZMu
+AWS:WhatsNew,Amazon SageMaker Model Registry now supports cross-account machine learning (ML) model sharing,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-cross-account-ml-model-sharing,https://da.gd/1B7yi
+AWS:WhatsNew,AWS Elemental MediaTailor now supports CMAF for dynamic ad transcoding,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediatailor-cmaf-dynamic-ad-transcoding/,https://da.gd/j7tIDH
+AWS:WhatsNew,Announcing Data Quality Definition Language (DQDL) enhancements for AWS Glue Data Quality,https://aws.amazon.com/about-aws/whats-new/2024/06/data-quality-language-enhancements-glue-data-quality/,https://da.gd/xd2Rxh
+AWS:WhatsNew,Amazon CodeCatalyst now allows conversion of source repositories to custom blueprints,https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-conversion-source-repositories-custom-blueprints,https://da.gd/S2nkjd
+AWS:WhatsNew,AWS CodeBuild build timeout limit increased to 36 hours,https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codebuild-build-timeout-limit-increased-36-hours,https://da.gd/k1am
