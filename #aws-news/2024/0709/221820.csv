@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing the next generation of Amazon FSx for NetApp ONTAP file systems,https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-for-netapp-ontap-file-systems/,https://da.gd/5d0By
+AWS:WhatsNew,"Amazon FSx for NetApp ONTAP now supports NVMe-over-TCP for simpler, lower-latency shared block storage",https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-nvme-over-tcp,https://da.gd/7JnlHU
+AWS:WhatsNew,AWS Glue Data catalog now supports generating statistics for Apache Iceberg tables,https://aws.amazon.com/about-aws/whats-new/2024/07/aws-glue-data-catalog-generating-statistics-apache-iceberg-tables,https://da.gd/1Y2yH
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP now allows you to read data during backup restores,https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-read-data-backup-restores,https://da.gd/xsBU
+AWS:WhatsNew,Amazon SageMaker introduces a new generative AI inference optimization capability,https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sagamaker-generative-ai-inference-optimization-capability,https://da.gd/hk8T
+AWS:WhatsNew,AWS Glue Studio now offers a no code data preparation authoring experience,https://aws.amazon.com/about-aws/whats-new/2024/07/aws-glue-studio-no-code-data-preparation-authoring-experience,https://da.gd/vgOVRh
+AWS:WhatsNew,Amazon RDS Data API for Aurora PostgreSQL is now available in 10 additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-data-api-aurora-postgresql-additional-regions,https://da.gd/YgSAm4
+AWS:WhatsNew,Amazon S3 Express One Zone now supports logging of all events in AWS CloudTrail,https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-s3-express-one-zone-logging-events-aws-cloudtrail,https://da.gd/lebcs
