@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports SnapStart for Java functions that use the ARM64 architecture,https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-snapstart-java-functions-arm64-architecture,https://da.gd/ECW82
+AWS:WhatsNew,AWS Control Tower customization frameworks are available in opt-in regions,https://aws.amazon.com/about-aws/whats-new/2024/07/aws-control-tower-customization-frameworks-opt-in-regions/,https://da.gd/hv6r1h
+AWS:WhatsNew,AWS IAM Identity Center adds independent 90-days session duration for Amazon Q Developer,https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-90-session-duration-q-developer/,https://da.gd/chnOi
