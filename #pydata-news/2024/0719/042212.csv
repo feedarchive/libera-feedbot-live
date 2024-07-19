@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,Scikit-fingerprints: easy and efficient computation of molecular fingerprints in Python,https://arxiv.org/abs/2407.13291,
+ArXiv,Enabling MPI communication within Numba/LLVM JIT-compiled Python code using numba-mpi v1.0,https://arxiv.org/abs/2407.13712,
