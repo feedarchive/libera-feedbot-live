@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,JAXA / USGS / NASA Kaguya/SELENE Terrain Camera Digital Terrain Models,https://registry.opendata.aws/jaxa-usgs-nasa-kaguya-tc-dtms,https://da.gd/Phy2r
+AWS:OpenData,Met Office Global Deterministic 10km on a 2-year rolling archive,https://registry.opendata.aws/met-office-global-deterministic,https://da.gd/u5YmL
+AWS:OpenData,Met Office UK Deterministic (UKV)2km on a 2-year rolling archive,https://registry.opendata.aws/met-office-uk-deterministic,https://da.gd/OOZm
