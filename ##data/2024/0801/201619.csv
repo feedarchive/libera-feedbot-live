@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:OpenData,RSNA Abdominal Trauma Detection (RSNA-ABT),https://registry.opendata.aws/rsna-abdominal-trauma-detection,https://da.gd/d6dct
+AWS:OpenData,RSNA Cervical Spine Fracture Detection (RSNA-CSF) Dataset,https://registry.opendata.aws/rsna-cervical-spine-fracture-detection,https://da.gd/5Vtbm
+AWS:OpenData,RSNA Intracranial Hemorrhage Detection,https://registry.opendata.aws/rsna-intracranial-hemorrhage-detection,https://da.gd/3XQPk1
+AWS:OpenData,RSNA Pulmonary Embolism Detection,https://registry.opendata.aws/rsna-pulmonary-embolism-detection,https://da.gd/sRj0el
+AWS:OpenData,RSNA Screening Mammography Breast Cancer Detection (RSNA-SMBC) Dataset,https://registry.opendata.aws/rsna-screening-mammography-breast-cancer-detection,https://da.gd/Muuq8
