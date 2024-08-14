@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+GitHub:docker-ce,v19.03.15,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.15,
+GitHub:docker-ce,v19.03.14,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.14,
+GitHub:docker-ce,19.03.13,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.13,
+GitHub:docker-ce,19.03.13-beta2,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.13-beta2,
+GitHub:docker-ce,19.03.13-beta1,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.13-beta1,
+GitHub:docker-ce,19.03.12,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.12,
+GitHub:docker-ce,19.03.11,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.11,
+GitHub:docker-ce,19.03.10,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.10,
+GitHub:docker-ce,19.03.9,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.9,
+GitHub:docker-ce,19.03.8,https://github.com/docker-archive/docker-ce/releases/tag/v19.03.8,
