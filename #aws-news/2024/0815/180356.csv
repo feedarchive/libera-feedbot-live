@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudFormation Git sync now supports pull request workflows to review your stack changes,https://aws.amazon.com/about-aws/whats-new/2024/08/aws-cloudformation-git-sync-pull-request-workflows,https://da.gd/oUa0Qn
+AWS:WhatsNew,AWS CodeBuild now supports multiple access tokens via AWS Secrets Manager,https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-multiple-access-tokens-secrets-manager/,https://da.gd/MUl6
