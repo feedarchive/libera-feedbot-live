@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.4.1-rc2: [NJT+SDPA]Fix flash_attention output when batch_size=1 and seq_len=1 …,https://github.com/pytorch/pytorch/releases/tag/v2.4.1-rc2,
