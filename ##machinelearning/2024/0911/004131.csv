@@ -1,0 +1,22 @@
+feed,title,long_url,short_url
+j:JMLR,"Rethinking Discount Regularization: New Interpretations, Unintended Consequences, and Solutions for Regularization in Reinforcement Learning",http://jmlr.org/papers/v25/24-0087.html,https://da.gd/rUi07
+j:JMLR,PromptBench: A Unified Library for Evaluation of Large Language Models,http://jmlr.org/papers/v25/24-0023.html,https://da.gd/ypmCZM
+j:JMLR,Gaussian Interpolation Flows,http://jmlr.org/papers/v25/23-1515.html,https://da.gd/GNWp
+j:JMLR,Gaussian Mixture Models with Rare Events,http://jmlr.org/papers/v25/23-1245.html,https://da.gd/Guj1Vh
+j:JMLR,On the Concentration of the Minimizers of Empirical Risks,http://jmlr.org/papers/v25/23-1149.html,https://da.gd/OWR4Xf
+j:JMLR,Variance estimation in graphs with the fused lasso,http://jmlr.org/papers/v25/23-1061.html,https://da.gd/4d2FnO
+j:JMLR,Random measure priors in Bayesian recovery from sketches,http://jmlr.org/papers/v25/23-1058.html,https://da.gd/dSgQ
+j:JMLR,From continuous-time formulations to discretization schemes: tensor trains and robust regression for BSDEs and parabolic PDEs,http://jmlr.org/papers/v25/23-0982.html,https://da.gd/SKNhEi
+j:JMLR,Label Alignment Regularization for Distribution Shift,http://jmlr.org/papers/v25/23-0899.html,https://da.gd/pFZgg
+j:JMLR,Fairness in Survival Analysis with Distributionally Robust Optimization,http://jmlr.org/papers/v25/23-0888.html,https://da.gd/qoaeqY
+j:JMLR,FineMorphs: Affine-Diffeomorphic Sequences for Regression,http://jmlr.org/papers/v25/23-0824.html,https://da.gd/jwOp9d
+j:JMLR,Tensor-train methods for sequential state and parameter learning in state-space models,http://jmlr.org/papers/v25/23-0743.html,https://da.gd/kI08
+j:JMLR,Memory of recurrent networks: Do we compute it right?,http://jmlr.org/papers/v25/23-0568.html,https://da.gd/ORWxjP
+j:JMLR,The Loss Landscape of Deep Linear Neural Networks: a Second-order Analysis,http://jmlr.org/papers/v25/23-0493.html,https://da.gd/XxwM
+j:JMLR,High Probability Convergence Bounds for Non-convex Stochastic Gradient Descent with Sub-Weibull Noise,http://jmlr.org/papers/v25/23-0466.html,https://da.gd/BhxjbU
+j:JMLR,Euler Characteristic Tools for Topological Data Analysis,http://jmlr.org/papers/v25/23-0353.html,https://da.gd/la69dF
+j:JMLR,Depth Degeneracy in Neural Networks: Vanishing Angles in Fully Connected ReLU Networks on Initialization,http://jmlr.org/papers/v25/23-0350.html,https://da.gd/VTQ4a
+j:JMLR,Fortuna: A Library for Uncertainty Quantification in Deep Learning,http://jmlr.org/papers/v25/23-0145.html,https://da.gd/Cedwx
+j:JMLR,Characterization of translation invariant MMD on Rd and connections with Wasserstein distances,http://jmlr.org/papers/v25/22-1338.html,https://da.gd/gzVfwh
+j:JMLR,On the Hyperparameters in Stochastic Gradient Descent with Momentum,http://jmlr.org/papers/v25/22-1189.html,https://da.gd/JEK7Hd
+j:JMLR,Improved Random Features for Dot Product Kernels,http://jmlr.org/papers/v25/22-0118.html,https://da.gd/IFtcC
