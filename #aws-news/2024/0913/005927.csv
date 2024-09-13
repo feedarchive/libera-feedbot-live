@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for MySQL zero-ETL integration with Amazon Redshift is now generally available,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-mysql-zero-etl-integration-redshift-generally-available,https://da.gd/sgSb
+AWS:WhatsNew,Amazon Redshift Serverless is now available in the AWS Asia Pacific (Hong Kong) and Israel (Tel Aviv) Regions,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-aws-asia-pacific-hong-kong-israel-tel-aviv-regions,https://da.gd/bMIDdc
+AWS:WhatsNew,AWS Backup Audit Manager adds new control to audit resources inside logically air-gapped vault,https://aws.amazon.com/about-aws/whats-new/2024/09/aws-backup-audit-manager-control-audit-resources/,https://da.gd/hSbLUW
+AWS:WhatsNew,AWS Glue Data Catalog now supports storage optimization of Apache Iceberg tables,https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-data-catalog-optimization-apache-iceberg-tables/,https://da.gd/RhG2Vm
