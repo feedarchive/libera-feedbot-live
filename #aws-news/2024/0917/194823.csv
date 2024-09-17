@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Keyspaces (for Apache Cassandra) now supports add-column for multi-Region tables,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-keyspaces-apache-cassandra-column-multi-region-tables/,https://da.gd/ajO9oQ
+AWS:WhatsNew,"AWS Neuron introduces Neuron Kernel Interface (NKI), NxD Training, and JAX support for training",https://aws.amazon.com/about-aws/whats-new/2024/09/aws-neuron-nki-nxd-training-jax/,https://da.gd/KmQ2M
+AWS:WhatsNew,AWS Elastic Disaster Recovery now supports recovery to AWS Local Zones,https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-disaster-recovery-recovery-aws-local-zones/,https://da.gd/o1R2V
