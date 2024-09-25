@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.5.0-rc4: [ROCm][CI] upgrade CI to ROCm 6.2 (#132555) (#136467),https://github.com/pytorch/pytorch/releases/tag/v2.5.0-rc4,
