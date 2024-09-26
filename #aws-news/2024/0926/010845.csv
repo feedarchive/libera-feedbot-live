@@ -1,0 +1,17 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon FSx for Lustre provides additional performance metrics and an enhanced monitoring dashboard,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-fsx-lustre-performance-metrics-enhanced-monitoring-dashboard,https://da.gd/dfPjQ
+AWS:WhatsNew,Amazon Kinesis Data Streams announces support for Attribute-Based Access Control (ABAC),https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-abac,https://da.gd/AP9pB4
+AWS:WhatsNew,Llama 3.2 generative AI models now available in Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2024/09/llama-3-2-generative-ai-models-amazon-bedrock,https://da.gd/4V2qU
+AWS:WhatsNew,AWS announces general availability for Security Group Referencing on AWS Transit Gateway,https://aws.amazon.com/about-aws/whats-new/2024/09/general-availability-security-group-referencing-aws-transit-gateway,https://da.gd/2fNNZ
+AWS:WhatsNew,AWS CloudTrail launches network activity events for VPC endpoints (preview),https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudtrail-network-activity-events-vpc-endpoints-preview,https://da.gd/LXfSGR
+AWS:WhatsNew,Announcing the new Resources widget on myApplications,https://aws.amazon.com/about-aws/whats-new/2024/09/resources-widget-myapplications,https://da.gd/nNNse
+AWS:WhatsNew,Customize your Amazon SageMaker model deployment software and driver versions,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-model-deployment-software-driver-versions/,https://da.gd/BDO1B
+AWS:WhatsNew,Amazon SageMaker with MLflow now supports AWS PrivateLink for secure traffic routing,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-mlflow-privatelink-secure-traffic-routing/,https://da.gd/fylQdN
+AWS:WhatsNew,WorkSpaces Secure Browser announces new session management dashboard,https://aws.amazon.com/about-aws/whats-new/2024/09/workspaces-secure-browser-session-management-dashboard/,https://da.gd/WUaA4
+AWS:WhatsNew,Announcing Region Expansion of P4d instances on SageMaker Studio notebooks,https://aws.amazon.com/about-aws/whats-new/2024/09/region-expansion-p4d-instances-sagemaker-studio-notebooks,https://da.gd/JfzFi
+AWS:WhatsNew,Llama 3.2 generative AI models now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2024/09/llama-32-generative-ai-models-sagemaker-jumpstart/,https://da.gd/aczyA
+AWS:WhatsNew,Share AWS End User Messaging SMS resources across multiple AWS accounts,https://aws.amazon.com/about-aws/whats-new/2024/09/share-aws-end-user-messaging-sms-resources-multiple-accounts,https://da.gd/VIMfLX
+AWS:WhatsNew,AWS Serverless Application Repository now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2024/09/aws-serverless-application-repository-privatelink,https://da.gd/G4O7WJ
+AWS:WhatsNew,Amazon SNS now delivers SMS text messages via AWS End User Messaging,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sns-delivers-sms-text-messages-aws-end-user-messaging,https://da.gd/XZJ5Gz
+AWS:WhatsNew,Amazon EC2 G6 instances now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-g6-instances-additional-regions/,https://da.gd/lhZuY
+AWS:WhatsNew,Introducing Amazon EC2 C8g and M8g Instances,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-c8g-m8g-instances/,https://da.gd/I5V9v4
