@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MemoryDB is now available in the AWS Europe (Spain) region,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-memorydb-aws-europe-spain-region,https://da.gd/3hLM
+AWS:WhatsNew,AWS Lambda now supports SnapStart for Java functions in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-snapstart-java-functions-govcloud/,https://da.gd/ZVNXq
+AWS:WhatsNew,Amazon MWAA now supports Apache Airflow version 2.10,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-mwaa-apache-airflow-version-210/,https://da.gd/iGPzuv
+AWS:WhatsNew,Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.31,https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-distro-kubernetes-version-1-31/,https://da.gd/uGSf9
