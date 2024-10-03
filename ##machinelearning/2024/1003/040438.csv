@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.5.0-rc8: [RELEASE-ONLY CHANGES] Fix dependency on filesystem on Linux (#137242),https://github.com/pytorch/pytorch/releases/tag/v2.5.0-rc8,
