@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.5.0-rc9: [split build] move periodic split builds into own concurrency group (…,https://github.com/pytorch/pytorch/releases/tag/v2.5.0-rc9,
