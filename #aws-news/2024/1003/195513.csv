@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Compute Optimizer now supports 80 new Amazon EC2 instance types,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-compute-optimizer-new-amazon-ec2-instance-types,https://da.gd/LsH1l
+AWS:WhatsNew,Amazon Aurora Serverless v2 now supports up to 256 ACUs,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-serverless-v2-256-acus/,https://da.gd/H9LD0
+AWS:WhatsNew,Auto Scaling in AWS Glue interactive sessions is now generally available,https://aws.amazon.com/about-aws/whats-new/2024/10/auto-scaling-aws-glue-interactive-sessions/,https://da.gd/1sNuo
