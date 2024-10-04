@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+ArXiv,Bayes-CATSI: A variational Bayesian approach for medical time series data imputation,https://arxiv.org/abs/2410.01847,
+ArXiv,MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting,https://arxiv.org/abs/2410.02070,
+ArXiv,MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters,https://arxiv.org/abs/2410.02081,
+ArXiv,Channel-aware Contrastive Conditional Diffusion for Multivariate Probabilistic Time Series Forecasting,https://arxiv.org/abs/2410.02168,
+ArXiv,BACKTIME: Backdoor Attacks on Multivariate Time Series Forecasting,https://arxiv.org/abs/2410.02195,
+ArXiv,MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction,https://arxiv.org/abs/2410.02241,
+ArXiv,Learning K-U-Net with constant complexity: An Application to time series forecasting,https://arxiv.org/abs/2410.02438,
+ArXiv,"Deconstructing Recurrence, Attention, and Gating: Investigating the transferability of Transformers and Gated Recurrent Neural Networks in forecasting of dynamical systems",https://arxiv.org/abs/2410.02654,
+ArXiv,Forecasting Smog Clouds With Deep Learning,https://arxiv.org/abs/2410.02759,
+ArXiv,FredNormer: Frequency Domain Normalization for Non-stationary Time Series Forecasting,https://arxiv.org/abs/2410.01860,
