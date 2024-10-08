@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,NOAA NASA Joint Archive (NNJA) of Observations for Earth System Reanalysis,https://registry.opendata.aws/noaa-reanalyses-pds,https://da.gd/zngBY
+AWS:OpenData,NOAA Unified Forecast System (UFS) Global Ensemble Forecast System (GEFS) Version 13 Replay,https://registry.opendata.aws/noaa-ufs-gefsv13replay-pds,https://da.gd/Ak4uc
+AWS:OpenData,Platinum Pedigree,https://registry.opendata.aws/platinum-pedigree,https://da.gd/Gx4qV9
