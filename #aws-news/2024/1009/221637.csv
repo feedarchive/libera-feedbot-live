@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EventBridge Schema Registry now in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-schema-registry-aws-govcloud-us-regions,https://da.gd/ZCakY
+AWS:WhatsNew,Amazon EventBridge Archive and Replay now in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-archive-replay-govcloud-us-regions/,https://da.gd/hPraB3
+AWS:WhatsNew,AWS Lambda now detects and stops recursive loops between Lambda and Amazon S3,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-detects-stops-recursive-loops-lambda-s3/,https://da.gd/PoZU6F
