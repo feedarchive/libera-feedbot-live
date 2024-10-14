@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.5.0-rc10: [Release only] use triton 3.1.x from pypi (#137895),https://github.com/pytorch/pytorch/releases/tag/v2.5.0-rc10,
