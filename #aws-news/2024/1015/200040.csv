@@ -1,0 +1,14 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CodePipeline supports automatic retry on stage failure,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-automatic-retry-stage-failure/,https://da.gd/wX0At
+AWS:WhatsNew,Amazon RDS now supports M7g and R7g database instances in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7g-r7g-database-instances-additional-aws-regions,https://da.gd/knDJ
+AWS:WhatsNew,Amazon SageMaker Studio notebooks now support G6e instance types,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-sagemaker-studio-notebooks-g6e-instance-types,https://da.gd/JMicAk
+AWS:WhatsNew,Amazon AppStream 2.0 now supports custom shared network storage,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-custom-shared-network-storage,https://da.gd/gMGWOi
+AWS:WhatsNew,Amazon EFS now supports up to 60 GiB/s (a 2x increase) of read throughput,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-efs-60-gib-s-2x-increase-read-throughput/,https://da.gd/maKLl
+AWS:WhatsNew,Amazon OpenSearch Serverless now available in Asia Pacific (Seoul) and Europe (Zurich) regions,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-serverless-seoul-zurich-regions/,https://da.gd/1WIj8
+AWS:WhatsNew,AWS access portal now offers streamlined sign in for AWS Console Mobile App,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-access-portal-streamlined-sign-console-mobile-app,https://da.gd/jdn668
+AWS:WhatsNew,Assign billing of your shared Amazon EC2 On-Demand Capacity Reservations,https://aws.amazon.com/about-aws/whats-new/2024/10/assign-billing-shared-amazon-ec2-on-demand-capacity-reservations,https://da.gd/fDuD
+AWS:WhatsNew,Amazon Verified Permissions is now HIPAA eligible,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-verified-permissions-hipaa-eligible,https://da.gd/wTT2JS
+AWS:WhatsNew,Amazon Redshift now supports refresh interval in a zero-ETL integration,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-refresh-interval-zero-etl-integration/,https://da.gd/NNH8TJ
+AWS:WhatsNew,AWS Transfer Family SFTP connectors now provide real-time status of file transfer operations,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-transfer-family-sftp-connectors-status-file-transfer-operations/,https://da.gd/RSyDHK
+AWS:WhatsNew,Amazon EC2 D3en instances are now available in Asia Pacific (Sydney) region,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-d3en-instances-sydney-region,https://da.gd/uDLz6I
+AWS:WhatsNew,AWS CodePipeline introduces skipping stage,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-skipping-stage,https://da.gd/vi4g7
