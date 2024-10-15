@@ -1,0 +1,36 @@
+feed,title,long_url,short_url
+j:JMLR,skscope: Fast Sparsity-Constrained Optimization in Python,http://jmlr.org/papers/v25/23-1574.html,https://da.gd/lKeha
+j:JMLR,aeon: a Python Toolkit for Learning from Time Series,http://jmlr.org/papers/v25/23-1444.html,https://da.gd/jrfvz
+j:JMLR,Compressed and distributed least-squares regression: convergence rates with applications to federated learning,http://jmlr.org/papers/v25/23-1040.html,https://da.gd/i3onB
+j:JMLR,Contamination-source based K-sample clustering,http://jmlr.org/papers/v25/23-0914.html,https://da.gd/Hg1GN
+j:JMLR,Measuring Sample Quality in Algorithms for Intractable Normalizing Function Problems,http://jmlr.org/papers/v25/23-0810.html,https://da.gd/JzoPy
+j:JMLR,OmniSafe: An Infrastructure for Accelerating Safe Reinforcement Learning Research,http://jmlr.org/papers/v25/23-0681.html,https://da.gd/kkiPw
+j:JMLR,Random Smoothing Regularization in Kernel Gradient Descent Learning,http://jmlr.org/papers/v25/23-0580.html,https://da.gd/N5iK
+j:JMLR,MLRegTest: A Benchmark for the Machine Learning of Regular Languages,http://jmlr.org/papers/v25/23-0518.html,https://da.gd/pUyWjf
+j:JMLR,A tensor factorization model of multilayer network interdependence,http://jmlr.org/papers/v25/23-0205.html,https://da.gd/ktQB
+j:JMLR,Stationary Kernels and Gaussian Processes on Lie Groups and their Homogeneous Spaces II: non-compact symmetric spaces,http://jmlr.org/papers/v25/23-0115.html,https://da.gd/KvyHA1
+j:JMLR,Stationary Kernels and Gaussian Processes on Lie Groups and their Homogeneous Spaces I: the compact case,http://jmlr.org/papers/v25/22-1434.html,https://da.gd/n850m
+j:JMLR,On Doubly Robust Inference for Double Machine Learning in Semiparametric Regression,http://jmlr.org/papers/v25/22-1233.html,https://da.gd/kNBApH
+j:JMLR,Deep Neural Network Approximation of Invariant Functions through Dynamical Systems,http://jmlr.org/papers/v25/22-0982.html,https://da.gd/NVvM
+j:JMLR,A Statistical Experimental Design Method for Constructing Deterministic Sensing Matrices for Compressed Sensing,http://jmlr.org/papers/v25/22-0760.html,https://da.gd/EP7pqK
+j:JMLR,Functional optimal transport: regularized map estimation and domain adaptation for functional data,http://jmlr.org/papers/v25/22-0217.html,https://da.gd/rghX2
+j:JMLR,Desiderata for Representation Learning: A Causal Perspective,http://jmlr.org/papers/v25/21-107.html,https://da.gd/bV4Zl
+j:JMLR,Accelerated Gradient Tracking over Time-varying Graphs for Decentralized Optimization,http://jmlr.org/papers/v25/21-0475.html,https://da.gd/cnQKPl
+j:JMLR,Pearl: A Production-Ready Reinforcement Learning Agent,http://jmlr.org/papers/v25/24-0196.html,https://da.gd/Tlbo2
+j:JMLR,Boundary constrained Gaussian processes for robust physics-informed machine learning of linear partial differential equations,http://jmlr.org/papers/v25/23-1508.html,https://da.gd/COV6b
+j:JMLR,Almost Sure Convergence Rates Analysis and Saddle Avoidance of Stochastic Gradient Methods,http://jmlr.org/papers/v25/23-1436.html,https://da.gd/YwYyT
+j:JMLR,False discovery proportion envelopes with m-consistency,http://jmlr.org/papers/v25/23-1025.html,https://da.gd/QJu2m9
+j:JMLR,Wasserstein Proximal Coordinate Gradient Algorithms,http://jmlr.org/papers/v25/23-0889.html,https://da.gd/Dti6wS
+j:JMLR,Concentration and Moment Inequalities for General Functions of Independent Random Variables with Heavy Tails,http://jmlr.org/papers/v25/23-0744.html,https://da.gd/Gsqja
+j:JMLR,Random Fully Connected Neural Networks as Perturbatively Solvable Hierarchies,http://jmlr.org/papers/v25/23-0643.html,https://da.gd/LXKNG
+j:JMLR,On Regularized Radon-Nikodym Differentiation,http://jmlr.org/papers/v25/23-0567.html,https://da.gd/UFkCO
+j:JMLR,pgmpy: A Python Toolkit for Bayesian Networks,http://jmlr.org/papers/v25/23-0487.html,https://da.gd/ZVyA
+j:JMLR,Recursive Estimation of Conditional Kernel Mean Embeddings,http://jmlr.org/papers/v25/23-0168.html,https://da.gd/KqiO
+j:JMLR,Penalized Overdamped and Underdamped Langevin Monte Carlo Algorithms for Constrained Sampling,http://jmlr.org/papers/v25/22-1443.html,https://da.gd/rkOX
+j:JMLR,Fast Rates in Pool-Based Batch Active Learning,http://jmlr.org/papers/v25/22-1409.html,https://da.gd/HHLQgX
+j:JMLR,On Causality in Domain Adaptation and Semi-Supervised Learning: an Information-Theoretic Analysis for Parametric Models,http://jmlr.org/papers/v25/22-1024.html,https://da.gd/ZbRjc
+j:JMLR,Mean-Field Approximation of Cooperative Constrained Multi-Agent Reinforcement Learning (CMARL),http://jmlr.org/papers/v25/22-0956.html,https://da.gd/qL3cH
+j:JMLR,Structured Optimal Variational Inference for Dynamic Latent Space Models,http://jmlr.org/papers/v25/22-0514.html,https://da.gd/Zvn7y
+j:JMLR,Stable and Consistent Density-Based Clustering via Multiparameter Persistence,http://jmlr.org/papers/v25/21-1185.html,https://da.gd/hIpRz
+j:JMLR,Faster Randomized Methods for Orthogonality Constrained Problems,http://jmlr.org/papers/v25/21-1022.html,https://da.gd/8wAGW7
+j:JMLR,Estimation of Sparse Gaussian Graphical Models with Hidden Clustering Structure,http://jmlr.org/papers/v25/20-354.html,https://da.gd/uQWD
