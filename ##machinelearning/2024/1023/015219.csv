@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.5.1-rc1: Disabling amp context when invoking compiler (#138659),https://github.com/pytorch/pytorch/releases/tag/v2.5.1-rc1,
