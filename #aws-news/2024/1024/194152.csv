@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[route53] Informational message: Increased Delays Associating Route 53 Private Hosted Zones to VPC,https://status.aws.amazon.com/#route53_1729798573,
+status,[route53] Informational message: Increased Route 53 Private Hosted Zone,https://status.aws.amazon.com/#route53_1729796460,
