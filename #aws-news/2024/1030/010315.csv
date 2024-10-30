@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ElastiCache for Valkey adds new CloudWatch metrics to monitor server-side response time,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-elasticache-metrics-monitor-server-response-time/,https://da.gd/p2eTz
+AWS:WhatsNew,Amazon MemoryDB for Valkey adds new CloudWatch metrics to monitor server-side response time,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-memorydb-valkey-cloudwatch-metrics-monitor-server-response-time/,https://da.gd/1InKEn
+AWS:WhatsNew,AWS Clean Rooms launches Spark SQL support with configurable compute size,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-clean-rooms-spark-sql-configurable-compute,https://da.gd/vb4dV
