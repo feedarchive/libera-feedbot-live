@@ -1,0 +1,24 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon WorkMail now supports multi-factor authentication,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workmail-multi-factor-authentication,https://da.gd/fJamc
+AWS:WhatsNew,AWS Glue Studio data preparation experience is available in additional regions,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-glue-studio-data-preparation-experience-additional-regions,https://da.gd/fMSCqA
+AWS:WhatsNew,Announcing general availability of auto-copy for Amazon Redshift,https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-auto-copy-amazon-redshift,https://da.gd/MiKad
+AWS:WhatsNew,AWS announces Amazon Redshift integration with Amazon Bedrock for generative AI,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-integration-bedrock-generative-ai,https://da.gd/xchTSE
+AWS:WhatsNew,Amazon Redshift now supports incremental refresh on Materialized Views (MVs) for data lake tables,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-incremental-refresh-mvs-data-lake-tables,https://da.gd/ai7ya
+AWS:WhatsNew,AWS Deadline Cloud now adds budget-related events,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-budget-related-events,https://da.gd/cQrrA1
+AWS:WhatsNew,Amazon EMR 7.3 now provides enhanced protection for In-Transit data,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-emr-7-3-enhanced-protection-in-transit-data,https://da.gd/2rDBX
+AWS:WhatsNew,Announcing Amazon Redshift Serverless with AI-driven scaling and optimization,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-ai-driven-scaling-optimization,https://da.gd/uA3M
+AWS:WhatsNew,Announcing AWS Amplify integration with Amazon S3 for static website hosting,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-amplify-amazon-s3-static-website-hosting,https://da.gd/XKTwO
+AWS:WhatsNew,Amazon CloudWatch now monitors EBS volumes exceeding provisioned performance,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-cloudwatch-ebs-volumes-exceeding-performance/,https://da.gd/g5s67
+AWS:WhatsNew,"Amazon Route 53 announces HTTPS, SSHFP, SVCB, and TLSA DNS resource record support",https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-route-53-https-sshfp-svcb-tlsa-dns-support/,https://da.gd/cnRhOx
+AWS:WhatsNew,AWS DataSync increases performance and scalability for data transfers,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-datasync-performance-scalability-data-transfers,https://da.gd/loe0V
+AWS:WhatsNew,Amazon EventBridge support for read-only API events from CloudTrail expands to the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-read-only-api-events-cloudtrail-govcloud/,https://da.gd/D2oowr
+AWS:WhatsNew,New Amazon CloudWatch metrics for monitoring I/O latency of Amazon EBS volumes,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-cloudwatch-monitoring-io-latency-ebs-volumes,https://da.gd/6gi5
+AWS:WhatsNew,Amazon S3 adds Service Quotas support in AWS GovCloud Regions,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-s3-service-quotas-support-govcloud,https://da.gd/1z9KUf
+AWS:WhatsNew,AWS Backup Audit Manager is now available in Asia Pacific (Osaka),https://aws.amazon.com/about-aws/whats-new/2024/10/aws-backup-audit-manager-asia-pacific-osaka,https://da.gd/wG9DF
+AWS:WhatsNew,AWS Lambda now supports AWS Fault Injection Service (FIS) actions,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-fault-injection-service-actions/,https://da.gd/OPkeA5
+AWS:WhatsNew,AWS Network Firewall now supports configurable TCP idle timeout,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-network-firewall-configurable-tcp-idle-timeout/,https://da.gd/taxDK
+AWS:WhatsNew,AWS Payment Cryptography now supports card issuing use cases,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-payment-cryptography-card-issuing-use-cases,https://da.gd/MoVn
+AWS:WhatsNew,Amazon Aurora PostgreSQL now supports R7i database instances,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-r7i-instances/,https://da.gd/AzhB
+AWS:WhatsNew,Amazon Virtual Private Cloud launches new security group sharing features,https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-virtual-private-cloud-security-group-sharing,https://da.gd/RO4Iqf
+AWS:WhatsNew,"Amazon DataZone expands data access with tools like Tableau, Power BI, and more",https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-expands-access-tableau-powerbi,https://da.gd/PANQ
+AWS:WhatsNew,AWS AppSync launches new serverless WebSocket APIs to power real-time web and mobile experiences at any scale,https://aws.amazon.com/about-aws/whats-new/2024/10/aws-appsync-websocket-apis-web-mobile-experiences/,https://da.gd/ifHbn
