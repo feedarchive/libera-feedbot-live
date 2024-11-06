@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Data Firehose support for delivering data into Apache Iceberg tables is available in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-support-data-apache-iceberg-tables-additional-regions,https://da.gd/nsG0
+AWS:WhatsNew,Amazon EC2 R8g instances now available in AWS Europe (Ireland),https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r8g-instances-available-ireland,https://da.gd/RcMj
+AWS:WhatsNew,New Kinesis Client Library 3.0 reduces stream processing compute costs by up to 33%,https://aws.amazon.com/about-aws/whats-new/2024/11/kinesis-client-library-reduces-stream-processing-compute-costs,https://da.gd/h6RLv
