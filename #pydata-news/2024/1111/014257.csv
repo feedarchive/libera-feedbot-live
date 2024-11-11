@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+Medium,import pandas as pd import numpy as np from statsmodels.tsa.holtwinters,https://medium.com/p/72df3ad8920f,
+Medium,From Ashes to Algorithms: How GOES Satellites and Python Can Protect Wildlife and Communities,https://medium.com/p/22cc22572c0c,
