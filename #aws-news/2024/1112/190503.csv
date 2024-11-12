@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Bottlerocket announces new AMIs that are preconfigured to use FIPS 140-3 validated cryptographic modules,https://aws.amazon.com/about-aws/whats-new/2024/11/bottlerocket-amis-fips140-3-validated-cryptographic-modules,https://da.gd/mf48RM
+AWS:WhatsNew,Amazon Managed Service for Apache Flink now supports Amazon DynamoDB Streams as a source,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source,https://da.gd/hFeS3
+AWS:WhatsNew,Amazon EC2 Capacity Blocks expands to new regions,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-capacity-blocks-new-regions,https://da.gd/avXvl
+AWS:WhatsNew,AWS CodeBuild now supports Windows Docker builds in reserved capacity fleets,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-windows-docker-reserved-capacity-fleets,https://da.gd/wnWXB
+AWS:WhatsNew,Amazon Q Developer Pro tier adds enhanced administrator capabilities to view user activity,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-pro-administrator-capabilities-user-activity/,https://da.gd/e2eGLE
