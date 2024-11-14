@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudTrail Lake enhances log analysis with AI-powered features,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloudtrail-lake-log-analysis-ai-powered-features,https://da.gd/BlChc
+AWS:WhatsNew,AWS SDK now supports ListBillingViewsAPI for AWS Billing Conductor users,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-sdk-listbillingviewsapi-billing-conductor-users,https://da.gd/Qizdko
+AWS:WhatsNew,"Amazon OpenSearch Service now supports 4th generation Intel (C7i, M7i, R7i) instances",https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-supports-4th-generation-intel-c7i-m7i-r7i-instances,https://da.gd/xeIcUF
+AWS:WhatsNew,AWS B2B Data Interchange introduces generative AI-assisted EDI mappings,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b2b-data-interchange-generative-ai-assisted-edi-mappings,https://da.gd/G0BQ
+AWS:WhatsNew,Amazon GameLift adds containers for faster dev iteration and simplified management,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-gamelift-containers-dev-iteration-management/,https://da.gd/62vo
+AWS:WhatsNew,Application Signals now supports burn rate for application performance goals,https://aws.amazon.com/about-aws/whats-new/2024/11/application-signals-burn-rate-application-performance-goals,https://da.gd/8rumGJ
+AWS:WhatsNew,Introducing resource control policies (RCPs) to centrally restrict access to AWS resources,https://aws.amazon.com/about-aws/whats-new/2024/11/resource-control-policies-restrict-access-aws-resources/,https://da.gd/H5bbE
+AWS:WhatsNew,Amazon DynamoDB introduces warm throughput for tables and indexes,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamodb-warm-throughput-ondemand-provisioned-tables,https://da.gd/eJVW
+AWS:WhatsNew,SageMaker Model Registry now supports model lineage to improve model governance,https://aws.amazon.com/about-aws/whats-new/2024/11/sagemaker-model-registry-model-lineage-governance/,https://da.gd/VdZk4
+AWS:WhatsNew,Amazon RDS for MySQL supports new minor version 8.0.40,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-mysql-new-minor-version,https://da.gd/ZJPesc
+AWS:WhatsNew,AWS Glue Data Catalog now supports scheduled generation of column level statistics,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-data-catalog-scheduled-column-level-statistics,https://da.gd/wUpSQk
