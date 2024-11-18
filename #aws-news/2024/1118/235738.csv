@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 X2iezn instances are now available in additional AWS region,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-x2iezn-instances-additional-aws-region,https://da.gd/r7tK3
+AWS:WhatsNew,Amazon Application Recovery Controller zonal shift and zonal autoshift extend support for EC2 Auto Scaling,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-recovery-controller-zonal-shift-autoshift-ec2-auto-scaling/,https://da.gd/faYFhC
+AWS:WhatsNew,EC2 Auto Scaling now supports Amazon Application Recovery Controller zonal shift and zonal autoshift,https://aws.amazon.com/about-aws/whats-new/2024/11/ec2-auto-scaling-application-recovery-controller-zonal-shift/,https://da.gd/7sel3
+AWS:WhatsNew,Amazon VPC Lattice now supports Amazon Elastic Container Service (Amazon ECS),https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-lattice-elastic-container-service/,https://da.gd/YshLs
