@@ -1,0 +1,43 @@
+feed,title,long_url,short_url
+j:JMLR,Aequitas Flow: Streamlining Fair ML Experimentation,http://jmlr.org/papers/v25/24-0677.html,https://da.gd/ciwBqz
+j:JMLR,Information Capacity Regret Bounds for Bandits with Mediator Feedback,http://jmlr.org/papers/v25/24-0227.html,https://da.gd/YzbuZ
+j:JMLR,DAG-Informed Structure Learning from Multi-Dimensional Point Processes,http://jmlr.org/papers/v25/24-0067.html,https://da.gd/mxvNq
+j:JMLR,Optimizing Noise for f-Differential Privacy via Anti-Concentration and Stochastic Dominance,http://jmlr.org/papers/v25/23-1624.html,https://da.gd/RPjn5
+j:JMLR,A Rainbow in Deep Network Black Boxes,http://jmlr.org/papers/v25/23-1573.html,https://da.gd/bnqJ
+j:JMLR,"How Two-Layer Neural Networks Learn, One (Giant) Step at a Time",http://jmlr.org/papers/v25/23-1543.html,https://da.gd/FZIGmM
+j:JMLR,Hamiltonian Monte Carlo for efficient Gaussian sampling: long and random steps,http://jmlr.org/papers/v25/23-1521.html,https://da.gd/hMl75h
+j:JMLR,Memorization With Neural Nets: Going Beyond the Worst Case,http://jmlr.org/papers/v25/23-1376.html,https://da.gd/d8Y7
+j:JMLR,PROMISE: Preconditioned Stochastic Optimization Methods by Incorporating Scalable Curvature Estimates,http://jmlr.org/papers/v25/23-1187.html,https://da.gd/azxB
+j:JMLR,Causal effects of intervening variables in settings with unmeasured confounding,http://jmlr.org/papers/v25/23-1077.html,https://da.gd/Ls3xbh
+j:JMLR,Lower Complexity Adaptation for Empirical Entropic Optimal Transport,http://jmlr.org/papers/v25/23-0856.html,https://da.gd/3ZlHNN
+j:JMLR,A Note on Entrywise Consistency for Mixed-data Matrix Completion,http://jmlr.org/papers/v25/23-0834.html,https://da.gd/0cPcIy
+j:JMLR,A Characterization of Multioutput Learnability,http://jmlr.org/papers/v25/23-078.html,https://da.gd/jpIHVf
+j:JMLR,Sample Complexity of Variance-Reduced Distributionally Robust Q-Learning,http://jmlr.org/papers/v25/23-0526.html,https://da.gd/TX4A2
+j:JMLR,Lower Bounds on the Bayesian Risk via Information Measures,http://jmlr.org/papers/v25/23-0361.html,https://da.gd/eyi59C
+j:JMLR,Bayesian Structural Learning with Parametric Marginals for Count Data: An Application to Microbiota Systems,http://jmlr.org/papers/v25/23-0056.html,https://da.gd/Z7c4
+j:JMLR,Transfer Learning with Uncertainty Quantification: Random Effect Calibration of Source to Target (RECaST),http://jmlr.org/papers/v25/22-1369.html,https://da.gd/rDNFY
+j:JMLR,Inference on High-dimensional Single-index Models with Streaming Data,http://jmlr.org/papers/v25/22-1124.html,https://da.gd/SOLYbF
+j:JMLR,On the Convergence of Projected Alternating Maximization for Equitable and Optimal Transport,http://jmlr.org/papers/v25/22-0524.html,https://da.gd/xSXOXy
+j:JMLR,"ENNS: Variable Selection, Regression, Classification, and Deep Neural Network for High-Dimensional Data",http://jmlr.org/papers/v25/21-0893.html,https://da.gd/IlZuv
+j:JMLR,On the Optimality of Gaussian Kernel Based Nonparametric Tests against Smooth Alternatives,http://jmlr.org/papers/v25/20-1228.html,https://da.gd/LNmVl
+j:JMLR,Open-Source Conversational AI with SpeechBrain 1.0,http://jmlr.org/papers/v25/24-0991.html,https://da.gd/4aDt6Y
+j:JMLR,"Triple Component Matrix Factorization: Untangling Global, Local, and Noisy Components",http://jmlr.org/papers/v25/24-0400.html,https://da.gd/qMoNR
+j:JMLR,"Generalization on the Unseen, Logic Reasoning and Degree Curriculum",http://jmlr.org/papers/v25/24-0220.html,https://da.gd/4PkDG
+j:JMLR,Goal-Space Planning with Subgoal Models,http://jmlr.org/papers/v25/24-0040.html,https://da.gd/KeUSm
+j:JMLR,Homeomorphic Projection to Ensure Neural-Network Solution Feasibility for Constrained Optimization,http://jmlr.org/papers/v25/23-1577.html,https://da.gd/DIYqQ
+j:JMLR,Label Noise Robustness of Conformal Prediction,http://jmlr.org/papers/v25/23-1549.html,https://da.gd/Ko4aBc
+j:JMLR,PAPAL: A Provable PArticle-based Primal-Dual ALgorithm for Mixed Nash Equilibrium,http://jmlr.org/papers/v25/23-1522.html,https://da.gd/4BFn
+j:JMLR,Geometric Learning with Positively Decomposable Kernels,http://jmlr.org/papers/v25/23-1400.html,https://da.gd/0gPC
+j:JMLR,Mentored Learning: Improving Generalization and Convergence of Student Learner,http://jmlr.org/papers/v25/23-1213.html,https://da.gd/NHhKR
+j:JMLR,Robust Principal Component Analysis using Density Power Divergence,http://jmlr.org/papers/v25/23-1096.html,https://da.gd/KvTHNv
+j:JMLR,Graphical Dirichlet Process for Clustering Non-Exchangeable Grouped Data,http://jmlr.org/papers/v25/23-1048.html,https://da.gd/ktrlJT
+j:JMLR,Stability and L2-penalty in Model Averaging,http://jmlr.org/papers/v25/23-0853.html,https://da.gd/ATdsy
+j:JMLR,Neural Networks with Sparse Activation Induced by Large Bias: Tighter Analysis with Bias-Generalized NTK,http://jmlr.org/papers/v25/23-0831.html,https://da.gd/gNZFZ
+j:JMLR,Optimal Weighted Random Forests,http://jmlr.org/papers/v25/23-0607.html,https://da.gd/h5eXF
+j:JMLR,Efficient Active Manifold Identification via Accelerated Iteratively Reweighted Nuclear Norm Minimization,http://jmlr.org/papers/v25/23-0449.html,https://da.gd/48USXD
+j:JMLR,Empirical Design in Reinforcement Learning,http://jmlr.org/papers/v25/23-0183.html,https://da.gd/bZnIh
+j:JMLR,A Data-Adaptive RKHS Prior for Bayesian Learning of Kernels in Operators,http://jmlr.org/papers/v25/22-1491.html,https://da.gd/Te5K
+j:JMLR,GGD: Grafting Gradient Descent,http://jmlr.org/papers/v25/22-1236.html,https://da.gd/qwXc
+j:JMLR,Debiasing Evaluations That Are Biased by Evaluations,http://jmlr.org/papers/v25/22-0775.html,https://da.gd/iudTCY
+j:JMLR,Optimal Learning Policies for Differential Privacy in Multi-armed Bandits,http://jmlr.org/papers/v25/21-1267.html,https://da.gd/eQECQJ
+j:JMLR,Data-Efficient Policy Evaluation Through Behavior Policy Search,http://jmlr.org/papers/v25/21-0346.html,https://da.gd/Le5DlQ
