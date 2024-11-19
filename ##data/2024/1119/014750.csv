@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:OpenData,SeeFar V0,https://registry.opendata.aws/seefar,https://da.gd/E504u
+AWS:OpenData,MIMIC-IV Clinical Database Demo,https://registry.opendata.aws/mimic-iv-demo,https://da.gd/Np1uv
+AWS:OpenData,MIMIC-IV-ECG: Diagnostic Electrocardiogram Matched Subset,https://registry.opendata.aws/mimic-iv-ecg,https://da.gd/ojMKZ
+AWS:OpenData,Will Two Do? Varying Dimensions in Electrocardiography: The PhysioNet/Computing in Cardiology Challenge 2021,https://registry.opendata.aws/challenge-2021,https://da.gd/NLaHsX
