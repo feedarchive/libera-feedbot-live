@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SQS increases in-flight limit for FIFO queues from 20K to 120K,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sqs-increases-in-flight-limit-fifo-queues/,https://da.gd/gI75DA
+AWS:WhatsNew,Amazon RDS Blue/Green Deployments Green storage fully performant prior to switchover,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-blue-green-deployments-green-storage-performant-switchover/,https://da.gd/3IRji
+AWS:WhatsNew,AWS CloudFormation Hooks now allows AWS Cloud Control API resource configurations evaluation,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloudformation-hooks-cloud-control-api-configurations-evaluation,https://da.gd/JH1In
+AWS:WhatsNew,Accelerate AWS CloudFormation troubleshooting with Amazon Q Developer assistance,https://aws.amazon.com/about-aws/whats-new/2024/11/cloudformation-troubleshooting-q-developer-assistance/,https://da.gd/OGfmL
