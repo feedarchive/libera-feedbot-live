@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 Express One Zone now supports the ability to append data to an object,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object,https://da.gd/9xYeL
+AWS:WhatsNew,Amazon EC2 G6e instances now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6e-instances-additional-regions,https://da.gd/UYW6V
+AWS:WhatsNew,AWS Application Load Balancer introduces header modification for enhanced traffic control and security,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security,https://da.gd/C8XMhI
+AWS:WhatsNew,Amazon CloudWatch Synthetics now supports Playwright runtime to create canaries with NodeJS,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-synthetics-playwright-runtime-canaries-nodejs,https://da.gd/pWISFH
+AWS:WhatsNew,Amazon S3 Express One Zone now supports S3 Lifecycle expirations,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-s3-lifecycle-expirations,https://da.gd/lCgxxp
+AWS:WhatsNew,Announcing new Amazon CloudWatch Metrics for AWS Lambda Event Source Mappings (ESMs),https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms,https://da.gd/dWZPsT
+AWS:WhatsNew,Amazon EC2 C7i-flex and M7i-flex instances are now available in AWS Asia Pacific (Malaysia) Region,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-c7i-flex-m7i-flex-instances-malaysia-region,https://da.gd/l4qCSm
+AWS:WhatsNew,Amazon RDS for MySQL now supports MySQL 8.4 LTS release,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-for-mysql-8-4-lts-release/,https://da.gd/kVmX4
+AWS:WhatsNew,Amazon CloudFront announces origin modifications using CloudFront Functions,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-origin-modifications-cloudfront-functions,https://da.gd/kSly
+AWS:WhatsNew,AWS Backup for Amazon S3 adds new restore parameter,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-s3-adds-new-restore-parameter/,https://da.gd/mQqQQ
+AWS:WhatsNew,AWS Glue Data Catalog now supports Apache Iceberg automatic table optimization through Amazon VPC,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-data-catalog-apache-iceberg-table-optimization-amazon-vpc/,https://da.gd/YufZK
+AWS:WhatsNew,Amazon CloudWatch launches full visibility into application transactions,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-visibility-application-transactions/,https://da.gd/G1vDgQ
+AWS:WhatsNew,The new AWS Systems Manager experience: Simplifying node management,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-systems-manager-experience-simplifying-node-management/,https://da.gd/BLrtqF
+AWS:WhatsNew,Amazon EC2 C6a and R6a instances now available in additional AWS region,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-c6a-r6a-instances-additional-aws-region/,https://da.gd/XJb7s
+AWS:WhatsNew,Amazon CloudWatch Synthetics now automatically deletes Lambda resources associated with canaries,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-synthetics-deletes-lambda-resources-canaries/,https://da.gd/EL5OxN
