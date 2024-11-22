@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Application Load Balancer introduces Certificate Authority advertisement to simplify client behavior while using Mutual TLS,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-certificate-authority-advertisement,https://da.gd/Wenr1u
+AWS:WhatsNew,AWS Application Discovery Service now supports data from commercially available discovery tools,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-data-commercially-available-discovery-tools,https://da.gd/4C4JgT
+AWS:WhatsNew,Amazon S3 Connector for PyTorch now supports Distributed Checkpoint,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-connector-pytorch-distributed-checkpoint,https://da.gd/yuwYE
+AWS:WhatsNew,Amazon EC2 Auto Scaling introduces highly responsive scaling policies,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-auto-scaling-highly-responsive-scaling-policies,https://da.gd/u0pBq
+AWS:WhatsNew,Amazon OpenSearch Ingestion now supports writing security data to Amazon Security Lake,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-writing-security-data-security-lake,https://da.gd/xdDYs
+AWS:WhatsNew,"Find security, compliance, and operating metrics in AWS Resource Explorer",https://aws.amazon.com/about-aws/whats-new/2024/11/security-compliance-operating-metrics-aws-resource-explorer,https://da.gd/x0Env
+AWS:WhatsNew,Amazon QuickSight launches Highcharts visual (preview),https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-highcharts-visual-preview,https://da.gd/S82EbP
+AWS:WhatsNew,Amazon QuickSight now supports import visual capability (preview),https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-import-visual-capability-preview,https://da.gd/aqfiXV
+AWS:WhatsNew,Amazon OpenSearch Ingestion now supports AWS Lambda for custom data transformation,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-lambda-data-transformation/,https://da.gd/bUsTCE
+AWS:WhatsNew,AWS Application Discovery Service now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-aws-privatelink,https://da.gd/3ezOWG
