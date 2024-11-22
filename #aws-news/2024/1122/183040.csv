@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Cognito introduces Managed Login to support rich branding for end user journeys,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cognito-managed-login,https://da.gd/BbYvG
+AWS:WhatsNew,Amazon Cognito now supports passwordless authentication for low-friction and secure logins,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cognito-passwordless-authentication-low-friction-secure-logins,https://da.gd/upMg
+AWS:WhatsNew,Amazon Bedrock Knowledge Bases now supports binary vector embeddings to build RAG applications,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-knowledge-bases-binary-vector-embeddings-rag-applications,https://da.gd/DbcEf
+AWS:WhatsNew,Cross-zone enabled Application Load Balancer now supports zonal shift and zonal autoshift,https://aws.amazon.com/about-aws/whats-new/2024/11/cross-zone-application-load-balancer-zonal-shift-autoshift,https://da.gd/yars3
+AWS:WhatsNew,Announcing new feature tiers: Essentials and Plus for Amazon Cognito,https://aws.amazon.com/about-aws/whats-new/2024/11/new-feature-tiers-essentials-plus-amazon-cognito,https://da.gd/rPLFj
+AWS:WhatsNew,Amazon Q Business introduces ability to reuse recently uploaded files in a conversation,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-reuse-uploaded-files-conversation,https://da.gd/eDiiT7
+AWS:WhatsNew,AWS AppSync now supports cross account sharing of GraphQL APIs,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-cross-account-sharing-graphql-apis,https://da.gd/ICgCu
+AWS:WhatsNew,Amazon Managed Service for Apache Flink releases a new Amazon Kinesis Data Streams connector,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kinesis-data-streams-connector,https://da.gd/VFYnL
+AWS:WhatsNew,Amazon Redshift announces support for Confluent Cloud and Apache Kafka,https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-confluent-cloud-apache-kafka,https://da.gd/hxGVS
+AWS:WhatsNew,AWS Billing and Cost Management announces Savings Plans Purchase Analyzer,https://aws.amazon.com/about-aws/whats-new/2024/11/aws-billing-cost-management-savings-plans-purchase-analyzer,https://da.gd/UA1w
