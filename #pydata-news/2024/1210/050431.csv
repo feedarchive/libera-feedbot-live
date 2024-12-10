@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+ArXiv,PyTerrier-GenRank: The PyTerrier Plugin for Reranking with Large Language Models,https://arxiv.org/abs/2412.05339,
+ArXiv,pyAMPACT: A Score-Audio Alignment Toolkit for Performance Data Estimation and Multi-modal Processing,https://arxiv.org/abs/2412.05436,
+ArXiv,Beyond pip install: Evaluating LLM Agents for the Automated Installation of Python Projects,https://arxiv.org/abs/2412.06294,
+ArXiv,PyPulse: A Python Library for Biosignal Imputation,https://arxiv.org/abs/2412.06382,
+ArXiv,VOPy: A Framework for Black-box Vector Optimization,https://arxiv.org/abs/2412.06604,
