@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Managed Service for Prometheus collector now support collecting metrics from IPv6 EKS clusters,https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-prometheus-collector-metrics-ipv6-eks-clusters/,https://da.gd/nZ2xL
+AWS:WhatsNew,AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies,https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies,https://da.gd/YkSzAf
+AWS:WhatsNew,Amazon Connect launches support for routing to a specific range of agent proficiencies,https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-routing-range-agent-proficiencies/,https://da.gd/IR5sPQ
+AWS:WhatsNew,Amazon Connect offers the ability to exclude certain proficiencies during routing,https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-exclude-proficiencies-routing,https://da.gd/gkB2G4
