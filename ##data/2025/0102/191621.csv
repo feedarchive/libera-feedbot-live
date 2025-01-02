@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:OpenData,Met Office Global Ensemble Prediction System (MOGREPS-G) on a 30-day rolling archive,https://registry.opendata.aws/met-office-global-ensemble,https://da.gd/RZO2u
+AWS:OpenData,Emory Knee Radiograph (MRKR) dataset,https://registry.opendata.aws/mrkr,https://da.gd/lR4IW
+AWS:OpenData,GenomeKit genomic data,https://registry.opendata.aws/genomekit,https://da.gd/sVo24
+AWS:OpenData,Boltz-1 Training Data,https://registry.opendata.aws/boltz1,https://da.gd/L2jaT
