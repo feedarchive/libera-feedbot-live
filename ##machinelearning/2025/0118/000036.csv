@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.6.0-rc7: Prevent legacy_load when weights_only=True (correctly) (#145111),https://github.com/pytorch/pytorch/releases/tag/v2.6.0-rc7,
