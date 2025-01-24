@@ -1,0 +1,27 @@
+feed,title,long_url,short_url
+j:JMLR,PirateNets: Physics-informed Deep Learning with Residual Adaptive Networks,http://jmlr.org/papers/v25/24-0313.html,https://da.gd/NsaT
+j:JMLR,Deep Backward and Galerkin Methods for the Finite State Master Equation,http://jmlr.org/papers/v25/24-0215.html,https://da.gd/SWi5W
+j:JMLR,"A New, Physics-Informed Continuous-Time Reinforcement Learning Algorithm with Performance Guarantees",http://jmlr.org/papers/v25/24-0017.html,https://da.gd/2oaXR
+j:JMLR,"Learning with a linear loss function: excess risk and estimation bounds for ERM, minmax MOM and their regularized versions with applications to robustness in sparse PCA",http://jmlr.org/papers/v25/23-1405.html,https://da.gd/IriRVX
+j:JMLR,Robust Spectral Clustering with Rank Statistics,http://jmlr.org/papers/v25/23-0552.html,https://da.gd/FWd81Q
+j:JMLR,Learning Dynamic Mechanisms in Unknown Environments: A Reinforcement Learning Approach,http://jmlr.org/papers/v25/23-0159.html,https://da.gd/7MuIr2
+j:JMLR,Transfer learning for tensor Gaussian graphical models,http://jmlr.org/papers/v25/22-1313.html,https://da.gd/EOQm
+j:JMLR,Scaled Conjugate Gradient Method for Nonconvex Optimization in Deep Neural Networks,http://jmlr.org/papers/v25/22-0815.html,https://da.gd/SoIQ70
+j:JMLR,Contextual Bandits with Packing and Covering Constraints: A Modular Lagrangian Approach via Regression,http://jmlr.org/papers/v25/24-1220.html,https://da.gd/QMrnYV
+j:JMLR,An Optimal Transport Approach for Computing Adversarial Training Lower Bounds in Multiclass Classification,http://jmlr.org/papers/v25/24-0268.html,https://da.gd/VaSrZq
+j:JMLR,Fisher information dissipation for time-inhomogeneous stochastic differential equations,http://jmlr.org/papers/v25/24-0206.html,https://da.gd/jgZgj
+j:JMLR,Zeroth-order Stochastic Approximation Algorithms for DR-submodular Optimization,http://jmlr.org/papers/v25/23-1523.html,https://da.gd/etOE
+j:JMLR,Neural Bayes estimators for censored inference with peaks-over-threshold models,http://jmlr.org/papers/v25/23-1134.html,https://da.gd/spsNbM
+j:JMLR,"Infeasible Deterministic, Stochastic, and Variance-Reduction Algorithms for Optimization under Orthogonality Constraints",http://jmlr.org/papers/v25/23-0451.html,https://da.gd/h6mfK
+j:JMLR,Exponential Tail Local Rademacher Complexity Risk Bounds Without the Bernstein Condition,http://jmlr.org/papers/v25/23-0063.html,https://da.gd/8ult5o
+j:JMLR,Near-Optimal Algorithms for Making the Gradient Small in Stochastic Minimax Optimization,http://jmlr.org/papers/v25/22-1126.html,https://da.gd/TkRjxH
+j:JMLR,Learning Discretized Neural Networks under Ricci Flow,http://jmlr.org/papers/v25/22-0444.html,https://da.gd/PjaozZ
+j:JMLR,Deep Nonparametric Quantile Regression under Covariate Shift,http://jmlr.org/papers/v25/24-0906.html,https://da.gd/ShAZ8
+j:JMLR,Virtual-Event-Based Posterior Sampling and Inference for Neyman-Scott Processes,http://jmlr.org/papers/v25/24-0235.html,https://da.gd/IgPkAj
+j:JMLR,Guaranteed Nonconvex Factorization Approach for Tensor Train Recovery,http://jmlr.org/papers/v25/24-0029.html,https://da.gd/XYeY
+j:JMLR,Optimal Decision Tree and Adaptive Submodular Ranking with Noisy Outcomes,http://jmlr.org/papers/v25/23-1484.html,https://da.gd/6aCfu
+j:JMLR,Decomposing Global Feature Effects Based on Feature Interactions,http://jmlr.org/papers/v25/23-0699.html,https://da.gd/CZOaz
+j:JMLR,"A Random Projection Approach to Personalized Federated Learning: Enhancing Communication Efficiency, Robustness, and Fairness",http://jmlr.org/papers/v25/23-0215.html,https://da.gd/Fxu9w
+j:JMLR,Accelerating Nuclear-norm Regularized Low-rank Matrix Optimization Through Burer-Monteiro Decomposition,http://jmlr.org/papers/v25/23-0049.html,https://da.gd/eDBzdz
+j:JMLR,Targeted Separation and Convergence with Kernel Discrepancies,http://jmlr.org/papers/v25/22-1123.html,https://da.gd/0Wylo
+j:JMLR,Learning Gaussian DAGs from Network Data,http://jmlr.org/papers/v25/21-0846.html,https://da.gd/Iqefqi
