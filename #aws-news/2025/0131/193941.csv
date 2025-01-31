@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EBS now supports additional resource-level permissions for creating EBS volumes from snapshots,https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ebs-resource-level-permissions-creating-ebs-volumes-snapshots,https://da.gd/UL47
+AWS:WhatsNew,Amazon Q Developer agent now runs builds and tests to validate generated code in real time,https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-agent-builds-tests-validate-generated-code-real-time,https://da.gd/mfaoa
+AWS:WhatsNew,Amazon Connect Cases now provides more granular search capabilities and customizable case list views,https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-cases-granular-search-case-list-views/,https://da.gd/18AFxi
+AWS:WhatsNew,Amazon EventBridge enhances event source discovery in the console,https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-event-source-discovery-console/,https://da.gd/wk54d
