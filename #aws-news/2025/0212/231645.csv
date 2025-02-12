@@ -1,0 +1,16 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon FSx for Lustre now supports Lustre version upgrades,https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades,https://da.gd/GskCN
+AWS:WhatsNew,AWS AppSync enhances resolver testing with comprehensive context object mocking,https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-resolver-testing-comprehensive-context-object-mocking,https://da.gd/mtvP
+AWS:WhatsNew,Amazon Elastic Block Store (EBS) now adds full snapshot size information in Console and API,https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api,https://da.gd/SV8S6a
+AWS:WhatsNew,AWS HealthScribe now supports GIRPP note template for behavioral health,https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health,https://da.gd/6cwx
+AWS:WhatsNew,Amazon Polly launches a new voice in Singaporean English,https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-polly-new-voice-singaporean-english,https://da.gd/82ZLBe
+AWS:WhatsNew,AWS AppSync GraphQL introduces operation-level caching for faster GraphQL API responses,https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-graphql-operation-level-caching-api-responses,https://da.gd/j7egeK
+AWS:WhatsNew,AWS Secrets and Configuration Provider now integrates with Pod Identity for Amazon EKS,https://aws.amazon.com/about-aws/whats-new/2025/02/aws-secrets-configuration-provider-pod-identity-eks/,https://da.gd/f4jxs
+AWS:WhatsNew,Amazon Connect Contact Lens can now take automated actions based on hold times and agent interaction time,https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automated-actions-based-hold-times-agent-interaction-time,https://da.gd/mgwLx
+AWS:WhatsNew,Amazon Connect Contact Lens now provides a dashboard with aggregated insights on agent performance evaluations,https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-dashboard-agent-evaluations/,https://da.gd/nntQy
+AWS:WhatsNew,Amazon DynamoDB now supports auto-approval of quota adjustments,https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-dynamodb-supports-auto-approval-quota-adjustments/,https://da.gd/KIiJg
+AWS:WhatsNew,Amazon EC2 M8g instances now available in AWS Europe (London),https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m8g-instances-aws-europe-london,https://da.gd/eYneCQ
+AWS:WhatsNew,CloudWatch Application Signals now supports Runtime Metrics for .NET Applications,https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-application-signals-runtime-metrics-net-applications/,https://da.gd/kMXt
+AWS:WhatsNew,Announcing AWS CloudFormation support for AWS Transfer Family web apps,https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudformation-aws-transfer-family-web-apps,https://da.gd/E0Ml1
+AWS:WhatsNew,Amazon Redshift Serverless announces reduction in IP Address Requirements to 3 per Subnet,https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-serverless-ip-address-3-per-subnet/,https://da.gd/S6q3C
+AWS:WhatsNew,Anthropic’s upgraded Claude 3.5 Sonnet now available in the Asia Pacific (Sydney) Region,https://aws.amazon.com/about-aws/whats-new/2025/02/anthropics-upgraded-claude-3-5-sonnet-sydney-region/,https://da.gd/KYhGs
