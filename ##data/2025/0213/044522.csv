@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Chlorophyll-a concentration (Carder model),https://registry.opendata.aws/aodn_satellite_chlorophylla_carder_1day_aqua,https://da.gd/Yrrxa5
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Chlorophyll-a concentration (GSM model),https://registry.opendata.aws/aodn_satellite_chlorophylla_gsm_1day_aqua,https://da.gd/3xidU
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Chlorophyll-a concentration (OC3 model),https://registry.opendata.aws/aodn_satellite_chlorophylla_oc3_1day_aqua,https://da.gd/ZP29c
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Chlorophyll-a concentration (OCI model),https://registry.opendata.aws/aodn_satellite_chlorophylla_oci_1day_aqua,https://da.gd/TfXhIA
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Diffuse attenuation coefficient (k490),https://registry.opendata.aws/aodn_satellite_diffuse_attenuation_coefficent_1day_aqua,https://da.gd/OnuUm
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Nanoplankton fraction (OC3 model and Brewin et al 2012 algorithm),https://registry.opendata.aws/aodn_satellite_nanoplankton_fraction_oc3_1day_aqua,https://da.gd/FFzx
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Net Primary Productivity (GSM model and Eppley-VGPM algorithm),https://registry.opendata.aws/aodn_satellite_net_primary_productivity_gsm_1day_aqua,https://da.gd/rfHAn1
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Net Primary Productivity (OC3 model and Eppley-VGPM algorithm),https://registry.opendata.aws/aodn_satellite_net_primary_productivity_oc3_1day_aqua,https://da.gd/cRli7
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Optical Water Type (Moore et al 2009 algorithm),https://registry.opendata.aws/aodn_satellite_optical_water_type_1day_aqua,https://da.gd/qB0nBo
+AWS:OpenData,Satellite - Ocean Colour - MODIS - 1 day - Picoplankton fraction (OC3 model and Brewin et al 2012 algorithm),https://registry.opendata.aws/aodn_satellite_picoplankton_fraction_oc3_1day_aqua,https://da.gd/7ficm6
+AWS:OpenData,Satellite - Sea surface temperature - Level 3 - Single sensor - Himawari-8 - 1 day - Night time,https://registry.opendata.aws/aodn_satellite_ghrsst_l3c_1day_nighttime_himawari8,https://da.gd/B5zXUN
