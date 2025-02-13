@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:OpenData,Digital Earth Pacific Mangroves Extent and Density,https://registry.opendata.aws/dep-mangroves,https://da.gd/bDfTt
+AWS:OpenData,Digital Earth Pacific Water Observatins from Space (WOfS),https://registry.opendata.aws/dep-wofs,https://da.gd/KxjgmN
+AWS:OpenData,Landsat Geometric Median and Absolute Deviations (GeoMAD) over the Pacific,https://registry.opendata.aws/dep-ls-geomads,https://da.gd/NkkxU
+AWS:OpenData,Pacific Coastlines Change,https://registry.opendata.aws/dep-coastlines,https://da.gd/gdLd
+AWS:OpenData,Sentinel-1 Mean and Median Annual Mosaic,https://registry.opendata.aws/dep-s1-annual-mosaics,https://da.gd/W72aPe
+AWS:OpenData,Sentinel-2 Geometric Median and Absolute Deviations (GeoMAD) over the Pacific,https://registry.opendata.aws/dep-s2-geomads,https://da.gd/c9oFby
