@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon API Gateway now supports HTTP APIs, mTLS, multi-level base path mappings, and WAF in additional regions",https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-api-gateway-http-apis-mtls-multi-level-base-path-mappings-waf-additional-regions,https://da.gd/HVk4F
+AWS:WhatsNew,Amazon CloudWatch RUM introduces resource-based policy support for data ingestion access,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-resource-based-policy-ingestion-access/,https://da.gd/BS5pO
+AWS:WhatsNew,Amazon Cognito now supports access token customization for machine-to-machine (M2M) authorization flows,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-access-token-m2m-authorization-flows/,https://da.gd/ZGYvU
