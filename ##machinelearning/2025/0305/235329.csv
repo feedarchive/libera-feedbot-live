@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Bottlerocket now supports NVIDIA Multi-Instance GPU (MIG) for Kubernetes workloads,https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-nvidia-multi-instance-gpu-mig-kubernetes-workloads,https://da.gd/YyZx8
+AWS:WhatsNew,Bottlerocket now supports AWS Neuron accelerated instance types,https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-aws-neuron-accelerated-instance-types,https://da.gd/lXjlG
