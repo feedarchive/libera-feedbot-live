@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Bottlerocket now supports NVIDIA Multi-Instance GPU (MIG) for Kubernetes workloads,https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-nvidia-multi-instance-gpu-mig-kubernetes-workloads,https://da.gd/YyZx8
+AWS:WhatsNew,Amazon EKS now envelope encrypts all Kubernetes API data by default,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-envelope-encrypts-kubernetes-api-data-default,https://da.gd/RMFE7
+AWS:WhatsNew,Bottlerocket now supports AWS Neuron accelerated instance types,https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-aws-neuron-accelerated-instance-types,https://da.gd/lXjlG
+AWS:WhatsNew,Bottlerocket simplifies system setup with default bootstrap container image,https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-system-setup-bootstrap-container-image/,https://da.gd/feXMmA
