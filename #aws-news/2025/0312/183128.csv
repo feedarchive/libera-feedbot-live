@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudFormation Hooks' new invocation targets and managed Hooks are available in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-hooks-invocation-targets-managed-hooks/,https://da.gd/cP3sm
+AWS:WhatsNew,Amazon Nova is now available in AWS GovCloud,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-models-govcloud/,https://da.gd/zdBZU
+AWS:WhatsNew,AWS CodeBuild now supports organization and enterprise level GitHub self-hosted runners,https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-organization-enterprise-level-github-self-hosted-runners,https://da.gd/0Kh5
+AWS:WhatsNew,Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now supports multiple integrations,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-postgresql-zero-etl-integration-redshift-multiple-integrations,https://da.gd/GvHuh4
+AWS:WhatsNew,Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in 3 additional regions,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions,https://da.gd/qwa4Fv
+AWS:WhatsNew,Amazon Inspector expands ECR support for minimal container base images and enhanced detections,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-inspector-container-base-images-enhanced-detections/,https://da.gd/9UnVv
+AWS:WhatsNew,Amazon ECR announces ECR to ECR pull through cache,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ecr-pull-through-cache/,https://da.gd/1paO
