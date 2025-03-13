@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AppSync Events adds publishing over WebSocket for real-time pub/sub,https://aws.amazon.com/about-aws/whats-new/2025/03/appsync-events-publishing-websocket-real-time-pub-sub,https://da.gd/SzU7Mb
+AWS:WhatsNew,Amazon S3 Tables integration with SageMaker Lakehouse is now generally available,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-lakehouse-integration-s3-tables-generally-available,https://da.gd/bjnQsf
+AWS:WhatsNew,Amazon S3 Tables add Apache Iceberg REST Catalog APIs,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-apache-iceberg-rest-catalog-apis,https://da.gd/55cbE
+AWS:WhatsNew,Amazon S3 Tables add create and query table support in the S3 console,https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-create-query-table-s3-console/,https://da.gd/75w1
