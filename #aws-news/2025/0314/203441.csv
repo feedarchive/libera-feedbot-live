@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing support of AWS Glue Data Catalog views with AWS Glue 5.0,https://aws.amazon.com/about-aws/whats-new/2025/03/aws-glue-data-catalog-views-glue-5-0,https://da.gd/olXS0o
+AWS:WhatsNew,AWS CodePipeline introduces CodeBuild and Commands rule for stage level condition,https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codepipeline-codebuild-commands-rule-stage-level-condition/,https://da.gd/HVwLzY
+AWS:WhatsNew,AWS CodePipeline supports invoking pipeline execution with a new action type,https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codepipeline-invoking-pipeline-new-action-type/,https://da.gd/oWmtF
