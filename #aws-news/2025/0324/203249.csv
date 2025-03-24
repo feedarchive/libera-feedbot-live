@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Keyspaces (for Apache Cassandra) adds Multi-Region support for User Defined Types (UDTs),https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-apache-cassandra-multi-region-support-udts,https://da.gd/EhMC
+AWS:WhatsNew,Announcing Terraform support for AWS Parallel Computing Service,https://aws.amazon.com/about-aws/whats-new/2025/03/announcing-terraform-parallel-computing-service/,https://da.gd/BAvh
+AWS:WhatsNew,AWS DMS Schema Conversion now supports conversions from IBM Db2 for z/OS to Amazon RDS for Db2,https://aws.amazon.com/about-aws/whats-new/2025/03/aws-dms-schema-conversion-ibm-db2-z-os/,https://da.gd/jPsA2
