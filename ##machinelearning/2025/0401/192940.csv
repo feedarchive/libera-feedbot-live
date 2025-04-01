@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.7.0-rc4: `torch.backends.mkldnn.flags()` CM should not warn (#150416),https://github.com/pytorch/pytorch/releases/tag/v2.7.0-rc4,
