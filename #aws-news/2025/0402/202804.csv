@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudWatch Logs increases maximum log event size to 1 MB,https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-logs-increases-log-event-size-1-mb/,https://da.gd/UwK9u
+AWS:WhatsNew,AWS CDK L2 Construct for Amazon Cognito Identity Pools now generally available,https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-l2-construct-cognito-identity-pools/,https://da.gd/p0xUle
+AWS:WhatsNew,AWS CDK Construct Library for Amazon EventBridge Scheduler now generally available,https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-construct-library-eventbridge-scheduler/,https://da.gd/VGBQw
