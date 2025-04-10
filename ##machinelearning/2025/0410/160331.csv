@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.7.0-rc9: Gracefully handle optree less than minimum version (#150977),https://github.com/pytorch/pytorch/releases/tag/v2.7.0-rc9,
