@@ -1,0 +1,31 @@
+feed,title,long_url,short_url
+j:JMLR,Estimation of Local Geometric Structure on Manifolds from Noisy Data,http://jmlr.org/papers/v26/25-0183.html,https://da.gd/mR7yw
+j:JMLR,Ontolearn---A Framework for Large-scale OWL Class Expression Learning in Python,http://jmlr.org/papers/v26/24-1113.html,https://da.gd/S67xE
+j:JMLR,Continuously evolving rewards in an open-ended environment,http://jmlr.org/papers/v26/24-0847.html,https://da.gd/qetHQW
+j:JMLR,Recursive Causal Discovery,http://jmlr.org/papers/v26/24-0384.html,https://da.gd/MnuOA1
+j:JMLR,Evaluation of Active Feature Acquisition Methods for Time-varying Feature Settings,http://jmlr.org/papers/v26/23-1635.html,https://da.gd/WjB1ut
+j:JMLR,On Adaptive Stochastic Optimization for Streaming Data: A Newton's Method with O(dN) Operations,http://jmlr.org/papers/v26/23-1565.html,https://da.gd/gZdshB
+j:JMLR,Determine the Number of States in Hidden Markov Models via Marginal Likelihood,http://jmlr.org/papers/v26/23-0343.html,https://da.gd/UOcCCw
+j:JMLR,Variance-Aware Estimation of Kernel Mean Embedding,http://jmlr.org/papers/v26/23-0161.html,https://da.gd/rkLeAv
+j:JMLR,Scaling ResNets in the Large-depth Regime,http://jmlr.org/papers/v26/22-0664.html,https://da.gd/4NpUAn
+j:JMLR,A Comparative Evaluation of Quantification Methods,http://jmlr.org/papers/v26/21-0241.html,https://da.gd/eOx8c
+j:JMLR,Lightning UQ Box: Uncertainty Quantification for Neural Networks,http://jmlr.org/papers/v26/24-2110.html,https://da.gd/EqwGh
+j:JMLR,Scaling Data-Constrained Language Models,http://jmlr.org/papers/v26/24-1000.html,https://da.gd/7sMGp
+j:JMLR,Curvature-based Clustering on Graphs,http://jmlr.org/papers/v26/24-0781.html,https://da.gd/KtNis
+j:JMLR,Composite Goodness-of-fit Tests with Kernels,http://jmlr.org/papers/v26/24-0276.html,https://da.gd/UmH8M
+j:JMLR,PFLlib: A Beginner-Friendly and Comprehensive Personalized Federated Learning Library and Benchmark,http://jmlr.org/papers/v26/23-1634.html,https://da.gd/aw08EO
+j:JMLR,"The Effect of SGD Batch Size on Autoencoder Learning: Sparsity, Sharpness, and Feature Learning",http://jmlr.org/papers/v26/23-1022.html,https://da.gd/NYuc
+j:JMLR,Efficient and Robust Transfer Learning of Optimal Individualized Treatment Regimes with Right-Censored Survival Data,http://jmlr.org/papers/v26/23-0335.html,https://da.gd/QJKC1
+j:JMLR,DAGs as Minimal I-maps for the Induced Models of Causal Bayesian Networks under Conditioning,http://jmlr.org/papers/v26/23-0002.html,https://da.gd/YJ0nST
+j:JMLR,Adjusted Expected Improvement for Cumulative Regret Minimization in Noisy Bayesian Optimization,http://jmlr.org/papers/v26/22-0523.html,https://da.gd/9MVC8J
+j:JMLR,Manifold Fitting under Unbounded Noise,http://jmlr.org/papers/v26/21-0039.html,https://da.gd/pPPxG
+j:JMLR,Learning Global Nash Equilibrium in Team Competitive Games with Generalized Fictitious Cross-Play,http://jmlr.org/papers/v26/24-1503.html,https://da.gd/cl4aq
+j:JMLR,Wasserstein Convergence Guarantees for a General Class of Score-Based Generative Models,http://jmlr.org/papers/v26/24-0902.html,https://da.gd/oifZ
+j:JMLR,Extremal graphical modeling with latent variables via convex optimization,http://jmlr.org/papers/v26/24-0472.html,https://da.gd/ye8FOx
+j:JMLR,On the Approximation of Kernel functions,http://jmlr.org/papers/v26/24-0270.html,https://da.gd/BiV79
+j:JMLR,Efficient and Robust Semi-supervised Estimation of Average Treatment Effect with Partially Annotated Treatment and Response,http://jmlr.org/papers/v26/23-1587.html,https://da.gd/Z83XL1
+j:JMLR,Nonconvex Stochastic Bregman Proximal Gradient Method with Application to Deep Learning,http://jmlr.org/papers/v26/23-0657.html,https://da.gd/PvdUgc
+j:JMLR,Optimizing Data Collection for Machine Learning,http://jmlr.org/papers/v26/23-0292.html,https://da.gd/dEXwK
+j:JMLR,"Unbalanced Kantorovich-Rubinstein distance, plan, and barycenter on nite spaces: A statistical perspective",http://jmlr.org/papers/v26/22-1262.html,https://da.gd/Ngzsr
+j:JMLR,Copula-based Sensitivity Analysis for Multi-Treatment Causal Inference with Unobserved Confounding,http://jmlr.org/papers/v26/22-0372.html,https://da.gd/H3irJ
+j:JMLR,Rank-one Convexification for Sparse Regression,http://jmlr.org/papers/v26/19-159.html,https://da.gd/gPv14l
