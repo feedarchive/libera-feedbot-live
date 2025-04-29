@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:OpenData,Caenorabditis Diversity Natural Resource,https://registry.opendata.aws/caendr,https://da.gd/y8PkOd
+AWS:OpenData,EEGDash on AWS,https://registry.opendata.aws/eegdash,https://da.gd/FBPt8x
+AWS:OpenData,DHARANI Developing Human-Brain Atlas,https://registry.opendata.aws/dharani-brain-dataset,https://da.gd/ARBBKN
+AWS:OpenData,Satellite - Sea surface temperature - Level 3 - Multi sensor - 1 day - Day and night time,https://registry.opendata.aws/aodn_satellite_ghrsst_l3s_1day_daynighttime_multi_sensor_australia,https://da.gd/urD74
+AWS:OpenData,Satellite - Sea surface temperature - Level 3 - Multi sensor - 3 day - Day and night time,https://registry.opendata.aws/aodn_satellite_ghrsst_l3s_3day_daynighttime_multi_sensor_australia,https://da.gd/9gfyY4
+AWS:OpenData,Satellite - Sea surface temperature - Level 3 - Single sensor - 1 month - Day time,https://registry.opendata.aws/aodn_satellite_ghrsst_l3s_1month_daytime_single_sensor_australia,https://da.gd/mby2
+AWS:OpenData,Satellite - Sea surface temperature - Level 3 - Single sensor - 6 day - Day and night time,https://registry.opendata.aws/aodn_satellite_ghrsst_l3s_6day_daynighttime_single_sensor_australia,https://da.gd/yceT74
+AWS:OpenData,Ships of Opportunity - Expendable bathythermographs - Delayed mode,https://registry.opendata.aws/aodn_vessel_xbt_delayed_qc,https://da.gd/rIwMBZ
+AWS:OpenData,OceanOmics,https://registry.opendata.aws/oceanomics,https://da.gd/sBAxB
