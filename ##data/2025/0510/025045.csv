@@ -1,0 +1,20 @@
+feed,title,long_url,short_url
+AWS:OpenData,SPARC: Datasets bridging the body and the brain,https://registry.opendata.aws/sparc,https://da.gd/1IU6Uy
+AWS:OpenData,MetaGraph Sequence Indexes,https://registry.opendata.aws/metagraph,https://da.gd/cjEQxf
+AWS:OpenData,Ocean Radar - Capricorn bunker group site - Wave - Delayed mode,https://registry.opendata.aws/aodn_radar_capricornbunkergroup_wave_delayed_qc,https://da.gd/XAh19
+AWS:OpenData,Ocean Radar - Capricorn bunker group site - Wind - Delayed mode,https://registry.opendata.aws/aodn_radar_capricornbunkergroup_wind_delayed_qc,https://da.gd/QCBOD
+AWS:OpenData,Ocean Radar - Coffs Harbour site - Wave - Delayed mode,https://registry.opendata.aws/aodn_radar_coffsharbour_wave_delayed_qc,https://da.gd/yfFf
+AWS:OpenData,Ocean Radar - Coffs Harbour site - Wind - Delayed mode,https://registry.opendata.aws/aodn_radar_coffsharbour_wind_delayed_qc,https://da.gd/px3x
+AWS:OpenData,Ocean Radar - Rottnest shelf site - Wave - Delayed mode,https://registry.opendata.aws/aodn_radar_rottnestshelf_wave_delayed_qc,https://da.gd/tJJ1E
+AWS:OpenData,Ocean Radar - Rottnest shelf site - Wind - Delayed mode,https://registry.opendata.aws/aodn_radar_rottnestshelf_wind_delayed_qc,https://da.gd/OjvkrH
+AWS:OpenData,Ocean Radar - South Australian gulfs site - Sea water velocity - Delayed mode,https://registry.opendata.aws/aodn_radar_southaustraliagulfs_velocity_hourly_averaged_delayed_qc,https://da.gd/95zUj
+AWS:OpenData,Ocean Radar - South Australian gulfs site - Wave - Delayed mode,https://registry.opendata.aws/aodn_radar_southaustraliagulfs_wave_delayed_qc,https://da.gd/jek8F
+AWS:OpenData,Ocean Radar - South Australian gulfs site - Wind - Delayed mode,https://registry.opendata.aws/aodn_radar_southaustraliagulfs_wind_delayed_qc,https://da.gd/OxzpZO
+AWS:OpenData,Satellite - Ocean Colour - NOAA20 - 1 day - Chlorophyll-a concentration (GSM model),https://registry.opendata.aws/aodn_satellite_chlorophylla_gsm_1day_noaa20,https://da.gd/V4MzUF
+AWS:OpenData,Satellite - Ocean Colour - NOAA20 - 1 day - Chlorophyll-a concentration (OC3 model),https://registry.opendata.aws/aodn_satellite_chlorophylla_oc3_1day_noaa20,https://da.gd/WM2Kr4
+AWS:OpenData,Satellite - Ocean Colour - NOAA20 - 1 day - Chlorophyll-a concentration (OCI model),https://registry.opendata.aws/aodn_satellite_chlorophylla_oci_1day_noaa20,https://da.gd/wYUs3
+AWS:OpenData,Satellite - Ocean Colour - SNPP - 1 day - Chlorophyll-a concentration (GSM model),https://registry.opendata.aws/aodn_satellite_chlorophylla_gsm_1day_snpp,https://da.gd/xcznSX
+AWS:OpenData,Satellite - Ocean Colour - SNPP - 1 day - Chlorophyll-a concentration (OC3 model),https://registry.opendata.aws/aodn_satellite_chlorophylla_oc3_1day_snpp,https://da.gd/PJYd
+AWS:OpenData,Satellite - Ocean Colour - SNPP - 1 day - Chlorophyll-a concentration (OCI model),https://registry.opendata.aws/aodn_satellite_chlorophylla_oci_1day_snpp,https://da.gd/kmVAh
+AWS:OpenData,Satellite - Ocean Colour - NOAA20 - 1 day - Diffuse attenuation coefficient (k490),https://registry.opendata.aws/aodn_satellite_diffuse_attenuation_coefficent_1day_noaa20,https://da.gd/2Bo9
+AWS:OpenData,Satellite - Ocean Colour - SNPP - 1 day - Diffuse attenuation coefficient (k490),https://registry.opendata.aws/aodn_satellite_diffuse_attenuation_coefficent_1day_snpp,https://da.gd/OwdML
