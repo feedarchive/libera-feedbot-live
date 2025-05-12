@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+status,[bedrock-us-east-2] [RESOLVED] Bedrock API issues with Claude 3.7 Sonnet v2,https://status.aws.amazon.com/#bedrock-us-east-2_1747075582,
+status,[bedrock-us-west-2] [RESOLVED] Bedrock API issues with Claude 3.7 Sonnet,https://status.aws.amazon.com/#bedrock-us-west-2_1747075555,
+status,[bedrock-us-east-1] [RESOLVED] Bedrock API issues with Claude 3.7 Sonnet,https://status.aws.amazon.com/#bedrock-us-east-1_1747075515,
