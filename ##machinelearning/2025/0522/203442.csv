@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.7.1-rc3: [ROCm] Added unit test to test the cuda_pluggable allocator (#154135),https://github.com/pytorch/pytorch/releases/tag/v2.7.1-rc3,
