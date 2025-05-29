@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.7.1-rc5: set thread_work_size to 4 for unrolled kernel (#154541),https://github.com/pytorch/pytorch/releases/tag/v2.7.1-rc5,
