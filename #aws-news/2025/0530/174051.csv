@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MWAA now provides option to update environments without interrupting task execution,https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution,https://da.gd/EKog
+AWS:WhatsNew,Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.33,https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-distro-kubernetes-version-1-33,https://da.gd/aQ54R
+AWS:WhatsNew,"AWS Pricing Calculator, now generally available, supports discounts and purchase commitment",https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments,https://da.gd/VEoZtU
+AWS:WhatsNew,Mountpoint for Amazon S3 now lets you automatically mount your S3 buckets using fstab,https://aws.amazon.com/about-aws/whats-new/2025/05/mountpoint-amazon-s3-mount-buckets-fstab/,https://da.gd/gCSk8
+AWS:WhatsNew,Amazon EKS introduces configuration insights for Amazon EKS Hybrid Nodes,https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-configuration-insights-eks-hybrid-nodes/,https://da.gd/fOdQU
