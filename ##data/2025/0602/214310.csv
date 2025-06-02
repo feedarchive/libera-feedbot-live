@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:OpenData,U.S. Environmental Protection Agency (EPA) Center for Computational Toxicology and Exposure High Throughput Transcriptomics Data,https://registry.opendata.aws/epa-ccte-httr,https://da.gd/fFKrm
+AWS:OpenData,CZ Grand Challenges - Imaging MIT Licensed data and models,https://registry.opendata.aws/czi-imagining-mit,https://da.gd/sykbZ
+AWS:OpenData,CZ Grand Challenges - Transcriptomic MIT Licensed data and models,https://registry.opendata.aws/czi-transcriptomics-mit,https://da.gd/cDag
+AWS:OpenData,CZ Grand Challenges - Imaging BSD licensed data and models,https://registry.opendata.aws/czi-imaging-bsd,https://da.gd/clJ9A
+AWS:OpenData,CZ Grand Challenges - Model Benchmarking,https://registry.opendata.aws/czi-benchmarking,https://da.gd/WlMty
