@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,PandasBench: A Benchmark for the Pandas API,https://arxiv.org/abs/2506.02345,
+ArXiv,In-context Clustering-based Entity Resolution with Large Language Models: A Design Space Exploration,https://arxiv.org/abs/2506.02509,
+ArXiv,A Learned Cost Model-based Cross-engine Optimizer for SQL Workloads,https://arxiv.org/abs/2506.02802,
+ArXiv,Process Mining on Distributed Data Sources,https://arxiv.org/abs/2506.02830,
