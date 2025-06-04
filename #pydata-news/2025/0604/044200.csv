@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,PandasBench: A Benchmark for the Pandas API,https://arxiv.org/abs/2506.02345,
+ArXiv,$whittlehurst$: A Python package implementing Whittle's likelihood estimation of the Hurst exponent,https://arxiv.org/abs/2506.01985,
