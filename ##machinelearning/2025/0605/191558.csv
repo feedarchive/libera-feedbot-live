@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,trunk/2481c4b2ea5db7a6d6f60f5d27426000c2779dc8,https://github.com/pytorch/pytorch/releases/tag/trunk%2F2481c4b2ea5db7a6d6f60f5d27426000c2779dc8,
+GitHub:pytorch,trunk/13ea0f2c0a06101d9aab9ce12c30043be7c92d38,https://github.com/pytorch/pytorch/releases/tag/trunk%2F13ea0f2c0a06101d9aab9ce12c30043be7c92d38,
+GitHub:pytorch,"trunk/05dd638ee98b36254c84095894c36fd0e7d95544: Revert ""Add dont constant fold flag (#154945)""",https://github.com/pytorch/pytorch/releases/tag/trunk%2F05dd638ee98b36254c84095894c36fd0e7d95544,
