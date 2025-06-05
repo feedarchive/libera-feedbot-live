@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,trunk/08274640028f68418d8f889d01af577b90ac2ec1: Replace runtime type parameterization (#155221),https://github.com/pytorch/pytorch/releases/tag/trunk%2F08274640028f68418d8f889d01af577b90ac2ec1,
+GitHub:pytorch,trunk/606d73bde495b055984206986fb7dd8918570e89: Adding from_node for nodes in gm.module() (#155053),https://github.com/pytorch/pytorch/releases/tag/trunk%2F606d73bde495b055984206986fb7dd8918570e89,
+GitHub:pytorch,trunk/9e88d6c857fd2b276427f4527130e2ecb7ed731e: [ROCm] manywheel missing hipsparselt deps (#155254),https://github.com/pytorch/pytorch/releases/tag/trunk%2F9e88d6c857fd2b276427f4527130e2ecb7ed731e,
+GitHub:pytorch,trunk/9a42f01586267b52fe303c0c1b7a71d50cc4178e: [Cutlass] EVT dynamic shapes support (#154835),https://github.com/pytorch/pytorch/releases/tag/trunk%2F9a42f01586267b52fe303c0c1b7a71d50cc4178e,
