@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 now enables you to delete underlying EBS snapshots when deregistering AMIs,https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-delete-underlying-ebs-snapshots-deregistering-amis,https://da.gd/7oM9dY
+AWS:WhatsNew,Pricing and usage model updates for Amazon EC2 instances accelerated by NVIDIA GPUs,https://aws.amazon.com/about-aws/whats-new/2025/06/pricing-usage-model-ec2-instances-nvidia-gpus/,https://da.gd/L03pa
