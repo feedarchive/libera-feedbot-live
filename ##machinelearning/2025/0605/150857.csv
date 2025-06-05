@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GitHub:pytorch,trunk/7999735d23aeca844d4a7b23de6ac2370767099a,https://github.com/pytorch/pytorch/releases/tag/trunk%2F7999735d23aeca844d4a7b23de6ac2370767099a,
+GitHub:pytorch,trunk/523b637cbeb69665072a2cf489ec1c5313b57670,https://github.com/pytorch/pytorch/releases/tag/trunk%2F523b637cbeb69665072a2cf489ec1c5313b57670,
+GitHub:pytorch,trunk/196c95d463367f15999c0cddc9eb89031e9988ab: Add dont constant fold flag (#154945),https://github.com/pytorch/pytorch/releases/tag/trunk%2F196c95d463367f15999c0cddc9eb89031e9988ab,
+GitHub:pytorch,trunk/9bf6593e96b711641606e6008a4936173fd3b458: Fix docstring for `torch.UntypedStorage.from_file` (#155067),https://github.com/pytorch/pytorch/releases/tag/trunk%2F9bf6593e96b711641606e6008a4936173fd3b458,
+GitHub:pytorch,trunk/9a4c08ddfc9b43c07cd16355277d359dfcef50d6: [MPS] Parametrize `test_scaled_dot_product_attention_autocast` (#155005),https://github.com/pytorch/pytorch/releases/tag/trunk%2F9a4c08ddfc9b43c07cd16355277d359dfcef50d6,
+GitHub:pytorch,"trunk/3c72b9fd8feed4588a040bc681ffe83cc7acd26d: Revert ""SDPA support gfx950 (#155103)""",https://github.com/pytorch/pytorch/releases/tag/trunk%2F3c72b9fd8feed4588a040bc681ffe83cc7acd26d,
+GitHub:pytorch,trunk/ed661a5f11de116539f70882f4f59a61d5e3e209: [MPS] Fix complex scalar binding to Metal tensors (#155184),https://github.com/pytorch/pytorch/releases/tag/trunk%2Fed661a5f11de116539f70882f4f59a61d5e3e209,
+GitHub:pytorch,trunk/e01fde82131c7f0b4c122222694911ee6fab36ca,https://github.com/pytorch/pytorch/releases/tag/trunk%2Fe01fde82131c7f0b4c122222694911ee6fab36ca,
