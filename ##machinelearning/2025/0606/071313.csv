@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+GitHub:pytorch,trunk/9d59b516e9b3026948918e3ff8c2ef55a33d13ad: Make device check throw specific error (#155085),https://github.com/pytorch/pytorch/releases/tag/trunk%2F9d59b516e9b3026948918e3ff8c2ef55a33d13ad,
+GitHub:pytorch,trunk/07da8a469bdd69966e1f832e3d09d991798f854c: [CI] fix xpu-smi hang issue on some xpu runners (#155194),https://github.com/pytorch/pytorch/releases/tag/trunk%2F07da8a469bdd69966e1f832e3d09d991798f854c,
+GitHub:pytorch,trunk/e694280d1215caf70f41575f2611bfa26c69ebdb: Custom FX pass for inductor's backend registration (#154841),https://github.com/pytorch/pytorch/releases/tag/trunk%2Fe694280d1215caf70f41575f2611bfa26c69ebdb,
+GitHub:pytorch,"trunk/d3d64c6db090ee9be051202e6ac6fd4acd5d3e97: Revert ""Add pinned numpy and fix build (#155129)""",https://github.com/pytorch/pytorch/releases/tag/trunk%2Fd3d64c6db090ee9be051202e6ac6fd4acd5d3e97,
+GitHub:pytorch,trunk/c6b4f98625bb6b22bb9a60112a6d58e684a97e1b: Add Intel GPU info collection to the collect env script (#137846),https://github.com/pytorch/pytorch/releases/tag/trunk%2Fc6b4f98625bb6b22bb9a60112a6d58e684a97e1b,
