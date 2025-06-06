@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,trunk/64436c38c956b252d8c9f6f68e94fb46c34efdac: [logs] Add autotuning data (#154771),https://github.com/pytorch/pytorch/releases/tag/trunk%2F64436c38c956b252d8c9f6f68e94fb46c34efdac,
+GitHub:pytorch,trunk/706bc41c4c3caa2654a926382c2ef0ef4d0bc55e: pass mempool arg through emptyCache (#155315),https://github.com/pytorch/pytorch/releases/tag/trunk%2F706bc41c4c3caa2654a926382c2ef0ef4d0bc55e,
+GitHub:pytorch,trunk/453bc9fbdfb97fef925477cbbf4948e93fd22756: [a2av] 2D all-to-all-vdev (#155058),https://github.com/pytorch/pytorch/releases/tag/trunk%2F453bc9fbdfb97fef925477cbbf4948e93fd22756,
