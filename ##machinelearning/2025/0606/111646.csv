@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,trunk/36a722e20d081c1a5a6df417d0f8333f6c082476: [typo] Fix 'intialize' -> 'initialize' in proxy_tensor.py (#155301),https://github.com/pytorch/pytorch/releases/tag/trunk%2F36a722e20d081c1a5a6df417d0f8333f6c082476,
