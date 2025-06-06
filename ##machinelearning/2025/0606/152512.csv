@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+GitHub:pytorch,"trunk/9656251bb1bee12c0e2f21828dc14a4c3c06afdd: Revert ""[BE] Update cudnn to 9.10.1.4 (#155122)""",https://github.com/pytorch/pytorch/releases/tag/trunk%2F9656251bb1bee12c0e2f21828dc14a4c3c06afdd,
+GitHub:pytorch,trunk/907aea032d2f709f26dec78b762481c4604cc186: Add claude local md files (#155299),https://github.com/pytorch/pytorch/releases/tag/trunk%2F907aea032d2f709f26dec78b762481c4604cc186,
+GitHub:pytorch,trunk/529e0357c6c4e74f8cd32c29198c5f1c9f6e329d: [inductor] Add typing to _inductor/ir.py (#149958),https://github.com/pytorch/pytorch/releases/tag/trunk%2F529e0357c6c4e74f8cd32c29198c5f1c9f6e329d,
+GitHub:pytorch,trunk/348fd45065620f20080299774f37f45233ef8f6b: Support detached checkout in tools/nightly.py (#154314),https://github.com/pytorch/pytorch/releases/tag/trunk%2F348fd45065620f20080299774f37f45233ef8f6b,
+GitHub:pytorch,trunk/271ca679a8a0e40f1ecca49db76b5f8d6a9713d6,https://github.com/pytorch/pytorch/releases/tag/trunk%2F271ca679a8a0e40f1ecca49db76b5f8d6a9713d6,
+GitHub:pytorch,trunk/231eb9902ba78a4ef70203243058f3c7c0ced15d: [MPS][BE] Extend ndim_and_dtypes to 4 elements (#155272),https://github.com/pytorch/pytorch/releases/tag/trunk%2F231eb9902ba78a4ef70203243058f3c7c0ced15d,
+GitHub:pytorch,trunk/58e5d20c57e6baafd82b3b49c0e52931f5ae5d51: [BE] Delete IS_SPMM_AVAILABLE() logic (#155296),https://github.com/pytorch/pytorch/releases/tag/trunk%2F58e5d20c57e6baafd82b3b49c0e52931f5ae5d51,
+GitHub:pytorch,trunk/10cef1e25d39c1ff1ac93036302ce1b008cd4469: Remove torch XPU ABI=0 build logic for old compiler (#150095),https://github.com/pytorch/pytorch/releases/tag/trunk%2F10cef1e25d39c1ff1ac93036302ce1b008cd4469,
