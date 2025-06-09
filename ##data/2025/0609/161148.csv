@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,Met Office NWS Ocean model on a 2-year rolling archive,https://registry.opendata.aws/met-office-nws-ocean,https://da.gd/Cd5AZw
+AWS:OpenData,Met Office NWS Wave model on a 2-year rolling archive,https://registry.opendata.aws/met-office-nws-wave,https://da.gd/goaAi
+AWS:OpenData,GLAD Landsat ARD,https://registry.opendata.aws/glad-landsat-ard,https://da.gd/bVdxHN
