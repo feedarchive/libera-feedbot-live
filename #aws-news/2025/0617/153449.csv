@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:Blog,New AWS Shield feature discovers network security issues before they can be exploited (Preview),https://aws.amazon.com/blogs/aws/new-aws-shield-feature-discovers-network-security-issues-before-they-can-be-exploited-preview/,
+AWS:Blog,Amazon CloudFront simplifies web application delivery and security with new user-friendly interface,https://aws.amazon.com/blogs/aws/amazon-cloudfront-simplifies-web-application-delivery-and-security-with-new-user-friendly-interface/,
+AWS:Blog,AWS Certificate Manager introduces exportable public SSL/TLS certificates to use anywhere,https://aws.amazon.com/blogs/aws/aws-certificate-manager-introduces-exportable-public-ssl-tls-certificates-to-use-anywhere/,
+AWS:Blog,Verify internal access to critical AWS resources with new IAM Access Analyzer capabilities,https://aws.amazon.com/blogs/aws/verify-internal-access-to-critical-aws-resources-with-new-iam-access-analyzer-capabilities/,
