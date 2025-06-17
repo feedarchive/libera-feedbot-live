@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,New Zealand Coastal Elevation,https://registry.opendata.aws/nz-coastal,https://da.gd/vU6vwl
+AWS:OpenData,CanElevation - LiDAR Point Clouds,https://registry.opendata.aws/canelevation-pointcloud,https://da.gd/LXo3b3
+AWS:OpenData,NOAA HYSPLIT-compatible meteorological data archives,https://registry.opendata.aws/noaa-arl-hysplit,https://da.gd/BhZOuK
