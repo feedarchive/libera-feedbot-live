@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS WAF reduces web application security configuration steps and provides expert-level protection,https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection,
+AWS:WhatsNew,AWS IAM now enforces MFA for root users across all account types,https://aws.amazon.com/about-aws/whats-new/2025/06/aws-iam-mfa-root-users-across-all-account-types/,
+AWS:WhatsNew,IAM Access Analyzer now identifies who in your AWS organization can access your AWS resources,https://aws.amazon.com/about-aws/whats-new/2025/06/iam-access-analyzer-aws-organization-access-resources/,
+AWS:WhatsNew,AWS Certificate Manager introduces public certificates you can use anywhere,https://aws.amazon.com/about-aws/whats-new/2025/06/aws-certificate-manager-public-certificates-use-anywhere/,
+AWS:WhatsNew,Amazon CloudFront streamlines CDN setup with smart defaults and automation,https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudfront-streamlines-cdn-setup-smart-defaults-automation,
