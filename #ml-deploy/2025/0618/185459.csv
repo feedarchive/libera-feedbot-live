@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Docker,Docker State of App Dev: Security,https://www.docker.com/blog/docker-state-of-app-dev-security/,
+Docker,Why Docker Chose OCI Artifacts for AI Model Packaging,https://www.docker.com/blog/why-docker-chose-oci-artifacts-for-ai-model-packaging/,
+Docker,Behind the scenes: How we designed Docker Model Runner and what’s next,https://www.docker.com/blog/behind-the-scenes-how-we-designed-docker-model-runner-and-whats-next/,
