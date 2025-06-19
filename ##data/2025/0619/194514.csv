@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PwC:Latest:Datasets,/nvlabs/ Comprehensive Verilog Design Problems: A Next-Generation Benchmark Dataset for Evaluating Large Language Models and Agents on RTL Design and Verification: https://github.com/nvlabs/cvdp_benchmark,https://paperswithcode.com/paper/comprehensive-verilog-design-problems-a-next,
+PwC:Latest:Datasets,/spoc-group/ Dataset distillation for memorized data: Soft labels can leak held-out teacher knowledge: https://github.com/spoc-group/dataset-distillation-memorization,https://paperswithcode.com/paper/dataset-distillation-for-memorized-data-soft,
+PwC:Latest:Datasets,/wang-yuanlong/ SatHealth: A Multimodal Public Health Dataset with Satellite-based Environmental Factors: https://github.com/wang-yuanlong/sathealth,https://paperswithcode.com/paper/sathealth-a-multimodal-public-health-dataset,
