@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup now supports copying Amazon S3 backups across Regions and accounts in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-copying-amazon-s3-backups-regions-accounts-aws-govcloud-us-regions,
+AWS:WhatsNew,Amazon WorkSpaces Personal now supports PrivateLink for streaming traffic,https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-workspaces-personal-privatelink-streaming-traffic,
+AWS:WhatsNew,Announcing general availability of managed integrations for AWS IoT Device Management,https://aws.amazon.com/about-aws/whats-new/2025/06/managed-integrations-aws-iot-device-management/,
