@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+PwC:Trending,"/luigifreda/ pySLAM: An Open-Source, Modular, and Extensible Framework for SLAM: https://github.com/luigifreda/pyslam",https://paperswithcode.com/paper/pyslam-an-open-source-modular-and-extensible,
+PwC:Trending,/optuna/ Optuna: A Next-generation Hyperparameter Optimization Framework: https://github.com/optuna/optuna,https://paperswithcode.com/paper/optuna-a-next-generation-hyperparameter,
+PwC:Trending,/PyTorchLightning/ A Framework For Contrastive Self-Supervised Learning And Designing A New Approach: https://github.com/PyTorchLightning/pytorch-lightning,https://paperswithcode.com/paper/a-framework-for-contrastive-self-supervised,
+PwC:Trending,/SeldonIO/ Desiderata for next generation of ML model serving: https://github.com/SeldonIO/seldon-core,https://paperswithcode.com/paper/desiderata-for-next-generation-of-ml-model,
