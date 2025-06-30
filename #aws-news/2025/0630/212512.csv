@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DynamoDB global tables with multi-Region strong consistency is now generally available,https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamo-db-global-tables-multi-region-strong-consistency-generally-available,
+AWS:WhatsNew,AWS B2B Data Interchange introduces splitting of inbound EDI documents,https://aws.amazon.com/about-aws/whats-new/2025/06/aws-b2b-data-interchange-splitting-inbound-edi-documents/,
+AWS:WhatsNew,Amazon Redshift Serverless now supports 4 RPU Minimum Capacity Option,https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-redshift-serverless-4-rpu-capacity-option/,
