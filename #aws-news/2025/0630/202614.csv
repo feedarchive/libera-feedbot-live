@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ElastiCache now supports AWS PrivateLink in eight additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elasticache-aws-privatelink-additional-regions,
+AWS:WhatsNew,Now generally available: Amazon EC2 C8gn instance,https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance,
+AWS:WhatsNew,"Finch expands support to Ubuntu, streamlining container development across platforms",https://aws.amazon.com/about-aws/whats-new/2025/06/finch-ubuntu-streamlining-container-development-across-platforms,
+AWS:WhatsNew,AWS Config rules add classifications from AWS Control Tower Control Catalog,https://aws.amazon.com/about-aws/whats-new/2025/06/aws-config-rules-classifications-control-tower-control-catalog,
+AWS:WhatsNew,AWS Global Accelerator now supports endpoints in two additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/06/aws-global-accelerator-endpoints-two-additional-regions/,
