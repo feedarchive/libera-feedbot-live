@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS HealthImaging launches support for DICOMweb STOW-RS data imports,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-healthimaging-dicomweb-stow-rs-data-imports,
+AWS:WhatsNew,Amazon SageMaker Catalog adds AI recommendations for descriptions of custom assets,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-catalog-adds-ai/,
+AWS:WhatsNew,Amazon Relational Database Service Custom (Amazon RDS Custom) for Oracle now supports Multi-AZ deployments,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-relational-database-service-custom-az-deployments/,
+AWS:WhatsNew,AWS HealthImaging now supports DICOMweb BulkData,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-healthimaging-dicomweb-bulkdata/,
