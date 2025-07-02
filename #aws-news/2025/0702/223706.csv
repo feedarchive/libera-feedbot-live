@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 Express One Zone now supports tags for cost allocation and attribute-based access control,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-express-one-zone-tags-cost-allocation-attribute-based-access-control,
+AWS:WhatsNew,Amazon Q Business launches the ability to customize responses,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-business-ability-customize-responses/,
+AWS:WhatsNew,New features for AWS Neuron 2.24 include PyTorch 2.7 and inference enhancements,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neuron-2-24-pytorch-2-7-inference-enhancements/,
+AWS:WhatsNew,AWS Site-to-Site VPN extends AWS Secrets Manager integration in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-site-to-site-vpn-secrets-manager-integration/,
