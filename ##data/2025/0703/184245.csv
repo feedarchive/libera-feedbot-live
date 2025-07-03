@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,Digital Earth Africa - Copernicus Global Land Service - Lake Water Quality,https://registry.opendata.aws/deafrica-clgm-lwq,
+AWS:OpenData,Digital Earth Africa Sentinel-2 Level-2A Surface Reflectance Collection 1,https://registry.opendata.aws/deafrica-sentinel-2-c1,
+AWS:OpenData,SPHEREx Quick Release (QR): An All-Sky Spectral Survey,https://registry.opendata.aws/spherex-qr,
