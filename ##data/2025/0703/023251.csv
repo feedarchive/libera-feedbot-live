@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:OpenData,Sentinel-1 Monthly Mosaic,https://registry.opendata.aws/deafrica-sentinel-1-mosaic,
+AWS:OpenData,Clay Model v0 Embeddings,https://registry.opendata.aws/clay-model-v0-embeddings,
+AWS:OpenData,Clay v1.5 NAIP-2,https://registry.opendata.aws/clay-v1-5-naip-2,
+AWS:OpenData,Clay v1.5 Sentinel-2,https://registry.opendata.aws/clay-v1-5-sentinel2,
