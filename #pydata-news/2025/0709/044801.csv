@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,ReservoirChat: Interactive Documentation Enhanced with LLM and Knowledge Graph for ReservoirPy,https://arxiv.org/abs/2507.05279,
+ArXiv,MCNP-GO: A python package for assembling MCNP input files with a systems engineering approach,https://arxiv.org/abs/2507.05659,
+ArXiv,UQLM: A Python Package for Uncertainty Quantification in Large Language Models,https://arxiv.org/abs/2507.06196,
