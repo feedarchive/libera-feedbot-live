@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.8.0-rc5: Fix #156261 _foreach_copy indexing (#158238),https://github.com/pytorch/pytorch/releases/tag/v2.8.0-rc5,
