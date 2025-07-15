@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker introduces a visual workflows builder,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-visual-workflows-builder/,
+AWS:WhatsNew,Amazon Redshift announces support for automatic refresh of materialized views on Apache Iceberg tables,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-redshift-refresh-views-apache-iceberg-tables/,
