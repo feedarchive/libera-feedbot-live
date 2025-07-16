@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue now supports zero-ETL integrations from Amazon DynamoDB and eight applications to S3 Tables,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-glue-zero-etl-integrations-amazon-dynamodb-applications-s3-tables,
+AWS:WhatsNew,Announcing Model Context Protocol (MCP) Server for Amazon MSK,https://aws.amazon.com/about-aws/whats-new/2025/07/mcp-server-amazon-msk,
