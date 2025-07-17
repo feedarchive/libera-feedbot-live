@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SNS enhances cross-Region delivery capabilities,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-cross-region-delivery-capabilities,
+AWS:WhatsNew,Amazon MemoryDB now supports an AWS FIS action to pause multi-Region cluster replication,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-memorydb-supports-aws-fis-action-pause-multi-region-cluster-replication,
+AWS:WhatsNew,Amazon RDS for PostgreSQL 18 Beta 2 is now available in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-18-beta-2-rds-database-preview-environment,
