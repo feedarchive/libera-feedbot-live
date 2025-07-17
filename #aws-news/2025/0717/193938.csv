@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Clean Rooms ML now supports Parquet file format,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-ml-parquet-file-format/,
+AWS:WhatsNew,AWS Lambda enables developers to debug functions running in the cloud from VS Code IDE,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-debug-functions-cloud-vs-code-ide,
+AWS:WhatsNew,AWS Lambda bridges console to VS Code for unified serverless development experience,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-bridges-console-vs-code-unified-serverless-development-experience,
+AWS:WhatsNew,Amazon DynamoDB Streams introduces a new API feature for faster and more efficient stream shard discovery,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-dynamodb-streams-new-api-feature,
