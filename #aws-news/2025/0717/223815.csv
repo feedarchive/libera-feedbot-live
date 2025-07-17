@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for SQL Server now supports linked servers with Oracle OLEDB Driver version 21.16,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-sql-server-linked-servers-oracle-oledb-driver-version-21-16,
+AWS:WhatsNew,AWS Outposts now supports booting Amazon EC2 instances from external storage arrays,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-outposts-booting-amazon-ec2-instances-storage-arrays/,
+AWS:WhatsNew,Amazon OpenSearch Service now supports integration with Amazon Aurora MySQL and PostgreSQL,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-opensearch-service-supports-integration-aurora-mysql-postgresql,
+AWS:WhatsNew,Amazon OpenSearch Service now supports integration with Amazon RDS for MySQL and PostgreSQL,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-opensearch-service-supports-integration-rds-mysql-postgresql,
