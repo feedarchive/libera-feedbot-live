@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,LevelSetPy: A GPU-Accelerated Package for Hyperbolic Hamilton-Jacobi Partial Differential Equations,https://arxiv.org/abs/2507.11542,
+ArXiv,CRABS: A syntactic-semantic pincer strategy for bounding LLM interpretation of Python notebooks,https://arxiv.org/abs/2507.11742,
+ArXiv,An Empirical Study of Large Language Models for Type and Call Graph Analysis in Python and JavaScript,https://arxiv.org/abs/2410.00603,
