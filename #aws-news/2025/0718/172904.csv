@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Private CA now supports issuing up to 100 million certificates per CA,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-private-ca-issuing-100-million-certificates-ca/,
+AWS:WhatsNew,AWS Firewall Manager adds support for AWS Private Link,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-firewall-manager-aws-private-link,
+AWS:WhatsNew,Amazon SNS expands IPv6 support to VPC endpoints in AWS commercial Regions,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-ipv6-vpc-endpoints-commercial-regions,
