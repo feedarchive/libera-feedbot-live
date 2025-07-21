@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Braket adds new 54-qubit quantum processor from IQM,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-braket-54-qubit-quantum-processor-iqm/,
+AWS:WhatsNew,Amazon ElastiCache now supports Valkey 8.1,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-valkey-8-1/,
+AWS:WhatsNew,"Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M6i database instances in additional AWS regions",https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m6i/,
+AWS:WhatsNew,"Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7i database instances in AWS Asia Pacific (Melbourne) region",https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m7i/,
+AWS:WhatsNew,Amazon Aurora now supports R7i database instances in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r7i/,
+AWS:WhatsNew,"Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports R7g database instances in additional AWS Regions",https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-r7g/,
+AWS:WhatsNew,Amazon Aurora now supports R7g database instances in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r7g/,
+AWS:WhatsNew,"Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions",https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/,
+AWS:WhatsNew,Amazon Aurora now supports R8g database instances in the AWS US West (N. California) region,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r8g/,
