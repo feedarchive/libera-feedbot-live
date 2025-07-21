@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SQS introduces fair queues for multi-tenant workloads,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sqs-introduces-fair/,
+AWS:WhatsNew,Amazon EC2 C7gd instances are now available in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c7gd-instances/,
+AWS:WhatsNew,Amazon MSK now supports up to 5x more partitions on Express Brokers,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-msk-partitions-express-broker,
