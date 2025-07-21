@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+ArXiv,Enhancing Spatial Reasoning in Vision-Language Models via Chain-of-Thought Prompting and Reinforcement Learning,https://arxiv.org/abs/2507.13362,
+ArXiv,"Model-free Reinforcement Learning for Model-based Control: Towards Safe, Interpretable and Sample-efficient Agents",https://arxiv.org/abs/2507.13491,
+ArXiv,Learning Pluralistic User Preferences through Reinforcement Learning Fine-tuned Summaries,https://arxiv.org/abs/2507.13579,
+ArXiv,CogniQ-H: A Soft Hierarchical Reinforcement Learning Paradigm for Automated Data Preparation,https://arxiv.org/abs/2507.13710,
+ArXiv,LLaPipe: LLM-Guided Reinforcement Learning for Automated Data Preparation Pipeline Construction,https://arxiv.org/abs/2507.13712,
+ArXiv,DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training,https://arxiv.org/abs/2507.13833,
+ArXiv,Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments,https://arxiv.org/abs/2507.13846,
+ArXiv,Reframing attention as a reinforcement learning problem for causal discovery,https://arxiv.org/abs/2507.13920,
+ArXiv,Preference-based Multi-Objective Reinforcement Learning,https://arxiv.org/abs/2507.14066,
+ArXiv,CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning,https://arxiv.org/abs/2507.14111,
+ArXiv,Prompt-Tuning Bandits: Enabling Few-Shot Generalization for Efficient Multi-Task Offline RL,https://arxiv.org/abs/2502.06358,
