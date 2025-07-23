@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.8.0-rc8: [Release Only] Remove nvshmem from list of preload libraries (#158925),https://github.com/pytorch/pytorch/releases/tag/v2.8.0-rc8,
