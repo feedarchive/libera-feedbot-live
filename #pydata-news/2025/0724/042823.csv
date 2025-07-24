@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,DDFEM: A Python Package for Diffuse Domain Methods,https://arxiv.org/abs/2507.16964,
+ArXiv,laplax -- Laplace Approximations with JAX,https://arxiv.org/abs/2507.17013,
