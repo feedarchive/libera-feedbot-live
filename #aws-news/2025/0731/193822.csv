@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Database Insights provides on-demand analysis for RDS for Oracle,https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-on-demand-analysis-rds-oracle/,
+AWS:WhatsNew,AWS Lambda response streaming now supports 200 MB response payloads,https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-response-streaming-200-mb-payloads,
+AWS:WhatsNew,Amazon Chime SDK now provides Internet Protocol Version 6 (IPv6) API endpoints,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-chime-sdk-ipv6-api-endpoints/,
+AWS:WhatsNew,AWS Batch now supports scheduling SageMaker Training jobs,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-batch-sagemaker-training-jobs/,
