@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda response streaming now supports 200 MB response payloads,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-response-streaming-200-mb-payloads,
+AWS:WhatsNew,AWS Clean Rooms now publishes events to Amazon EventBridge,https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-publishes-events-amazon-eventbridge/,
+AWS:WhatsNew,Amazon Q Developer CLI announces custom agents,https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-developer-cli-custom-agents,
+AWS:WhatsNew,"AWS Management Console enables discover, manage applications from anywhere in the Console",https://aws.amazon.com/about-aws/whats-new/2025/07/aws-management-console-discover-manage-applications/,
