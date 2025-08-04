@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Serverless introduces automatic semantic enrichment,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-introduces-automatic-semantic-enrichment,
+AWS:WhatsNew,AWS Parallel Computing Service now supports Slurm SPANK plugins,https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-slurm-spank-plugins,
+AWS:WhatsNew,Mountpoint for Amazon S3 CSI driver accelerates performance and supports SELinux,https://aws.amazon.com/about-aws/whats-new/2025/08/mountpoint-amazon-s3-csi-driver-performance-selinux,
