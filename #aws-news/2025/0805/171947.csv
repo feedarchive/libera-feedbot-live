@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Systems Manager Run Command now supports interpolating parameters into environment variables,https://aws.amazon.com/about-aws/whats-new/2025/08/systems-manager-run-command-interpolating-parameters/,
