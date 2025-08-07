@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,OpenSearch UI supports Fine Grained Access Control by SAML attributes,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-UI-FGAC-by-SAML-attributes/,
+AWS:WhatsNew,Amazon EKS adds safety control to prevent accidental cluster deletion,https://aws.amazon.com/about-aws/whats-new/2025/08/eks-safety-control-prevent-accidental-cluster-deletion,
