@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Resource Explorer now Supports Filtering for Multiple Values,https://aws.amazon.com/about-aws/whats-new/2025/08/aws-resource-explorer-filtering-multiple-values/,
+AWS:WhatsNew,Amazon FSx for OpenZFS now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-fsx-openzfs-ipv6,
+AWS:WhatsNew,AWS IAM Identity Center introduces support for user background sessions with Amazon SageMaker Studio,https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-identity-center-user-background-sessions/,
