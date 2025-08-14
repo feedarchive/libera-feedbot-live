@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+ArXiv,JustDense: Just using Dense instead of Sequence Mixer for Time Series analysis,https://arxiv.org/abs/2508.09153,
+ArXiv,HiSTM: Hierarchical Spatiotemporal Mamba for Cellular Traffic Forecasting,https://arxiv.org/abs/2508.09184,
+ArXiv,From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization,https://arxiv.org/abs/2508.09191,
+ArXiv,Decentralized Weather Forecasting via Distributed Machine Learning and Blockchain-Based Model Validation,https://arxiv.org/abs/2508.09299,
+ArXiv,A Unified Contrastive-Generative Framework for Time Series Classification,https://arxiv.org/abs/2508.09451,
+ArXiv,"DeepFeatIoT: Unifying Deep Learned, Randomized, and LLM Features for Enhanced IoT Time Series Sensor Data Classification in Smart Industries",https://arxiv.org/abs/2508.09468,
+ArXiv,TimeMKG: Knowledge-Infused Causal Reasoning for Multivariate Time Series Modeling,https://arxiv.org/abs/2508.09630,
+ArXiv,TriForecaster: A Mixture of Experts Framework for Multi-Region Electric Load Forecasting with Tri-dimensional Specialization,https://arxiv.org/abs/2508.09753,
+ArXiv,"Beyond Na\""ive Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs",https://arxiv.org/abs/2508.09904,
+ArXiv,Forecasting Binary Economic Events in Modern Mercantilism: Traditional methodologies coupled with PCA and K-means Quantitative Analysis of Qualitative Sentimental Data,https://arxiv.org/abs/2508.09243,
+ArXiv,XGBoost meets INLA: a two-stage spatio-temporal forecasting of wildfires in Portugal,https://arxiv.org/abs/2508.09896,
