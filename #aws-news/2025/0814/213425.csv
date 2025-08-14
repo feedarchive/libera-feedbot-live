@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker HyperPod now supports fine-grained quota allocation of compute resources,https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-fined-grained-quota-allocation-compute-resources/,
+AWS:WhatsNew,PostgreSQL 18 Beta 3 is now available in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2025/08/postgresql-18-beta-3-amazon-rds-database-preview-environment,
+AWS:WhatsNew,Amazon Cloud Map adds support for cross-account service discovery,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloud-map-support-cross-account-service-discovery,
