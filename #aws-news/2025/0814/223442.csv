@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker HyperPod now supports Topology Aware Scheduling of LLM tasks,https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-topology-aware-scheduling-llm-tasks,
+AWS:WhatsNew,Amazon EC2 I7ie instances are now available in additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i7ie-instances-available-in-additional-aws-regions/,
+AWS:WhatsNew,AWS Cloud Map adds support for cross-account service discovery,https://aws.amazon.com/about-aws/whats-new/2025/08/aws-cloud-map-support-cross-account-service-discovery,
+AWS:WhatsNew,Accelerate Amazon WorkSpaces deployment with streamlined Bring Your Own License (BYOL) process,https://aws.amazon.com/about-aws/whats-new/2025/08/workspaces-streamlined-byol/,
