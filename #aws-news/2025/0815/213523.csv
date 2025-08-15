@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Athena now supports CREATE TABLE AS SELECT with Amazon S3 Tables,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-athena-create-table-select-amazon-s3-tables/,
+AWS:WhatsNew,Amazon DynamoDB now supports a CloudWatch Contributor Insights mode exclusively for throttled keys,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-cloudwatch-contributor-insights-throttled-keys,
+AWS:WhatsNew,Amazon DynamoDB now supports more granular throttle error exceptions,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-more-granular-throttle-error-exceptions/,
+AWS:WhatsNew,AWS Certificate Manager supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2025/08/aws-certificate-manager-supports-aws-privatelink,
