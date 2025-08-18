@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+ArXiv,GenFlowRL: Shaping Rewards with Generative Object-Centric Flow in Visual Reinforcement Learning,https://arxiv.org/abs/2508.11049,
+ArXiv,Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward,https://arxiv.org/abs/2508.11143,
+ArXiv,Multi-Group Equivariant Augmentation for Reinforcement Learning in Robot Manipulation,https://arxiv.org/abs/2508.11204,
+ArXiv,HOID-R1: Reinforcement Learning for Open-World Human-Object Interaction Detection Reasoning with Multimodal Large Language Model,https://arxiv.org/abs/2508.11350,
+ArXiv,ETTRL: Balancing Exploration and Exploitation in LLM Test-Time Reinforcement Learning Via Entropy Mechanism,https://arxiv.org/abs/2508.11356,
+ArXiv,Fusing Rewards and Preferences in Reinforcement Learning,https://arxiv.org/abs/2508.11363,
+ArXiv,On-Policy RL Meets Off-Policy Experts: Harmonizing Supervised Fine-Tuning and Reinforcement Learning via Dynamic Weighting,https://arxiv.org/abs/2508.11408,
+ArXiv,SeamlessFlow: A Trainer Agent Isolation RL Framework Achieving Bubble-Free Pipelines via Tag Scheduling,https://arxiv.org/abs/2508.11553,
+ArXiv,Counterfactual Survival Q Learning for Longitudinal Randomized Trials via Buckley James Boosting,https://arxiv.org/abs/2508.11060,
