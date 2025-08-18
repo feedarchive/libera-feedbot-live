@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,New streamlined fulfillment experience for AMI-based products in AWS Marketplace,https://aws.amazon.comabout-aws/whats-new/2025/08/aws-marketplace-new-ami-fulfillment-experience,
+AWS:WhatsNew,Amazon S3 introduces a new way to verify the content of stored datasets,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-verify-content-stored-datasets,
+AWS:WhatsNew,Amazon Bedrock now supports Batch inference for Anthropic Claude Sonnet 4 and OpenAI GPT-OSS models,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-batch-inference-anthropic-claude-sonnet-4-openai-gpt-oss-models,
