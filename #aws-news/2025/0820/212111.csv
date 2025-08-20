@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Managed Service for Apache Flink now supports Customer Managed Keys (CMK),https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-for-apache-flink-cmk-support,
+AWS:WhatsNew,Amazon MSK expands support for Graviton3 based M7g instances for Standard brokers in 8 more AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-msk-graviton3-m7g-instances-standard-brokers-8-more-regions,
