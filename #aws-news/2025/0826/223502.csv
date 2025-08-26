@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Client VPN now supports connectivity to IPv6 resources,https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-connectivity-ipv6-resources,
+AWS:WhatsNew,Amazon GameLift Streams now offers enhanced flexibility with default applications,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-gamelift-streams-default-applications,
+AWS:WhatsNew,Amazon MWAA now supports downgrading to minor Apache Airflow versions,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-mwaa-supports-downgrading/,
+AWS:WhatsNew,Amazon RDS for Oracle now supports Redo Transport Compression,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-redo-transport-compression,
