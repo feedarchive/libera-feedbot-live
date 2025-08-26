@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle now supports new certificate authority and cipher suites for SSL and OEM Agent options,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-certificate-authority-cipher-suites,
+AWS:WhatsNew,Aurora DSQL now supports resilience testing with AWS Fault Injection Service,https://aws.amazon.com/about-aws/whats-new/2025/08/aurora-dsql-resilience-testing-with-aws-fault-injection,
+AWS:WhatsNew,Amazon Connect Contact Lens now supports external voice in five additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-contact-lens-external-voice-additional-regions/,
