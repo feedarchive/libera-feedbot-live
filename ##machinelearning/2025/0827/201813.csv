@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker HyperPod now supports customer managed KMS keys for EBS volumes,https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-customer-managed-kms-ebs-volumes,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports Amazon EBS CSI driver for persistent storage,https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-ebs-csi-persistent-storage,
