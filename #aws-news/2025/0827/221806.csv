@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Client VPN extends OS support to Windows Arm64 v5.3.0,https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-windows-arm64/,
+AWS:WhatsNew,Amazon EC2 C7i instances are now available in Asia Pacific (Osaka) Region,https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7i-instances-available-in-osaka/,
+AWS:WhatsNew,New P5 instance with one NVIDIA H100 GPU is now available in SageMaker Training and Processing Jobs,https://aws.amazon.comabout-aws/whats-new/2025/08/p5-instance-nvidia-h100-gpu-sagemaker-training-processing-jobs,
+AWS:WhatsNew,AWS Management Console now supports assigning a color to an AWS account for easier identification,https://aws.amazon.com/about-aws/whats-new/2025/08/aws-management-console-assigning-color-aws-account/,
