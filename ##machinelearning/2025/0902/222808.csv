@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+Nvidia,Cut Model Deployment Costs While Keeping Performance With GPU Memory Swap,https://developer.nvidia.com/blog/cut-model-deployment-costs-while-keeping-performance-with-gpu-memory-swap/,
+Nvidia,Improving GEMM Kernel Auto-Tuning Efficiency on NVIDIA GPUs with Heuristics and CUTLASS 4.2,https://developer.nvidia.com/blog/improving-gemm-kernel-auto-tuning-efficiency-on-nvidia-gpus-with-heuristics-and-cutlass-4-2/,
