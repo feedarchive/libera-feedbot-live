@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudWatch now supports querying metrics data up to two weeks old,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-query-metrics-data-two-weeks/,
+AWS:WhatsNew,Amazon CloudWatch query alarms now support monitoring metrics individually,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-alarm-multiple-metrics/,
