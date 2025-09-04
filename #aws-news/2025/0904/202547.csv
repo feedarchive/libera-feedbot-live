@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 announces AMI Usage to better monitor the use of AMIs,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-ami-usage-monitor-amis/,
+AWS:WhatsNew,Amazon Elastic Container Registry (ECR) now supports repository creation templates in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecr-repository-templates-aws-govcloud/,
