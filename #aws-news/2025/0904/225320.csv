@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Validate best practice compliance for SAP with AWS Systems Manager,https://aws.amazon.com/about-aws/whats-new/2025/09/validate-best-practice-compliance-for-sap-aws-systems-manager/,
+AWS:WhatsNew,Amazon Managed Service for Prometheus adds quota visibility through AWS Service Quotas and CloudWatch,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-quota-visibility-aws-service-quotas-cloudwatch,
+AWS:WhatsNew,AWS adds support for three new condition keys to govern API keys for Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-api-keys-conditions-govern-amazon-bedrock,
+AWS:WhatsNew,PostgreSQL 18 Beta RC1 is now available in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2025/09/postgresql-18-beta-rc1-amazon-rds-database-preview-environment/,
