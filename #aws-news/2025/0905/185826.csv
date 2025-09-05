@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS Proxy now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-supports-ipv6,
+AWS:WhatsNew,Enhancing threat detection with Amazon GuardDuty new custom entity lists,https://aws.amazon.com/about-aws/whats-new/2025/09/threat-detection-amazon-guardfuty-custom-entity-lists,
+AWS:WhatsNew,Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.9,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-postgresql-16-9/,
+AWS:WhatsNew,AWS Backup now supports organization-wide reports in six additional regions,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-organization-wide-reports-6-regions,
