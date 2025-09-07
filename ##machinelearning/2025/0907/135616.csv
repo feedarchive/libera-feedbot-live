@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+JMLR:MLOSS,Model-free Change-Point Detection Using AUC of a Classifier,http://jmlr.org/papers/v26/24-0365.html,
+JMLR:MLOSS,WEFE: A Python Library for Measuring and Mitigating Bias in Word Embeddings,http://jmlr.org/papers/v26/22-1133.html,
+JMLR:MLOSS,skglm: Improving scikit-learn for Regularized Generalized Linear Models,http://jmlr.org/papers/v26/24-0008.html,
