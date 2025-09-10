@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon IVS now supports private ingest via interface VPC endpoints,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/,
+AWS:WhatsNew,AWS IoT SiteWise now supports retraining of anomaly detection models,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iot-sitewise-retraining-anomaly-detection-models/,
