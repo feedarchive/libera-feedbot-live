@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing AWS CDK Refactor (Preview),https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cdk-refactor-preview/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Gateway supports AWS PrivateLink invocation and invocation logging,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-gateway-privatelink-invocation-logging,
+AWS:WhatsNew,AWS Elastic Beanstalk now supports IPv6 in dual stack configuration for Application and Network Load Balancers,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-elastic-beanstalk-ipv6-dual-stack-configuration/,
