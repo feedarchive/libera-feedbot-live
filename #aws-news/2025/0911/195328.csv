@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS enhances task definition editing in the AWS Console with Amazon Q Developer,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-task-definition-q-developer,
+AWS:WhatsNew,AWS launches LocalStack integration in VS Code IDE to simplify local testing for serverless applications,https://aws.amazon.com/about-aws/whats-new/2025/09/localstack-integration-vs-code-ide-local-testing/,
