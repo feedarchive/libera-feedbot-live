@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+PyTorch,Distributed Checkpoint: Efficient checkpointing in large-scale jobs,https://pytorch.org/blog/distributed-checkpoint-efficient-checkpointing-in-large-scale-jobs/,
