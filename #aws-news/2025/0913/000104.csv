@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS Service Connect adds support for cross-account workloads,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-service-connect-cross-account-workloads,
+AWS:WhatsNew,Amazon SageMaker notebooks now support P6-B200 instance type,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-notebooks-p6-b200-instance-type,
+AWS:WhatsNew,Amazon RDS Proxy announces support for end-to-end IAM authentication,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-end-to-end-iam-authentication/,
