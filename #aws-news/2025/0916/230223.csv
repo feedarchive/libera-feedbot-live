@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon EC2 I7i instances now available in South America (São Paulo), Canada West (Calgary) regions",https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-sao-paulo-calgary-regions/,
+AWS:WhatsNew,New fault action in AWS FIS to inject I/O latency on Amazon EBS volumes,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-fis-action-inject-io-latency-on-ebs/,
+AWS:WhatsNew,Amazon S3 now supports conditional deletes in S3 general purpose buckets,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-s3-conditional-deletes-s3-general-purpose-buckets,
+AWS:WhatsNew,AWS Transfer Family is now available in AWS Asia Pacific (Taipei) region,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-asia-pacific-taipei-region/,
