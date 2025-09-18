@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/,
+AWS:WhatsNew,Amazon Q Developer CLI announces support for remote MCP servers,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/,
+AWS:WhatsNew,Amazon Lex provides enhanced confirmation and currency built-in slots to 10 additional languages,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-enhanced-confirmation-currency-slots-to-languages/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports autoscaling using Karpenter,https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-hyperpod-autoscaling/,
+AWS:WhatsNew,AWS Step Functions now supports IPv6 with dual-stack endpoints,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-ipv6-dual-stack-endpoints/,
+AWS:WhatsNew,Amazon OpenSearch Serverless now supports Disk-Optimized Vectors,https://aws.amazon.com/about-aws/whats-new/2025/09/opensearch-serverless-disk-optimized-vectors,
