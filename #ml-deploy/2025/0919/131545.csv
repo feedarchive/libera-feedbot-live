@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+Docker,Silent Component Updates & Redesigned Update Experience,https://www.docker.com/blog/docker-desktop-silent-component-updates/,
+Docker,Beyond Containers: llama.cpp Now Pulls GGUF Models Directly from Docker Hub,https://www.docker.com/blog/llama-cpp-pulls-gguf-models-from-docker-hub/,
