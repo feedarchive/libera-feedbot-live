@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,DELM: a Python toolkit for Data Extraction with Language Models,https://arxiv.org/abs/2509.20617,
+ArXiv,Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem,https://arxiv.org/abs/2509.21039,
