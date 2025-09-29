@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 Auto Scaling now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-ipv6/,
+AWS:WhatsNew,Amazon ECS announces IPv6-only support,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-ipv6-only-support/,
+AWS:WhatsNew,Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2025/09/anthropics-claude-sonnet-4-5-amazon-bedrock,
