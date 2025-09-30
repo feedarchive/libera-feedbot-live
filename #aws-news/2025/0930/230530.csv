@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker managed MLflow is now available in the AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-mlflow-available-aws-govcloud/,
+AWS:WhatsNew,Amazon Elastic VMware Service (Amazon EVS) is now available in Asia Pacific (Singapore) and Europe (London) Regions,https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-evs-singapore-london-regions,
+AWS:WhatsNew,AWS ParallelCluster 3.14 adds P6e-GB200 and P6-B200 instance types,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-parallelcluster-p6e-p6/,
+AWS:WhatsNew,Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-amazon-fsx-netapp-ontap/,
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-fsx-for-netapp-ontap-ipv6/,
+AWS:WhatsNew,Amazon FSx for Windows File Server now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-fsx-for-windows-file-server-ipv6/,
