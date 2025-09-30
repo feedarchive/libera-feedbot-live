@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transform now enables Terraform for VMware network automation,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation,
+AWS:WhatsNew,AWS Outposts now supports external block volumes from Dell and HPE storage arrays,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-outposts-external-block-volumes-dell-hpe-storage-arrays,
+AWS:WhatsNew,AWS Storage Gateway now supports VPC endpoint policies,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-vpc-endpoint-policies,
+AWS:WhatsNew,AWS Transfer Family now supports VPC endpoint policies and FIPS VPC endpoints,https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-vpc-endpoint-policies,
