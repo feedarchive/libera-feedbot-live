@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+GitHub:pytorch,viable/strict/1759353844: Enable keep-going for trunk tags (#164307),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759353844,
+GitHub:pytorch,viable/strict/1759351793: [PP] Customize pipeline's submod name (#164037),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759351793,
+GitHub:pytorch,viable/strict/1759350324: [fx] Allow customization of submod name in split graph (#164035),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759350324,
+GitHub:pytorch,viable/strict/1759348181: Revert nccl upgrade back to 2.27.5 (#164352),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759348181,
+GitHub:pytorch,viable/strict/1759346540,https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759346540,
+GitHub:pytorch,viable/strict/1759343184,https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759343184,
