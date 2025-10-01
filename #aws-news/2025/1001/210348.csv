@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Keyspaces (for Apache Cassandra) now supports IPv6 with dual-stack endpoints,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-keyspaces-apache-cassandra-ipv6-dual-stack-endpoints/,
+AWS:WhatsNew,AWS DataSync now supports VPC endpoint policies,https://aws.amazon.com/about-aws/whats-new/2025/10/aws-datasync-vpc-endpoint-policies/,
