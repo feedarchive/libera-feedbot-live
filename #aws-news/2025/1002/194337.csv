@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect now supports agent screen recording for ChromeOS,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/,
+AWS:WhatsNew,"AWS Direct Connect announces 100G expansion in Makati City, Philippines",https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-makati-city/,
+AWS:WhatsNew,Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm,
+AWS:WhatsNew,AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints,https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints,
+AWS:WhatsNew,Amazon Cognito adds terms of use and privacy policy documents support to Managed Login,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-terms-use-privacy-policy-documents-managed-login,
+AWS:WhatsNew,AWS Parallel Computing Service now supports dynamic cluster updates,https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-dynamic-cluster/,
+AWS:WhatsNew,AWS Parallel Computing Service expands Slurm customization capabilities,https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-slurm-customization/,
