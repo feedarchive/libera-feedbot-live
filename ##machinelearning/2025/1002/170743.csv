@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,viable/strict/1759411593: Add failing bitwise equivalence UT for aot_eager on rms_norm (#164280),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759411593,
