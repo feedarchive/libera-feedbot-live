@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,viable/strict/1759395076: [MTIA] Enable deserialization for FP8 checkpoint loading (#163559),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759395076,
+GitHub:pytorch,viable/strict/1759393562: [torchfuzz] add matmuls (#164284),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759393562,
+GitHub:pytorch,viable/strict/1759389871: [torchfuzz] make fuzzer deterministic (#164397),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759389871,
