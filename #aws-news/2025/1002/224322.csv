@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Open Source Model Context Protocol (MCP) Server now available for Amazon Bedrock AgentCore,https://aws.amazon.com/about-aws/whats-new/2025/10/open-source-mcp-server-amazon-bedrock-agentcore,
+AWS:WhatsNew,Amazon ECS now supports one-click event capture and event history querying in the AWS Management Console,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-one-click-event-capture-history-querying-console/,
+AWS:WhatsNew,Cohere’s Embed v4 multimodal embeddings model now available on Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2025/10/coheres-embed-v4-multimodal-embeddings-bedrock/,
+AWS:WhatsNew,Amazon SageMaker Unified Studio announces single sign-on support for interactive Spark sessions,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-single-sign-on-spark-sessions,
