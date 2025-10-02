@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitHub:pytorch,viable/strict/1759408041,https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759408041,
+GitHub:pytorch,viable/strict/1759405773: DebugMode add ignore_compile_internals (#164205),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759405773,
+GitHub:pytorch,viable/strict/1759404142: [vision hash update] update the pinned vision hash (#154694),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759404142,
+GitHub:pytorch,viable/strict/1759398579: [inductor] separate preamble from main work in compile_fx (#164169),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759398579,
