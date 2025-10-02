@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,viable/strict/1759436720,https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759436720,
+GitHub:pytorch,"viable/strict/1759434582: Revert ""Add magic TORCH_MAKE_PYBIND_ENUM_FASTER macro (#163527)""",https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759434582,
+GitHub:pytorch,viable/strict/1759427395: Add methods to access data and unpack_hook on SavedVariable (#164358),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759427395,
