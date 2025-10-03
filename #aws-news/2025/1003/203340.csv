@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Ingestion now supports batch AI inference,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference,
+AWS:WhatsNew,"AWS End User Messaging now sends onboarding progress alerts via Slack, Email, or any other EventBridge destination",https://aws.amazon.com/about-aws/whats-new/2025/10/aws-end-user-messaging-onboarding-progress-alerts-slack-email-eventbridge-destination,
+AWS:WhatsNew,AWS Introduces self-service invoice correction feature,https://aws.amazon.com/about-aws/whats-new/2025/10/self-service-invoice-correction-feature/,
