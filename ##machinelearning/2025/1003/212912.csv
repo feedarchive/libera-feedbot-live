@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitHub:pytorch,viable/strict/1759524580: Change default device to current acclerator (#164399),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759524580,
+GitHub:pytorch,viable/strict/1759519278: Pin conda version for Docker builds (#164575),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759519278,
