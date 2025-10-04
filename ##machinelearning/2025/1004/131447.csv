@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,viable/strict/1759573474: Remove CUDA 11 branches for sparse code (#164531),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759573474,
+GitHub:pytorch,viable/strict/1759571382: Support propagating custom meta field to backward graph nodes (#164174),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759571382,
+GitHub:pytorch,viable/strict/1759569848: [2/N] Fix ruff warnings (#164460),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759569848,
