@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitHub:pytorch,viable/strict/1759560629: [CI] Limit Numba CUDA-13 patch to CUDA environments only (#164607),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759560629,
+GitHub:pytorch,viable/strict/1759559176: [fr] Re-order mismatch check in fr analysis script (#164606),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759559176,
+GitHub:pytorch,viable/strict/1759555455: [Inductor] deterministic mode (#163589),https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1759555455,
