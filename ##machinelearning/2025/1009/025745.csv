@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.9.0-rc9: CUDA aarch64 12.6 and 12.8 builds fix triton constraints (#165022),https://github.com/pytorch/pytorch/releases/tag/v2.9.0-rc9,
