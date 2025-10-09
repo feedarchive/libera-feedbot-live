@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DynamoDB now supports Internet Protocol version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-ipv6/,
+AWS:WhatsNew,Amazon SageMaker notebook instance now supports Amazon Linux 2023,https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-notebook-instance-amazon-linux-2023/,
+AWS:WhatsNew,New General Purpose Amazon EC2 M8a Instances,https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/,
