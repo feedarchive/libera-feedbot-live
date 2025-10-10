@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora PostgreSQL now supports R8g database instances in additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-r8g-database-instances-additional-aws-regions/,
+AWS:WhatsNew,Amazon Connect now supports copy and bulk edit of agent scheduling configuration,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-copy-bulk-edit-agent-scheduling/,
+AWS:WhatsNew,Amazon Connect now supports agent schedule adherence notifications,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-adherence-notifications/,
+AWS:WhatsNew,Amazon EBS io2 Block Express supports China Regions,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-io2-block-express-china-regions/,
