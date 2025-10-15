@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions,
+AWS:WhatsNew,Amazon Aurora PostgreSQL zero-ETL integration with Amazon SageMaker is now available,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-zero-etl-integration-sagemaker,
+AWS:WhatsNew,Amazon RDS for MySQL and PostgreSQL zero-ETL integration with Amazon Redshift now available in 8 additional regions,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-mysql-postgresql-zero-etl-redshift-8-regions/,
+AWS:WhatsNew,Amazon RDS for Oracle zero-ETL integration with Amazon Redshift is now available in 8 additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-oracle-zero-etl-integration-redshift-8-regions/,
