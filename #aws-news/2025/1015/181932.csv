@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Claude 4.5 haiku by Anthropic now in Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock,
+AWS:WhatsNew,AWS Backup enhances backup plan management with schedule preview,https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-plan-management/,
+AWS:WhatsNew,Second-generation AWS Outposts racks now supported in the AWS Europe (Ireland) Region,https://aws.amazon.com/about-aws/whats-new/2025/10/second-generation-aws-outposts-racks-europe-ireland-region,
+AWS:WhatsNew,AWS Application Load Balancer launches URL and Host Header Rewrite,https://aws.amazon.com/about-aws/whats-new/2025/10/application-load-balancer-url-header-rewrite,
+AWS:WhatsNew,Amazon MSK adds support for Apache Kafka version 4.1,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-msk-apache-kafka-version-4-1,
+AWS:WhatsNew,Amazon Kinesis Data Streams announces new Fault Injection Service (FIS) actions for API errors,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-data-streams-fis-actions-api-errors/,
