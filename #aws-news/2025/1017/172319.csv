@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon OpenSearch Service now supports Graviton4 based (c8g,m8g,r8g and r8gd) instances",https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-graviton4-based-instances,
+AWS:WhatsNew,Customer managed KMS keys now available for Automated Reasoning checks,https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/,
+AWS:WhatsNew,AWS Systems Manager Patch Manager launches security updates notification for Windows,https://aws.amazon.com/about-aws/whats-new/2025/10/aws-systems-manager-patch-manager-windows/,
