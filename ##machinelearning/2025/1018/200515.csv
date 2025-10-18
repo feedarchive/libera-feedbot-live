@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.9.0-rc11: [CD] Apply the fix from #162455 to aarch64+cu129 build (#165819),https://github.com/pytorch/pytorch/releases/tag/v2.9.0-rc11,
