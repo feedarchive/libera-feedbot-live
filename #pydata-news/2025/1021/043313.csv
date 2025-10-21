@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,ParamRF: A JAX-native Framework for Declarative Circuit Modelling,https://arxiv.org/abs/2510.15881,
+ArXiv,SimpliPy: A Source-Tracking Notional Machine for Simplified Python,https://arxiv.org/abs/2510.16594,
+ArXiv,JAX Autodiff from a Linear Logic Perspective (Extended Version),https://arxiv.org/abs/2510.16883,
