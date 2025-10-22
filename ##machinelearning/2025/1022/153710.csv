@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+PyTorch,Monarch + Lightning AI: Unlocking New Possibilities in Distributed Training,https://pytorch.org/blog/integration-idea-monarch/,
+PyTorch,torchcomms: a modern PyTorch communications API,https://pytorch.org/blog/torchcomms/,
+PyTorch,Helion: A High-Level DSL for Performant and Portable ML Kernels,https://pytorch.org/blog/helion/,
+PyTorch,Introducing ExecuTorch 1.0: Powering the next generation of edge AI,https://pytorch.org/blog/introducing-executorch-1-0/,
+PyTorch,Introducing PyTorch Monarch,https://pytorch.org/blog/introducing-pytorch-monarch/,
+PyTorch,Introducing torchforge – a PyTorch native library for scalable RL post-training and agentic development,https://pytorch.org/blog/introducing-torchforge/,
