@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudWatch introduces interactive incident reporting,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/,
+AWS:WhatsNew,Amazon U7i instances now available in AWS US East (Ohio) Region,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/,
+AWS:WhatsNew,Amazon RDS for SQL Server enables encrypting native backups using server-side encryption with AWS KMS keys (SSE-KMS),https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-sql-server-kms-native-backup/,
