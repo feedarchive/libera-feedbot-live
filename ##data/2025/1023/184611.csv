@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ApacheArrow:Blog,Announcing arrow-avro in Arrow Rust,https://arrow.apache.org/blog/2025/10/23/introducing-arrow-avro/,
+ApacheArrow:Blog,3x-9x Faster Apache Parquet Footer Metadata Using a Custom Thrift Parser in Rust,https://arrow.apache.org/blog/2025/10/23/rust-parquet-metadata/,
