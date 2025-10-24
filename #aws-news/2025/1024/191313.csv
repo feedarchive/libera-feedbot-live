@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 Auto Scaling now supports predictive scaling in six more regions,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-auto-scaling-predictive-scaling-in-six/,
+AWS:WhatsNew,New Amazon CloudWatch metrics to monitor EC2 instances exceeding I/O performance,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-metrics-monitor-ec2-instances-i-o-performance,
