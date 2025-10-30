@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS now supports built-in Linear and Canary deployments,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-built-in-linear-canary-deployments,
+AWS:WhatsNew,AWS Cloud Map supports cross-account workloads in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2025/10/aws-cloud-map-cross-account-gov-cloud,
+AWS:WhatsNew,AWS Backup adds single-action database snapshot copy across AWS Regions and accounts,https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-single-action-database-snapshot-copy-regions/,
+AWS:WhatsNew,AWS Serverless MCP Server now supports tools for AWS Lambda event source mappings (ESM),https://aws.amazon.com/about-aws/whats-new/2025/10/aws-serverless-mcp-server-tools-lambda-esm,
+AWS:WhatsNew,Announcing an AI agent context pack for AWS IoT Greengrass developers,https://aws.amazon.com/about-aws/whats-new/2025/10/ai-agent-context-pack-iot-greengrass-developers/,
+AWS:WhatsNew,Introducing the Amazon OCSF Ready Specialization,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ocsf-ready-specialization/,
+AWS:WhatsNew,Amazon Managed Service for Prometheus adds anomaly detection,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-managed-service-anomaly-detection/,
+AWS:WhatsNew,Amazon ElastiCache now supports dual-stack (IPv4 and IPv6) service endpoints,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-elasticache-dual-stack-ipv6-service-endpoints/,
