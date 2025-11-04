@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Service Reference Information now supports SDK Operation to Action mapping,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-service-reference-information-sdk-operation-action-mapping,
+AWS:WhatsNew,AWS Config conformance packs now available in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-conformance-packs-additional-regions/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Runtime now supports direct code deployment,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-agentcore-runtime-code-deployment/,
+AWS:WhatsNew,Amazon RDS for Oracle is now available with R7i memory-optimized instances offering up to 64:1 memory-to-vCPU ratio,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-oracle-r7i-memory-optimized-instances/,
+AWS:WhatsNew,Amazon Route 53 Resolver now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-route53-resolver-supports-aws-privatelink,
