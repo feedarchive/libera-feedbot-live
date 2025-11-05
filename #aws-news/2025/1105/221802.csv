@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon FSx now integrates with AWS Secrets Manager for enhanced management of Active Directory credentials,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-integrate-with-aws-secrets-manager/,
+AWS:WhatsNew,AWS Glue Schema Registry adds support for C#,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aws-glue-schema-registry-supports-c-sharp/,
