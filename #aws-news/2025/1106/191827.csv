@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS announces non-root container support for managed EBS volumes,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-non-root-container-managed-ebs-volumes,
+AWS:WhatsNew,Amazon DynamoDB Streams expands AWS PrivateLink support to FIPS endpoints,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dynamodb-streams-aws-privatelink-fips-endpoints,
+AWS:WhatsNew,Amazon Keyspaces (for Apache Cassandra) is now available in the Middle East (UAE) Region,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-middle-east-uae/,
+AWS:WhatsNew,AWS IoT Greengrass v2.16 introduces system log forwarder and TPM2.0 capabilities,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-greengrass-v2-16-system-log-forwarder-tpm-2-0-capabilities,
