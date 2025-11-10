@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+Nvidia,Building Scalable and Fault-Tolerant NCCL Applications,https://developer.nvidia.com/blog/building-scalable-and-fault-tolerant-nccl-applications/,
+Nvidia,Training XGBoost Models with GPU-Accelerated Polars DataFrames,https://developer.nvidia.com/blog/training-xgboost-models-with-gpu-accelerated-polars-dataframes/,
+Nvidia,"Gen AI Super-resolution Accelerates Weather Prediction with Scalable, Low-Compute Models",https://developer.nvidia.com/blog/gen-ai-super-resolution-accelerates-weather-prediction-with-scalable-low-compute-models/,
+Nvidia,How to Achieve 4x Faster Inference for Math Problem Solving,https://developer.nvidia.com/blog/how-to-achieve-4x-faster-inference-for-math-problem-solving/,
+Nvidia,Streamline Complex AI Inference on Kubernetes with NVIDIA Grove,https://developer.nvidia.com/blog/streamline-complex-ai-inference-on-kubernetes-with-nvidia-grove/,
+Nvidia,Enabling Multi-Node NVLink on Kubernetes for NVIDIA GB200 NVL72 and Beyond,https://developer.nvidia.com/blog/enabling-multi-node-nvlink-on-kubernetes-for-gb200-and-beyond/,
