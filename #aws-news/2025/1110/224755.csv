@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 Express One Zone now supports Internet Protocol version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-express-one-zone-ipv6,
+AWS:WhatsNew,AWS adds IPv6 support for Amazon S3 Gateway and Interface VPC endpoints,https://aws.amazon.com/about-aws/whats-new/2025/11/ipv6-amazon-s3-gateway-interface-vpc-endpoints/,
+AWS:WhatsNew,AWS Private CA now supports post-quantum digital certificates,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-private-ca-post-quantum-digital-certificates/,
