@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Control Tower supports automatic enrollment of accounts,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment,
+AWS:WhatsNew,Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2025/11/anthropics-claude-sonnet-4-5-amazon-bedrock-aws-govcloud-us,
+AWS:WhatsNew,Amazon CloudWatch agent adds Shared Memory Metrics,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-shared-memory-metrics/,
+AWS:WhatsNew,Amazon SageMaker Unified Studio adds support for catalog notifications,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-unified-studio-catalog-notifications/,
