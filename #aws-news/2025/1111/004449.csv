@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup now supports Amazon EKS,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-supports-amazon-eks,
+AWS:WhatsNew,"MSK Express brokers now support Intelligent Rebalancing at no additional cost, and with no action required",https://aws.amazon.com/about-aws/whats-new/2025/11/aws-msk-express-brokers-support-intelligent-rebalancing,
+AWS:WhatsNew,Amazon EC2 C7i-flex instances are now available in the Middle East (UAE) Region,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c7i-flex-instances-middle-east-uae/,
+AWS:WhatsNew,Amazon EC2 High Memory U7i instances now available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-instances-govcloud/,
