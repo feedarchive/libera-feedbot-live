@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Application loadbalancer support client credential flow with JWT verification,https://aws.amazon.com/about-aws/whats-new/2025/11/application-load-balancer-jwt-verification,
+AWS:WhatsNew,Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-elasticache-m7g-r7g-graviton3-govcloud-regions/,
+AWS:WhatsNew,AWS Site-to-Site VPN announces 5 Gbps bandwidth tunnels,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-5-gbps-bandwidth-tunnels,
