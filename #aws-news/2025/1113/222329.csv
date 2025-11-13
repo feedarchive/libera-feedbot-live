@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudFormation Hooks adds granular invocation details for Hooks invocation summary,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-hooks-granular-invocation-details,
+AWS:WhatsNew,Amazon Connect now provides metrics on completion of agent performance evaluations by managers,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-metrics-completion-agent-performance-evaluations,
+AWS:WhatsNew,AWS Network Load Balancer now supports QUIC protocol in passthrough mode,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-network-load-balancer-quic-passthrough-mode/,
+AWS:WhatsNew,Amazon Kinesis Video Streams WebRTC Multi-Viewer,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-video-streams-multi-viewer/,
