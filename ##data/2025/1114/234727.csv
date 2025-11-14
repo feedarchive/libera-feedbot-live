@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,RSNA Abdominal Traumatic Injury CT (RATIC),https://registry.opendata.aws/rsna-ratic,
+AWS:OpenData,RSNA Intracranial Aneurysm Detection Dataset (RSNA-ICA),https://registry.opendata.aws/rsna-intracranial-aneurysm-detection-dataset,
+AWS:OpenData,RSNA Lumbar Spine Degenerative Classification Dataset (RSNA-LSDD),https://registry.opendata.aws/rsna-lumbar-spine-degenerative-classification-dataset,
