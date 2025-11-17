@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup now supports backing up directly to a logically air-gapped vault,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-direct-to-logically-air-gapped-vault/,
+AWS:WhatsNew,Amazon ECR now supports PrivateLink for FIPS Endpoints,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecr-privatelink-fips-endpoints/,
