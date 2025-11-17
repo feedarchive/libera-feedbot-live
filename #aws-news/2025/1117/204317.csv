@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift now supports writing to Apache Iceberg tables,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1,
+AWS:WhatsNew,Amazon Aurora MySQL 3.11 (compatible with MySQL 8.0.43) is now generally available,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-mysql-generally-available/,
+AWS:WhatsNew,Amazon RDS for MySQL now supports new minor versions 8.0.44 and 8.4.7,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-mysql-new-minor-versions/,
+AWS:WhatsNew,AWS Backup extends cross-account management in four new AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/11/backup-cross-account-management-four-regions/,
