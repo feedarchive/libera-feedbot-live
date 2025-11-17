@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing EC2 Image Builder support for Lambda and Step functions,https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-lambda-step-functions,
+AWS:WhatsNew,Amazon MQ now supports LDAP authentication for RabbitMQ,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-mq-ldap-authentication-rabbitmq/,
+AWS:WhatsNew,AWS Parallel Computing Service is now HIPAA eligible,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-parallel-computing-hipaa-eligible/,
+AWS:WhatsNew,Amazon Bedrock Data Automation supports 10 additional languages for speech analytics,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-data-automation-10-languages/,
