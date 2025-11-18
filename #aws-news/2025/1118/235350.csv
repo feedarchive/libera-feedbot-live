@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 P6-B300 instances with NVIDIA Blackwell Ultra GPUs are now available,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-p6-b300-instances-nvidia-blackwell-ultra-gpus-available,
+AWS:WhatsNew,Amazon Bedrock introduces Priority and Flex inference service tiers,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-priority-flex-inference-service-tiers,
+AWS:WhatsNew,Amazon RDS for Oracle now supports October 2025 Release Update and Spatial Patch Bundle,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-oracle-october-2025-release-update-spatial/,
+AWS:WhatsNew,Amazon FSx for Lustre improves directory listing performance by up to 5x,https://aws.amazon.com/about-aws/whats-new/2025/11/fsx-lustre-directory-listing-performance-5x/,
+AWS:WhatsNew,Safely handle configuration drift with AWS CloudFormation drift-aware change sets,https://aws.amazon.com/about-aws/whats-new/2025/11/configuration-drift-enhanced-cloudformation-sets/,
