@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Serverless now adds audit logs for data plane APIs,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-auditlogs-dataplane-apis,
+AWS:WhatsNew,EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group,https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-synchronous-api-launch-instances/,
+AWS:WhatsNew,Amazon Redshift now supports Just-In-Time (JIT) ANALYZE for Apache Iceberg tables,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-jit-analyze-apache-iceberg-tables/,
+AWS:WhatsNew,AWS announces Supplementary Packages for Amazon Linux,https://aws.amazon.com/about-aws/whats-new/2025/11/supplementary-packages-amazon-linux/,
+AWS:WhatsNew,"Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.24, 10.11.15, and 11.4.9",https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-mariadb-community-minor-versions/,
+AWS:WhatsNew,AWS Backup launches a low-cost warm storage tier for Amazon S3 backups,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-low-cost-warm-storage-s3-backups/,
+AWS:WhatsNew,AWS Lambda adds support for Python 3.14,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-python-314/,
