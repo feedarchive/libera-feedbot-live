@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect now provides conversational analytics for voice and chat bots,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/,
+AWS:WhatsNew,Amazon Bedrock is now available in additional Regions,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-region/,
+AWS:WhatsNew,Amazon Inspector supports organization-wide management through AWS Organizations policies,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-inspector-organization-wide-management-aws-organizations-policies,
+AWS:WhatsNew,Amazon ECS Managed Instances adds configurable scale-in delay,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-managed-instances-configurable-scale-in-delay,
+AWS:WhatsNew,AWS PrivateLink now supports cross-region connectivity for AWS Services,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-privatelink-cross-region-connectivity-aws-services,
+AWS:WhatsNew,Announcing enhanced cost management capabilities in Amazon Q Developer,https://aws.amazon.com/about-aws/whats-new/2025/11/enhanced-cost-management-amazon-q-developer/,
+AWS:WhatsNew,Amazon EC2 M7i instances are now available in the Europe (Zurich) Region,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m7i-instances-europe-zurich-region/,
+AWS:WhatsNew,AWS Directory Service now supports AWS PrivateLink for private VPC connectivity,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-directory-service-privatelink-vpc-connectivity/,
+AWS:WhatsNew,Amazon MSK Console now supports viewing Kafka topics with new public APIs,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-console-kafka-topics-public-apis/,
+AWS:WhatsNew,Amazon Connect now supports enhanced Instance-to-Instance communication,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-instance-to-instance-communication/,
+AWS:WhatsNew,AWS Network Load Balancer simplifies deployments with support for Weighted Target Groups,https://aws.amazon.com/about-aws/whats-new/2025/11/network-load-balancer-weighted-target-groups/,
