@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock is now available in additional Regions,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/,
+AWS:WhatsNew,Amazon OpenSearch Serverless now supports backup and restore through the AWS Management Console,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-backup-and-restore-console,
+AWS:WhatsNew,Amazon DynamoDB now supports multi-attribute composite keys in global secondary indexes,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dynamodb-multi-attribute-composite-keys-global-secondary-indexes,
+AWS:WhatsNew,Amazon FSx for Windows File Server now supports File Server Resource Manager,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-windows-file-server-resource-manager/,
+AWS:WhatsNew,Amazon Bedrock Custom Model Import now supports OpenAI GPT OSS models,https://aws.amazon.com/about-aws/whats-new/2025/11/bedrock-model-import-openai-gpt-oss-models/,
+AWS:WhatsNew,AWS IAM launches aws:SourceVpcArn condition key for region-based access control,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-sourcevpcarn-condition-key-region-control/,
