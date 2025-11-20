@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Serverless adds AWS PrivateLink for management console,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-privatelink-mgmt,
+AWS:WhatsNew,Recycle Bin adds support for Amazon EBS Volumes,https://aws.amazon.com/about-aws/whats-new/2025/11/recycle-bin-support-amazon-ebs-volumes,
+AWS:WhatsNew,AWS announces availability of Microsoft SQL Server 2025 images on Amazon EC2,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-availability-microsoft-sql-server-2025-images-amazon-ec2,
+AWS:WhatsNew,AWS Application Load Balancer launches Target Optimizer,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-application-load-balancer-target-optimizer,
+AWS:WhatsNew,Amazon Kinesis Data Streams now supports up to 50 enhanced fan-out consumers,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-enhanced-fan-out-consumers,
+AWS:WhatsNew,EC2 Auto Scaling introduces instance lifecycle policy,https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-instance-lifecycle-policy/,
+AWS:WhatsNew,Amazon EC2 Auto Scaling now supports root volume replacement through instance refresh,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-auto-scaling-root-volume-replacement/,
