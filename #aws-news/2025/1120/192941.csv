@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue supports additional SAP entities as zero-ETL integration sources,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-additional-sap-entities-zero-etl-integration-sources,
+AWS:WhatsNew,Amazon Braket introduces spending limits feature for quantum processing units,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-spending-limits-feature-quantum-processing-units,
+AWS:WhatsNew,Amazon EC2 Mac instances now support Apple macOS Tahoe,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-mac-instances-apple-macos-tahoe,
+AWS:WhatsNew,Amazon SageMaker Unified Studio now supports long-running sessions with corporate identities,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-studio-long-running-sessions/,
+AWS:WhatsNew,Amazon SageMaker Unified Studio adds EMR on EKS support with SSO capabilities,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-emr-eks-sso/,
+AWS:WhatsNew,AWS Parallel Computing Service now supports Slurm REST API,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-parallel-computing-slurm-rest-api/,
