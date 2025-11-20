@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect outbound campaigns supports ring time configuration for unanswered calls,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-outbound-campaigns-ring-time-configuration,
+AWS:WhatsNew,AWS Site-to-Site VPN announces VPN Concentrator,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-concentrator,
+AWS:WhatsNew,Amazon Route 53 DNS service now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-service-aws-privatelink/,
+AWS:WhatsNew,Amazon CloudWatch real user monitoring (RUM) adds support for iOS and Android applications,https://aws.amazon.com/about-aws/whats-new/2025/11/real-user-monitoring-mobile-apps-cloudwatch/,
+AWS:WhatsNew,Amazon S3 now supports post-quantum TLS key exchange on S3 endpoints,https://aws.amazon.com/about-aws/whats-new/2025/11/s3-post-quantum-tls-key-exchange-endpoints/,
+AWS:WhatsNew,AWS enables developers to use console credentials for AWS CLI and SDK authentication,https://aws.amazon.com/about-aws/whats-new/2025/11/console-credentials-aws-cli-sdk-authentication/,
+AWS:WhatsNew,Amazon S3 adds new bucket-level setting to standardize encryption types used in your buckets,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-bucket-level-standardize-encryption-types/,
