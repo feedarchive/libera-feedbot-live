@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Validate and enforce required tags in CloudFormation, Terraform and Pulumi with Tag Policies",https://aws.amazon.com/about-aws/whats-new/2025/11/validate-enforce-required-tags-cloudformation-terraform-pulumi/,
+AWS:WhatsNew,Amazon RDS supports Multi-AZ for SQL Server Web Edition,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-sql-server-multi-az-web-edition/,
+AWS:WhatsNew,Amazon CloudWatch application map now supports un-instrumented services discovery,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-map-un-instrumented-discovery/,
+AWS:WhatsNew,Amazon EC2 introduces AMI ancestry for complete AMI lineage visibility,https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-ami-ancestry-complete-ami-lineage-visibility/,
