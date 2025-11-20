@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS IAM enables identity federation to external services using JSON Web Tokens (JWTs),https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iam-identity-federation-external-services-jwts/,
+AWS:WhatsNew,Amazon API Gateway now supports additional TLS security policies for REST APIs,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-api-gateway-tls-security-rest-apis/,
+AWS:WhatsNew,Amazon API Gateway now supports response streaming for REST APIs,https://aws.amazon.com/about-aws/whats-new/2025/11/api-gateway-response-streaming-rest-apis/,
+AWS:WhatsNew,Amazon API Gateway adds Developer Portal capabilities,https://aws.amazon.com/about-aws/whats-new/2025/11/api-gateway-developer-portal-capabilities/,
