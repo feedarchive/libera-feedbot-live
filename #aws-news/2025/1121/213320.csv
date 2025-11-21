@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,EC2 Image Builder now supports auto-versioning and enhances Infrastructure as Code experience,https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-auto-versioning-infrastructure/,
+AWS:WhatsNew,"Aurora DSQL launches new Python, Node.js, and JDBC Connectors that simplify IAM authorization",https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-python-node-js-jdbc-connectors-iam,
+AWS:WhatsNew,Amazon Aurora DSQL database clusters now support up to 256 TiB of storage volume,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-dsql-database-clusters-up-to-256-tib,
+AWS:WhatsNew,AWS WAF announces Web Bot Auth support,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-waf-web-bot-auth-support,
+AWS:WhatsNew,Oracle Database@AWS now supports AWS KMS integration with Oracle Transparent Data Encryption,https://aws.amazon.com/about-aws/whats-new/2025/11/oracle-database-aws-kms-integration-oracle-transparent-data-encryption/,
+AWS:WhatsNew,Amazon Bedrock Data Automation now supports synchronous image processing,https://aws.amazon.com/about-aws/whats-new/2025/11/bedrock-data-automation-synchronous-image-processing/,
+AWS:WhatsNew,Amazon Lex extends wait & continue feature in 10 new languages,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-lex-wait-continue-feature-10-languages/,
+AWS:WhatsNew,AWS Security Token Service Now Supports Internet Protocol version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/11/aws-sts-ipv6/,
+AWS:WhatsNew,Amazon AppStream 2.0 now supports Internet Protocol Version 6 (IPv6),https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-appstream-2-0-supports-ipv6/,
+AWS:WhatsNew,Amazon API Gateway REST APIs now supports private integration with Application Load Balancer,https://aws.amazon.com/about-aws/whats-new/2025/11/api-gateway-rest-apis-integration-load-balancer/,
+AWS:WhatsNew,Amazon ECS and Amazon EKS now offer enhanced AI-powered troubleshooting in the Console,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-eks-ai-powered-troubleshooting-console/,
+AWS:WhatsNew,AWS Backup now supports Amazon FSx Intelligent-Tiering,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-amazon-fsx-intelligent-tiering/,
