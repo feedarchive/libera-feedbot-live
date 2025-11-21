@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS announces Flexible Cost Allocation on AWS Transit Gateway,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transit-gateway-flexible-cost-allocation/,
+AWS:WhatsNew,AWS Security Incident Response now provides agentic AI-powered investigation,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-security-incident-response-agentic-ai-powered-investigation,
+AWS:WhatsNew,Announcing flexible AMI distribution capabilities for EC2 Image Builder,https://aws.amazon.com/about-aws/whats-new/2025/11/announcing-flexible-ami-distribution-ec2-image-builder/,
+AWS:WhatsNew,Announcing Nginx blueprint by Amazon Lightsail,https://aws.amazon.com/about-aws/whats-new/2025/11/announcing-nginx-blueprint-by-amazon-lightsail/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports running IDEs and Notebooks to accelerate AI development,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-ides-notebooks-ai/,
+AWS:WhatsNew,Amazon CloudWatch Container Insights adds Sub-Minute GPU Metrics for Amazon EKS,https://aws.amazon.com/about-aws/whats-new/2025/11/cloudwatch-container-sub-minute-gpu-metrics-eks/,
+AWS:WhatsNew,Amazon ECR dual-stack endpoints now support AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2025/11/ecr-dual-stack-endpoints-privatelink/,
+AWS:WhatsNew,Amazon CloudWatch Application Signals adds GitHub Action and MCP server improvements,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-signals-adds-github-action-mcp-server-improvements,
+AWS:WhatsNew,AWS Network Firewall now supports flexible cost allocation via Transit Gateway,https://aws.amazon.com/about-aws/whats-new/2025/11/network-firewall-flexible-cost-allocation/,
