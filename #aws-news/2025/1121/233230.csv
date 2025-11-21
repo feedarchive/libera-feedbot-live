@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Payments Cryptography announces support for post-quantum cryptography to secure data in transit,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-payments-cryptography-post-quantum-data-transit,
+AWS:WhatsNew,Amazon EMR 7.12 now supports the Apache Iceberg v3 table format,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-apache-iceberg-v3-table-format/,
+AWS:WhatsNew,Amazon EKS and Amazon ECS announce fully managed MCP servers in preview,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-ecs-fully-managed-mcp-servers-preview,
+AWS:WhatsNew,Announcing AWS Compute Optimizer automation rules,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-automation-rules,
+AWS:WhatsNew,Amazon EKS introduces Provisioned Control Plane,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-provisioned-control-plane/,
+AWS:WhatsNew,Announcing AWS Lambda Kafka event source mapping integration in Amazon MSK Console,https://aws.amazon.com/about-aws/whats-new/2025/11/integration-lambda-source-mapping-configuration/,
+AWS:WhatsNew,Amazon Route 53 DNS service adds support for IPv6 API service endpoint,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-service-ipv6-api-endpoint/,
