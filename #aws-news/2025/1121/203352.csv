@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Automated Reasoning checks now include natural language test Q&A generation,https://aws.amazon.com/about-aws/whats-new/2025/11/automated-reasoning-checks-include-natural-language/,
+AWS:WhatsNew,AWS IoT Core enhances IoT rules-SQL with variable setting and error handling capabilities,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-rules-sql/,
+AWS:WhatsNew,Amazon RDS for SQL Server now supports Resource Governor,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-sql-server-resource-governor/,
+AWS:WhatsNew,AWS Application and Network Load Balancers Now Support Post-Quantum Key Exchange for TLS,https://aws.amazon.com/about-aws/whats-new/2025/11/network-load-balancers-post-quantum-key-exchange-tls/,
+AWS:WhatsNew,Amazon Simple Email Service is now available in two new AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ses-available-in-two-new-regions,
+AWS:WhatsNew,AWS Application Load Balancer now supports Health Check Logs,https://aws.amazon.com/about-aws/whats-new/2025/11/application-load-balancer-health-check-logs/,
