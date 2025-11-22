@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EMR Serverless now supports Apache Spark 4.0.1 (preview),https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-serverless-apache-spark/,
+AWS:WhatsNew,AWS Transfer Family announces Terraform module to integrate with a custom identity provider,https://aws.amazon.com/about-aws/whats-new/2025/11/transfer-family-terraform-custom-idp,
+AWS:WhatsNew,AWS Organizations now supports upgrade rollout policy for Amazon Aurora and Amazon RDS,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-organizations-upgrade-rollout-policy-amazon-aurora-rds,
+AWS:WhatsNew,Amazon Connect now supports multi skill agent scheduling,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-multi-skill-agent-scheduling,
+AWS:WhatsNew,AWS Transfer Family web apps now support VPC endpoints,https://aws.amazon.com/about-aws/whats-new/2025/11/transfer-family-web-apps-vpc-endpoints/,
+AWS:WhatsNew,Amazon Quick Sight dashboard customization now includes tables and pivot tables,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-dashboard-tables-pivot-tables/,
