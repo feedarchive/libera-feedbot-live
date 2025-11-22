@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Athena for Apache Spark is now available in Amazon SageMaker notebooks,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-apache-spark-sagemaker-notebooks/,
+AWS:WhatsNew,Introducing one-click onboarding of existing datasets to Amazon SageMaker,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-one-click-onboarding-existing-datasets,
+AWS:WhatsNew,Introducing Amazon SageMaker Data Agent for analytics and AI/ML development,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-data-agent-analytics-ai-ml-development,
+AWS:WhatsNew,Announcing notebooks with a built-in AI agent in Amazon SageMaker,https://aws.amazon.com/about-aws/whats-new/2025/11/notebooks-built-in-ai-agent-amazon-sagemaker/,
+AWS:WhatsNew,AWS Glue launches Amazon DynamoDB connector with Spark DataFrame support,https://aws.amazon.com/about-aws/whats-new/2025/11/glue-dynamodb-connector,
