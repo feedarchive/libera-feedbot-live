@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Athena adds cost and performance controls for Capacity Reservations,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-capacity-reservation-controls,
+AWS:WhatsNew,AWS CloudFormation StackSets now supports deployment ordering,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-stacksets-deployment-ordering,
+AWS:WhatsNew,Amazon Athena launches auto-scaling solution for Capacity Reservations,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-capacity-auto-scaling,
