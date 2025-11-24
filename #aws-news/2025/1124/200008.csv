@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Connect flow modules now support custom inputs, outputs, and version management",https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-flow-modules-custom-inputs-outputs-version-management,
+AWS:WhatsNew,Amazon OpenSearch Service now supports OpenSearch version 3.3,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-opensearch-version-3-3/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) for generative AI tasks,https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-nvidia-multi-instance-gpu/,
