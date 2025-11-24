@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Glue announces catalog federation for remote Apache Iceberg catalogs,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-catalog-federation-remote-apache-iceberg-catalogs,
+AWS:WhatsNew,Claude Opus 4.5 now available in Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2025/11/claude-opus-4-5-amazon-bedrock,
+AWS:WhatsNew,Amazon Aurora PostgreSQL introduces dynamic data masking,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-postgresql-dynamic-data-masking,
+AWS:WhatsNew,Amazon CloudFront integrates with VPC IPAM to support BYOIP,https://aws.amazon.com/about-aws/whats-new/2025/11/vpc-ipam-cloudfront-byoip,
