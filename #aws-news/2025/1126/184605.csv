@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Improved AWS Health event triage,https://aws.amazon.com/about-aws/whats-new/2025/11/improved-aws-health-event-triage,
+AWS:WhatsNew,Amazon CloudWatch now supports deletion protection for logs,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-deletion-protection-logs,
+AWS:WhatsNew,Amazon Lex now supports LLMs as the primary option for natural language understanding,https://aws.amazon.com/about-aws/whats-new/2025/11/lex-llms-primary-natural-language-understanding/,
