@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker HyperPod now supports Managed tiered KV cache and intelligent routing,https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-managed-tiered-kv-cache/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-kubernetes/,
+AWS:WhatsNew,AWS Compute Optimizer now supports unused NAT Gateway recommendations,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-unused-nat-gateway-recommendations,
+AWS:WhatsNew,Introducing AWS Glue 5.1,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-5-1,
