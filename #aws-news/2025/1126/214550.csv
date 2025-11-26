@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EMR and AWS Glue now support write operations with AWS Lake Formation fine-grained access controls,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-aws-glue-write-operations-aws-lake-formation/,
+AWS:WhatsNew,Amazon EMR and AWS Glue now support audit context support with Lake Formation,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-aws-glue-audit-context-lake-formation/,
+AWS:WhatsNew,"Amazon Aurora now supports PostgreSQL 17.6, 16.10, 15.14, 14.19, and 13.22",https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-minor-versions-17.6-16.10-15.14-14.19-13.22,
