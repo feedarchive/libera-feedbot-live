@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Kinesis Video Streams now supports a new cost effective warm storage tier,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-video-streams-warm-storage-tier/,
+AWS:WhatsNew,AWS Knowledge MCP Server now supports topic-based search,https://aws.amazon.com/about-aws/whats-new/2025/11/aws-knowledge-mcp-server-topic-based-search/,
+AWS:WhatsNew,Amazon Bedrock introduces Reserved Service tier,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-reserved-service-tier/,
+AWS:WhatsNew,Amazon SageMaker AI Inference now supports bidirectional streaming,https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-ai-inference-bidirectional-streaming,
