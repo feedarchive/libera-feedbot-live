@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker HyperPod now supports Managed tiered KV cache and intelligent routing,https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-managed-tiered-kv-cache/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-kubernetes/,
+AWS:WhatsNew,Amazon Lex now supports LLMs as the primary option for natural language understanding,https://aws.amazon.com/about-aws/whats-new/2025/11/lex-llms-primary-natural-language-understanding/,
