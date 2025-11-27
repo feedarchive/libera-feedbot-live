@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Aurora now supports PostgreSQL 17.6, 16.10, 15.14, 14.19, and 13.22",https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-minor-versions-17-6-16-10-15-14-14-19-13-22,
+AWS:WhatsNew,Amazon S3 Metadata expands to 22 additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-metadata-expands-22-regions/,
+AWS:WhatsNew,Amazon SageMaker AI now supports Flexible Training Plans capacity for Inference,https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-ai-flexible-training-plans-inference/,
