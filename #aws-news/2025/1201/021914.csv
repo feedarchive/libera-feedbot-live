@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:Blog,Top announcements of AWS re:Invent 2025,https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/,
+AWS:Blog,Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution (preview),https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/,
+AWS:Blog,AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training,https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/,
+AWS:Blog,AWS Partner Central now available in AWS Management Console,https://aws.amazon.com/blogs/aws/aws-partner-central-now-available-in-aws-management-console/,
+AWS:Blog,Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility,https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/,
+AWS:Blog,"Simplify IAM policy creation with IAM Policy Autopilot, a new open source MCP server for builders",https://aws.amazon.com/blogs/aws/simplify-iam-policy-creation-with-iam-policy-autopilot-a-new-open-source-mcp-server-for-builders/,
+AWS:Blog,Announcing Amazon EKS Capabilities for workload orchestration and cloud resource management,https://aws.amazon.com/blogs/aws/announcing-amazon-eks-capabilities-for-workload-orchestration-and-cloud-resource-management/,
