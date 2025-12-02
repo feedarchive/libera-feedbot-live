@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Mistral Large 3 and Ministral 3 family now available first on Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2025/12/mistral-large-3-ministral-3-family-available-amazon-bedrock,
+AWS:WhatsNew,"Amazon Bedrock adds 18 fully managed open-weight models, the largest expansion of new models to date",https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-fully-managed-open-weight-models,
+AWS:WhatsNew,Amazon OpenSearch Service adds GPU-accelerated and auto-optimized vector indexes,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-gpu-accelerated-auto-optimized-vector-indexes,
+AWS:WhatsNew,Amazon S3 Vectors is now generally available with 40 times the scale of preview,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-vectors-generally-available,
+AWS:WhatsNew,"Amazon Bedrock AgentCore now includes Policy, Evaluations (preview) and more",https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-agentcore-policy-evaluations-preview,
+AWS:WhatsNew,Introducing Amazon Nova 2 Omni in Preview,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-omni-preview,
+AWS:WhatsNew,Amazon SageMaker Catalog now exports asset metadata as queryable dataset,https://aws.amazon.com/about-aws/whats-new/2025/12/sagemaker-catalog-asset-metadata-queryable-dataset/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Runtime now supports bi-directional streaming,https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-agentcore-runtime-bi-directional-streaming/,
+AWS:WhatsNew,Amazon SageMaker AI announces serverless MLflow capability for faster AI development,https://aws.amazon.com/about-aws/whats-new/2025/12/sagemaker-ai-serverless-mlflow-ai-development/,
