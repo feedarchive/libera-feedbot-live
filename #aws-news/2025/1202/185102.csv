@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing Amazon EC2 General purpose M8azn instances (Preview),https://aws.amazon.com/about-aws/whats-new/2025/12/aws-amazon-ec2-m8azn-preview,
+AWS:WhatsNew,Announcing the Apache Spark upgrade agent for Amazon EMR,https://aws.amazon.com/about-aws/whats-new/2025/12/apache-spark-upgrade-agent-amazon-emr,
+AWS:WhatsNew,"Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables",https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-storage-lens-performance-metrics-prefixes-export-tables,
+AWS:WhatsNew,Announcing Amazon EC2 Memory optimized X8i instances (Preview),https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8i-instances-preview,
+AWS:WhatsNew,"Amazon Bedrock AgentCore now includes Policy, Evaluations (preview) and more",https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-agentcore-policy-evaluations-preview,
+AWS:WhatsNew,Amazon SageMaker AI announces serverless MLflow capability for faster AI development,https://aws.amazon.com/about-aws/whats-new/2025/12/sagemaker-ai-serverless-mlflow-ai-development/,
+AWS:WhatsNew,Amazon S3 Tables now offer the Intelligent-Tiering storage class,https://aws.amazon.com/about-aws/whats-new/2025/12/s3-tables-intelligent-tiering-storage-class/,
