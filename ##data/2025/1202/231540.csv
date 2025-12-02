@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:OpenData,Asl 1000,https://registry.opendata.aws/asl_1000,
+AWS:OpenData,Ecmwf ifs ens,https://registry.opendata.aws/dynamical-ecmwf-ifs-ens,
+AWS:OpenData,Noaa gfs,https://registry.opendata.aws/dynamical-noaa-gfs,
+AWS:OpenData,Noaa hrrr,https://registry.opendata.aws/dynamical-noaa-hrrr,
