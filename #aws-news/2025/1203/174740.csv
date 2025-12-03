@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports checkpointless training,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training,
+AWS:WhatsNew,New serverless model customization capability in Amazon SageMaker AI,https://aws.amazon.com/about-aws/whats-new/2025/12/new-serverless-model-customization-capability-amazon-sagemaker-ai,
+AWS:WhatsNew,Announcing TypeScript support in Strands Agents (preview) and more,https://aws.amazon.com/about-aws/whats-new/2025/12/typescript-strands-agents-preview,
+AWS:WhatsNew,Introducing elastic training on Amazon SageMaker HyperPod,https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-training-amazon-sagemaker-hyperpod/,
+AWS:WhatsNew,Amazon Bedrock now supports reinforcement fine-tuning delivering 66% accuracy gains on average over base models,https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-reinforcement-fine-tuning-66-base-models/,
