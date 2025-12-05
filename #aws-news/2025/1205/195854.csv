@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Service now supports automatic semantic enrichment,https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/,
+AWS:WhatsNew,Amazon SES adds VPC support for API endpoints,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/,
+AWS:WhatsNew,TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference,https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/,
+AWS:WhatsNew,"SES Mail Manager is now available in 10 additional AWS Regions, 27 total",https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/,
+AWS:WhatsNew,Amazon SageMaker now supports self-service migration of Notebook instances to latest platform versions,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-self-service-migration-notebook-instances,
+AWS:WhatsNew,AWS Elastic Beanstalk now supports Node.js 24 on Amazon Linux 2023,https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-node-js-24-linux-2023/,
+AWS:WhatsNew,Amazon Connect launches WhatsApp channel for Outbound Campaigns,https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/,
