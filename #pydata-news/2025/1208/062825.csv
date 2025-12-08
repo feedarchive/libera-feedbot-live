@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,PRiSM: An Agentic Multimodal Benchmark for Scientific Reasoning via Python-Grounded Evaluation,https://arxiv.org/abs/2512.05930,
+ArXiv,SymPyBench: A Dynamic Benchmark for Scientific Reasoning with Executable Python Code,https://arxiv.org/abs/2512.05954,
+ArXiv,OpenSQP: A Reconfigurable Open-Source SQP Algorithm in Python for Nonlinear Optimization,https://arxiv.org/abs/2512.05392,
