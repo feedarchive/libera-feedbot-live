@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,Alliance of Genome Resources,https://registry.opendata.aws/alliance-genome-resources,
+AWS:OpenData,"Japan Prefectures, 3D Point Cloud Data",https://registry.opendata.aws/japan_pointcloud,
+AWS:OpenData,"Kanagawa, 3D Point Cloud Data",https://registry.opendata.aws/kanagawa_pointcloud,
