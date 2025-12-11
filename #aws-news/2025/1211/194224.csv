@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Cognito identity pools now support private connectivity with AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cognito-identity-pools-private-connectivity-aws-privatelink,
+AWS:WhatsNew,Amazon EC2 High Memory U7i instances now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-high-memory-u7i-instances-additional-regions/,
+AWS:WhatsNew,Amazon EC2 I7i instances now available in additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-i7i-instances-additional-regions/,
