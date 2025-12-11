@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ApacheArrow:Blog,Arrow-rs Parquet 读取中的延迟物化（Late Materialization）实战深度解析,https://arrow.apache.org/blog/2025/12/11/parquet-late-materialization-deep-dive-zh/,
+ApacheArrow:Blog,A Practical Dive Into Late Materialization in arrow-rs Parquet Reads,https://arrow.apache.org/blog/2025/12/11/parquet-late-materialization-deep-dive/,
