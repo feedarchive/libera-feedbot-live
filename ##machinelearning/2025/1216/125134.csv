@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Soft Decision Tree classifier: explainable and extendable PyTorch implementation,https://arxiv.org/abs/2512.11833,
+ArXiv,Torch Geometric Pool: the Pytorch library for pooling in Graph Neural Networks,https://arxiv.org/abs/2512.12642,
+ArXiv,A PyTorch Framework for Scalable Non-Crossing Quantile Regression,https://arxiv.org/abs/2510.22419,
