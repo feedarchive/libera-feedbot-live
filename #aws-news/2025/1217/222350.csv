@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon WorkSpaces Applications announces additional health and performance metrics,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-applications-health-performance-metrics,
+AWS:WhatsNew,Amazon ECR Public now supports PrivateLink for US East (N. Virginia) SDK Endpoint,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecr-public-privatelink-us-east-n-virginia-sdk-endpoint,
+AWS:WhatsNew,EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group,https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-auto-scaling-synchronous-api-launch-instances-auto-scaling-group,
+AWS:WhatsNew,AWS Marketplace now supports mandatory purchase orders and custom messaging,https://aws.amazon.com/about-aws/whats-new/2025/12/aws-marketplace-mandatory-purchase-orders-custom-messaging,
