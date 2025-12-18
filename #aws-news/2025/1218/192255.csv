@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon WorkSpaces now supports IPv6,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ipv6/,
+AWS:WhatsNew,Amazon MSK Connect now supports dual-stack (IPv4 and IPv6) connectivity for new connectors,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-connect-dual-stack-ipv-and-ipv/,
+AWS:WhatsNew,AWS Direct Connect now supports resilience testing with AWS Fault Injection Service,https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/,
+AWS:WhatsNew,Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8i-r8i-flex-instances-additional-regions/,
+AWS:WhatsNew,Amazon MSK introduces KRaft support for Express Brokers with Apache Kafka v3.9,https://aws.amazon.comabout-aws/whats-new/2025/12/aws-msk-express-brokers-support-kraft/,
+AWS:WhatsNew,Amazon Neptune Database is now available in the AWS Europe (Zurich) Region,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-neptune-zurich-region,
