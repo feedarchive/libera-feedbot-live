@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 now supports Availability Zone ID across its APIs,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-az-id-api-support,
+AWS:WhatsNew,Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ubuntu-elasticfleets,
+AWS:WhatsNew,AWS IoT Core adds message batching to HTTP rule action,https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action,
+AWS:WhatsNew,Amazon ECS Managed Instances now supports Amazon EC2 Spot Instances,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-managed-instances-ec2-spot-instances,
+AWS:WhatsNew,AWS Clean Rooms now supports change requests for existing collaborations,https://aws.amazon.com/about-aws/whats-new/2025/12/clean-rooms-change-requests-existing-collaborations/,
+AWS:WhatsNew,Announcing 176 new AWS Security Hub controls in AWS Control Tower,https://aws.amazon.com/about-aws/whats-new/2025/12/176-security-hub-controls-control-tower/,
+AWS:WhatsNew,Amazon ECS now enables you to define weekly event windows for scheduling task retirements on AWS Fargate,https://aws.amazon.com/about-aws/whats-new/2025/12/ecs-weekly-windows-scheduling-task-retirements-fargate/,
+AWS:WhatsNew,Amazon SES announces email validation,https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-email-validation/,
+AWS:WhatsNew,Amazon MSK introduces KRaft support for Express Brokers with Apache Kafka v3.9,https://aws.amazon.com/about-aws/whats-new/2025/12/aws-msk-express-brokers-support-kraft/,
