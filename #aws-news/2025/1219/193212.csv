@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Private CA OCSP now available in China and AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2025/12/aws-private-ca-ocsp-china-govcloud-us-regions,
+AWS:WhatsNew,Amazon Bedrock Data Automation launches instruction optimization for your document blueprints,https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-data-automation-optimization-document-blueprints/,
+AWS:WhatsNew,Timestream for InfluxDB Now Supports Restart API Calls,https://aws.amazon.com/about-aws/whats-new/2025/12/timestream-influxdb-restart-api,
