@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ArXiv,Sequential Reservoir Computing for Efficient High-Dimensional Spatiotemporal Forecasting,https://arxiv.org/abs/2601.00172,
+ArXiv,StockBot 2.0: Vanilla LSTMs Outperform Transformer-based Forecasting for Stock Prices,https://arxiv.org/abs/2601.00197,
+ArXiv,Toward Better Temporal Structures for Geopolitical Events Forecasting,https://arxiv.org/abs/2601.00430,
+ArXiv,A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection,https://arxiv.org/abs/2601.00446,
+ArXiv,Optimizing LSTM Neural Networks for Resource-Constrained Retail Sales Forecasting: A Model Compression Study,https://arxiv.org/abs/2601.00525,
+ArXiv,BSAT: B-Spline Adaptive Tokenizer for Long-Term Time Series Forecasting,https://arxiv.org/abs/2601.00698,
+ArXiv,Deep learning estimation of the spectral density of functional time series on large domains,https://arxiv.org/abs/2601.00284,
+ArXiv,Sparse Tucker Decomposition and Graph Regularization for High-Dimensional Time Series Forecasting,https://arxiv.org/abs/2601.00377,
