@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+ArXiv,Beyond BeautifulSoup: Benchmarking LLM-Powered Web Scraping for Everyday Users,https://arxiv.org/abs/2601.06301,
+ArXiv,SimLLM: Fine-Tuning Code LLMs for SimPy-Based Queueing System Simulation,https://arxiv.org/abs/2601.06543,
+ArXiv,CHASE: LLM Agents for Dissecting Malicious PyPI Packages,https://arxiv.org/abs/2601.06838,
+ArXiv,Efficient GPU-computing simulation platform JAX-PF for differentiable phase field model,https://arxiv.org/abs/2601.06079,
