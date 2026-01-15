@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 on Outposts is now available on second-generation AWS Outposts racks,https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-s3-second-generation-aws-outposts-racks,
+AWS:WhatsNew,AWS Databases are now available on v0 by Vercel,https://aws.amazon.com/about-aws/whats-new/2026/01/aws-databases-available-vercel-v0/,
+AWS:WhatsNew,Announcing Amazon EC2 Memory optimized X8i instances,https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available,
+AWS:WhatsNew,AWS Lambda announces cross-account access for DynamoDB Streams,https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-cross-account-access-dynamodb-streams,
+AWS:WhatsNew,Amazon EBS now supports up to four Elastic Volumes modifications in 24 hours,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ebs-up-to-four-volume-modifications/,
