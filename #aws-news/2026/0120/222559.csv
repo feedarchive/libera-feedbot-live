@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 G7e instances are now generally available,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available,
+AWS:WhatsNew,Amazon RDS Blue/Green Deployments reduces downtime to under five seconds,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-blue-green-deployments-reduces-downtime,
+AWS:WhatsNew,Amazon EVS now supports VCF and VMware ESX software version selection,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-evs-vcf-vmware-esx-software-version,
