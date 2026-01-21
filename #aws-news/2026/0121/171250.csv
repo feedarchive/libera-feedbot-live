@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECR now supports cross-repository layer sharing to optimize storage and improve push performance,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecr-cross-repository-layer-sharing/,
