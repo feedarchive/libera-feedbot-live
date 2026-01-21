@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker HyperPod introduces enhanced lifecycle scripts debugging,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-lcs-enhanced-debug/,
+AWS:WhatsNew,Amazon Connect can now automatically select random samples of agent contacts for evaluation,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-automatically-select-random-contacts-evaluation/,
+AWS:WhatsNew,Amazon EMR Serverless now supports AWS KMS customer managed keys for encrypting local disks,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-emr-serverless-aws-kms-customer-managed,
