@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+ArXiv,torch-sla: Differentiable Sparse Linear Algebra with Adjoint Solvers and Sparse Tensor Parallelism for PyTorch,https://arxiv.org/abs/2601.13994,
