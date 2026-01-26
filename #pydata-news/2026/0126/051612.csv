@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,AMBER: A Columnar Architecture for High-Performance Agent-Based Modeling in Python,https://arxiv.org/abs/2601.16292,
+ArXiv,Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework,https://arxiv.org/abs/2601.16463,
+ArXiv,SeeMPS: A Python-based Matrix Product State and Tensor Train Library,https://arxiv.org/abs/2601.16734,
