@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Nvidia,Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare,https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/,
+Nvidia,Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core,https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/,
+Nvidia,Updating Classifier Evasion for Vision Language Models,https://developer.nvidia.com/blog/updating-classifier-evasion-for-vision-language-models/,
