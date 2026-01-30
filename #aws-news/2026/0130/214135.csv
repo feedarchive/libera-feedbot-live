@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Unified Studio now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-unified-studio-aws-privatelink/,
+AWS:WhatsNew,Amazon ECS now publishes container health status as a CloudWatch metric,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-container-health-status-metric/,
