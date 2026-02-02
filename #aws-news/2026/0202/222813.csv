@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"DeepSeek OCR, MiniMax M2.1, and Qwen3-VL-8B-Instruct models are now available on SageMaker JumpStart",https://aws.amazon.com/about-aws/whats-new/2026/01/new-models-on-sagemaker-jumpstart,
+AWS:WhatsNew,"AWS STS now supports validation of select identity provider specific claims from Google, GitHub, CircleCI and OCI",https://aws.amazon.com/about-aws/whats-new/2026/01/aws-sts-supports-validation-identity-provider-claims,
+AWS:WhatsNew,Amazon CloudFront announces mutual TLS support for origins,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-mutual-tls-for-origins/,
