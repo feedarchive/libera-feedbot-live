@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DynamoDB global tables now support replication across multiple AWS accounts,https://aws.amazon.com/about-aws/whats-new/2026/02/dynamodb-gt-multi-account/,
+AWS:WhatsNew,AWS Marketplace introduces localized billing for Professional Services from AWS EMEA,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-marketplace-localized-billing-professional/,
+AWS:WhatsNew,Amazon RDS now provides an enhanced console experience to connect to a database,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-provides-enhanced-console-experience,
+AWS:WhatsNew,Amazon Aurora DSQL now supports indexes on the NUMERIC data type,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-indexes-numeric-data-type/,
+AWS:WhatsNew,Amazon Quick Suite Enables Easy Resolution of Ambiguous Map Locations,https://aws.amazon.com/about-aws/whats-new/2026/02/quick-ambiguous-locations-resolution,
+AWS:WhatsNew,Oracle Database@AWS is now available in the Canada Central and Sydney AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/02/oracle-database-aws-available-canada-central-sydney-aws-regions,
+AWS:WhatsNew,Amazon CloudWatch Application Signals now supports integration with Kiro powers,https://aws.amazon.com/about-aws/whats-new/2026/01/cloudwatch-application-signals-kiro-powers,
