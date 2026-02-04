@@ -1,0 +1,13 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Batch now supports unmanaged compute environments for Amazon EKS,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-on-eks-unmanaged-compute-environments,
+AWS:WhatsNew,Structured outputs now available in Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/,
+AWS:WhatsNew,Amazon EC2 G7e instances now available in US West (Oregon) region,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-oregon-region/,
+AWS:WhatsNew,Cartesia Sonic 3 text-to-speech model is now available on Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/02/cartesia-sonic-3-on-sagemaker-jumpstart,
+AWS:WhatsNew,Amazon ECS adds Network Load Balancer support for Linear and Canary deployments,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ecs-nlb-linear-canary-deployments,
+AWS:WhatsNew,Apache Spark lineage now available in Amazon SageMaker Unified Studio for IDC based domains,https://aws.amazon.com/about-aws/whats-new/2026/02/apache-spark-lineage-amazon-sageMaker-unified-studio,
+AWS:WhatsNew,"Introducing Amazon EC2 C8id, M8id, and R8id instances",https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/,
+AWS:WhatsNew,Amazon EC2 and VPC now display related resources for security groups,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-console-related-resources-generally-available,
+AWS:WhatsNew,Amazon EKS simplifies providing IAM permissions to EKS add-ons in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-simplifies-iam-permissions-eks-addons,
+AWS:WhatsNew,Amazon Redshift now supports autonomics for multi-cluster environments,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-autonomics-for-multi-cluster,
+AWS:WhatsNew,AWS Batch now provides Array Job Status Summary in ListJobs API,https://aws.amazon.com/about-aws/whats-new/2026/01/aws-batch-array-job-status-summary/,
+AWS:WhatsNew,Amazon RDS for MySQL now supports new minor versions 8.0.45 and 8.4.8,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-mysql-minor-versions/,
