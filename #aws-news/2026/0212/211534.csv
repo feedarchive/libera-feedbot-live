@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock increases default quotas for Anthropic’s Claude Sonnet 4.5 model in AWS GovCloud (US),https://aws.amazon.comabout-aws/whats-new/2026/02/amazon-bedrock-increases-default-sonnet-4.5-quotas-aws-govcloud-us,
+AWS:WhatsNew,AI Troubleshooting in the AWS Support Center Console now supports 7 additional languages,https://aws.amazon.com/about-aws/whats-new/2026/02/ai-troubleshooting-in-aws-support-center/,
+AWS:WhatsNew,"Amazon RDS for PostgreSQL supports minor versions 18.2, 17.8, 16.12, 15.16 and 14.21",https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-2-17-8-16-12-15-16-14-21,
+AWS:WhatsNew,Announcing new Amazon EC2 general purpose M8azn instances,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available,
+AWS:WhatsNew,Amazon S3 Tables add partition and sort order definition in the CreateTable API,https://aws.amazon.com/about-aws/whats-new/2026/02/s3-tables-partition-and-sort-order-createtable-api/,
+AWS:WhatsNew,AWS Backup adds cross-Region database snapshot copy to logically air-gapped vaults,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-adds-cross-region-database-snapshot-logically-air-gapped-vaults/,
+AWS:WhatsNew,AWS announces 6 new locations for AWS Data Transfer Terminal,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-data-transfer-terminal-6-new-locations/,
+AWS:WhatsNew,MSK simplifies Kafka topic management with new APIs and console integration,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-msk-kafka-topics-public-apis/,
+AWS:WhatsNew,Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8i-r8i-flex-instances-AKL-DXB-region/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Browser now supports proxy configuration,https://aws.amazon.com/about-aws/whats-new/2026/02/bedrock-agentcore-browser-proxy,
