@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.11.0-rc3: Fix macOS arm64 libtorch release upload failure (#175108),https://github.com/pytorch/pytorch/releases/tag/v2.11.0-rc3,
