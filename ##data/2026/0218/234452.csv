@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:OpenData,TESS-GAIA Light Curve (TGLC),https://registry.opendata.aws/mast-tglc,
+AWS:OpenData,James Webb Space Telescope (JWST),https://registry.opendata.aws/mast-jwst,
+AWS:OpenData,TESS-SPOC,https://registry.opendata.aws/mast-tess-spoc,
+AWS:OpenData,Transiting Exoplanet Survey Satellite (TESS),https://registry.opendata.aws/mast-tess,
+AWS:OpenData,The JWST Advanced Extragalactic Survey JADES,https://registry.opendata.aws/mast-jades,
+AWS:OpenData,Galaxy Evolution Explorer Satellite (GALEX),https://registry.opendata.aws/mast-galex,
+AWS:OpenData,Hubble Space Telescope,https://registry.opendata.aws/mast-hst,
+AWS:OpenData,K2 Mission Data,https://registry.opendata.aws/mast-k2,
+AWS:OpenData,Pan-STARRS PS1 Survey,https://registry.opendata.aws/mast-panstarrs,
+AWS:OpenData,Gaia DR3,https://registry.opendata.aws/mast-gaia-dr3,
