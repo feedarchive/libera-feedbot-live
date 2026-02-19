@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ArXiv,FUTURE-VLA: Forecasting Unified Trajectories Under Real-time Execution,https://arxiv.org/abs/2602.15882,
+ArXiv,R$^2$Energy: A Large-Scale Benchmark for Robust Renewable Energy Forecasting under Diverse and Extreme Conditions,https://arxiv.org/abs/2602.15961,
+ArXiv,Deep TPC: Temporal-Prior Conditioning for Time Series Forecasting,https://arxiv.org/abs/2602.16188,
+ArXiv,SEMixer: Semantics Enhanced MLP-Mixer for Multiscale Mixing and Long-term Time Series Forecasting,https://arxiv.org/abs/2602.16220,
+ArXiv,Amortized Predictability-aware Training Framework for Time Series Forecasting and Classification,https://arxiv.org/abs/2602.16224,
+ArXiv,HPMixer: Hierarchical Patching for Multivariate Time Series Forecasting,https://arxiv.org/abs/2602.16468,
+ArXiv,AIFL: A Global Daily Streamflow Forecasting Model Using Deterministic LSTM Pre-trained on ERA5-Land and Fine-tuned on IFS,https://arxiv.org/abs/2602.16579,
+ArXiv,VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection,https://arxiv.org/abs/2602.16681,
