@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Outposts racks now support additional Amazon CloudWatch metrics in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-outposts-racks-cloudwatch-metrics-govcloud-regions/,
+AWS:WhatsNew,"Aurora DSQL launches new support for Tortoise, Flyway, and Prisma",https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-tortoise-flyway-prisma/,
+AWS:WhatsNew,Aurora DSQL launches new integrations for Visual Studio Code SQLTools and DBeaver,https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-visual-studio-code-sqltools-dbeaver/,
+AWS:WhatsNew,Amazon EC2 R8a instances now available in the Europe (Ireland) region,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions/,
+AWS:WhatsNew,Amazon EC2 M8i and M8i-flex instances are now available in Africa (Cape Town) region,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-africa-cape-town-regions/,
+AWS:WhatsNew,Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-location-service-introduces-kiro-power-claude-skill-llm-context/,
+AWS:WhatsNew,Amazon WorkSpaces Applications extends support for 4K resolution,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-applications-4K-resolution/,
+AWS:WhatsNew,AWS Backup extends support for Amazon Neptune to five additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-extends-amazon-neptune-five-additional-regions/,
+AWS:WhatsNew,Amazon EC2 C7i and C7i-flex instances are now available in the Africa (Cape Town) Region,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c7i-c7i-flex-instances-africa-cape-town-regions/,
