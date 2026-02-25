@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-compute-optimizer-applies-tags-ebs-snapshots/,
+AWS:WhatsNew,AWS Observability now available as a Kiro power,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-observability-kiro-power/,
+AWS:WhatsNew,Amazon EC2 I7ie instances now available in AWS Africa (Cape Town) region,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec-i-ie-instances-available-aws-africa/,
+AWS:WhatsNew,Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-custom-supports-latest-gdr-updates-for-microsoft-sql-server/,
