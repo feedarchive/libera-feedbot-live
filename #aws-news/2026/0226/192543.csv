@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Security Hub launches Extended plan for pay-as-you-go partner solutions,https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/,
+AWS:WhatsNew,Amazon Cognito enhances client secret management with secret rotation and custom secrets,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/,
+AWS:WhatsNew,AWS Lambda Durable Execution SDK for Java now available in Developer Preview,https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/,
