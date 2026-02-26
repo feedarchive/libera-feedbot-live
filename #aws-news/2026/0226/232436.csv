@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS Managed Instances now integrates with Amazon EC2 Capacity Reservations,https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-ec2-capacity-reservations/,
+AWS:WhatsNew,AWS Marketplace now supports multiple purchases of SaaS and Professional Services products,https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/,
+AWS:WhatsNew,Amazon CloudWatch now provides lock contention diagnostics for Amazon RDS for PostgreSQL,https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cloudwatch-lock-contention-diagnostics-rds-postgresql/,
