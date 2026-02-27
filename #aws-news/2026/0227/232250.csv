@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,EC2 Image Builder enhances lifecycle policies with wildcard support and simplified IAM,https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-image-builder-lifecycle-enhancements/,
+AWS:WhatsNew,"ARC Region switch adds three new capabilities: post-recovery workflows, RDS orchestration and AWS provider support for Terraform",https://aws.amazon.com/about-aws/whats-new/2026/02/arc-region-switch-post-recovery-rdsblock/,
+AWS:WhatsNew,AWS Network Firewall now supports firewall state change notifications through Amazon EventBridge,https://aws.amazon.com/about-aws/whats-new/2026/02/firewall-state-change-notifications/,
+AWS:WhatsNew,Oracle Database@AWS is now available in the Dublin AWS Region,https://aws.amazon.com/about-aws/whats-new/2026/02/oracle-database-aws-available-dublin-aws-region/,
