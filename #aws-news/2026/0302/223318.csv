@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Batch now supports configurable scale down delay,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-configurable-scale-down-delay/,
+AWS:WhatsNew,Application Performance Monitoring Enabled by Default in CloudWatch Observability EKS Add-on,https://aws.amazon.com/about-aws/whats-new/2026/02/application-performance-monitoring-cloudwatch-eks/,
