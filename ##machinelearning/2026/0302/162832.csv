@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+JMLR:MLOSS,A Common Interface for Automatic Differentiation,http://jmlr.org/papers/v27/25-1024.html,
+JMLR:MLOSS,Neural Network Parameter-optimization of Gaussian Pre-marginalized Directed Acyclic Graphs,http://jmlr.org/papers/v27/23-1249.html,
+JMLR:MLOSS,UQLM: A Python Package for Uncertainty Quantification in Large Language Models,http://jmlr.org/papers/v27/25-1557.html,
+JMLR:MLOSS,skwdro: a library for Wasserstein distributionally robust machine learning,http://jmlr.org/papers/v27/24-1840.html,
+JMLR:MLOSS,FusionBench: A Unified Library and Comprehensive Benchmark for Deep Model Fusion,http://jmlr.org/papers/v26/25-1243.html,
+JMLR:MLOSS,DeepCAVE: A Visualization and Analysis Tool for Automated Machine Learning,http://jmlr.org/papers/v26/24-1353.html,
+JMLR:MLOSS,"The GeometricKernels Package: Heat and Mat{\'e}rn Kernels for Geometric Learning on Manifolds, Meshes, and Graphs",http://jmlr.org/papers/v26/24-1185.html,
