@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:OpenData,Epilepsy.Science,https://registry.opendata.aws/epilepsy-science,
+AWS:OpenData,run_dbcan CAZyme and CGC annotation database on AWS,https://registry.opendata.aws/run_dbcan,
