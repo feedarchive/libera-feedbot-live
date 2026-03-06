@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 R8g instances now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/,
+AWS:WhatsNew,Amazon Redshift Serverless now maintains datashare permissions during restore,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-serverless-maintains-datashare-permissions-on-restore/,
+AWS:WhatsNew,"OpenSearch OR2 and OM2 instances in AWS GovCloud (US-East, US-West) Regions",https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-or2-om2-us-gov-region/,
