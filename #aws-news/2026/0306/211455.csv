@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EventBridge Scheduler now provides a higher default quota for the CreateSchedule API,https://aws.amazon.com/about-aws/whats-new/2026/2/eventbridge-default-quota-increase/,
