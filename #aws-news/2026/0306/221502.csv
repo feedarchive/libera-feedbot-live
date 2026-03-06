@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift introduces reusable templates for COPY operations,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-reusable-templates-copy/,
+AWS:WhatsNew,Amazon Redshift introduces new array functions for semi-structured data processing,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-nine-new-array-functions/,
+AWS:WhatsNew,Amazon SageMaker Unified Studio adds light mode support for IAM-based domains,https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-light-mode/,
