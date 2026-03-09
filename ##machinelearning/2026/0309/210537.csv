@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Nvidia,Implementing Falcon-H1 Hybrid Architecture in NVIDIA Megatron Core,https://developer.nvidia.com/blog/implementing-falcon-h1-hybrid-architecture-in-nvidia-megatron-core/,
+Nvidia,Enhancing Distributed Inference Performance with the NVIDIA Inference Transfer Library,https://developer.nvidia.com/blog/enhancing-distributed-inference-performance-with-the-nvidia-inference-transfer-library/,
+Nvidia,Removing the Guesswork from Disaggregated Serving,https://developer.nvidia.com/blog/removing-the-guesswork-from-disaggregated-serving/,
