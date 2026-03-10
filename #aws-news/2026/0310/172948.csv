@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Service now supports in-place volume increases for all volume sizes,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-in-place-volume/,
+AWS:WhatsNew,Amazon Route 53 Global Resolver is now generally available,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-global-resolver/,
+AWS:WhatsNew,Amazon SageMaker Unified Studio now supports faster data preview in Visual ETL,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-faster-data-preview/,
