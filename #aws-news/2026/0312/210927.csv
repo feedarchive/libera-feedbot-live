@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Private CA Connector for SCEP now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-connector-scep-privatelink/,
+AWS:WhatsNew,AWS Glue zero-ETL integrations with Amazon DynamoDB as the source support new configurations,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-glue-zetl-dynamodb-configurations/,
