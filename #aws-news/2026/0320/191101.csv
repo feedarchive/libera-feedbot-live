@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS,https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/,
+AWS:WhatsNew,AWS DataSync now supports AWS Secrets Manager for all location types,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-datasync-secrets-manager/,
