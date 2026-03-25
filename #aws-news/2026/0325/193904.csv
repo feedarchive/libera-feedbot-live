@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Backup expands support for Amazon DocumentDB to 12 Regions,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-amazon-documentdb-regions/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Runtime now supports managed session storage for persistent agent filesystem state (preview),https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-session-storage/,
