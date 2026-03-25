@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Unified Studio launches support for remote connection from Cursor IDE,https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-cursor-ide/,
+AWS:WhatsNew,Amazon Aurora PostgreSQL now available with the AWS Free Tier,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-aws-free-tier/,
+AWS:WhatsNew,Amazon Aurora PostgreSQL now supports creating and connecting to a database in seconds,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-database/,
+AWS:WhatsNew,AWS Transfer Family AS2 now supports receipts of MDNs asynchronously,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-transfer-family-as2-mdns/,
