@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Batch now provides AMI status and supports AWS Health Planned Lifecycle Events,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/,
+AWS:WhatsNew,Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA,https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/,
+AWS:WhatsNew,Amazon Route 53 Profiles now supports granular IAM permissions for resource and VPC associations,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-profiles-granular-iam/,
+AWS:WhatsNew,Amazon SageMaker AI now supports serverless reinforcement fine-tuning for 12 additional models,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-ai-serverless-additional-models/,
