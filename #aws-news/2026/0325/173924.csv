@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 I7ie instances now available in additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-i7ie-instances-additional-aws-regions/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports continuous provisioning for Slurm-orchestrated clusters,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-continuous-provisioning/,
