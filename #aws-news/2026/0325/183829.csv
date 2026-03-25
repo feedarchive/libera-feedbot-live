@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,LTS upgrade testing,https://aws.amazon.com/about-aws/whats-new/2025/01/example-post/,
+AWS:WhatsNew,Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-browser-policies-root-ca/,
