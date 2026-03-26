@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Studio launches support for Kiro and Cursor IDEs as remote IDEs,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-studio-kiro-cursor/,
+AWS:WhatsNew,"AWS Lambda increases the file descriptor limit to 4,096 for functions running on Lambda Managed Instances",https://aws.amazon.com/about-aws/whats-new/2026/03/aws-Lambda-file-descriptors-increase-4096/,
+AWS:WhatsNew,Amazon EC2 M8a instances now available in AWS Europe (Ireland) region,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-europe-ireland-region/,
+AWS:WhatsNew,Amazon EC2 M8a instances now available in AWS GovCloud (US-West) region,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-govcloud-us-west-region/,
+AWS:WhatsNew,AWS Storage Gateway Terraform modules now support Amazon Linux 2023,https://aws.amazon.com/about-aws/whats-new/2026/03/storage-gateway-terraform-al2023/,
