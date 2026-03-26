@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA,https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/,
+AWS:WhatsNew,Amazon SageMaker AI now supports serverless reinforcement fine-tuning for 12 additional models,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-ai-serverless-additional-models/,
