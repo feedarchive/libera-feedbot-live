@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda supports up to 32 GB of memory and 16 vCPUs for Lambda Managed Instances,https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-32-gb-memory-16-vcpus/,
+AWS:WhatsNew,AWS Management Console now supports settings to control service and Region visibility,https://aws.amazon.com/about-aws/whats-new/2026/03/account-customizations-console/,
+AWS:WhatsNew,"AWS Step Functions adds 28 new service integrations, including Amazon Bedrock AgentCore",https://aws.amazon.com/about-aws/whats-new/2026/03/aws-step-functions-sdk-integrations/,
+AWS:WhatsNew,Amazon EC2 I8ge instances are now generally available in additional AWS regions,https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-i8ge-available-new-regions/,
