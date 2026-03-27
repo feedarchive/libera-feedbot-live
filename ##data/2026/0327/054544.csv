@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+ArXiv,Zero-Cost NDV Estimation from Columnar File Metadata,https://arxiv.org/abs/2603.24606,
+ArXiv,TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search,https://arxiv.org/abs/2603.24919,
+ArXiv,PDET-LSH: Scalable In-Memory Indexing for High-Dimensional Approximate Nearest Neighbor Search with Quality Guarantees,https://arxiv.org/abs/2603.24920,
+ArXiv,Enabling Homomorphic Analytical Operations on Compressed Scientific Data with Multi-stage Decompression,https://arxiv.org/abs/2603.25206,
+ArXiv,JSON Schema Inclusion through Refutational Normalization: Reconciling Efficiency and Completeness,https://arxiv.org/abs/2603.25306,
+ArXiv,Are LLMs Overkill for Databases?: A Study on the Finiteness of SQL,https://arxiv.org/abs/2603.25568,
+ArXiv,AutoCSF: Provably Space-Efficient Indexing of Skewed Key-Value Workloads via Filter-Augmented Compressed Static Functions,https://arxiv.org/abs/2603.24882,
+ArXiv,Reinforcing Prestige: Journal Citation Biases in Astronomy,https://arxiv.org/abs/2603.25349,
+ArXiv,Improving metadata flows -- The simultaneous use of multiple metadata schemas at disciplinary research data repositories,https://arxiv.org/abs/2603.25468,
+ArXiv,RenoBench: A Citation Parsing Benchmark,https://arxiv.org/abs/2603.25640,
+ArXiv,Beyond Via: Analysis and Estimation of the Impact of Large Language Models in Academic Papers,https://arxiv.org/abs/2603.25638,
