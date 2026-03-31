@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Aurora DSQL launches new connectors that simplify building .NET and Rust applications,https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/,
+AWS:WhatsNew,AWS Transform custom announces general availability of automated codebase analysis,https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-codebase-analysis/,
+AWS:WhatsNew,AWS Transform custom introduces new AWS-managed transformations to modernize code at scale,https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-transformations/,
