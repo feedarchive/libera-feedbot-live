@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Service Availability Updates,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/,
+AWS:WhatsNew,Amazon ECS Managed Instances now supports Amazon EC2 instance store,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/,
+AWS:WhatsNew,AWS DevOps Agent is now generally available,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-devops-agent-generally-available/,
+AWS:WhatsNew,Amazon CloudWatch Logs introduces lookup query command,https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-lookup-query-command/,
+AWS:WhatsNew,Announcing Amazon RDS for Oracle on AWS Outposts,https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-oracle-aws-outposts/,
+AWS:WhatsNew,Amazon Connect now supports tag-based access control for quick responses,https://aws.amazon.com/about-aws/whats-new/2006/03/amazon-connect-tag-based-access/,
