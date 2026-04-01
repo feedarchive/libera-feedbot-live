@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SES Mail Manager adds new features for enhanced security and email processing,https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/,
+AWS:WhatsNew,Amazon SageMaker Data Agent now supports geo-specific inference for Japan and Australia,https://aws.amazon.com/about-aws/whats-new/2026/03/sage-maker-da-infr-jp-au/,
+AWS:WhatsNew,Amazon Bedrock now supports structured outputs to AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-structured-outputs-govcloud/,
+AWS:WhatsNew,AWS Direct Connect now supports AWS CloudFormation,https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-supports-aws-cloudformation/,
