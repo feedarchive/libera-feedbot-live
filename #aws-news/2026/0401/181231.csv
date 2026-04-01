@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudFront now supports SHA-256 for signed URLs and signed cookies,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudfront-sha-256-signed-urls/,
+AWS:WhatsNew,Amazon RDS for Oracle now supports cross-account snapshot sharing with additional storage volumes,https://aws.amazon.com/about-aws/whats-new/2026/04/rds-oracle-cross-account-snapshot-sharing-additional-storage-volume/,
+AWS:WhatsNew,Oracle Database@AWS launches sub-millisecond network latency for high performance applications,https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-launches-high-performance-networking/,
