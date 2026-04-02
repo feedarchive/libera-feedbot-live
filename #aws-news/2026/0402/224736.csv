@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ElastiCache Serverless now supports IPv6 and dual stack connectivity,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-elasticache-serverless-ipv6-dual-stack/,
+AWS:WhatsNew,Amazon CloudWatch launches OTel Container Insights for Amazon EKS (Preview),https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/,
+AWS:WhatsNew,AWS Deadline Cloud now supports configurable job scheduling modes for queues,https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/,
+AWS:WhatsNew,Announcing compute-optimized instance bundles for Amazon Lightsail,https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/,
+AWS:WhatsNew,Amazon WorkSpaces Applications improves multi-session fleet management,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-applications-drain-mode/,
