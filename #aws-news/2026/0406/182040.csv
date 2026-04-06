@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Verified Permissions now supports policy store aliases and named policies and policy templates,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-verified-permissions-policy-store/,
+AWS:WhatsNew,Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-privatelink/,
+AWS:WhatsNew,AWS announces general availability of Smithy-Java client framework,https://aws.amazon.com/about-aws/whats-new/2026/03/smithy-java-client-framework/,
