@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PyTorch,ExecuTorch Becomes a Part of PyTorch Core to Expand On-Device Inference Capabilities,https://pytorch.org/blog/executorch-becomes-part-of-pytorch-core/,
+PyTorch,"PyTorch Foundation Welcomes Helion as a Foundation-Hosted Project to Standardize Open, Portable, and Accessible AI Kernel Authoring",https://pytorch.org/blog/pytorch-foundation-welcomes-helion-as-a-foundation-hosted-project-to-standardize-open-portable-and-accessible-ai-kernel-authoring/,
+PyTorch,Generating State-of-the-Art GEMMs with TorchInductor’s CuteDSL backend,https://pytorch.org/blog/__trashed/,
