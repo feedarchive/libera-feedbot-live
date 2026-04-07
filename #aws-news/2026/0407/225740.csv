@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock now offers Claude Mythos Preview (Gated Research Preview),https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-claude-mythos/,
+AWS:WhatsNew,Amazon RDS for Oracle now supports M8i and R8i instances,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-oracle-8th-gen-instances/,
+AWS:WhatsNew,AWS Transfer Family now supports IPv6 for connectors and web apps,https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-ipv6-connectors-web-apps/,
