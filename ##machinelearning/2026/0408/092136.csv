@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+PyTorch,PyTorch Foundation Announces Safetensors as Newest Contributed Project to Secure AI Model Execution,https://pytorch.org/blog/pytorch-foundation-announces-safetensors-as-newest-contributed-project-to-secure-ai-model-execution/,
+PyTorch,Monarch: an API to your supercomputer,https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/,
+PyTorch,SOTA Normalization Performance with torch.compile,https://pytorch.org/blog/sota-normalization-performance-with-torch-compile/,
