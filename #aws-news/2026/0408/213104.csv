@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker HyperPod now supports gang scheduling for distributed training workloads,https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-gang-scheduling/,
+AWS:WhatsNew,Amazon EKS managed node groups now support EC2 Auto Scaling warm pools,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-managed-node-groups-ec2-warm-pools/,
