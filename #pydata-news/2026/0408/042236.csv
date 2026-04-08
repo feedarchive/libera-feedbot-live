@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,Typify: A Lightweight Usage-driven Static Analyzer for Precise Python Type Inference,https://arxiv.org/abs/2604.05067,
+ArXiv,JZ-Tree: GPU friendly neighbour search and friends-of-friends with dual tree walks in JAX plus CUDA,https://arxiv.org/abs/2604.05885,
