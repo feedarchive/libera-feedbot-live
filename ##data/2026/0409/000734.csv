@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:OpenData,Met Office UK Marine Observations,https://registry.opendata.aws/met-office-uk-marine-observations,
+AWS:OpenData,NOAA North American Multi-Model Ensemble (NMME),https://registry.opendata.aws/noaa-nmme,
