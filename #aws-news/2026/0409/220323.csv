@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Service supports Managed Prometheus and agent tracing,https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing/,
+AWS:WhatsNew,Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy,https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green/,
+AWS:WhatsNew,Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy,https://aws.amazon.com/about-aws/whats-new/2026/04/rds-blue-green-proxy/,
