@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS commercial and AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2026/04/second-gen-amazon-fsx-ontap-regions/,
+AWS:WhatsNew,AWS Backup extends Amazon FSx support to 5 additional AWS Regions and expands cross-Region and cross-account copy to 14 AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/04/backup-extends-fsx-support/,
