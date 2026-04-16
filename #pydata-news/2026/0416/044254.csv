@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ApacheAirflow:Blog,"Agentic Workloads on Airflow: Observable, Retryable, and Auditable by Design",https://airflow.apache.org/blog/agentic-workloads-airflow-3/,
+ApacheAirflow:Blog,Ask Your Survey Anything: Building AI Analysis Pipelines with Airflow 3,https://airflow.apache.org/blog/ai-survey-analysis-pipelines/,
+ApacheAirflow:Blog,Introducing the Common AI Provider: LLM and AI Agent Support for Apache Airflow,https://airflow.apache.org/blog/common-ai-provider/,
+ApacheAirflow:Blog,Apache Airflow 3.2.0: Data-Aware Workflows at Scale,https://airflow.apache.org/blog/airflow-3.2.0/,
+ApacheAirflow:Blog,Introducing the Apache Airflow Registry,https://airflow.apache.org/blog/airflow-registry/,
+ApacheAirflow:Blog,Airflow Survey 2025,https://airflow.apache.org/blog/airflow-survey-2025/,
