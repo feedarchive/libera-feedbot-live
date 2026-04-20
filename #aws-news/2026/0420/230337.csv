@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MSK Replicator now supports log forwarding for replication visibility,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-logs/,
+AWS:WhatsNew,Amazon MSK Replicator now supports enhanced consumer offset synchronization for bidirectional replication,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-enhanced-consumer-offset-synchronization/,
+AWS:WhatsNew,MSK Replicator now supports replication from external Apache Kafka clusters to MSK Express Brokers,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-external-kafka-cluster-support/,
+AWS:WhatsNew,AWS Managed Microsoft AD now supports Kerberos Encryption audit event logs,https://aws.amazon.com/about-aws/whats-new/2026/04/aws-managed-microsoft-ad-kerberose-encrption-logs/,
