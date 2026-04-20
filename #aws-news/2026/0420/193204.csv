@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) now supports in-place upgrade from version 5.0 to 8.0,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0/,
+AWS:WhatsNew,Amazon EKS enhances cluster governance with new IAM condition keys,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-iam-condition-keys/,
