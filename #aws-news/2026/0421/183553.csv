@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files,https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/,
+AWS:WhatsNew,AWS Lambda Durable Execution SDK for Java GA,https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-execution-java-ga/,
