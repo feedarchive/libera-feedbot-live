@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files,https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/,
+AWS:WhatsNew,Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles,https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/,
