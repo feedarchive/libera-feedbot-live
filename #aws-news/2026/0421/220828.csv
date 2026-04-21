@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker now supports multi-region replication from IAM Identity Center,https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/,
+AWS:WhatsNew,"AWS Neuron SDK 2.29.0 now available with NKI and Neuron Explorer out of Beta, a new CPU Simulator, and an expanded NKI Library",https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-2-29/,
