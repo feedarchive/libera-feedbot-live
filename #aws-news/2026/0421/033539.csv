@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Outbound Campaigns now supports contact priority ordering,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/,
+AWS:WhatsNew,Amazon Connect outbound campaigns now supports hourly segment refresh,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-campaign-hourly-refresh/,
