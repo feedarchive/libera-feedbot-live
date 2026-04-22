@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/,
+AWS:WhatsNew,"Amazon Location Service now offers bulk address validation for the United States, Canada, Australia, and the United Kingdom",https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-location-service-bulk-address-validation/,
+AWS:WhatsNew,Amazon CloudWatch Logs Insights introduces JOIN and sub-query commands,https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-logs-insights-join-sub-query/,
