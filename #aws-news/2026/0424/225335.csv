@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Quick now integrates with Visier’s Vee agent for workforce intelligence,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-visier-vee/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Gateway and Identity support VPC egress,https://aws.amazon.com/about-aws/whats-new/2024/04/agentcore-gateway-identity-vpc/,
+AWS:WhatsNew,AWS Deadline Cloud now supports custom scripting for job submission workflows,https://aws.amazon.com/about-aws/whats-new/2026/04/aws-deadline-cloud/,
