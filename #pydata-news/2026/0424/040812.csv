@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,JAX-BEM: Gradient-Based Acoustic Shape Optimisation via a Differentiable Boundary Element Method,https://arxiv.org/abs/2604.21431,
+ArXiv,Large-Scale Data Parallelization of Product Quantization and Inverted Indexing Using Dask,https://arxiv.org/abs/2604.21645,
+ArXiv,CrossCommitVuln-Bench: A Dataset of Multi-Commit Python Vulnerabilities Invisible to Per-Commit Static Analysis,https://arxiv.org/abs/2604.21917,
