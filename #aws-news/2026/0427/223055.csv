@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/,
+AWS:WhatsNew,Amazon Connect increases attachment file sizes and adds custom file types,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/,
+AWS:WhatsNew,Amazon FSx for OpenZFS Single-AZ (HA) file systems are now available in 17 additional AWS commercial and AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/,
+AWS:WhatsNew,Amazon SageMaker Unified Studio now offers CI/CD CLI for data and AI applications,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-smus-ci-cd-cli/,
