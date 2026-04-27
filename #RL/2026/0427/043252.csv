@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+ArXiv,Incentivizing Neuro-symbolic Language-based Reasoning in VLMs via Reinforcement Learning,https://arxiv.org/abs/2604.22062,
+ArXiv,Insect-inspired modular architectures as inductive biases for reinforcement learning,https://arxiv.org/abs/2604.22081,
+ArXiv,ReCast: Recasting Learning Signals for Reinforcement Learning in Generative Recommendation,https://arxiv.org/abs/2604.22169,
+ArXiv,Behavioral Canaries: Auditing Private Retrieved Context Usage in RL Fine-Tuning,https://arxiv.org/abs/2604.22191,
+ArXiv,"Preserve Support, Not Correspondence: Dynamic Routing for Offline Reinforcement Learning",https://arxiv.org/abs/2604.22229,
+ArXiv,Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for RL-based LLM Recommenders,https://arxiv.org/abs/2604.22504,
+ArXiv,SOLAR-RL: Semi-Online Long-horizon Assignment Reinforcement Learning,https://arxiv.org/abs/2604.22558,
+ArXiv,AdaFair-MARL: Enforcing Adaptive Fairness Constraints in Multi-Agent Reinforcement Learning,https://arxiv.org/abs/2511.14135,
