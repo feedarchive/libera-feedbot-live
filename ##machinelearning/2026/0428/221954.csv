@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Build custom applications using natural language in Amazon Quick (Preview),https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications/,
+AWS:WhatsNew,Amazon SageMaker Training Plans now provides capacity utilization monitoring through Amazon CloudWatch,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-training-plan-cloudwatch-observability/,
+AWS:WhatsNew,Amazon Quick now supports document-level access controls for SharePoint knowledge bases,https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sharepoint-access-control/,
