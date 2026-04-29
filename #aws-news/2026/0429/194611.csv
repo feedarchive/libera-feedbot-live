@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudFront now supports invalidation by cache tag,https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/,
+AWS:WhatsNew,Amazon CloudWatch adds visual agent configuration to the EC2 console,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-agent-ec2/,
+AWS:WhatsNew,AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples,https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/,
+AWS:WhatsNew,"Amazon RDS for Db2 is now available in the AWS GovCloud (US-East, US-West) Regions",https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-db2-available-aws-govcloud-us-east-us-west-regions/,
+AWS:WhatsNew,Amazon OpenSearch Service now supports JWKS URL configuration for JWT authentication,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-jwks-url-jwt/,
