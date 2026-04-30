@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MQ for RabbitMQ now supports Prometheus metrics,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/,
+AWS:WhatsNew,AWS Lambda adds support for Ruby 4.0,https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/,
