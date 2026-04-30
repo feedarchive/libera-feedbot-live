@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS Managed Instances now supports NVIDIA GPU metrics,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Identity now supports On-Behalf-Of (OBO) token exchange,https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore/,
