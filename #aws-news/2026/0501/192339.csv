@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API,https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/,
+AWS:WhatsNew,Concurrency Scaling Support for auto-copy and zero-ETL,https://aws.amazon.com/about-aws/whats-new/2026/03/concurrency-scaling-auto-copy-zero-ETL/,
+AWS:WhatsNew,Amazon RDS for SQL Server supports cross-account snapshot sharing with additional storage volumes,https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume/,
