@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.12.0-rc9: [MPS] Fix SDPA wrong output for permuted q/k/v with B > 1 (#181886),https://github.com/pytorch/pytorch/releases/tag/v2.12.0-rc9,
