@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Cases now supports customer profile identity resolution,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res/,
+AWS:WhatsNew,Amazon OpenSearch Service expands Cluster Insights with a new insight,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-cluster-insights/,
+AWS:WhatsNew,"AWS IAM now provides higher maximum quotas for roles, role trust policies, instance profiles, managed policies, and identity providers",https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iam-increased-quotas/,
