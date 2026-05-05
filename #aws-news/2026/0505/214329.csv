@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MQ now supports in-place major version upgrades for RabbitMQ 4,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-inplace-upgrades-rabbitmq4/,
+AWS:WhatsNew,Amazon Bedrock AgentCore is now available in AWS GovCloud (US-West),https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-launch-aws-govcloud-us/,
+AWS:WhatsNew,AWS Backup improves performance for Amazon EKS cluster backups,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-amazon-eks-performance-improvement/,
