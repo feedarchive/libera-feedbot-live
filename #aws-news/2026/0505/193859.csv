@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/,
+AWS:WhatsNew,Amazon Quick now integrates with New Relic for observability-driven AI agents,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/,
+AWS:WhatsNew,Amazon CloudWatch RUM now supports Session Replay for Web Applications,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-rum-session/,
