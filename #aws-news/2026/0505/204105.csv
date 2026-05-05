@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/,
+AWS:WhatsNew,AWS SAM now supports WebSocket APIs for Amazon API Gateway,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/,
+AWS:WhatsNew,AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/,
+AWS:WhatsNew,EC2 Instance Store CSI driver now generally available in EKS add-ons,https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-csi-eks/,
