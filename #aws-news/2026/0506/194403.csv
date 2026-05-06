@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Marketplace now supports programmatic procurement with Agreements API,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/,
+AWS:WhatsNew,AWS Directory Service expands directory security settings with STIG-aligned controls for Managed AD,https://aws.amazon.com/about-aws/whats-new/2026/05/add-security-settings-stig-aws-microsoft-ad/,
+AWS:WhatsNew,"AWS Console Mobile App adds interactive graphs, AI log ssummaries, and natural language logs search to CloudWatch Alarms",https://aws.amazon.com/about-aws/whats-new/2026/05/aws-console-mobile-app/,
