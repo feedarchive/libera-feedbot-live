@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS India customers can now use UPI Scan and Pay for sign-up and payments,https://aws.amazon.com/about-aws/whats-new/2026/04/aws-india-upi-scanandpay/,
+AWS:WhatsNew,Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-West) Region,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b200-aws-govcloud,
+AWS:WhatsNew,Amazon ElastiCache now supports real-time aggregations,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-aggregations/,
+AWS:WhatsNew,Amazon ElastiCache now supports real-time hybrid search with vector and full-text,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-hybrid-search/,
+AWS:WhatsNew,"Amazon ElastiCache now supports real-time full-text, exact-match, and numeric range search",https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-enchanced-search/,
+AWS:WhatsNew,Announcing Valkey 9.0 for Amazon ElastiCache,https://aws.amazon.com/about-aws/whats-new/2026/05/valkey-amazon-elasticache/,
