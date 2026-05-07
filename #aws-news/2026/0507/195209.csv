@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Unified Studio adds identity and user management features,https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-ami-based-node/,
+AWS:WhatsNew,AWS Resource Explorer is now available in AWS GovCloud (US-East) and (US-West),https://aws.amazon.com/about-aws/whats-new/2026/05/aws-resource-explorer-available-aws-govcloud/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Runtime now supports bring-your-own file system from Amazon S3 Files and Amazon EFS,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-agentcore-runtime/,
