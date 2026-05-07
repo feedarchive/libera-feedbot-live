@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Agents that transact: Amazon Bedrock AgentCore now includes Payments (preview),https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview,
+AWS:WhatsNew,Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc,
