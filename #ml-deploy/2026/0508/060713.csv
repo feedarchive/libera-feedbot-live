@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+GitLab:Blog,Consolidate your GitLab stack with Gitaly on Kubernetes,https://about.gitlab.com/blog/gitaly-on-kubernetes-generally-available/,
+GitLab:Blog,Limit credential exposure with fine-grained personal access tokens,https://about.gitlab.com/blog/fine-grained-pats/,
+GitLab:Blog,Automate deployment processes using a custom agent in GitLab Duo Agent Platform,https://about.gitlab.com/blog/automate-deployment-with-duo-agent-platform/,
+GitLab:Blog,Claude Code and GitLab: Three workflows that ship,https://about.gitlab.com/blog/claude-code-and-gitlab/,
