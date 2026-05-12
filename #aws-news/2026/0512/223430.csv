@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/,
+AWS:WhatsNew,Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances,https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/,
