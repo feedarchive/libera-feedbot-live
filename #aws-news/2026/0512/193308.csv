@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances",https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/,
+AWS:WhatsNew,Amazon SageMaker Feature Store now supports SageMaker Python SDK V3,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/,
+AWS:WhatsNew,"Amazon Route 53 Domains adds support for 34 new Top Level Domains including .app, .dev, and .health",https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-domains/,
