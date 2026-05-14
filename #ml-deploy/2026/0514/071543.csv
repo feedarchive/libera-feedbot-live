@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitLab:Blog,5 ways to fix misleading vulnerability severities with policy,https://about.gitlab.com/blog/severity-override-vulnerability-management-policy/,
+GitLab:Blog,Harden your pipeline perimeter for the era of AI-assisted coding,https://about.gitlab.com/blog/harden-pipeline-perimeter-for-ai-assisted-coding/,
+GitLab:Blog,"GitLab Patch Release: 18.11.3, 18.10.6, 18.9.7",https://docs.gitlab.com/releases/patches/patch-release-gitlab-18-11-3-released/,
