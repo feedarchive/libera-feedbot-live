@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/,
+AWS:WhatsNew,Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer),https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/,
+AWS:WhatsNew,Announcing general availability of Amazon EC2 M3 Ultra Mac instances,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/,
+AWS:WhatsNew,AWS Transform now supports customer-owned artifact stores,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-customer-owned-artifact/,
+AWS:WhatsNew,Amazon Connect Customer launches permission for agents to view only their own performance evaluations,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-permission-view-own-performance-evaluations/,
+AWS:WhatsNew,"Amazon RDS for PostgreSQL supports minor versions 18.4, 17.10, 16.14, 15.18, and 14.23",https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql/,
+AWS:WhatsNew,Amazon CloudFront announces support for OCSP Revocation for Mutual TLS (Viewer),https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-ocsp-tls/,
