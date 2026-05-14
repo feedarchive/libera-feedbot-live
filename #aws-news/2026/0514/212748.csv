@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,New models for image generation and text embeddings are now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/05/image-embeddings-models-on-sagemaker-jumpstart/,
+AWS:WhatsNew,Three new models for speech recognition and text-to-speech are now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/05/speech-models-on-sagemaker-jumpstart/,
+AWS:WhatsNew,Two new models for agentic coding and efficient AI are now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/05/agentic-reasoning-models-on-sagemaker-jumpstart/,
