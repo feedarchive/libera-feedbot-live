@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:OpenData,CELLxGENE Discover Census,https://registry.opendata.aws/biohub-cellxgene-census,
+AWS:OpenData,Imaging MIT Licensed data and models,https://registry.opendata.aws/biohub-imaging-mit,
+AWS:OpenData,Transcriptomic MIT Licensed data and models,https://registry.opendata.aws/biohub-transcriptomics-mit,
+AWS:OpenData,Imaging BSD licensed data and models,https://registry.opendata.aws/biohub-imaging-bsd,
+AWS:OpenData,Model Benchmarking,https://registry.opendata.aws/biohub-benchmarking,
