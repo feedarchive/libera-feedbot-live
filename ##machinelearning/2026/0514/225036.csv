@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/,
+AWS:WhatsNew,SageMaker AI now supports serverless model customization for Qwen3.6,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/,
+AWS:WhatsNew,AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/,
+AWS:WhatsNew,AWS Transform now supports customer-owned artifact stores,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-customer-owned-artifact/,
+AWS:WhatsNew,New models for image generation and text embeddings are now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/05/image-embeddings-models-on-sagemaker-jumpstart/,
+AWS:WhatsNew,Three new models for speech recognition and text-to-speech are now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/05/speech-models-on-sagemaker-jumpstart/,
+AWS:WhatsNew,Two new models for agentic coding and efficient AI are now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/05/agentic-reasoning-models-on-sagemaker-jumpstart/,
