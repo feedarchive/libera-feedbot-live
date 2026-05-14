@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker AI now supports serverless model customization for Qwen3.6,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/,
+AWS:WhatsNew,"AWS Transform agents now available in Kiro, Claude, Cursor, and Codex",https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/,
+AWS:WhatsNew,AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/,
+AWS:WhatsNew,Amazon Aurora DSQL now supports change data capture (Preview),https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview/,
+AWS:WhatsNew,AWS Transform adds agentic AI assistant to the AWS Toolkit for Visual Studio,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-ai-assistant,
+AWS:WhatsNew,AWS RTB Fabric supports custom domains for real-time bidding workloads,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rtb-fabric-custom-domains/,
