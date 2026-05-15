@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,bde: A Python Package for Bayesian Deep Ensembles via MILE,https://arxiv.org/abs/2605.14146,
+ArXiv,PyCSP3-Scheduling: A Scheduling Extension for PyCSP3,https://arxiv.org/abs/2605.14559,
+ArXiv,PickleFuzzer: A Case Study in Fuzzing for Discrepancies Between Python Pickle Implementations,https://arxiv.org/abs/2605.15084,
