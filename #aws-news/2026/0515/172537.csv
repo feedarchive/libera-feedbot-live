@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224",https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/,
+AWS:WhatsNew,Amazon Managed Grafana now supports in-place upgrade to Grafana version 12.4,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-v12-update/,
+AWS:WhatsNew,Amazon EC2 High Memory U7i instances now available in AWS Europe (Paris) region,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-u7i-aws-europe-paris/,
