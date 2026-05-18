@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Management Console now displays AWS Local Zones in the Region Selector,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/,
+AWS:WhatsNew,AWS Glue zero-ETL is now available in Asia Pacific (Mumbai) region,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region,
+AWS:WhatsNew,Amazon Lightsail CDN distributions now support IPv6-only instances as origins,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/,
