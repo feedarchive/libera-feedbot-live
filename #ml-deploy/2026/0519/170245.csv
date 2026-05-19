@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+Medium,My Pandas Pipeline Took 12 Minutes Per Run. Switching from CSV to Parquet Cut It to 40 Seconds,https://medium.com/p/9bb08a8c9f82,
+Medium,Building a Production ML Monitoring API: FastAPI + Docker + CI/CD from Scratch,https://medium.com/p/a36ccff1da6e,
