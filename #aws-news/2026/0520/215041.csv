@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,ECS supports native integration with Amazon EBS volumes in GovCloud Regions,https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/,
+AWS:WhatsNew,AWS Transfer Family web apps now support federated permissions with IAM Identity Center across AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-federated-permissions-across-regions/,
