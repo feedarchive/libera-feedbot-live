@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+status,[route53] Service impact: We are investigating increased error rates for Route53 API calls,https://status.aws.amazon.com/#route53_1779493196,
+status,[route53] Service impact: Increased API Error Rates,https://status.aws.amazon.com/#route53_1779493119,
