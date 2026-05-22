@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker expands domain management across domain types,https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/,
+AWS:WhatsNew,New agentic migration assessment capabilities now available with AWS Transform,https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform,
+AWS:WhatsNew,AWS Secrets Manager adds managed external secrets support for Datadog vended keys and Snowflake Programmatic Access Tokens,https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/,
