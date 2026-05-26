@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS now supports ENA Express for Multi-AZ replication,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/,
+AWS:WhatsNew,Amazon VPC IPAM now supports tags on IPAM pool allocations,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags/,
