@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+Nvidia,Extract More Kernel Performance with NVIDIA CompileIQ Auto-Tuning,https://developer.nvidia.com/blog/extract-more-kernel-performance-with-nvidia-compileiq-auto-tuning/,
+Nvidia,Develop High-Performance GPU Kernels in C++ with NVIDIA CUDA Tile,https://developer.nvidia.com/blog/develop-high-performance-gpu-kernels-in-cpp-with-nvidia-cuda-tile/,
+Nvidia,"NVIDIA CUDA 13.3 Enhances GPU Development with Tile Programming in C++, Compiler Autotuning, and Python Updates",https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/,
