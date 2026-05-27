@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker Notebook Instances now support P5.4xl instance types,https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-notebook-instances/,
+AWS:WhatsNew,SageMaker Notebook Instances now support P5en.48xl instance types,https://aws.amazon.com/about-aws/whats-new/2026/02/g6-region-expansion-sagemaker-notebook-instances/,
+AWS:WhatsNew,AWS Backup adds OTP verification for Multi-party approval on logically air-gapped vaults,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-otp-multi-party-approval-lag/,
