@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker Notebook Instances now support P5.4xl instance types,https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/,
+AWS:WhatsNew,SageMaker Notebook Instances now support P5en.48xl instance types,https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/,
+AWS:WhatsNew,AWS Glue large and memory optimized workers now available in Europe (Spain) Region,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-larger-memory-intensive-workers-spain,
