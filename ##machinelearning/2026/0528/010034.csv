@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances,https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/,
+AWS:WhatsNew,SageMaker Notebook Instances now support P5.4xl instance types,https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/,
+AWS:WhatsNew,SageMaker Notebook Instances now support P5en.48xl instance types,https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/,
