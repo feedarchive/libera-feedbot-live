@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Step Functions adds AgentCore-powered agentic reasoning step,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/,
+AWS:WhatsNew,OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud (US-West),https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/,
+AWS:WhatsNew,ARC Region switch adds Amazon Aurora scaling and Amazon Neptune global database failover,https://aws.amazon.com/about-aws/whats-new/2026/06/region-switch-aurora-scaling-neptune-failover/,
+AWS:WhatsNew,AWS Glue Data Catalog Client for Apache Hive Metastore now supports Hive 3 and discovery of multiple catalogs,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-data-catalog-apache-hive3/,
