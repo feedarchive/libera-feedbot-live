@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position,https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/,
+AWS:WhatsNew,Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization,https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/,
+AWS:WhatsNew,Amazon Connect Customer now optimizes placement of ad-hoc activities in agent schedules,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-activity-optimization/,
+AWS:WhatsNew,"Amazon Connect Customer now supports up to 5,000 agents per schedule",https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-5000-agents/,
+AWS:WhatsNew,Amazon Connect Customer now provides schedule update notifications,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-scheduling-notifications/,
+AWS:WhatsNew,Amazon CloudWatch now supports querying metrics data up to two weeks old,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-mi-extended-retention-region-expansion,
