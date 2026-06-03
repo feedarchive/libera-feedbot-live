@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS IoT Device Management adds MQTT session data to connectivity status API,https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/,
+AWS:WhatsNew,AWS Compute Optimizer now supports 32-day lookback for EBS volume and ECS service rightsizing recommendations,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-ebs-ecs-32-day-lookback/,
+AWS:WhatsNew,Amazon ECS Managed Instances now supports AWS Trainium and AWS Inferentia,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-managed-instances-neuron,
