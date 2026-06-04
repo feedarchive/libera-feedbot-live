@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,Brain Data Science Database 1,https://registry.opendata.aws/bdsp_open_projects,
+AWS:OpenData,Brain Data Science Database 2,https://registry.opendata.aws/bdsp_restricted_projects,
+AWS:OpenData,Brain Data Science Database 3,https://registry.opendata.aws/bdsp_credentialed_projects,
