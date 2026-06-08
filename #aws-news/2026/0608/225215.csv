@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Compute Optimizer now supports idle recommendations for six additional resource types,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle,
+AWS:WhatsNew,Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/,
+AWS:WhatsNew,Amazon DocumentDB now supports engine minor version starting with 5.0.1,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/,
+AWS:WhatsNew,PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/,
+AWS:WhatsNew,Amazon Connect Customer now offers AI agent trace details for self-service voice interactions,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-ai-agent-traces/,
+AWS:WhatsNew,Amazon EC2 C8in instances are now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-asia-pacific-europe/,
