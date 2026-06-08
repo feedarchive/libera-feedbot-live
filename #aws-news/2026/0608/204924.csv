@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Savings Plans Purchase Analyzer now supports target coverage analysis,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-savings-plans-coverage/,
+AWS:WhatsNew,Amazon Aurora DSQL now supports the JSONB data type with compression,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-dsql-supports-jsonb/,
