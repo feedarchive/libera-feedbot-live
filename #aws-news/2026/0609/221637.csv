@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Unified Studio Notebooks now support EMR Serverless,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/,
+AWS:WhatsNew,AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud (Germany) Region,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud/,
+AWS:WhatsNew,The AWS Command Line Interface (CLI) now supports the Agent Toolkit for AWS,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cli-agent-toolkit/,
