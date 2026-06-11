@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab,https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/,
+AWS:WhatsNew,Amazon MWAA Serverless now supports Amazon EventBridge notifications/,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/,
