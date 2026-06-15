@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,SoilMicrobeDB genome database on AWS,https://registry.opendata.aws/soil_microbe_db,
+AWS:OpenData,ERA5 Cloud Optimized (Zarr + Icechunk),https://registry.opendata.aws/earthmover-era5,
+AWS:OpenData,TianJi Global-Regional Integrated Numerical Weather Prediction System Dataset (TJ-NWP),https://registry.opendata.aws/dynamical-tj-nwp,
