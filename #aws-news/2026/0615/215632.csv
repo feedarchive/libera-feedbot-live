@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory,https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata,
+AWS:WhatsNew,Amazon CloudWatch introduces Log Analytics for unified log analysis,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/,
+AWS:WhatsNew,AWS WAF announces AI traffic monetization,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/,
