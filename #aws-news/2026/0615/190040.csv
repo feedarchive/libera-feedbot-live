@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS Express Mode is now available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/,
+AWS:WhatsNew,Amazon CloudWatch now supports cross-account metrics centralization,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization,
+AWS:WhatsNew,Amazon CloudWatch Query Studio is now generally available,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-query-studio-generally-available,
