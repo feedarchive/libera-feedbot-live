@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS launches Cost Explorer historical data retention for accounts in billing groups,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/,
+AWS:WhatsNew,Amazon RDS for MariaDB supports Long-Term Support version 12.3 in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-maria-db-innovation-release-12-3-rds-database-preview-environment/,
+AWS:WhatsNew,Amazon RDS for MySQL announces Extended Support minor version 5.7.44-RDS.20260521,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-mysql-extended-support-minor-5744-rds/,
+AWS:WhatsNew,"Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8",https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-mariadb-community-versions/,
+AWS:WhatsNew,Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/,
