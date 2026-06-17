@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai/,
+AWS:WhatsNew,"Amazon S3 Vectors now supports up to 10,000 similarity search results per query",https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query,
+AWS:WhatsNew,Amazon S3 Vectors reduces query charges by up to 80% for large vector indexes,https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-reduces-query-charges-80-percent-large-indexes/,
