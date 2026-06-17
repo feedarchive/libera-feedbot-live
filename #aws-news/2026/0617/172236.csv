@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts",https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/,
+AWS:WhatsNew,Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities,
+AWS:WhatsNew,AWS Security Agent announces support for Threat Modeling,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-agent-threat-modeling/,
+AWS:WhatsNew,"AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support",https://aws.amazon.com/about-aws/whats-new/2026/06/aws-kiro-power-claude-code/,
+AWS:WhatsNew,Amazon Bedrock Guardrails adds automated reasoning checks in Sydney,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-sydney/,
