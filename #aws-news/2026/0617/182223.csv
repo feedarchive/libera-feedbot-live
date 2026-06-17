@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/,
+AWS:WhatsNew,Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029,https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/,
+AWS:WhatsNew,Amazon EC2 Future-dated Capacity Reservations Now Supports Cancellation,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-fcr-cancellation/,
