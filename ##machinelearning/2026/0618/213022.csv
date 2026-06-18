@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart/,
+AWS:WhatsNew,Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart/,
+AWS:WhatsNew,Amazon SageMaker AI Announces New observability capability For Inference Endpoints,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference/,
