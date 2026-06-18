@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS announces faster service auto scaling,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/,
+AWS:WhatsNew,Amazon EC2 G7 instances are now generally available,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available,
+AWS:WhatsNew,Amazon EKS now supports customer-routed control plane egress,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress,
+AWS:WhatsNew,Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes,https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-increases-gp3-limits/,
