@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Network Firewall updates default drop action for improved connection reliability,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action,
+AWS:WhatsNew,AWS Batch now supports customer-ordered instance allocation strategies,https://aws.amazon.com/about-aws/whats-new/2026/06/batch-ordered-allocation-strategies/,
