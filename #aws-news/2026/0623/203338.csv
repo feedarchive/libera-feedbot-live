@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker Notebook Instances now support G6e instance types,https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/,
+AWS:WhatsNew,Amazon OpenSearch Service now offers AI-assisted migrations,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations,
+AWS:WhatsNew,Amazon SageMaker Studio notebooks now support G7e instance types,https://aws.amazon.com/about-aws/whats-new/2026/02/g7e-new-launch-sagemaker-studio-notebooks/,
+AWS:WhatsNew,MSK Replicator now supports mutual TLS (mTLS) authentication for replication from external Apache Kafka clusters to MSK Express brokers,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-replicator-mtls-support,
