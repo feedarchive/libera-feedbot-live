@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.13.0-rc12: [release/2.13] Add CUDA 12.9 to TORCH_CUDA_ARCH_LIST tables (#188443),https://github.com/pytorch/pytorch/releases/tag/v2.13.0-rc12,
