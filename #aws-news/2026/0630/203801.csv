@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Parallel Computing Service supports in-place Slurm major version upgrades,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/,
+AWS:WhatsNew,Amazon ElastiCache T4g nodes now available in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/,
+AWS:WhatsNew,AWS Security Hub CSPM launches AI Security Best Practices standard with 31 automated controls,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-cspm-ai-security/,
