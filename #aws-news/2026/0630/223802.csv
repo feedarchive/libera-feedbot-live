@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudWatch Logs enriches log events with AWS resource tags,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/,
+AWS:WhatsNew,AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/,
+AWS:WhatsNew,AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/,
+AWS:WhatsNew,Amazon EC2 Auto Scaling now supports reservations then balanced Availability Zone distribution,https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-auto-scaling-res-then-balanced/,
+AWS:WhatsNew,Amazon GameLift Servers announces DDoS Protection client SDKs for C# and Unity,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-ddos-protection-unity,
+AWS:WhatsNew,AWS Clean Rooms now supports intermediate tables for SQL,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-clean-rooms-intermediate-tables,
