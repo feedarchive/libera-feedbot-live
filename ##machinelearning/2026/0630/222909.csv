@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS End User Messaging RCS now supports rich media and interactive messaging,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs/,
+AWS:WhatsNew,Announcing general availability of Amazon WorkSpaces for AI agents,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/,
+AWS:WhatsNew,Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching,https://aws.amazon.com/about-aws/whats-new/2026/06/sagemakerai-inf-scale-out-time,
+AWS:WhatsNew,Claude Sonnet 5 now available on AWS,https://aws.amazon.com/about-aws/whats-new/2026/06/claude-sonnet-5-now-available-on-aws,
+AWS:WhatsNew,Amazon SageMaker AI now supports serverless model customization for Gemma 4 models,https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-gemma-4/,
