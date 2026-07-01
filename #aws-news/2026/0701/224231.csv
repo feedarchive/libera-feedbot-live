@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock AgentCore increases default runtime quota limits,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/,
+AWS:WhatsNew,Amazon ECS Express Mode now supports custom task definitions,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-express-mode-custom-task-def/,
+AWS:WhatsNew,Amazon RDS for Db2 now supports self-managed Active Directory,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-supports-self-managed-active-directory,
