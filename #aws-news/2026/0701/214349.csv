@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Artifact now includes Assurance Assistant for compliance inquiries,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant/,
+AWS:WhatsNew,Amazon GuardDuty adds sensitive file modification threat detections,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-sfm/,
+AWS:WhatsNew,AWS Network Firewall now supports container attribute-based inspection for Amazon EKS and Amazon ECS,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-container-attributes-referencing,
