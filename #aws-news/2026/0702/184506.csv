@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 Dedicated Hosts now support AMD SEV-SNP,https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts,
+AWS:WhatsNew,AWS Config now supports 8 new resource types,https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types,
+AWS:WhatsNew,Amazon Connect Customer now supports rule based redaction for agent screen recording,https://aws.amazon.com/about-aws/whats-new/2026/07/screen-recording-rule-based/,
+AWS:WhatsNew,Amazon Connect Customer now supports assigning up to 7 security profiles with granular access controls per user,https://aws.amazon.com/about-aws/whats-new/2026/06/connect-7-security-profiles-user/,
