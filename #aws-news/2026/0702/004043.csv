@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,ECS Service Connect now supports Zone-Aware routing,https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/,
+AWS:WhatsNew,Amazon ECS now provides real-time deployment observability in the AWS Management Console,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-aws-management-console/,
