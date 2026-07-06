@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Secrets Manager adds managed external secrets support for Paddle and GitLab,https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab/,
+AWS:WhatsNew,CloudWatch Application Signals now supports Dynamic Instrumentation,https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-dynamic-instrumentation/,
