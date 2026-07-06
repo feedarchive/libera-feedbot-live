@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Cognito now supports self-service provisioned API rate limits,https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits,
+AWS:WhatsNew,Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization,https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/,
