@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS Managed Instances reduces GPU management fees by up to 60%,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-managed-instances-gpu-price/,
+AWS:WhatsNew,Amazon EMR Serverless now supports larger worker sizes to run more compute and memory intensive workloads,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-serverless/,
+AWS:WhatsNew,Amazon EKS Auto Mode reduces GPU management fees by up to 60%,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-auto-mode-gpu-price,
