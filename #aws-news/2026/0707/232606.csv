@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon GameLift Streams introduces secure terminal access for stream sessions,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/,
+AWS:WhatsNew,Amazon S3 Vectors is now available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/,
+AWS:WhatsNew,Amazon SageMaker now supports data lineage in IAM-based domains,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-data-lineage-iam-domain,
