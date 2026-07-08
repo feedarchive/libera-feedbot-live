@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Security Hub now offers Network Scanning to identify publicly reachable resources,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning/,
+AWS:WhatsNew,Amazon Redshift RG instances now available on the trailing track,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track,
+AWS:WhatsNew,"Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails",https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks/,
+AWS:WhatsNew,AWS CodeBuild now supports Amazon Linux 2023 for on-demand build hosts,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codebuild-amazon-linux-2023/,
