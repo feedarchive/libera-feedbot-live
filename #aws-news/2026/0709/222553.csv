@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge,https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/,
+AWS:WhatsNew,Amazon MSK Replicator now supports replication from external Apache Kafka clusters to MSK Standard brokers,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-msk-replicator-external-kafka-standard-broker-support,
