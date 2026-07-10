@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS DMS Schema Conversion now supports offline SQL Server conversion,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/,
+AWS:WhatsNew,Amazon DocumentDB (with MongoDB compatibility) now supports R8g.24xlarge and R8g.48xlarge instances,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-r8g-24xl-48xl/,
+AWS:WhatsNew,AWS DMS Schema Conversion now supports AI agent automation,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-sc-ai-agent-automation-mcp-server/,
