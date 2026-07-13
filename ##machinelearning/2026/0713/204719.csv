@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/,
+AWS:WhatsNew,OpenAI privacy-filter for PII detection and masking is now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart/,
+AWS:WhatsNew,Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/,
+AWS:WhatsNew,Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/,
