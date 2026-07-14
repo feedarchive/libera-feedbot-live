@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/,
+AWS:WhatsNew,AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery/,
+AWS:WhatsNew,Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/,
+AWS:WhatsNew,Amazon Redshift Serverless now preserves zero-ETL and Amazon S3 event integrations during snapshot restores,https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-zetl-autocopy-restore/,
+AWS:WhatsNew,AWS Partner Central introduces Partner Lead Prospecting,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central-prospecting/,
