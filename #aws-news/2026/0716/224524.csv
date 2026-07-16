@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/,
+AWS:WhatsNew,Amazon EC2 now surfaces the public SSM parameters associated with public AMIs,https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters,
+AWS:WhatsNew,Amazon S3 removes 30-day minimum for transitions to S3 Standard-IA and S3 One Zone-IA,https://aws.amazon.com/about-aws/whats-new/2026/07/s3-removes-30-day-transitions-standard-ia-one-zone-ia,
+AWS:WhatsNew,AWS Backup extends logically air-gapped vault support to six additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions/,
+AWS:WhatsNew,AWS Backup extends restore testing support to six additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions/,
