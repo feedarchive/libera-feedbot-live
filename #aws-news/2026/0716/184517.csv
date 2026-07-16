@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Control Tower Account Factory for Terraform now re-applies customizations when accounts move between OUs,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-control-tower-account/,
