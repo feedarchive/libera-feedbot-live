@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 now surfaces the public SSM parameters associated with public AMIs,https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-pulic-images-ssm-parameters,
+AWS:WhatsNew,Amazon S3 Event Notifications now include system-generated tags,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-event-notifications-system-generated-tags/,
+AWS:WhatsNew,Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe (Paris) region,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe/,
+AWS:WhatsNew,Amazon Redshift adds rg.large and rg.12xlarge instance sizes,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes,
