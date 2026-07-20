@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Selectively log network activity events by identity in AWS CloudTrail,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/,
+AWS:WhatsNew,Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice/,
+AWS:WhatsNew,Introducing KNFSD File Cache - Now in Preview,https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache/,
