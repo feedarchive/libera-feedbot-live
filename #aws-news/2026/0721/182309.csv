@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Managed Service for Prometheus supports 1.5B active metrics and 200K rules per workspace,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-1500m-metrics-workspace/,
+AWS:WhatsNew,Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server,
+AWS:WhatsNew,Amazon RDS for SQL Server now supports Microsoft SQL Server 2025,https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025,
