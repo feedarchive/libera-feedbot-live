@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Network Load Balancer now supports Listener Rules for custom traffic routing,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/,
+AWS:WhatsNew,AWS Lambda durable functions now supports customer managed key encryption,https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/,
+AWS:WhatsNew,Amazon SageMaker Unified Studio now supports Amazon OpenSearch,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified/,
