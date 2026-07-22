@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Secrets Manager now publishes secret update notifications to Amazon EventBridge,https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-update-notifications,
