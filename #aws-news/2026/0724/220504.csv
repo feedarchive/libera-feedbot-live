@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 Dedicated Hosts now support host resource groups without self-managed licenses,https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-dedicated-hosts-hrg/,
+AWS:WhatsNew,Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput,https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down,
