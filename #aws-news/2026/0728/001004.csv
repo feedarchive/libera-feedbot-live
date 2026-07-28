@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Neptune now supports tag-based access control for IAM,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/,
+AWS:WhatsNew,AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results,
+AWS:WhatsNew,AWS Glue Data Quality now supports distribution statistics for data profiling,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling,
