@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Direct Connect now supports BGP route visibility on Virtual Interfaces,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/,
+AWS:WhatsNew,Amazon Redshift RG large and 12xlarge instances now available on the trailing track,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track,
+AWS:WhatsNew,IAM Policy Simulator moves to the IAM console and adds additional capabilities,https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/,
