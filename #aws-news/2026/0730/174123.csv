@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS announces general availability of Policy-Based Routing on AWS Transit Gateway,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-transit-gateway-policy-based-routing/,
+AWS:WhatsNew,Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud (US-West),https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud/,
+AWS:WhatsNew,Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud (US-West),https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud/,
