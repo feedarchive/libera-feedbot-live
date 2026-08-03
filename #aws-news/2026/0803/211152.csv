@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS HealthOmics now supports task-level timeout for WDL workflows,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout/,
+AWS:WhatsNew,AWS Resilience Hub now provides recommended resilience tests,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/,
+AWS:WhatsNew,Amazon SageMaker AI serverless model customization now supports full fine-tuning,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft,
+AWS:WhatsNew,Amazon SageMaker Unified Studio now supports Teradata Vantage,https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-teradata,
