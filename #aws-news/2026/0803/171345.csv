@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL,https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora,
+AWS:WhatsNew,AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups,
