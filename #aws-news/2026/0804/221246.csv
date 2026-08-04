@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Customer now lets you export cases to CSV from the agent workspace,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/,
+AWS:WhatsNew,Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany/,
+AWS:WhatsNew,RDS SQL Server now supports publishing SQL Server Audit logs to CloudWatch,https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-publish-sql-audit-to-cw/,
