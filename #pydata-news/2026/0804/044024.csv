@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Vul4Py: Benchmarking Automated Vulnerability Repair in Python with Paired Exploit and Functional Oracles,https://arxiv.org/abs/2608.00692,
+ArXiv,"FESOM2-JAX v1.0: a differentiable shadow of the ocean-sea-ice model FESOM2, cast onto GPUs",https://arxiv.org/abs/2608.01546,
+ArXiv,scikit-covtest: Covariance Matrix Hypothesis Testing in Python,https://arxiv.org/abs/2608.01510,
