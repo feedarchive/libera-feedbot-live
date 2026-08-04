@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transform continuous modernization is now generally available,https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available,
+AWS:WhatsNew,AWS Organizations now provides maximum account quota visibility in Service Quotas,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/,
+AWS:WhatsNew,"AWS Lambda Provisioned Mode for Amazon SQS event source mappings now supports up to 10,000 event pollers",https://aws.amazon.com/about-aws/whats-new/2026/08/aws-Lambda-provisioned-sqs-esm-max-pollers/,
