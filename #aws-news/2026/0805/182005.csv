@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Marketplace adds AI Insights so buyers can understand pricing before they buy,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/,
+AWS:WhatsNew,Amazon DynamoDB now supports real-time vector search,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search,
+AWS:WhatsNew,Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads,https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling,
