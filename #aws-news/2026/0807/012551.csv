@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda console extends console-to-IDE integration to Kiro and Cursor,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/,
+AWS:WhatsNew,AgentCore runtime instances are now generally available,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/,
+AWS:WhatsNew,Amazon SES now helps identify automated open and click events in event notifications,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/,
