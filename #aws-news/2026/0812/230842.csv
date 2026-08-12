@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/,
+AWS:WhatsNew,Amazon Quick adds deny by default for custom permissions,https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/,
+AWS:WhatsNew,Amazon Quick now supports data loss prevention with Microsoft Purview,https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/,
