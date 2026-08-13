@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS Client VPN now supports CLI, administration controls, and faster connections",https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/,
+AWS:WhatsNew,AWS Certificate Manager supports switching from e-mail to DNS validation,https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch,
+AWS:WhatsNew,Amazon Quick now supports approval policies for sharing,https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/,
+AWS:WhatsNew,Amazon Quick now supports per-user resource limits,https://aws.amazon.com/whats-new/2026/08/amazon-quick-per-user-resource-limits/,
