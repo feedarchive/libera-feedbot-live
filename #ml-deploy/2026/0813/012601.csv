@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+GitLab:Blog,How GitLab tracks vulnerabilities through refactors and reformatting,https://about.gitlab.com/blog/improved-scope-offset-fingerprinting/,
+GitLab:Blog,"GitLab Patch Release: 19.2.2, 19.1.4, 19.0.6",https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-2-2-released/,
+GitLab:Blog,A sandbox is only as closed as what an AI agent can reach,https://about.gitlab.com/blog/ai-agent-sandbox/,
