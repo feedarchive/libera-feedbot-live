@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.14.0-rc3: Bump cuDNN to 9.25.0.15 for CUDA 13.4rc1 wheels (#193247),https://github.com/pytorch/pytorch/releases/tag/v2.14.0-rc3,
