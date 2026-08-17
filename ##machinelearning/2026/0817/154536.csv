@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Quick now supports per-user resource limits,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-per-user-resource-limits/,
+AWS:WhatsNew,Amazon Quick now supports data loss prevention with Microsoft Purview,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-dlp-purview/,
+AWS:WhatsNew,Amazon Quick now supports approval policies for sharing,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-approval-policies-sharing/,
+AWS:WhatsNew,Amazon Quick adds deny by default for custom permissions,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default-permissions/,
