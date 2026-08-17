@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECR now supports 25 replication rules per registry,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit,
+AWS:WhatsNew,Amazon MSK now supports configuring custom domain names for MSK Provisioned clusters,https://aws.amazon.com/about-aws/whats-new/2026/17/amazon-msk-custom-domain-names/,
