@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.14.0-rc4: [docs] [xpu] Add WSL2 support to get_start_xpu for 2.14 (#193479),https://github.com/pytorch/pytorch/releases/tag/v2.14.0-rc4,
