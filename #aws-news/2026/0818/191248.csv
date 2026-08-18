@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MWAA Serverless now supports PythonOperator and BashOperator,https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator/,
+AWS:WhatsNew,IAM Policy Autopilot now supports Terraform plan files,https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files,
