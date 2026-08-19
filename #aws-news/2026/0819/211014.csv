@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker notebooks now support trusted identity propagation,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/,
+AWS:WhatsNew,AWS announces a new Availability Zone in the Europe (London) Region,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/,
+AWS:WhatsNew,AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway,https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/,
