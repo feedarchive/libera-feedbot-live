@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Launching External Web Access for Web Search on Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/,
+AWS:WhatsNew,Amazon CloudWatch log Centralization now supports log group tag propagation,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/,
+AWS:WhatsNew,AWS Marketplace launches support for Amazon Lightsail,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail,
+AWS:WhatsNew,Amazon MSK now supports in-place migration from Apache ZooKeeper to KRaft,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-msk-zk-kraft-migration/,
