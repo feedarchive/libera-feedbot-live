@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+GitLab:Blog,From OpenTofu to Argo CD: GitLab as your AWS control plane,https://about.gitlab.com/blog/gitlab-as-your-aws-control-plane/,
+GitLab:Blog,Avoid the massive end-to-end tax of default full history clones,https://about.gitlab.com/blog/git-clone-override-policy/,
