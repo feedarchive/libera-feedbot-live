@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EKS now supports certificate authority (CA) rotation with automated lifecycle management,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management,
+AWS:WhatsNew,Amazon CloudFront now supports Origin Access Control (OAC) for Amazon S3 Multi-Region Access Points,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap,
+AWS:WhatsNew,AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In,https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp/,
+AWS:WhatsNew,Amazon DynamoDB Streams now supports attribute-based access control,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-streams-abac/,
