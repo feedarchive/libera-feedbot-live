@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/,
+AWS:WhatsNew,Amazon Timestream for InfluxDB now supports customer managed keys,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/,
+AWS:WhatsNew,ARC Region switch adds Amazon RDS Switchover Read Replica execution block,https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block/,
+AWS:WhatsNew,Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration,https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/,
