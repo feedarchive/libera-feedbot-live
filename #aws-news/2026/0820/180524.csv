@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio,https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio,
+AWS:WhatsNew,AWS Direct Connect introduces inbound prefix controls and higher prefix scale,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls,
+AWS:WhatsNew,Amazon EC2 enables AMI creation with local snapshots from instances on Outposts,https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost,
+AWS:WhatsNew,Amazon Location Service now supports POI category and density filtering in map styles,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-location-service/amazon-location-poi-categorization-density-map-styles,
