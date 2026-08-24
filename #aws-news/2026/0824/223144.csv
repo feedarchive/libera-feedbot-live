@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EKS now supports multiple external OIDC identity providers per cluster,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers,
+AWS:WhatsNew,"AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0,
