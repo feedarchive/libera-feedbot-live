@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/,
+AWS:WhatsNew,Amazon SageMaker HyperPod enhances support for Ray,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray,
+AWS:WhatsNew,AWS ParallelCluster 3.16 adds an on-node diagnostics tool,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Memory now supports extracting memories from non-conversational JSON payloads,https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-json-payloads,
