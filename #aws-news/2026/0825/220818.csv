@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS IoT Core now supports native InfluxDB routing for time-series data,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/,
+AWS:WhatsNew,Amazon RDS now supports the latest CU for Microsoft SQL Server,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/,
