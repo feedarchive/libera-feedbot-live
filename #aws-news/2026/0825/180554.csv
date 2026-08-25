@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/,
+AWS:WhatsNew,MSK Replicator now supports OAuth 2.0 (SASL/OAUTHBEARER) authentication for replication from external Apache Kafka clusters to Amazon MSK,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-replicator-OAuth-support,
