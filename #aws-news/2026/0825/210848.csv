@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Batch now supports Amazon ECS Managed Instances,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/,
+AWS:WhatsNew,IAM Roles Anywhere now provides a Java plugin for the AWS SDK,https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/,
+AWS:WhatsNew,AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/,
