@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.14.0-rc9: Pin cython < 3.3.0 for the Windows Triton wheel build (#194931),https://github.com/pytorch/pytorch/releases/tag/v2.14.0-rc9,
