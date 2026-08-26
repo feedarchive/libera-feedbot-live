@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Customer now supports unplanned shrinkage in agent schedules,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage/,
+AWS:WhatsNew,Mountpoint for Amazon S3 adds memory usage controls,https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls,
+AWS:WhatsNew,AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb/,
+AWS:WhatsNew,AWS Glue now supports catalog federation for remote Apache Iceberg catalogs in AWS GovCloud (US) regions,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-catalog-federation-iceberg-govcloud/,
