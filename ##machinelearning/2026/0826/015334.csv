@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations,https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2,
+AWS:WhatsNew,AWS Lambda MicroVMs now supports AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink,
