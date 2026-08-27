@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams,https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records,
+AWS:WhatsNew,Amazon Bedrock AgentCore expands to two new regions,https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/,
+AWS:WhatsNew,AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-fsx-netapp-cross-account-region/,
