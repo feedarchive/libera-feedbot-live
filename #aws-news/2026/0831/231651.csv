@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Partner Revenue Measurement expands service coverage for User Agent string capability,https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/,
+AWS:WhatsNew,AWS Agent Registry agents and MCP servers now available in Amazon Quick,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/,
+AWS:WhatsNew,Amazon MSK Connect now supports restarting connectors,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-connect-restart/,
+AWS:WhatsNew,Amazon WorkSpaces Applications is now available in three new AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-region-expansion,
+AWS:WhatsNew,Amazon Kinesis Data Streams announces data delivery to general purpose Amazon S3 buckets,https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-general-purpose-s3-buckets,
+AWS:WhatsNew,"Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables",https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables,
