@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift now supports Apache Iceberg v3 tables,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3,
+AWS:WhatsNew,Amazon Cognito now supports machine-to-machine authorization without a user pool domain,https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/,
+AWS:WhatsNew,Automated Security Response on AWS adds AI Toolkit for custom remediations,https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/,
