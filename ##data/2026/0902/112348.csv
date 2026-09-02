@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:OpenData,SatPM2.5,https://registry.opendata.aws/satpmdata,
+AWS:OpenData,ECCC HRDPS - dynamical.org Icechunk Zarr,https://registry.opendata.aws/dynamical-eccc-hrdps,
