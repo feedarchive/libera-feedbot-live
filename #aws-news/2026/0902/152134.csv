@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports SnapStart for container image functions,https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/,
+AWS:WhatsNew,"Claude Fable 5.1, Anthropic's new frontier model is now available on AWS GovCloud (US)",https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws-govcloud/,
