@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift rg.large instances now support single-node clusters,https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node,
+AWS:WhatsNew,Amazon Aurora MySQL now supports multi-source replication and delayed replication,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/,
+AWS:WhatsNew,Amazon SES now supports S/MIME email signing,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing,
+AWS:WhatsNew,Amazon S3 now supports PrivateLink for FIPS endpoints,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints,
