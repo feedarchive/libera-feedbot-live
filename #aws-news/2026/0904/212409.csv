@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 now supports specifying compatible instance types on AMIs,https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances,
+AWS:WhatsNew,Amazon SageMaker AI Batch Transform now supports G6e instances,https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/,
