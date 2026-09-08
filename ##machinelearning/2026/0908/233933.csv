@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Feature Store now supports individual feature updates to lower write latency,https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/,
+AWS:WhatsNew,AWS HealthOmics introduces resource fallback order for WDL workflows,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/,
