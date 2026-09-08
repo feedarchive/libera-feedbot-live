@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+JMLR:MLOSS,torchsom: The Reference PyTorch Library for Self-Organizing Maps,http://jmlr.org/papers/v27/25-2467.html,
+JMLR:MLOSS,scikit-activeml: A Comprehensive and User-Friendly Active Learning Library,http://jmlr.org/papers/v27/25-1999.html,
+JMLR:MLOSS,torchgfn: A PyTorch GFlowNet Library,http://jmlr.org/papers/v27/23-1095.html,
