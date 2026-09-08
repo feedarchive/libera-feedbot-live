@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Dynamic Image Transformation for Amazon CloudFront adds four new features,https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features/,
+AWS:WhatsNew,AWS Builder ID adds recovery options and multi-factor authentication for third-party logins,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/,
+AWS:WhatsNew,AWS CloudFormation now supports contract tests v2 for resource types,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudformation-contract-tests-v2-resource-types/,
