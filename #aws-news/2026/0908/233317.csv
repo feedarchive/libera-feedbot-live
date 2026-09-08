@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Timestream for InfluxDB 3 now supports custom plugins,https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/,
+AWS:WhatsNew,Amazon SageMaker Feature Store now supports individual feature updates to lower write latency,https://aws.amazon.com/about-aws/whats-new/2026/08/sgm-feature-store-update-record/,
+AWS:WhatsNew,AWS announces Nx Plugin for AWS for scaffolding full-stack applications,https://aws.amazon.com/about-aws/whats-new/2026/09/nx-plugin-for-aws/,
+AWS:WhatsNew,Amazon S3 Object Lock now supports variable retention with event holds,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-object-lock-variable-retention/,
