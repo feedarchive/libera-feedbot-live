@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/,
+AWS:WhatsNew,AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged,https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/,
+AWS:WhatsNew,Amazon EMR extends support at no additional cost for customers migrating off older releases,https://aws.amazon.com/about-aws/whats-new/2026/09/emr-extended-support-migration/,
