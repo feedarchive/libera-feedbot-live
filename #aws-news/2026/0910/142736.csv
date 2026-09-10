@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Elemental MediaLive adds support for A/B forensic watermarking,https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/,
+AWS:WhatsNew,AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand,https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/,
+AWS:WhatsNew,AWS Elemental Inference now generates contextual metadata from live video in real time,https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/,
+AWS:WhatsNew,AWS Elemental introduces Dynamic Multiview for live video,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/,
+AWS:WhatsNew,AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion,
