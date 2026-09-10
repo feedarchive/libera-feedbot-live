@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud,https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud,
+AWS:WhatsNew,Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/,
+AWS:WhatsNew,Amazon ECS expands IAM condition key support for RunTask and StartTask APIs,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/,
+AWS:WhatsNew,AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway,https://aws.amazon.com/about-aws/whats-new/2026/09/storage-gateway-fips-privatelink-s3/,
