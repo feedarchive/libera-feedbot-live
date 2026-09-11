@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,Beyond Static Guarantees: Measuring the Static-Pass Dynamic-Fail Gap in Security-Sensitive and LLM-Generated Python Code,https://arxiv.org/abs/2609.10762,
+ArXiv,Building py-kvcache: A Performance Characterization of External KV Caching for vLLM with NVMe SSDs,https://arxiv.org/abs/2609.11744,
