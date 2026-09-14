@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,PQLS: A High-Performance Python Library for Steady-State Simulation of Open Quantum Systems,https://arxiv.org/abs/2609.12309,
+ArXiv,"PyFLI: A unified Python framework for fluorescence lifetime imaging data generation, parameter estimation, and benchmarking",https://arxiv.org/abs/2609.11994,
