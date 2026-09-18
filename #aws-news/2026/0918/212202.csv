@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Resilience Hub adds three new capabilities,https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/,
+AWS:WhatsNew,Amazon SNS now supports message payloads up to 1 MiB,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sns-1mib-support,
+AWS:WhatsNew,AWS PrivateLink announces Tunnel Endpoints to access network segments,https://aws.amazon.com/about-aws/whats-new/2026/9/privatelink-tunnel-endpoint/,
