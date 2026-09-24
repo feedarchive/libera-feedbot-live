@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference,https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/,
+AWS:WhatsNew,Amazon GameLift Servers now available in 5 new regions and 8 Local Zones,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-gamelift-servers-region-expansion-2026,
+AWS:WhatsNew,Amazon RDS supports Multi-AZ for SQL Server Developer Edition,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-sql-server-multi-az-developer-edition/,
+AWS:WhatsNew,Amazon ElastiCache Global Datastore now supports tagging and tag-based access control,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-global-datastore-tagging/,
