@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+ArXiv,From PyTorch to the NPU: LLM-Agent-Driven Model Conversion Across Heterogeneous Inference Runtimes,https://arxiv.org/abs/2609.27249,
+ArXiv,Silent Failures Beyond the 32-Bit Index Range: A Differential Characterization of Large-Tensor Matrix Multiplication in PyTorch's MPS Backend,https://arxiv.org/abs/2609.22991,
