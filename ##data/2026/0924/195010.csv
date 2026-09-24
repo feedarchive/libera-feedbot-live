@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:OpenData,ECMWF static datasets,https://registry.opendata.aws/ecmwf-static-datasets,
+AWS:OpenData,The Religious Orders Study and Memory and Aging Project (ROSMAP) Study,https://registry.opendata.aws/rosmap,
+AWS:OpenData,The Mount Sinai PsychAD Study (MSSM_PsychAD),https://registry.opendata.aws/mssm-psych-ad,
+AWS:OpenData,The MIT ROSMAP Single-Nucleus Multiomics Study (MIT_ROSMAP_Multiomics),https://registry.opendata.aws/mit-rosmap,
+AWS:OpenData,The SEA-AD Integrative Analysis Center Study (SEA-AD IAC),https://registry.opendata.aws/sea-ad-iac,
+AWS:OpenData,The Whole Genome Sequence Harmonization Study (WGS_Harmonization),https://registry.opendata.aws/wgs-harmonization,
+AWS:OpenData,LAFC-Evict: Learning-Augmented Cache Eviction Dataset,https://registry.opendata.aws/lafc-evict,
