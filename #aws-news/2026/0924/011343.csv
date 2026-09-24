@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion,https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys,
+AWS:WhatsNew,Amazon EMR on EKS now supports IPv6 Amazon EKS clusters,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-eks-ipv6-support,
