@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Transcribe adds customer-managed KMS keys for custom resources,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/,
+AWS:WhatsNew,AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/,
+AWS:WhatsNew,AWS End User Messaging now supports voice calling on WhatsApp,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp,
