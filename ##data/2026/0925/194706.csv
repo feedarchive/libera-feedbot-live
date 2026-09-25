@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:OpenData,GHS-BUILT-C,https://registry.opendata.aws/ghs-built-c,
+AWS:OpenData,GHS-BUILT-S,https://registry.opendata.aws/ghs-built-s,
+AWS:OpenData,GHS-BUILT-V,https://registry.opendata.aws/ghs-built-v,
+AWS:OpenData,GHS-WUP-BUILT-S,https://registry.opendata.aws/ghs-wup-built-s,
+AWS:OpenData,GHS-WUP-POP,https://registry.opendata.aws/ghs-wup-pop,
+AWS:OpenData,GHS-BUILT-H,https://registry.opendata.aws/ghs-built-h,
+AWS:OpenData,GHS-POP,https://registry.opendata.aws/ghs-pop,
+AWS:OpenData,GHS-SMOD,https://registry.opendata.aws/ghs-smod,
+AWS:OpenData,GHS-WUP-DEGURBA,https://registry.opendata.aws/ghs-wup-degurba,
+AWS:OpenData,GHS-LAND,https://registry.opendata.aws/ghs-land,
+AWS:OpenData,EMC-BUILT,https://registry.opendata.aws/emc-built,
