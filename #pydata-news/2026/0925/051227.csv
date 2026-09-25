@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,Drafter: A Python Library for Full-Stack Web Development in CS1,https://arxiv.org/abs/2609.28481,
+ArXiv,pytest-gpu-proof: Enabling Cloud-CPU Continuous Integration for GPU Code with Local GPU Attestation,https://arxiv.org/abs/2609.28862,
+ArXiv,pylazaro: a Python package for anglicism extraction in Spanish,https://arxiv.org/abs/2609.29276,
