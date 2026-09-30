@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS,https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/,
+AWS:WhatsNew,Amazon Managed Grafana now supports creating Grafana 13.2 workspaces,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces,
+AWS:WhatsNew,AWS IAM Identity Center Identity Store APIs now accept resource ARNs in addition to resource IDs,https://aws.amazon.com/about-aws/whats-new/2026/09/iam-identity-center-apis-arns/,
+AWS:WhatsNew,Amazon S3 Tables now support all Apache Iceberg V3 data types,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-tables-iceberg-v3-data-types,
