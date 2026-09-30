@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/,
+AWS:WhatsNew,Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads,https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/,
+AWS:WhatsNew,Amazon Aurora and RDS now support AMD-based R8a instances,https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/,
+AWS:WhatsNew,Amazon RDS now supports AMD-based M8a instances,https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/,
+AWS:WhatsNew,Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/,
+AWS:WhatsNew,Partner Revenue Measurement adds Multi-Partner support to Resource Tagging,https://aws.amazon.com/about-aws/whats-new/2026/09/partner-revenue-measurement-multi-partner-resource-tagging,
+AWS:WhatsNew,"AWS Transfer Family now automatically approves SFTP connector quota increases up to 1,000",https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transfer-family-sftp-connector-quota-1000/,
