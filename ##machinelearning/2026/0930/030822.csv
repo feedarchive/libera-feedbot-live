@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+GitHub:pytorch,v2.14.1-rc2: [MPS] Fix Jacobi SVD convergence for small columns (#199086),https://github.com/pytorch/pytorch/releases/tag/v2.14.1-rc2,
