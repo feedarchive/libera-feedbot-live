@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data,https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/,
+AWS:WhatsNew,AWS Deadline Cloud now supports expressions in job templates,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-expressions-job-templates/,
+AWS:WhatsNew,AWS Deadline Cloud now supports ECS containers on Linux Service-Managed Fleets,https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-ecs-containers-linux-smf/,
+AWS:WhatsNew,Amazon CloudWatch Logs now automatically indexes frequently queried fields,https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-logs-auto-indexes-fields/,
+AWS:WhatsNew,Amazon CloudWatch Logs Insights now lets you estimate bytes scanned before running a query,https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-logs-estimate-bytes-scanned/,
