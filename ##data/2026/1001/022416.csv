@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:OpenData,"Digital Earth Pacific Annual Radar Composite (Sentinel-1, GeoMAD, 10 m)",https://registry.opendata.aws/dep-s1-geomads,
+AWS:OpenData,"Digital Earth Pacific Fractional Land Cover (Landsat, 30 m)",https://registry.opendata.aws/dep-fractional-cover,
+AWS:OpenData,"Digital Earth Pacific Intertidal Elevation and Exposure (Sentinel-2/Landsat, 30 m)",https://registry.opendata.aws/dep-intertidal,
+AWS:OpenData,"Digital Earth Pacific Satellite-Derived Bathymetry (Sentinel-2, 10 m)",https://registry.opendata.aws/dep-satellite-derived-bathymetry,
+AWS:OpenData,"Digital Earth Pacific Seagrass Extent, Machine Learning (Sentinel-2, 10 m)",https://registry.opendata.aws/dep-seagrass,
+AWS:OpenData,"Digital Earth Pacific Vegetation Height, Satellite-Derived Canopy Height (Sentinel-2, 10 m)",https://registry.opendata.aws/dep-vegetation-height,
+AWS:OpenData,HESTIA Aggregated Agri-food Life Cycle Assessment (LCA) Data,https://registry.opendata.aws/hestia-aggregated-data,
