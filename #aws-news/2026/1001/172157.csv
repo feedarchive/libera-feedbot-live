@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Corretto 8 September 2026 Patch Updates,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-8-sept-2026-updates/,
+AWS:WhatsNew,Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle,https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/,
+AWS:WhatsNew,Amazon S3 Tables now support up to 100 table buckets per AWS Region in an AWS account,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-tables-table-bucket-increase,
+AWS:WhatsNew,Amazon Quick adds Hierarchy Filter for guided dashboard drill-down,https://aws.amazon.com/about-aws/whats-new/2026/09/quick-hierarchy-filter,
