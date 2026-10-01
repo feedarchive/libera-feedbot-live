@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Well-Architected Agent is now available in preview,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/,
+AWS:WhatsNew,Amazon DynamoDB introduces filtered export to Amazon S3,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-introduces-filtered-export/,
+AWS:WhatsNew,AWS IAM Identity Center extends multi-Region support to more AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions,
+AWS:WhatsNew,Apache Iceberg materialized views now support system-managed write protection,https://aws.amazon.com/about-aws/whats-new/2026/09/system-managed-iceberg-materialized-views,
+AWS:WhatsNew,Amazon Kinesis Video Streams now supports VPC endpoints with AWS PrivateLink,https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis-video-streams-vpc-privatelink/,
