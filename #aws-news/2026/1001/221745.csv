@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift now supports cross-Region queries for your data lake,https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake,
+AWS:WhatsNew,AWS Security Hub introduces remediation plans to prioritize and fix security exposures,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-remediation-plans/,
+AWS:WhatsNew,AWS Transfer Family now supports custom CloudWatch log groups for managed workflows,https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-cloudwatch-log-groups/,
+AWS:WhatsNew,Apache Iceberg materialized views now support system-managed write protection,https://aws.amazon.com/about-aws/whats-new/2026/10/system-managed-iceberg-materialized-views,
