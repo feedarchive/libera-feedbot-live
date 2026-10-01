@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies,https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-org-enablement-policies/,
+AWS:WhatsNew,Amazon S3 Object Lock variable retention with event holds is now available in AWS GovCloud (US) Regions,https://aws.amazon.com/about-aws/whats-new/2026/10/s3-object-lock-variable-retention-event-holds-aws-govcloud/,
+AWS:WhatsNew,"AWS Glue Data Catalog now supports table optimization, statistics, and crawlers for Apache Iceberg V3",https://aws.amazon.com/about-aws/whats-new/2026/10/aws-glue-iceberg-v3-optimization/,
+AWS:WhatsNew,Announcing DNS analytics and insights for Route 53 Global Resolver and DNS Firewall,https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-dns-analytics-insights/,
