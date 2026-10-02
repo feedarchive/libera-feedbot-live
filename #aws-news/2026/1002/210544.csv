@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora DSQL now supports partial indexes,https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/,
+AWS:WhatsNew,AgentCore Gateway supports private TLS certificates for VPC endpoints,https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/,
