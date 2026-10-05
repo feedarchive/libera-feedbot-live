@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS IAM Identity Center now supports network access controls for Identity Store,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/,
+AWS:WhatsNew,AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/,
