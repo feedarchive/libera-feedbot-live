@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views,https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views,
+AWS:WhatsNew,Amazon EKS Auto Mode now supports advanced compute configuration,https://aws.amazon.com/about-aws/whats-new/2026/10/eks-auto-mode-advanced-compute-config/,
