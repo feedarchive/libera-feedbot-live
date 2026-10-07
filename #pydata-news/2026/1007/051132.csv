@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,BluffJAX: Adversarial Imperfect Information Games in JAX,https://arxiv.org/abs/2610.07686,
+ArXiv,GPU Acceleration of Awkward Arrays: Using Python cuda.compute,https://arxiv.org/abs/2610.08238,
+ArXiv,lifelines-hc: Higher Criticism testing for sparse non-proportional hazard departures in Python,https://arxiv.org/abs/2610.07268,
