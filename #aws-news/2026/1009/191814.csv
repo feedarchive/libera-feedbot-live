@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock now supports reasoning summaries for OpenAI models,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/,
+AWS:WhatsNew,AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-Lambda-supports-oauth-kafka-esm/,
