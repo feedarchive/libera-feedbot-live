@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/,
+AWS:WhatsNew,Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/,
+AWS:WhatsNew,AWS Network Firewall adds wildcard support for container attribute filters,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-network-firewall-container-attributes-wildcard,
+AWS:WhatsNew,Amazon GameLift Servers adds CPU burstability for container fleets,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-gamelift-servers-cpu-burstability,
