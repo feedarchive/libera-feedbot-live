@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/,
+AWS:WhatsNew,AWS Lambda announces Lambda Web Functions,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/,
+AWS:WhatsNew,Amazon EMR now supports native data quality checks in Apache Spark jobs,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/,
