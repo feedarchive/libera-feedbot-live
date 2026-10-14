@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda durable functions increases durable operation and checkpoint payload limits,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/,
+AWS:WhatsNew,Amazon EC2 M8id instances now available in Asia Pacific (Malaysia) and Asia Pacific (Sydney),https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-m8id-asia-pacific-malaysia-sydney/,
+AWS:WhatsNew,"Amazon EC2 C9g, C9gd, M9g, and M9gd instances are now available in additional regions",https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-c9g-m9g-instances-additional-regions/,
+AWS:WhatsNew,Amazon EC2 C8gd and M8gd instances are now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-c8gd-m8gd-additional-regions/,
