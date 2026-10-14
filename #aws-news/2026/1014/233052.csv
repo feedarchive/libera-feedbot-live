@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Announcing Blockchain Snapshots on AWS for node bootstrapping,https://aws.amazon.com/about-aws/whats-new/2026/10/blockchain-snapshots-node-bootstrapping/,
+AWS:WhatsNew,AWS Transfer Family now supports AWS Secrets Manager storage for SFTP server host keys,https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-secrets-host-keys/,
+AWS:WhatsNew,AWS Transfer Family console supports SVG logos and ICO favicons for web apps,https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-svg-ico-favicons/,
