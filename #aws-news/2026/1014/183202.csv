@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/,
+AWS:WhatsNew,Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in,https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/,
+AWS:WhatsNew,AWS HealthOmics introduces resource fallback order for Nextflow workflows,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/,
