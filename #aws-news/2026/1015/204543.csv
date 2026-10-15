@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda Durable Execution SDK for Go is now generally available,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/,
+AWS:WhatsNew,Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions,https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions,
+AWS:WhatsNew,Amazon S3 Metadata now available in six additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-metadata-six-additional-regions/,
+AWS:WhatsNew,Launch AWS DevOps Agent to review findings and test results from AWS Resilience Hub,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-devops-agent-test-results-aws-resilience-hub/,
