@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+Netflix,Integrating Netflix’s Foundation Model into Personalization applications,https://medium.com/p/cf176b5860eb,
+Netflix,DataJunction as Netflix’s answer to the missing piece of the modern data stack,https://medium.com/p/92af926b40a5,
+Netflix,Measuring the Impact of Personalized Recommendations,https://medium.com/p/4c26be3a4d96,
+Netflix,TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads,https://medium.com/p/e59d597c9d60,
+Netflix,Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II,https://medium.com/p/826ebf9ad9fb,
+Netflix,Netflix Conductor: The Next Chapter,https://medium.com/p/41ad21067649,
+Netflix,Running Apache Spark experiments in my sleep (and on a plane),https://medium.com/p/588816b6b5f8,
+Netflix,"The Lifecycle of LLM-as-a-Judge: Building, Aligning, and Monitoring at scale",https://medium.com/p/c95bd8283508,
+Netflix,Netflix Stratum Media Processing: Automated Container Right-Sizing,https://medium.com/p/ddf9aa68a801,
+Netflix,Reliable GPU compute for large training & inference jobs,https://medium.com/p/d62b03a96d7a,
