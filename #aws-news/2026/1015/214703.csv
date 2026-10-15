@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options,https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/,
+AWS:WhatsNew,Amazon EC2 T8i instances are now available in South America (São Paulo),https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/,
+AWS:WhatsNew,Amazon DynamoDB Streams now supports timestamp-based stream processing,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing,
+AWS:WhatsNew,Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud (Germany) region,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-aws-gsr-additional-aws-regions,
+AWS:WhatsNew,AWS Lambda recursive loop detection now supports Amazon EventBridge Custom event buses,https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-recursive-loops-eventbridge-custom,
