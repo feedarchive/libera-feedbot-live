@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+ArXiv,KANLab: TensorFlow Playground for Kolmogorov-Arnold Networks,https://arxiv.org/abs/2610.20117,
+ArXiv,TorchSpin: Differentiable Electron Paramagnetic Resonance Simulation in PyTorch,https://arxiv.org/abs/2610.18924,
+ArXiv,T2J-BENCH: Benchmarking Coding Agents on Execution-Grounded PyTorch-to-JAX Repository Migration,https://arxiv.org/abs/2605.29054,
