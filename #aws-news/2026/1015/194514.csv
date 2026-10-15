@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DynamoDB Streams now supports timestamp-based stream processing,https://aws.amazon.com/amazon-dynamodb-streams-timestamp-processing,
+AWS:WhatsNew,Muse Spark Open model now available on Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/,
+AWS:WhatsNew,AWS HealthOmics now supports shared VPCs,https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/,
+AWS:WhatsNew,PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment/,
+AWS:WhatsNew,Amazon CloudFront announces dual-stack support for VPC origins,https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-vpc-origin-dualstack/,
+AWS:WhatsNew,Amazon Managed Workflows for Apache Airflow now offers AI agent skills,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-ai-agent-skills/,
+AWS:WhatsNew,Amazon RDS now supports the latest Cumulative Update for Microsoft SQL Server,https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-supports-latest-cumulative-update-microsoft-sql-server/,
