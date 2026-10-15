@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region,
+AWS:WhatsNew,Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/,
+AWS:WhatsNew,Amazon Managed Service for Prometheus Collector now available in Asia Pacific (New Zealand) Region,https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz/,
+AWS:WhatsNew,AWS HealthOmics expands container registry support for private workflows,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-expanded-container-registry-support/,
