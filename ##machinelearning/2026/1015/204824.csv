@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Muse Spark Open model now available on Amazon SageMaker JumpStart,https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/,
+AWS:WhatsNew,AWS HealthOmics now supports shared VPCs,https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/,
+AWS:WhatsNew,AWS HealthOmics expands container registry support for private workflows,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-expanded-container-registry-support/,
