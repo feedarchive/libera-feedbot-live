@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview,
+AWS:WhatsNew,AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store,https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/,
+AWS:WhatsNew,Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/,
+AWS:WhatsNew,Amazon RDS for SQL Server now supports snapshots on read replicas,https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas,
+AWS:WhatsNew,Amazon EMR Serverless now supports IPv6 and dual-stack connectivity,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-serverless/,
