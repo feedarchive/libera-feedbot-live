@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudFormation now simplifies stack update rollback operations,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/,
+AWS:WhatsNew,Amazon SageMaker AI announces training session APIs for serverless model customization,https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai,
