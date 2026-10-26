@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker Unified Studio adds light mode support for IDC-based domains,https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode,
+AWS:WhatsNew,Amazon Connect Customer expands testing and simulation to validate flow action outcomes,https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/,
+AWS:WhatsNew,AWS Key Management Service now supports ML-KEM for post-quantum key encapsulation,https://aws.amazon.com/about-aws/whats-new/2026/10/kms-ml-kem-post-quantum/,
