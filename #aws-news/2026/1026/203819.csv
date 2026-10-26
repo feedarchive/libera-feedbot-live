@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS EC2 Auto Scaling now supports Launch Before Terminate at account-level to replace instances,https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-auto-scaling-launch-before-terminate/,
+AWS:WhatsNew,Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/,
