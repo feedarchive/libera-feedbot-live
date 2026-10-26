@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock,https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/,
+AWS:WhatsNew,Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/,
+AWS:WhatsNew,AWS IAM Identity Center now supports cross-Region trusted identity propagation,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/,
