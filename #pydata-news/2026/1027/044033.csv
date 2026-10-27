@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+ArXiv,Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs,https://arxiv.org/abs/2610.33949,
+ArXiv,PastaLean: Deterministic transpilation from Python to Lean for Verification,https://arxiv.org/abs/2610.34205,
+ArXiv,"py-ARGOS: A Python package for automatic, statistically principled discovery of ordinary differential equations from data",https://arxiv.org/abs/2610.34458,
+ArXiv,Understanding Python Linters through a Comprehensive and Systematic Empirical Study,https://arxiv.org/abs/2610.35485,
+ArXiv,A Pythagoras Tree Grown from a Dodecahedron,https://arxiv.org/abs/2610.33975,
+ArXiv,QuantileMix: A Python package for quantile g-computation,https://arxiv.org/abs/2610.34368,
