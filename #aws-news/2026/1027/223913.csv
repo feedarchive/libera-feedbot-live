@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,SageMaker MLflow Apps now support MLflow 3.16,https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/,
+AWS:WhatsNew,Amazon ElastiCache for Valkey now supports changing durability on existing clusters,https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/,
