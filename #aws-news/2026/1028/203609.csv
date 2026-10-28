@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/,
+AWS:WhatsNew,Amazon Connect Customer supports inline attachment previews,https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews/,
