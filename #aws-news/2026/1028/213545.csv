@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing time series collections for the next generation of Amazon OpenSearch Serverless,https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/,
+AWS:WhatsNew,Quick now supports smart approvals for agentic actions,https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/,
+AWS:WhatsNew,Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/,
+AWS:WhatsNew,AWS Lambda durable functions now exports live telemetry for execution insights,https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/,
+AWS:WhatsNew,Amazon ECS Managed Instances adds cross-instance and Spot consolidation,https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/,
+AWS:WhatsNew,AWS Backup adds restore testing support for Amazon Redshift,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/,
+AWS:WhatsNew,AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/,
