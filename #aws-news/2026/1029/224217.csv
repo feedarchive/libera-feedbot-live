@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora now supports post-quantum TLS key exchange,https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/,
+AWS:WhatsNew,"AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization",https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/,
+AWS:WhatsNew,AWS Backup now supports cross-account management and cross-account backup in the AWS European Sovereign Cloud,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-cross-account-esc/,
