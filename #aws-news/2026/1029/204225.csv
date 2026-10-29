@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes,
+AWS:WhatsNew,AWS Step Functions workflows now available as AI agent tools,https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/,
+AWS:WhatsNew,Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/,
