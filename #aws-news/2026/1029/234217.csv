@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon MSK Connect now supports updating connector plugins and worker configurations,https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations,
+AWS:WhatsNew,Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2,https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/,
+AWS:WhatsNew,Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds,https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/,
