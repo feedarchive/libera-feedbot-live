@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,ACM now supports ACME for public certificates in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/,
+AWS:WhatsNew,Amazon DynamoDB Accelerator (DAX) is now available in additional Regions,https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/,
