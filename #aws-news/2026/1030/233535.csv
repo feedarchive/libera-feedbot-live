@@ -1,0 +1,2 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Managed Prometheus collectors now support Amazon MSK consumer-group metrics,https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/,
