@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/,
+AWS:WhatsNew,Amazon CloudFront now provides viewer ISP and post-quantum TLS details,https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-viewer-isp-post-quantum-visbility/,
+AWS:WhatsNew,Amazon SageMaker Unified Studio now supports custom designations,https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-designations/,
