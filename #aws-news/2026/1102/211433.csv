@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Haiku 5.5 now available on Kiro in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/,
+AWS:WhatsNew,AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/,
+AWS:WhatsNew,Amazon Connect Customer now supports Model Context Protocol (MCP) tools in flows,https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/,
+AWS:WhatsNew,Amazon CloudFront now supports self-service increases in AWS Service Quotas,https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-self-service-quotas/,
