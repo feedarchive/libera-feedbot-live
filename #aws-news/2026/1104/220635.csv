@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/,
+AWS:WhatsNew,Amazon Connect Customer now shows associated cases in contact records,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/,
+AWS:WhatsNew,AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure,https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/,
