@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,IAM Roles Anywhere now supports automatic certificate revocation checking,https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/,
+AWS:WhatsNew,Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/,
