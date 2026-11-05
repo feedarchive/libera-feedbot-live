@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon DynamoDB now supports bulk put items,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/,
+AWS:WhatsNew,AWS Security Hub Network Scanning now available in AWS GovCloud (US),https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/,
+AWS:WhatsNew,﻿﻿AWS Systems Manager Parameter Store now allows organization and validation with built-in data types,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/,
+AWS:WhatsNew,Amazon OpenSearch Service optimized engine now supports logs and traces,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces,
