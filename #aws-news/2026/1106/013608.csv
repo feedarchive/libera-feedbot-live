@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Security Hub now provides an SBOM inventory for your compute resources,https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/,
+AWS:WhatsNew,AWS Network Load Balancer is now available in the AWS Phoenix Local Zone,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-nlb-available-phx-local-zone/,
+AWS:WhatsNew,Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops,
+AWS:WhatsNew,AWS Lambda durable functions increases default execution and API quotas,https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-functions-default-quotas/,
+AWS:WhatsNew,Amazon Q Developer in console is now the AWS assistant,https://aws.amazon.com/about-aws/whats-new/2026/11/q-developer-renamed-aws-assistant/,
