@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS launches support for amortization of EC2 Capacity Blocks for ML,https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/,
+AWS:WhatsNew,Amazon Simple Email Service is now available in six new AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/,
+AWS:WhatsNew,AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation,https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/,
