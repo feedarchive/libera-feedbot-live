@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs",https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/,
+AWS:WhatsNew,Amazon MWAA Serverless supports Apache Airflow connections and variables,https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-connections-variables/,
