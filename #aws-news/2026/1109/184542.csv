@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/,
+AWS:WhatsNew,Amazon MWAA Serverless now supports custom and provider package operators,https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-serverless-custom-operators/,
