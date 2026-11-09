@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS STS now supports cross-partition federation for AWS identities,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition,
+AWS:WhatsNew,Amazon DocumentDB Serverless now provides up to 35% higher throughput,https://aws.amazon.com/about-aws/whats-new/2026/11/documentdb-serverless-platform-version-4/,
