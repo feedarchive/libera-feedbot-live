@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822",https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/,
+AWS:WhatsNew,Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/,
+AWS:WhatsNew,"Amazon ElastiCache Serverless now supports vector, full-text and hybrid searches plus aggregations",https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-elasticache-serverless-search-aggregations/,
