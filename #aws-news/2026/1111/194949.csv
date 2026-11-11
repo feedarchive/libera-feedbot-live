@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda MicroVMs now supports the x86 CPU architecture,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/,
+AWS:WhatsNew,Amazon EKS Auto Mode now supports security groups for Pods,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/,
