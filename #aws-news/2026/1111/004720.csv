@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views,
+AWS:WhatsNew,Amazon EC2 G7 instances now available in additional regions,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/,
+AWS:WhatsNew,Amazon OpenSearch Service announces managed cross-Region disaster recovery,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/,
+AWS:WhatsNew,AWS Marketplace SaaS free trials now convert automatically to paid subscriptions,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-free-trial-conversion/,
+AWS:WhatsNew,AWS Network Firewall launches next-generation firewall policy,https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-launches-ngfw-policy/,
+AWS:WhatsNew,Amazon GameLift Servers now supports Game Session Placement Insights,https://aws.amazon.com/about-aws/whats-new/2026/11/gamelift-game-session-insights/,
+AWS:WhatsNew,"Amazon DocumentDB (with MongoDB compatibility) now supports post-quantum TLS, wildcard indexes, and $unionWith in version 8.0.3",https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-8-0-3/,
