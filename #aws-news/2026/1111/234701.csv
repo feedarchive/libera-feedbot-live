@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EKS Provisioned Control Plane now offers a 24 GB etcd database on 4XL and 8XL tiers,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-provisioned-control-plane-larger-etcd-database/,
+AWS:WhatsNew,Amazon Cognito now supports user pool session management,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-session-management/,
