@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation,https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration,
+AWS:WhatsNew,The next generation AgentCore runtime is now the default,https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/,
