@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy,https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/,
+AWS:WhatsNew,Amazon Managed Service for Apache Flink introduces enhanced snapshots,https://aws.amazon.com/about-aws/whats-new/2026/11/managed-flink-enhanced-snapshots/,
+AWS:WhatsNew,Amazon RDS for SQL Server now supports M8id and R8id instances,https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances,
