@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Customer supports merging and linking related cases in the agent workspace,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/,
+AWS:WhatsNew,AWS Quick enhances granular governance with the ability to restrict structured data sources,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-structured-data-source-restrictions/,
+AWS:WhatsNew,Amazon MWAA Serverless supports DuckDB operators,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-serverless-duckdb-operators/,
