@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora and RDS now support Graviton5-based R9g database instances,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/,
+AWS:WhatsNew,Amazon SNS now supports push notifications in four additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/,
+AWS:WhatsNew,Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%,https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/,
