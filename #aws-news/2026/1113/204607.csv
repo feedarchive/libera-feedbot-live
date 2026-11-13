@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Aurora PostgreSQL with express configuration now supported in CloudFormation,https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/,
+AWS:WhatsNew,AWS Security Hub CSPM now supports centralized configuration with AWS Organizations declarative policies,https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs,https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/,
+AWS:WhatsNew,"AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings",https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/,
+AWS:WhatsNew,AWS Secrets Manager now supports cross-account replication,https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/,
+AWS:WhatsNew,Amazon Route 53 now supports record set protection,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-route-53-record-set-protection/,
