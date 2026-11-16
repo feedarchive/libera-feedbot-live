@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results,https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/,
+AWS:WhatsNew,AWS KMS now supports key sharing with AWS Resource Access Manager,https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/,
+AWS:WhatsNew,"AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks",https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/,
+AWS:WhatsNew,IAM Identity Center now supports VPC endpoints and network access controls,https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-vpc-endpoints/,
+AWS:WhatsNew,AWS announces Networking Flexible Cost Allocation for Amazon VPC,https://aws.amazon.com/about-aws/whats-new/2026/11/networking-flexible-cost-allocation/,
