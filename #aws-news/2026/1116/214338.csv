@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg",https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement,
+AWS:WhatsNew,AWS DevOps Agent is now available in AWS GovCloud (US-West),https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-govcloud-west/,
+AWS:WhatsNew,"Set up, connect, and govern AI agents faster with Amazon WorkSpaces",https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern,
