@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:OpenData,NOAA RRFS - dynamical.org Icechunk Zarr,https://registry.opendata.aws/dynamical-noaa-rrfs,
+AWS:OpenData,NOAA REFS - dynamical.org Icechunk Zarr,https://registry.opendata.aws/dynamical-noaa-refs,
+AWS:OpenData,UCSB CHC CHIRPS - dynamical.org Icechunk Zarr,https://registry.opendata.aws/dynamical-ucsb-chc-chirps,
+AWS:OpenData,NOAA RRFS ENS - dynamical.org Icechunk Zarr,https://registry.opendata.aws/dynamical-noaa-rrfs-ens,
