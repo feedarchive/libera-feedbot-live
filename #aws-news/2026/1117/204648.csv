@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon API Gateway REST APIs now support JWT authorizers,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/,
+AWS:WhatsNew,AWS Config announces managed conformance packs,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs,
+AWS:WhatsNew,Amazon Aurora DSQL now offers SQL statement statistics in Database Insights,https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/,
+AWS:WhatsNew,Amazon WorkSpaces provides a new Windows client experience,https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-new-windows-client,
+AWS:WhatsNew,AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/,
+AWS:WhatsNew,Amazon API Gateway REST APIs now support JWT authorizers,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers/,
+AWS:WhatsNew,AWS Split Cost Allocation Data now supports Amazon S3,https://aws.amazon.com/about-aws/whats-new/2026/11/split-cost-allocation-data-s3/,
+AWS:WhatsNew,AWS Network Firewall now supports context-aware rules with AWS Transit Gateway-attached firewalls,https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-context-aware-rules/,
