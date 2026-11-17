@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EMR 8.2 is now available,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/,
+AWS:WhatsNew,Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless,https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/,
+AWS:WhatsNew,AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits,https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/,
+AWS:WhatsNew,Amazon ECR now supports global authentication tokens for private registries,https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr,
+AWS:WhatsNew,Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey,https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/,
+AWS:WhatsNew,Amazon Route 53 Resolver DNS Firewall now supports automated allow-list generation,https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-dns-firewall-auto-allowlists/,
