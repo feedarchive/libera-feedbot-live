@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Security Hub now infers resource criticality from installed software and usage,https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention,
+AWS:WhatsNew,Amazon Bedrock AgentCore Memory now provides full session summaries,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries,
+AWS:WhatsNew,Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development,https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/,
+AWS:WhatsNew,Amazon Bedrock AgentCore now offers free monthly web search queries,https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/,
+AWS:WhatsNew,Amazon MSK Standard Brokers now support Graviton4-based M8g instances,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-graviton4-m8g-instances/,
+AWS:WhatsNew,Amazon MSK Express Brokers now support Graviton4-based M8g instances,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-express-brokers-graviton4-m8g-instances/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports cluster operations for tracking scaling and on-demand Deep Health Check requests,https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-cluster-ops/,
+AWS:WhatsNew,AWS Transit Gateway now shares resource context with firewalls for segmentation policies,https://aws.amazon.com/about-aws/whats-new/2026/11/transit-gateway-firewall-context-sharing/,
+AWS:WhatsNew,AWS Security Hub now detects when vulnerable software is running on Amazon EC2 instances,https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-detects-vulnerable-software/,
+AWS:WhatsNew,AWS Security Hub Network Scanning now supports scanning Amazon Relational Database Service (Amazon RDS) database instances,https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-rds/,
