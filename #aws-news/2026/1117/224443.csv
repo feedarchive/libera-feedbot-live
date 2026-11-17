@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/,
+AWS:WhatsNew,AWS Lambda durable functions now supports pausing and deleting executions,https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-pause-delete/,
+AWS:WhatsNew,AWS Workload Credentials Provider adds container support for ACM certificates,https://aws.amazon.com/about-aws/whats-new/2026/11/acm-certificates-container-support/,
