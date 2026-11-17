@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon ECR now replicates image deletions across regions and accounts,https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr,
+AWS:WhatsNew,Amazon Connect Health medical coding is now available in public preview,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-health-medical-coding/,
+AWS:WhatsNew,AWS Marketplace Metering Service now supports decimal usage quantities,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/,
+AWS:WhatsNew,AWS IAM Identity Center now supports ForceAuthn in SAML requests,https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-reauth/,
