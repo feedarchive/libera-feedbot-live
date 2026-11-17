@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/,
+AWS:WhatsNew,"Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/,
+AWS:WhatsNew,Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview),https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview,
+AWS:WhatsNew,Amazon API Gateway REST APIs now support JWT authorizers,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-jwt-authorizers,
+AWS:WhatsNew,AWS launches credit splitting and transfers,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-credit-splitting-transfers/,
+AWS:WhatsNew,"AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/,
+AWS:WhatsNew,Amazon Route 53 Resolver DNS Firewall now supports Infoblox Threat Defense (Preview),https://aws.amazon.com/about-aws/whats-new/2026/11/route53-dns-firewall-infoblox-preview/,
+AWS:WhatsNew,AWS announces agentic account creation for agentic coding harnesses,https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/,
+AWS:WhatsNew,Amazon EKS Auto Mode now rightsizes Pods to reduce compute costs (Preview),https://aws.amazon.com/about-aws/whats-new/2026/11/eks-auto-mode-pod-rightsizing-preview/,
+AWS:WhatsNew,AWS Split Cost Allocation Data now supports Amazon S3,https://aws.amazon.com/about-aws/whats-new/2026/11/s3-split-cost-allocation/,
+AWS:WhatsNew,Amazon S3 Storage Lens now tracks S3 Intelligent-Tiering access tiers,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-storage-lens-s3-intelligent-tiering-access-tiers/,
