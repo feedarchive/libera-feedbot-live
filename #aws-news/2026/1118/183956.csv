@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for MySQL supports MySQL minor version 8.4.13,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/,
+AWS:WhatsNew,Amazon Cognito now supports point-in-time recovery,https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/,
+AWS:WhatsNew,Amazon RDS now supports fast storage volume initialization,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/,
+AWS:WhatsNew,Amazon OpenSearch Serverless now supports ingest pipelines,https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-serverless-support-ingest-pipelines,
