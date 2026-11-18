@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Control Tower now supports existing Amazon S3 bucket for log delivery,https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/,
+AWS:WhatsNew,AWS Transform now provides F5 BIG-IP load balancer migration,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-f5-big-ip-migration/,
+AWS:WhatsNew,AWS Transform now provides Well-Architected Agent reviews,https://aws.amazon.com/about-aws/whats-new/2026/11/transform-well-architected-agent/,
