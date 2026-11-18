@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon OpenSearch Memory is now generally available,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/,
+AWS:WhatsNew,Amazon SageMaker AI now supports cross-Region inference routing,https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/,
+AWS:WhatsNew,Amazon EKS Hybrid Nodes reduces price for large hosts,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-hybrid-nodes-pricing-change/,
+AWS:WhatsNew,AWS Clean Rooms supports writing PySpark job results to intermediate tables,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-clean-rooms-pyspark-intermediate-table,
+AWS:WhatsNew,Amazon Aurora DSQL now supports audit logging,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-dsql-audit-logging/,
+AWS:WhatsNew,Amazon OpenSearch Ingestion Service now supports next-generation time series collections,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-ingestion-service-nextgen-time-series-collections,
