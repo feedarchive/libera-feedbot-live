@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Introducing the Apache Spark Optimization Agent for AWS Glue ETL,https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/,
+AWS:WhatsNew,Amazon CloudFront standard logging now supports CMCD and additional log fields,https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-standard-logging-cmcd-fields,
+AWS:WhatsNew,AWS IAM account access manager is now even easier to deploy and use,https://aws.amazon.com/about-aws/whats-new/2026/11/iam-account-access-manager-easier/,
+AWS:WhatsNew,Amazon S3 Replication adds exclusions and Multi-Region key resolution,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-replication-exclusions-multi-region-key-resolution/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports higher pod density on EKS-orchestrated clusters,https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-higher-pod-density/,
