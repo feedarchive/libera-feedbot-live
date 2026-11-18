@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/,
+AWS:WhatsNew,AWS Lambda adds support for GPU instances on Lambda Managed Instances,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/,
+AWS:WhatsNew,"AWS Lambda now supports customer-managed runtimes, giving platform teams centralized control over runtime contents and updates",https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-customer-managed-runtimes/,
