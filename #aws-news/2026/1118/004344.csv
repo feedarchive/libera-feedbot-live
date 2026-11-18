@@ -1,0 +1,8 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/,
+AWS:WhatsNew,Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine,
+AWS:WhatsNew,Amazon OpenSearch UI is now available in the Africa (Cape Town) Region,https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-ui-available-africa-cape-town-region,
+AWS:WhatsNew,Amazon S3 adds post-quantum TLS key exchange support to additional S3 endpoints,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-key-exchange-support/,
+AWS:WhatsNew,Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/,
+AWS:WhatsNew,AWS Elemental MediaConnect expands routing control and protocol support,https://aws.amazon.com/about-aws/whats-new/2026/11/rtmp-support-aws-elemental-mediaconnect/,
+AWS:WhatsNew,Amazon Route 53 Global Resolver is now available over AWS Cloud WAN for hybrid networks,https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-global-resolver-cloud-wan/,
