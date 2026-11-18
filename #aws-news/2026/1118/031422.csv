@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Customize AWS Elemental Inference with custom models, prompts, and decisions",https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/,
+AWS:WhatsNew,AWS Lambda now supports scale to and from zero for Lambda Managed Instances,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-managed-instances-scale-to-zero/,
+AWS:WhatsNew,Amazon Corretto November 2026 Critical Security Patch Updates,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-corretto-nov-2026-updates/,
+AWS:WhatsNew,Amazon Kinesis Data Streams announces queues to simplify and reduce costs of real-time processing,https://aws.amazon.com/about-aws/whats-new/2026/11/kinesis-data-streams-queues/,
+AWS:WhatsNew,Amazon Connect Customer now supports case and calculated template variables,https://aws.amazon.com/about-aws/whats-new/2026/11/connect-case-and-calculated-attributes/,
+AWS:WhatsNew,Cost Optimization Hub now supports stopping idle Amazon EC2 instances,https://aws.amazon.com/about-aws/whats-new/2026/11/cost-hub-stop-idle-ec2/,
+AWS:WhatsNew,AWS Transit Gateway supports native integration with Gateway Load Balancer,https://aws.amazon.com/about-aws/whats-new/2026/11/transit-gateway-gwlb-integration/,
+AWS:WhatsNew,AWS WAF announces simplified onboarding for Bot Control targeted protection,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-bot-control-onboarding/,
