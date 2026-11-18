@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for MySQL now supports MySQL major version 9.7,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-974-available/,
+AWS:WhatsNew,Amazon CloudFront Functions now supports network calls,https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-functions-network-calls/,
+AWS:WhatsNew,Amazon SageMaker HyperPod Inference now supports NVIDIA Dynamo for disaggregated and multi-node inference,https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-nvidia-dynamo/,
