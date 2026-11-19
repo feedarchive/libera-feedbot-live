@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Aurora DSQL now supports multi-Region peering across continents,https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/,
+AWS:WhatsNew,Amazon Connect Customer enables Cases by default for new instances,https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/,
+AWS:WhatsNew,Amazon Braket adds PAUSED device status,https://aws.amazon.com/about-aws/whats-new/2026/11/braket-new-device-state/,
+AWS:WhatsNew,AWS HealthOmics now supports Nextflow version 26.10,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-healthomics-nextflow-version-26-10/,
