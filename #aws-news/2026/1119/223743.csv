@@ -1,0 +1,12 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Marketplace now supports agentic payments with AgentCore,https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/,
+AWS:WhatsNew,Amazon Aurora DSQL now delivers up to 50% higher write throughput,https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/,
+AWS:WhatsNew,AWS Lambda durable functions now supports OpenTelemetry tracing,https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/,
+AWS:WhatsNew,Amazon Cognito now supports AWS Secrets Manager for app client secrets,https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/,
+AWS:WhatsNew,AWS WAF launches new Security Analytics Dashboard for real-time investigations,https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-security-analytics-dashboard/,
+AWS:WhatsNew,Amazon Aurora now supports moving clusters to a different VPC,https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-move-clusters-to-different-vpc/,
+AWS:WhatsNew,Amazon Aurora DSQL now supports PL/pgSQL functions and procedures,https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-plpgsql-support/,
+AWS:WhatsNew,AWS Partner Central Agents now guide higher-quality co-sell submissions and explain co-sell motions,https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-guide-high-quality-opp,
+AWS:WhatsNew,AWS Partner Central Agents now generate Value Realization Plans,https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-bvr-vrp,
+AWS:WhatsNew,"Amazon SageMaker AI now detects rising response times, idle GPUs, and missed optimizations on your generative AI inference endpoints",https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/,
+AWS:WhatsNew,Amazon EMR Serverless introduces Flex execution,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-serverless/,
