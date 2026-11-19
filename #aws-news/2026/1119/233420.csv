@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon CloudFront adds IP based routing and connection logs to SaaS Manager,https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging,
+AWS:WhatsNew,Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager,https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants,
+AWS:WhatsNew,Amazon Inspector Code Security adds GitHub Enterprise Server and private connectivity,https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-code-ghes-private-network/,
+AWS:WhatsNew,Amazon S3 Tables now support promoting replicas to writable tables,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-replication-writable-tables/,
