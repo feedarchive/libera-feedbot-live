@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/,
+AWS:WhatsNew,AWS Transform combines migration assessment and planning in one experience,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning,
+AWS:WhatsNew,AWS Transform extends application-centric migration across the lifecycle,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration,
+AWS:WhatsNew,Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk,
+AWS:WhatsNew,"AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions",https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/,
+AWS:WhatsNew,Amazon MSK Connect now supports restarting existing connectors,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors,
+AWS:WhatsNew,Amazon EC2 launches performance status checks and new utilization metrics for EC2 Detailed Monitoring,https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-performance-status-checks/,
+AWS:WhatsNew,AWS Lambda Durable Execution SDK for Rust is now generally available,https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-execution-sdk-rust/,
+AWS:WhatsNew,AgentCore runtime instances now support privileged mode,https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-elevated-privileges/,
