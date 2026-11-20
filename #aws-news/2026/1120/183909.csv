@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support,https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/,
+AWS:WhatsNew,Amazon Aurora MySQL 8.4.12 is now generally available,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/,
+AWS:WhatsNew,AWS Transform announces support for .NET 11 and expanded project types,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/,
+AWS:WhatsNew,Introducing Amazon EC2 T9g instances based on Graviton5,https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/,
+AWS:WhatsNew,AWS launches standardized cost and rate columns in CUR 2.0 and Cost Explorer,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cur-cost-explorer/,
