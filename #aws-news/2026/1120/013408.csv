@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Continuum for Penetration Testing now supports pause and resume,https://aws.amazon.com/about-aws/whats-new/2026/11/continuum-pentest-pause-resume/,
+AWS:WhatsNew,AWS STS announces GetScopedCredentials to scope down permissions at runtime,https://aws.amazon.com/about-aws/whats-new/2026/11/sts-getscopedcredentials/,
