@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Billing and Cost Management now offers APIs to track payment status,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/,
+AWS:WhatsNew,Amazon EventBridge Scheduler adds 589 new API actions and event bus targets,https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/,
+AWS:WhatsNew,Amazon EventBridge Custom event bus now supports Webhook Events,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events,
+AWS:WhatsNew,Amazon EventBridge Custom event bus now supports Amazon MSK as a target,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/,
+AWS:WhatsNew,Amazon Connect Customer expands how teams track and act on service level agreements for cases,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/,
+AWS:WhatsNew,AWS Transform announces UI component modernization for Windows web applications,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/,
+AWS:WhatsNew,Amazon MSK now supports in-place upgrade from Standard brokers to Express brokers,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-to-express-brokers-in-place-upgrade,
+AWS:WhatsNew,Amazon VPC Lattice now supports CloudWatch metrics for VPC resources,https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-lattice-cloudwatch-metrics/,
+AWS:WhatsNew,AWS RTB Fabric Modules are now generally available through AWS Marketplace,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-rtb-fabric-modules-marketplace/,
