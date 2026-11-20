@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Cognito now supports client ID metadata documents,https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/,
+AWS:WhatsNew,Amazon WorkSpaces Applications now supports WebAuthn redirection,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/,
+AWS:WhatsNew,AWS Data Competency adds Open Data and Interoperability category for Software Partners,https://aws.amazon.com/about-aws/whats-new/2026/11/data-competency-open-data-category/,
+AWS:WhatsNew,AWS expands Amazon Connect Customer Competency to Software Partners,https://aws.amazon.com/about-aws/whats-new/2026/11/connect-competency-software-partners/,
+AWS:WhatsNew,AWS Site-to-Site VPN now supports post-quantum key exchanges,https://aws.amazon.com/about-aws/whats-new/2026/11/site-to-site-vpn-post-quantum/,
+AWS:WhatsNew,AWS Network Firewall launches explicit proxy functionality and NAT Gateway association,https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/,
+AWS:WhatsNew,Amazon Cognito now supports dynamic client registration,https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-dynamic-client-registration/,
+AWS:WhatsNew,Amazon Bedrock AgentCore Identity adds private certificate authority support,https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-identity-private-ca/,
+AWS:WhatsNew,AWS Network Load Balancer now supports mutual TLS authentication,https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/,
