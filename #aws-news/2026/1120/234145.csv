@@ -1,0 +1,10 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS announces Data Hub in AWS Billing and Cost Management (preview),https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/,
+AWS:WhatsNew,Amazon MSK Standard Brokers adds support for Apache Kafka version 4.2,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-msk-standard-version-42/,
+AWS:WhatsNew,AWS Lambda adds support for Node.js 26,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-nodejs-26/,
+AWS:WhatsNew,Amazon RDS for Db2 now supports new Canadian time zones,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-db2-supports-new-canadian-time,
+AWS:WhatsNew,Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/,
+AWS:WhatsNew,AWS Agent Registry now supports WebBotAuth bot registration,https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-webbotauth-support/,
+AWS:WhatsNew,AWS Lambda MicroVMs now supports customer managed keys in AWS KMS,https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/,
+AWS:WhatsNew,AWS Secrets Store CSI Driver Provider now supports AssumeRole for cross-account secret access,https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-store-csi-driver-assumerole/,
+AWS:WhatsNew,AWS Agent Registry now offers naming and public discovery capabilities,https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-naming-public-discovery/,
