@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon SageMaker JumpStart now offers a model leaderboard to compare models on quality, speed, and cost",https://aws.amazon.com/whats-new/2026/1/sagemaker-jumpstart-model-leaderboard/,
+AWS:WhatsNew,AWS Glue Data Catalog introduces data quality monitoring for catalogs and databases,https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-data-quality-monitoring/,
+AWS:WhatsNew,AWS Pricing Calculator now estimates workload costs through a new API,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/,
