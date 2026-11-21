@@ -1,0 +1,11 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon RDS for Oracle now supports Primary Endpoint,https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/,
+AWS:WhatsNew,Amazon Cognito extends multi-Region replication to additional AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/,
+AWS:WhatsNew,Account Mapping and Planning now available in AWS Partner Central,https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/,
+AWS:WhatsNew,Demand Center now available in AWS Partner Central,https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/,
+AWS:WhatsNew,Lead groups and channel recommendations now available in AWS Partner Central,https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/,
+AWS:WhatsNew,Amazon Managed Service for Prometheus now available in the AWS European Sovereign Cloud (Germany) region,https://aws.amazon.com/about-aws/whats-new/2026/11/amp-aws-european-sovereign-cloud/,
+AWS:WhatsNew,AWS Backup now supports incremental backups for Amazon DynamoDB,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-incremental-backups-dynamodb/,
+AWS:WhatsNew,"Amazon SageMaker adds new capabilities – improved blueprints and catalog experience, simplified data quality monitoring, and support for DuckDB 2.0 and DuckDB extensions",https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-adds-new-capabilities/,
+AWS:WhatsNew,Amazon Route 53 now offers Advanced Hosted Zones,https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-offers-advanced-hosted-zones/,
+AWS:WhatsNew,Amazon FSx for NetApp ONTAP launches a new generation of file systems with up to 3.6x higher performance,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-netapp-ontap-third-generation/,
