@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,"Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure,
+AWS:WhatsNew,AWS Lambda now provides cost optimization recommendations for Event Functions,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-cost-optimization-recommendations/,
+AWS:WhatsNew,"AWS Lambda now supports a batch size of up to 10,000 messages for Amazon SQS FIFO queues",https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-10K-batch-size-SQSFIFO/,
+AWS:WhatsNew,Amazon Route 53 now supports Availability Zone (AZ) affinity routing,https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-affinity-routing/,
+AWS:WhatsNew,Amazon VPC IPAM policies now support automated internet firewall and AWS Lambda Web Functions and MicroVMs,https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-ipam-policies-firewall-lambda/,
