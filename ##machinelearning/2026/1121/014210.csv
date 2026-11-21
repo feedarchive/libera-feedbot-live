@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Demand Center now available in AWS Partner Central,https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/,
+AWS:WhatsNew,AWS Quick now supports group assignments for custom permissions and limit profiles,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/,
+AWS:WhatsNew,AWS Quick introduces enterprise guardrails (preview),https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/,
+AWS:WhatsNew,AWS Agent Registry now supports WebBotAuth bot registration,https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-webbotauth-support/,
+AWS:WhatsNew,AWS Agent Registry now offers naming and public discovery capabilities,https://aws.amazon.com/about-aws/whats-new/2026/11/agent-registry-naming-public-discovery/,
+AWS:WhatsNew,AWS Lambda MicroVMs now supports customer managed keys in AWS KMS,https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/,
