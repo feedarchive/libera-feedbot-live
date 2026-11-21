@@ -1,0 +1,9 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Web Search on Amazon Bedrock expands language support and country-aware search,https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/,
+AWS:WhatsNew,AWS Network Firewall introduces automated Internet firewall in public preview,https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/,
+AWS:WhatsNew,Amazon RDS for Oracle now supports Replica First Patching for reduced downtime,https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/,
+AWS:WhatsNew,Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available,
+AWS:WhatsNew,"AWS CloudFormation increases the default stacks per account quota to 300,000",https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-stacks-per-account-quota/,
+AWS:WhatsNew,Announcing a new skill for AI agents in Amazon Textract Core,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-textract-core-skill-ai-agents/,
+AWS:WhatsNew,Amazon Route 53 private hosted zones now support public DNS fallback,https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-public-dns-fallback/,
+AWS:WhatsNew,Announcing Test Insights for AWS Device Farm,https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-test-insights/,
