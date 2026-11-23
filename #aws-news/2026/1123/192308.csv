@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region,https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud,
+AWS:WhatsNew,Amazon Connect Customer AI agents now fill in step-by-step guides,https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/,
+AWS:WhatsNew,AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/,
+AWS:WhatsNew,Amazon EC2 Capacity Blocks for ML now supports search across multiple instance types and AWS Regions,https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-blocks-ml-flex-search/,
+AWS:WhatsNew,AWS Compute Optimizer automation rules now support organizational units,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-compute-optimizer/,
