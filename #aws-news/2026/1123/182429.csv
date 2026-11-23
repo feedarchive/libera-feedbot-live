@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions,https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/,
+AWS:WhatsNew,AgentCore runtime instances are now generally available in the AWS GovCloud (US-West) Region,https://aws.amazon.com/agentcore-runtime-instances-aws-govcloud-us,
+AWS:WhatsNew,Amazon CloudFront Announces HTTP/2 Support for Connections to Origins,https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/,
+AWS:WhatsNew,Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters,https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/,
+AWS:WhatsNew,AWS Private CA now supports X.509 IAM condition keys,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-private-ca-x509-iam-keys/,
