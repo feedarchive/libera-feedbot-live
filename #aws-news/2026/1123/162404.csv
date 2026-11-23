@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Parallel Computing Service now supports managed instance health checks,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pcs-instance-health-checks/,
+AWS:WhatsNew,AWS Parallel Computing Service now supports network topology-aware scheduling,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pcs-network-topology-scheduling/,
