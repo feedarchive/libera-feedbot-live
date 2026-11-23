@@ -1,0 +1,7 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS WAF introduces simplified pricing,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-introduces-simplified-pricing/,
+AWS:WhatsNew,"AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails",https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/,
+AWS:WhatsNew,Amazon CloudFront is now available in the AWS European Sovereign Cloud,https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-european-sovereign-cloud,
+AWS:WhatsNew,Amazon SageMaker HyperPod launches a redesigned console experience for creating Amazon EKS-orchestrated clusters,https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-console-eks/,
+AWS:WhatsNew,API security with WAF,https://aws.amazon.com/about-aws/whats-new/2026/11/api-security-with-waf/,
+AWS:WhatsNew,"Amazon FSx for NetApp ONTAP adds AWS CloudFormation and Console support for snapshots, clones, and data replication",https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-netapp-ontap-additional-resources/,
