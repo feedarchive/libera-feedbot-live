@@ -1,0 +1,5 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon Connect Customer expands automated performance evaluations to 45 new languages,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/,
+AWS:WhatsNew,Amazon Aurora serverless for MySQL now supports up to 384 ACUs,https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/,
+AWS:WhatsNew,Amazon Inspector expands runtime reachability analysis for ECR and EC2 findings,https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-runtime-reachability/,
+AWS:WhatsNew,You can now copy data server-side between Amazon S3 buckets and Amazon FSx file systems with S3 Access Points,https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-server-side-copy-fsx/,
