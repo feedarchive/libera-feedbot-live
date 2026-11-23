@@ -1,0 +1,6 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners,https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/,
+AWS:WhatsNew,Announcing metal size for Amazon EC2 G7 instances,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/,
+AWS:WhatsNew,AWS Systems Manager Automation now automates operational tasks in Azure and Google Cloud,https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-multicloud-automation/,
+AWS:WhatsNew,AWS Certificate Manager now supports Amazon N2 certificates for mTLS,https://aws.amazon.com/about-aws/whats-new/2026/11/acm-amazon-n2-certificates/,
+AWS:WhatsNew,AWS CDK Blocks reaches general availability,https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cdk-blocks-ga/,
