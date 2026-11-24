@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon API Gateway announces API Portal,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/,
+AWS:WhatsNew,RDS PostgreSQL now supports PostgreSQL 19.0 in the Amazon RDS Database Preview Environment,https://aws.amazon.com/about-aws/whats-new/2026/11/postgresql-19-amazon-rds-database-preview-environment/,
+AWS:WhatsNew,AWS Parallel Computing Service now supports Split Cost Allocation Data,https://aws.amazon.com/about-aws/whats-new/2026/11/pcs-supports-split-cost-data/,
