@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:OpenData,Digital Earth Africa Sentinel-3 OLCI L2 Water,https://registry.opendata.aws/deafrica-sentinel-3_water,
+AWS:OpenData,Digital Earth Africa Sentinel-3 SLSTR Land Surface Temperature,https://registry.opendata.aws/deafrica-sentinel-3_lst,
+AWS:OpenData,Subspatial Cryo-Electron Tomography Open Data (EMPIAR-11830),https://registry.opendata.aws/subspatial-cryoet,
