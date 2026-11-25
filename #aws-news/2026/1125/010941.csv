@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,Amazon SageMaker HyperPod extends AMI auto-patching to Slurm and inference on EKS,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-patching-slurm-eks-inference/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now detects and recovers hung training jobs on Slurm clusters,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-slurm-hung-jobs/,
+AWS:WhatsNew,Amazon SageMaker HyperPod deep health check now validates training correctness,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-training-validation/,
