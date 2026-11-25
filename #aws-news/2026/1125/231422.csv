@@ -1,0 +1,4 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions,https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/,
+AWS:WhatsNew,Amazon CloudWatch Omni now integrates with PagerDuty,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/,
+AWS:WhatsNew,"Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview",https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/,
