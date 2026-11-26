@@ -1,0 +1,3 @@
+feed,title,long_url,short_url
+AWS:WhatsNew,AWS Device Farm now supports Android emulators and iOS simulators,https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-virtual-devices/,
+AWS:WhatsNew,Amazon SageMaker HyperPod now supports NCCL profiling for training jobs,https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-nccl-profiler/,
